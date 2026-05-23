@@ -1,0 +1,99 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/staff-infrastructure-monitoring.git",
+  "crawlDateTime": "2022-01-18T21:09:54.203561",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decision-record"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0002-use-eks-for-infrastructure.md",
+      "template": "Nygard",
+      "status": "\ud83e\udd14 Proposed",
+      "firstCommit": "2021-03-22T22:40:37Z",
+      "lastCommit": "2021-03-25T10:30:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46d3d842f48901a985d61b8b0e6a089351b50fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "228d2ee12d86322e11d3b97df4159f65c320ac7e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2021-03-22T22:40:37Z",
+      "lastCommit": "2021-03-22T22:40:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46d3d842f48901a985d61b8b0e6a089351b50fec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0003-use-zabbix-for-physical-network.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-22T22:40:37Z",
+      "lastCommit": "2021-03-22T22:40:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46d3d842f48901a985d61b8b0e6a089351b50fec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-03-22T22:40:37Z",
+  "lastAdrCommit": "2021-03-25T10:30:25Z",
+  "firstCommit": "2020-09-02T10:12:07Z",
+  "lastCommit": "2022-01-18T11:05:36Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "228d2ee12d86322e11d3b97df4159f65c320ac7e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "46d3d842f48901a985d61b8b0e6a089351b50fec"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

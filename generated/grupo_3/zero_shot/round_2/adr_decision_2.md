@@ -1,0 +1,11 @@
+# [ADR-002] Compute and Container Orchestration Strategy
+- **Status**: Accepted
+- **Context**: The system must handle fluctuating traffic, specifically peak hours when hundreds of machines are actively syncing data. We need an elastic compute strategy (horizontal scaling) to maintain high availability and performance without incurring excessive baseline infrastructure costs. 
+- **Decision**: We will use Amazon EKS (Elastic Kubernetes Service) for container orchestration, utilizing horizontal pod autoscaling combined with an Application Load Balancer.
+- **Considered Options**:
+  - **Serverless (AWS Lambda)**: Rejected. While Lambda offers excellent dynamic scaling (scaling from zero per user/gym), it was deemed highly cost-prohibitive at sustained high throughputs and peak gym hours.
+  - **Amazon ECS**: Rejected. Although ECS is AWS's native orchestrator, the engineering team has significantly more operational experience and expertise with Kubernetes (EKS).
+  - **Vertical Scaling (Larger EC2 instances)**: Rejected. Scaling up instance sizes is less cost-effective and provides less granular elasticity compared to scaling out horizontally.
+- **Consequences**:
+  - **Pros**: Cloud-agnostic deployment manifests, highly granular horizontal scaling, and leverages existing team expertise, reducing time-to-market.
+  - **Cons**: EKS carries a higher baseline operational complexity and control-plane cost compared to ECS or basic EC2 setups.

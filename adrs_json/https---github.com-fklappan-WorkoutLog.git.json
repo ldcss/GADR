@@ -1,0 +1,211 @@
+{
+  "repositoryUrl": "https://github.com/fklappan/WorkoutLog.git",
+  "crawlDateTime": "2022-01-18T19:17:07.549908",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006_viewmodel_exposing_state.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-06T16:52:17Z",
+      "lastCommit": "2019-10-06T16:52:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fece34b9a742d769275e424a046cd3d670df76ee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008_event_method_prefix.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-09T20:47:58Z",
+      "lastCommit": "2020-03-09T20:47:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "74b1a3633ce38bef422764d327520a69b57f50c2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007_license_info.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-06T16:52:17Z",
+      "lastCommit": "2020-02-15T22:24:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fece34b9a742d769275e424a046cd3d670df76ee",
+            "29e9f8fa45c074e3387a90b32c1366906df94e2c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001_appbar_interface.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-23T16:35:39Z",
+      "lastCommit": "2019-07-23T16:35:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17d85962857f2583b4a69f3fee9b17c2332fb426"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003_edit_decision_from_fragment.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-18T17:56:33Z",
+      "lastCommit": "2019-10-06T16:52:17Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9edef703252da9cea063e0faad709ed0bcef5573",
+            "b1f8e9ca00a58212c8bf236f8b451f720dcea6e8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004_fragment_specific_menu.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-15T16:39:05Z",
+      "lastCommit": "2019-09-15T16:39:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e59b53acf8e31bc4a352d349982a01760778e77"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005_viewmodel_parameter_injection.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-28T17:33:52Z",
+      "lastCommit": "2019-10-06T16:52:17Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9edef703252da9cea063e0faad709ed0bcef5573",
+            "694153a8a0aabaf25f5bcabaceabc90497d04b05"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009_one_time_events_livedata.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-23T20:26:01Z",
+      "lastCommit": "2021-09-23T20:26:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4d1081e8e3831b7a4cfb723bf69fce12d9193a7f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002_remove_state.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-28T22:24:47Z",
+      "lastCommit": "2019-10-06T16:52:17Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9edef703252da9cea063e0faad709ed0bcef5573",
+            "fece34b9a742d769275e424a046cd3d670df76ee",
+            "db940cfceed35577a7d3316ff7be7a0fa528e490"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-07-23T16:35:39Z",
+  "lastAdrCommit": "2021-09-23T20:26:01Z",
+  "firstCommit": "2019-07-23T12:09:24Z",
+  "lastCommit": "2021-10-15T21:03:32Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9edef703252da9cea063e0faad709ed0bcef5573",
+        "b1f8e9ca00a58212c8bf236f8b451f720dcea6e8",
+        "fece34b9a742d769275e424a046cd3d670df76ee",
+        "694153a8a0aabaf25f5bcabaceabc90497d04b05",
+        "4d1081e8e3831b7a4cfb723bf69fce12d9193a7f",
+        "db940cfceed35577a7d3316ff7be7a0fa528e490",
+        "17d85962857f2583b4a69f3fee9b17c2332fb426",
+        "2e59b53acf8e31bc4a352d349982a01760778e77",
+        "74b1a3633ce38bef422764d327520a69b57f50c2",
+        "29e9f8fa45c074e3387a90b32c1366906df94e2c"
+      ],
+      "numberOfCommits": 10
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "repositoryUrl": "https://github.com/ESIPFed/science-on-schema.org.git",
+  "crawlDateTime": "2022-01-18T20:23:19.449073",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decisions"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "decisions",
+      "path": "101-spatialExtent.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-01-28T19:22:49Z",
+      "lastCommit": "2021-01-28T19:22:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5197362860b03b512cbfd76ec5d056c75cea480"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "30-release-workflow.md",
+      "template": "Nygard",
+      "status": "_Accepted_",
+      "firstCommit": "2020-01-08T20:07:49Z",
+      "lastCommit": "2020-01-22T01:56:52Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9185c7baadedc45fc0319eb6609b0ae1fb5a2236",
+            "9f265e35aef76bdb56c704a31fcc71d743fe8a31",
+            "a466ad3d89f20c095426e2e9cb36298abcd32c5e",
+            "4c10362f961181320f2f389273296b618c3c35f6",
+            "c7272769a3bad60b84bb88324f048281fcf58636",
+            "83055e5ae2c94b12ec7b08c66743f209dacaa322",
+            "05772a440b07346fcaa735714abd3b4aef6f9aa7"
+          ],
+          "numberOfCommits": 7
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "47-use-spdx-licenses.md",
+      "template": "Nygard",
+      "status": "_Accepted_",
+      "firstCommit": "2020-01-09T03:52:04Z",
+      "lastCommit": "2020-01-22T01:54:03Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "af17b3d7e2b2334ed28353dd9aa93e46597ce9e6",
+            "de497a1c2496dcb485607d25c55026208d54f718",
+            "9a192b893ba45fdfec5ece21a259265451926a5a",
+            "bed9aab928cc5830d5f1d4ef6e5678e1d9262f4b",
+            "cd68e84e9d4aee67f1c2df177f59b6118ea95627"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "72-provenance.md",
+      "template": "Nygard",
+      "status": "__Accepted__",
+      "firstCommit": "2020-07-25T03:13:07Z",
+      "lastCommit": "2021-01-22T05:35:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbd5b93fbf632eb00ae7cddec6da2020067fa5fa",
+            "a11553a799f4e28147321b99800e2b69499f96f3"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "4-dataset-metadata-distributions.md",
+      "template": "Nygard",
+      "status": "_Proposed_",
+      "firstCommit": "2020-01-08T19:39:31Z",
+      "lastCommit": "2020-01-09T02:11:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "36dc54fa26e1a8291fa4ea65914cb903152eca44"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a466ad3d89f20c095426e2e9cb36298abcd32c5e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d821c6d7d41f2c274b96923f7802072dae0e4310"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "74-schemaorg-additionalType-vs-RDF-typing.md",
+      "template": "Nygard",
+      "status": "*Adopted*",
+      "firstCommit": "2018-09-17T14:15:44Z",
+      "lastCommit": "2020-03-03T13:35:00Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0d87adb7976346fbfe6085ff6fa51079e27dcf5f",
+            "f03882fc99d34b08caffea1f18383a91fa1d52a4"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f239355c8c05aa52171805465627f9c22808f9bd",
+            "3cafff1d4356fea4473c3f3034bc575f34a1eb49"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "13-schemaorg-identifier-as-PropertyValue.md",
+      "template": "Nygard",
+      "status": "_Proposed_",
+      "firstCommit": "2018-09-17T15:20:59Z",
+      "lastCommit": "2020-03-26T22:37:30Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7e622edf53b3446ef71fac190e2aace6af6ab589",
+            "e9af0dcb35dec76fed8f0324c3c025a375ca519b",
+            "90682b67e313bf5f95115e8780285467584c6aa0",
+            "107cf41a9f0af0263591f7fb0dfafb6c6babf279"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "711fdeabd5845af484af89c301dd3cf40dcb5c6f",
+            "f239355c8c05aa52171805465627f9c22808f9bd",
+            "c7272769a3bad60b84bb88324f048281fcf58636"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "52-namespace-consistency.md",
+      "template": "Nygard",
+      "status": "_Pick one of:_ Proposed, Accepted, Rejected, Deprecated, Superseded Accepted",
+      "firstCommit": "2020-07-17T21:10:39Z",
+      "lastCommit": "2020-07-21T22:31:17Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150bbab0aafb39175c031391f27429b71786578f",
+            "9497cc853a49dce9262fc0042efbf4ba4d9e9ad6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-17T14:15:44Z",
+  "lastAdrCommit": "2021-01-28T19:22:49Z",
+  "firstCommit": "2018-07-20T18:14:37Z",
+  "lastCommit": "2021-12-27T18:57:26Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7e622edf53b3446ef71fac190e2aace6af6ab589",
+        "e9af0dcb35dec76fed8f0324c3c025a375ca519b",
+        "90682b67e313bf5f95115e8780285467584c6aa0",
+        "0d87adb7976346fbfe6085ff6fa51079e27dcf5f",
+        "107cf41a9f0af0263591f7fb0dfafb6c6babf279",
+        "36dc54fa26e1a8291fa4ea65914cb903152eca44",
+        "f03882fc99d34b08caffea1f18383a91fa1d52a4"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9185c7baadedc45fc0319eb6609b0ae1fb5a2236",
+        "a466ad3d89f20c095426e2e9cb36298abcd32c5e",
+        "af17b3d7e2b2334ed28353dd9aa93e46597ce9e6",
+        "de497a1c2496dcb485607d25c55026208d54f718",
+        "f239355c8c05aa52171805465627f9c22808f9bd",
+        "83055e5ae2c94b12ec7b08c66743f209dacaa322",
+        "05772a440b07346fcaa735714abd3b4aef6f9aa7",
+        "3cafff1d4356fea4473c3f3034bc575f34a1eb49",
+        "9f265e35aef76bdb56c704a31fcc71d743fe8a31",
+        "4c10362f961181320f2f389273296b618c3c35f6",
+        "711fdeabd5845af484af89c301dd3cf40dcb5c6f",
+        "150bbab0aafb39175c031391f27429b71786578f",
+        "c7272769a3bad60b84bb88324f048281fcf58636",
+        "9a192b893ba45fdfec5ece21a259265451926a5a",
+        "9497cc853a49dce9262fc0042efbf4ba4d9e9ad6",
+        "bed9aab928cc5830d5f1d4ef6e5678e1d9262f4b",
+        "cd68e84e9d4aee67f1c2df177f59b6118ea95627",
+        "fbd5b93fbf632eb00ae7cddec6da2020067fa5fa",
+        "a11553a799f4e28147321b99800e2b69499f96f3"
+      ],
+      "numberOfCommits": 19
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c5197362860b03b512cbfd76ec5d056c75cea480"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d821c6d7d41f2c274b96923f7802072dae0e4310"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

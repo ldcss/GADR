@@ -1,0 +1,107 @@
+{
+  "repositoryUrl": "https://github.com/Western-Health-Covid19-Collaboration/wh_covid19_app.git",
+  "crawlDateTime": "2022-01-18T18:21:05.124036",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/Architecture"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/Architecture",
+      "path": "ADR-0001 Use Flutter.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-30T11:48:02Z",
+      "lastCommit": "2020-03-30T21:49:40Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0cc86d67c7d130979fe874d68dcc648bdc8eb804",
+            "1e4127d456843c41fecab046669829bbfc1697fd",
+            "9628b5c3947740fc3794c004a483087ce3ce5793",
+            "a33764839347a8d2e9de449a2f7a4497330db919",
+            "053a2b90362a059e4fc3bc2e22be1573c60e3901",
+            "dbf7c2f5fe9c6d72feef51b1181e77d76dedc810",
+            "ed0fcbe9ad9ab7cf6fc9e1f13f0798c174634bce"
+          ],
+          "numberOfCommits": 7
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/Architecture",
+      "path": "ADR-0003 Use Flutter beta channel.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-30T11:48:02Z",
+      "lastCommit": "2020-03-30T21:53:03Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "af23e2420f3cbb9c66c2b8d16f209fc6aa7b41f1",
+            "6579a64b7e3c6c48d7296b689c828d01045a6853",
+            "74ecf3cacfdb73054094a3a562286765e7e61e0c",
+            "a33764839347a8d2e9de449a2f7a4497330db919"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/Architecture",
+      "path": "ADR-0002 Embed content in the app.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-30T11:48:02Z",
+      "lastCommit": "2020-03-30T21:52:36Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "35efc1c825bcd159437b2ddf96168d435c585c61",
+            "1a87534b06949819fd9a634767bf73f95322e417",
+            "dbf7c2f5fe9c6d72feef51b1181e77d76dedc810",
+            "87ae20e0aea5ed7e42de6cbe6c52a2624132c893"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-30T11:48:02Z",
+  "lastAdrCommit": "2020-03-30T21:53:03Z",
+  "firstCommit": "2020-03-20T23:59:50Z",
+  "lastCommit": "2020-09-02T09:37:29Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "35efc1c825bcd159437b2ddf96168d435c585c61",
+        "af23e2420f3cbb9c66c2b8d16f209fc6aa7b41f1",
+        "6579a64b7e3c6c48d7296b689c828d01045a6853",
+        "87ae20e0aea5ed7e42de6cbe6c52a2624132c893",
+        "0cc86d67c7d130979fe874d68dcc648bdc8eb804",
+        "1e4127d456843c41fecab046669829bbfc1697fd",
+        "9628b5c3947740fc3794c004a483087ce3ce5793",
+        "74ecf3cacfdb73054094a3a562286765e7e61e0c",
+        "1a87534b06949819fd9a634767bf73f95322e417",
+        "a33764839347a8d2e9de449a2f7a4497330db919",
+        "053a2b90362a059e4fc3bc2e22be1573c60e3901",
+        "dbf7c2f5fe9c6d72feef51b1181e77d76dedc810",
+        "ed0fcbe9ad9ab7cf6fc9e1f13f0798c174634bce"
+      ],
+      "numberOfCommits": 13
+    }
+  ]
+}

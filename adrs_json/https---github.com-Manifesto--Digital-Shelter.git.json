@@ -1,0 +1,118 @@
+{
+  "repositoryUrl": "https://github.com/Manifesto-Digital/Shelter.git",
+  "crawlDateTime": "2022-01-18T20:45:21.53556",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "documentation/adrs"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "documentation/adrs",
+      "path": "0002-using-proptypes-over-typescript.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-03T16:26:01Z",
+      "lastCommit": "2019-04-01T15:25:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "849c65bedec1fe758db729fc0352631bd53506b9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "394fae868e27414d752361521e131da4b16292f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adrs",
+      "path": "0003-using-styled-components.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-03T16:26:01Z",
+      "lastCommit": "2019-04-01T15:25:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "849c65bedec1fe758db729fc0352631bd53506b9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "394fae868e27414d752361521e131da4b16292f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adrs",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-03T16:26:01Z",
+      "lastCommit": "2019-04-01T15:25:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "849c65bedec1fe758db729fc0352631bd53506b9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "394fae868e27414d752361521e131da4b16292f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-01-03T16:26:01Z",
+  "lastAdrCommit": "2019-04-01T15:25:54Z",
+  "firstCommit": "2018-11-13T11:30:42Z",
+  "lastCommit": "2021-10-05T23:44:24Z",
+  "adrDirFile": {
+    "fileContent": "documentation/adrs\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "849c65bedec1fe758db729fc0352631bd53506b9"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "394fae868e27414d752361521e131da4b16292f7"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

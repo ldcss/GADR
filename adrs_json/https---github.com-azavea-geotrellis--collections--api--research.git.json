@@ -1,0 +1,63 @@
+{
+  "repositoryUrl": "https://github.com/azavea/geotrellis-collections-api-research.git",
+  "crawlDateTime": "2022-01-18T20:35:14.547861",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001-raster-operations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-04-21T15:57:36Z",
+      "lastCommit": "2017-04-21T20:00:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3e0729be345d603ab38d07a63d64b8f18424015b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ea054b5879b6d65070fd12665de3fd5c6ea345c2",
+            "da93a272fb84c7de34f69252d7382f6312ff2569"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-04-21T15:57:36Z",
+  "lastAdrCommit": "2017-04-21T20:00:13Z",
+  "firstCommit": "2017-03-24T18:06:20Z",
+  "lastCommit": "2018-07-09T20:15:53Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ea054b5879b6d65070fd12665de3fd5c6ea345c2",
+        "da93a272fb84c7de34f69252d7382f6312ff2569"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3e0729be345d603ab38d07a63d64b8f18424015b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

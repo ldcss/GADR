@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/MadDonkeySoftware/mdsCloudDocs.git",
+  "crawlDateTime": "2022-01-18T20:57:10.716193",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "developer/ADRs"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "developer/ADRs",
+      "path": "0002 - ORID.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-03T01:47:11Z",
+      "lastCommit": "2021-02-03T01:47:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0ae1456a957558c8095c6999944e7f9000ef241c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "developer/ADRs",
+      "path": "0001 - logging.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-21T03:02:35Z",
+      "lastCommit": "2020-04-21T03:02:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4369bd494f603ce9163907779c549255aec918e0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-21T03:02:35Z",
+  "lastAdrCommit": "2021-02-03T01:47:11Z",
+  "firstCommit": "2020-04-04T19:36:05Z",
+  "lastCommit": "2021-07-04T19:58:01Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0ae1456a957558c8095c6999944e7f9000ef241c",
+        "4369bd494f603ce9163907779c549255aec918e0"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "repositoryUrl": "https://github.com/boxwise/dropapp.git",
+  "crawlDateTime": "2022-01-18T20:00:46.999512",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr_auth0.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-09T21:20:58Z",
+      "lastCommit": "2021-09-26T15:32:18Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6e3d1ec1c60d9f4f7f27f239cb8066f5374180af"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6c4d973ee05bef5aac15ef804738decf7bb4f18",
+            "4b698c447e4e124ce9702693566b6b19d5dd2de7",
+            "6572905cdd3d7e9571072fea5857d6b99b4a0b18",
+            "74ae6c0fd6d08f2212e6ff8fdb3f69b49caf7623",
+            "4b3dbc9e38eba3aaa5085d6d3ebbd5e6cbb40e6e",
+            "09eec9370cfec9abf6fb1e53e19f40e6fcb96d9a"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-09T21:20:58Z",
+  "lastAdrCommit": "2021-09-26T15:32:18Z",
+  "firstCommit": "2017-02-01T09:41:16Z",
+  "lastCommit": "2022-01-13T10:26:08Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6e3d1ec1c60d9f4f7f27f239cb8066f5374180af"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b6c4d973ee05bef5aac15ef804738decf7bb4f18",
+        "4b698c447e4e124ce9702693566b6b19d5dd2de7",
+        "6572905cdd3d7e9571072fea5857d6b99b4a0b18",
+        "74ae6c0fd6d08f2212e6ff8fdb3f69b49caf7623",
+        "4b3dbc9e38eba3aaa5085d6d3ebbd5e6cbb40e6e",
+        "09eec9370cfec9abf6fb1e53e19f40e6fcb96d9a"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

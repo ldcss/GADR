@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/budproj/operability.git",
+  "crawlDateTime": "2022-01-18T20:50:26.878996",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adl"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adl",
+      "path": "001-container-deployment.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-10-24T22:57:29Z",
+      "lastCommit": "2020-10-24T22:57:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7b64138b9459cd0206e5526334d1f381b419e5c3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-24T22:57:29Z",
+  "lastAdrCommit": "2020-10-24T22:57:29Z",
+  "firstCommit": "2020-10-24T14:48:10Z",
+  "lastCommit": "2021-03-29T12:37:12Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7b64138b9459cd0206e5526334d1f381b419e5c3"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

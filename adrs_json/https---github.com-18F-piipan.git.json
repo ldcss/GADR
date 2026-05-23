@@ -1,0 +1,591 @@
+{
+  "repositoryUrl": "https://github.com/18F/piipan.git",
+  "crawlDateTime": "2022-01-18T23:03:58.077172",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 25,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0023-subsystem-unit-testing-strategy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2022-01-03T18:07:37Z",
+      "lastCommit": "2022-01-04T19:02:14Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ed23670c187549fd809638fe87b9828fdbfeab5",
+            "37724e2f1d8a2fd56eff9a9ababe73669b92ac23",
+            "ecb512af2a8bbc92b8d41c53e08b08cb4267c3eb",
+            "865828515ce3d22da143dab88338c7e665462383"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0017-securing-event-grid-event-handlers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-26T21:19:15Z",
+      "lastCommit": "2021-07-26T21:19:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46a993e3cccfb69dca3ff41a1ac577fa2b362231"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-blob-storage-for-bulk-upload.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-08T16:49:47Z",
+      "lastCommit": "2021-01-08T17:50:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e21c8e2bc23e52b85e33069979ba00101164afeb",
+            "87a46bb7d1eb7dcd9646a1121c6f1547ded1859e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-use-razor-pages-for-web-apps.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-26T18:52:50Z",
+      "lastCommit": "2021-01-26T18:52:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "78ee505d8eb0942efb5bc09e47c211010b07b485"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0013-use-private-links.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-26T21:24:13Z",
+      "lastCommit": "2021-05-04T13:42:40Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "072788d2787893a987c92efe92358b2afafd45e8",
+            "208aaebc488a91533de962bd2992f3c75a1c1dfe",
+            "d0a7e702f4cb572585acb75066e3b17fa9f3c962",
+            "941672d1d4fcd3c386757176de5f38a46c890711",
+            "083b92d8387a30ce6168520c1d0ed0d575016766",
+            "2d9610689ab70abc64fd0f11c07dfc148b32e852"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0025-use-windows-operating-system-for-app-service-plans.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2022-01-11T15:12:17Z",
+      "lastCommit": "2022-01-11T15:12:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29429fb966af93f88e9a891466511c67cea125e0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0020-storing-and-converting-time.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-17T16:34:52Z",
+      "lastCommit": "2021-09-29T18:44:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e73caa217f8ea635bd0882097524842c3e945c6d",
+            "b2e924aed9e00bba362bee7b3ba3832a59cd06f4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0015-do-not-use-table-storage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-01T16:36:01Z",
+      "lastCommit": "2021-07-01T16:36:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "429da412e5b8d0864067e1560ef0e251a93b8a1a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-programming-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-08T16:49:47Z",
+      "lastCommit": "2021-01-08T17:50:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e21c8e2bc23e52b85e33069979ba00101164afeb",
+            "87a46bb7d1eb7dcd9646a1121c6f1547ded1859e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-use-bash-for-scripting.md",
+      "template": "Nygard",
+      "status": "Superceded by [21. Use recent bash version for scripting](0021-use-recent-bash-version-for-scripting.md)",
+      "firstCommit": "2021-01-22T20:05:04Z",
+      "lastCommit": "2021-10-13T15:05:11Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e0a760eac8dfd9afce58e328a37756abfae6e1bc",
+            "0863d1a27d228c6196025e3cde42e9ad10648de8",
+            "8333163a8e416c3eccd55f33d68e8930be2e8527"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-deployment-platform.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-08T16:49:47Z",
+      "lastCommit": "2021-01-08T17:50:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e21c8e2bc23e52b85e33069979ba00101164afeb",
+            "87a46bb7d1eb7dcd9646a1121c6f1547ded1859e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-dashboard-app-platform.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-08T16:49:47Z",
+      "lastCommit": "2021-01-08T17:50:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e21c8e2bc23e52b85e33069979ba00101164afeb",
+            "87a46bb7d1eb7dcd9646a1121c6f1547ded1859e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0019-continue-to-use-net-core-3-1.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-15T16:07:35Z",
+      "lastCommit": "2021-09-15T18:33:59Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a80ed02a17a1f4442d963c3a85960bb9ac2f612",
+            "6fd96c4e6ccc83250bfe0643525447f66acd8362",
+            "eac1fed326864f254eb2a3534e5e3f3cce7070b1"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-use-xunit-net-for-unit-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-08T16:49:47Z",
+      "lastCommit": "2021-01-08T17:50:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e21c8e2bc23e52b85e33069979ba00101164afeb",
+            "87a46bb7d1eb7dcd9646a1121c6f1547ded1859e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0018-standardize-subsystem-software-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-10T18:27:13Z",
+      "lastCommit": "2021-09-10T18:27:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6873711d9fa0254cd5ebf070205a7dd77f49a988",
+            "4e32e0eb82f587d4d9b18118703ee76cff8d1eee"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0012-use-app-service-authentication-between-subsystems.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-16T22:42:15Z",
+      "lastCommit": "2021-02-26T19:47:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4fd49f68dc6ce606df9464c53ba71b12cfc90c29",
+            "d8aef1fff6edcd3df9a2e0e401b52c6f1031f2b2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0014-durable-functions-for-bulk-matching.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-05-17T20:53:30Z",
+      "lastCommit": "2021-07-01T20:15:18Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "932e97989154289ad7978fe71f18098f03b11eb0",
+            "a29c08d2a69787e3e86fdafbd88f0872d269a9b2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0024-standard-approach-to-async-await.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2022-01-06T17:19:55Z",
+      "lastCommit": "2022-01-06T17:19:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "565dbb785c517a5a36759ec070cf809fbd434658"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-continue-to-use-net-core-3-1.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-20T00:10:40Z",
+      "lastCommit": "2021-01-20T00:10:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7c3b7adc38c688c869b653bc8baae744c1a3d473"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-infrastructure-as-code-tool.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-08T16:49:47Z",
+      "lastCommit": "2021-01-08T17:50:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e21c8e2bc23e52b85e33069979ba00101164afeb",
+            "87a46bb7d1eb7dcd9646a1121c6f1547ded1859e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-default-database.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-08T16:49:47Z",
+      "lastCommit": "2021-01-08T17:50:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e21c8e2bc23e52b85e33069979ba00101164afeb",
+            "87a46bb7d1eb7dcd9646a1121c6f1547ded1859e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0022-have-one-database-per-state.md",
+      "template": "Nygard",
+      "status": "Accepted Relates to [4. Default Database](./0004-default-database.md)",
+      "firstCommit": "2021-12-15T22:33:14Z",
+      "lastCommit": "2021-12-15T22:33:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03076cce52b3da967684d15a321e0828fd2e3379"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0021-use-recent-bash-version-for-scripting.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [10. Use bash for scripting](0010-use-bash-for-scripting.md)",
+      "firstCommit": "2021-10-13T15:05:11Z",
+      "lastCommit": "2021-10-13T15:05:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e0a760eac8dfd9afce58e328a37756abfae6e1bc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0016-use-json-api-spec-for-apis.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-14T21:30:44Z",
+      "lastCommit": "2022-01-10T16:39:48Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "171ad6c15a1c9903b7ac1717b688fd5ad0115144",
+            "ca59a72b4fe9663c65674c0f19dec782fc092728"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-08T16:49:47Z",
+      "lastCommit": "2021-01-08T17:50:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e21c8e2bc23e52b85e33069979ba00101164afeb",
+            "87a46bb7d1eb7dcd9646a1121c6f1547ded1859e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-08T16:49:47Z",
+  "lastAdrCommit": "2022-01-11T15:12:17Z",
+  "firstCommit": "2020-10-20T18:33:58Z",
+  "lastCommit": "2022-01-18T20:49:56Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4a80ed02a17a1f4442d963c3a85960bb9ac2f612",
+        "6fd96c4e6ccc83250bfe0643525447f66acd8362",
+        "6873711d9fa0254cd5ebf070205a7dd77f49a988",
+        "eac1fed326864f254eb2a3534e5e3f3cce7070b1",
+        "4e32e0eb82f587d4d9b18118703ee76cff8d1eee"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "46a993e3cccfb69dca3ff41a1ac577fa2b362231",
+        "932e97989154289ad7978fe71f18098f03b11eb0",
+        "29429fb966af93f88e9a891466511c67cea125e0",
+        "a29c08d2a69787e3e86fdafbd88f0872d269a9b2",
+        "429da412e5b8d0864067e1560ef0e251a93b8a1a",
+        "4fd49f68dc6ce606df9464c53ba71b12cfc90c29",
+        "d8aef1fff6edcd3df9a2e0e401b52c6f1031f2b2"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "03076cce52b3da967684d15a321e0828fd2e3379",
+        "072788d2787893a987c92efe92358b2afafd45e8",
+        "208aaebc488a91533de962bd2992f3c75a1c1dfe",
+        "d0a7e702f4cb572585acb75066e3b17fa9f3c962",
+        "e73caa217f8ea635bd0882097524842c3e945c6d",
+        "941672d1d4fcd3c386757176de5f38a46c890711",
+        "083b92d8387a30ce6168520c1d0ed0d575016766",
+        "171ad6c15a1c9903b7ac1717b688fd5ad0115144",
+        "2d9610689ab70abc64fd0f11c07dfc148b32e852",
+        "b2e924aed9e00bba362bee7b3ba3832a59cd06f4",
+        "ca59a72b4fe9663c65674c0f19dec782fc092728"
+      ],
+      "numberOfCommits": 11
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e21c8e2bc23e52b85e33069979ba00101164afeb",
+        "78ee505d8eb0942efb5bc09e47c211010b07b485",
+        "e0a760eac8dfd9afce58e328a37756abfae6e1bc",
+        "0863d1a27d228c6196025e3cde42e9ad10648de8",
+        "8333163a8e416c3eccd55f33d68e8930be2e8527",
+        "87a46bb7d1eb7dcd9646a1121c6f1547ded1859e",
+        "7c3b7adc38c688c869b653bc8baae744c1a3d473"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "565dbb785c517a5a36759ec070cf809fbd434658",
+        "9ed23670c187549fd809638fe87b9828fdbfeab5",
+        "37724e2f1d8a2fd56eff9a9ababe73669b92ac23",
+        "ecb512af2a8bbc92b8d41c53e08b08cb4267c3eb",
+        "865828515ce3d22da143dab88338c7e665462383"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

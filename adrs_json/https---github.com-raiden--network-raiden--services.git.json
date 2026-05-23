@@ -1,0 +1,124 @@
+{
+  "repositoryUrl": "https://github.com/raiden-network/raiden-services.git",
+  "crawlDateTime": "2022-01-18T19:38:16.263824",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "003-mediation-fees.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-05-13T14:36:03Z",
+      "lastCommit": "2019-07-25T07:42:31Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f224bc9ec4d041619c31fbbac2dd445f44eef03d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ed65d2b34c9676fa843b6cafdbf2fcc63e4e1da",
+            "59edde06dbe5919670980e51ddc52f11634dbc84",
+            "dfd886080f2025361528ee5023df4ed094eb991b",
+            "ad62e2017b04987daf558b43fa57bf0980378697"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "002-routing-feedback.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-04-29T08:53:45Z",
+      "lastCommit": "2019-04-29T09:06:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ab9beabf85439040b8f20dffa20b2103235ec10",
+            "174befac9e62fdc1adb5cbe0e3c079bd8a39690d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "001-update-pfs-message.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-04-16T16:37:09Z",
+      "lastCommit": "2019-06-25T15:49:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f224bc9ec4d041619c31fbbac2dd445f44eef03d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81f6ed00b7667bdc0b8a0dbd791d5061d0f193e7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-04-16T16:37:09Z",
+  "lastAdrCommit": "2019-07-25T07:42:31Z",
+  "firstCommit": "2018-02-14T11:34:26Z",
+  "lastCommit": "2022-01-17T05:01:35Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f224bc9ec4d041619c31fbbac2dd445f44eef03d",
+        "6ab9beabf85439040b8f20dffa20b2103235ec10",
+        "174befac9e62fdc1adb5cbe0e3c079bd8a39690d"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "81f6ed00b7667bdc0b8a0dbd791d5061d0f193e7"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9ed65d2b34c9676fa843b6cafdbf2fcc63e4e1da",
+        "59edde06dbe5919670980e51ddc52f11634dbc84",
+        "dfd886080f2025361528ee5023df4ed094eb991b",
+        "ad62e2017b04987daf558b43fa57bf0980378697"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/cache-flush-slack-app.git",
+  "crawlDateTime": "2022-01-18T22:55:37.827122",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-request-initial-view-open-from-slash-command.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-13T18:27:11Z",
+      "lastCommit": "2019-11-13T18:27:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dfdf9d912396ca587083a584b3cc5a39be7e3ce"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-csv-rather-than-json-for-allowed-user-list.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-12T15:11:09Z",
+      "lastCommit": "2019-11-12T15:11:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "570219f690040d2b02527fb82035921a0984c967"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-12T15:09:56Z",
+      "lastCommit": "2019-11-13T14:27:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "68e24b4ba8a0c93b2ac4f84650395756949ac334",
+            "bc31f538e31c8ce2dfab8f6e48c505ca607c6a1d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-12T15:09:56Z",
+  "lastAdrCommit": "2019-11-13T18:27:11Z",
+  "firstCommit": "2019-11-07T11:56:49Z",
+  "lastCommit": "2021-08-11T16:08:12Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "68e24b4ba8a0c93b2ac4f84650395756949ac334",
+        "bc31f538e31c8ce2dfab8f6e48c505ca607c6a1d",
+        "570219f690040d2b02527fb82035921a0984c967",
+        "6dfdf9d912396ca587083a584b3cc5a39be7e3ce"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

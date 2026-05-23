@@ -1,0 +1,84 @@
+{
+  "repositoryUrl": "https://github.com/katarzyna-starachowicz/my_budgeting.git",
+  "crawlDateTime": "2022-01-18T20:42:20.889578",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adl"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adl",
+      "path": "0003_rails_event_store.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-28T16:29:21Z",
+      "lastCommit": "2020-09-28T16:29:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1728aa799c38d97148af2c813aa1b80ce258ade9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adl",
+      "path": "0001_record_architecture_decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-02T19:26:54Z",
+      "lastCommit": "2020-04-02T19:26:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7cbe4289347c1e9010ecf1d3aca752547513dac9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adl",
+      "path": "0002_sql_databse.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-28T16:29:21Z",
+      "lastCommit": "2020-09-28T16:29:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1728aa799c38d97148af2c813aa1b80ce258ade9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-02T19:26:54Z",
+  "lastAdrCommit": "2020-09-28T16:29:21Z",
+  "firstCommit": "2020-04-02T19:26:54Z",
+  "lastCommit": "2022-01-15T07:04:38Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1728aa799c38d97148af2c813aa1b80ce258ade9",
+        "7cbe4289347c1e9010ecf1d3aca752547513dac9"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

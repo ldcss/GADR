@@ -1,0 +1,205 @@
+{
+  "repositoryUrl": "https://github.com/ylathouris/hello.git",
+  "crawlDateTime": "2022-01-18T20:06:01.581874",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "005-test-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-23T11:33:46Z",
+      "lastCommit": "2020-09-23T11:45:56Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1957bf2c612ecb3d713deb4357be45e7e28f26f5",
+            "daaaf52560fa67e30461f3a7b8a8cac9742fb72f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "004-serverless-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-22T20:39:09Z",
+      "lastCommit": "2020-09-23T11:44:34Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "408e53d0b84ddac3e3c5e41e7bc63183e6e3081e",
+            "daaaf52560fa67e30461f3a7b8a8cac9742fb72f",
+            "59ec515a8ff3a09098b6c90ec7818d6e870f79b3"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "006-access-control.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-23T11:33:46Z",
+      "lastCommit": "2020-09-23T11:46:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89b2867d542ebb844a5d8cc8ed05f04b39e891e2",
+            "daaaf52560fa67e30461f3a7b8a8cac9742fb72f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "008-deployment.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-23T11:33:46Z",
+      "lastCommit": "2020-09-23T11:48:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "327392ac16a37f5413b31fe99ba55e45a8a977b9",
+            "daaaf52560fa67e30461f3a7b8a8cac9742fb72f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "002-compute.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-22T01:35:27Z",
+      "lastCommit": "2020-09-23T11:41:52Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5daddcf9a2370e3d055f8024f546ede440d28d1b",
+            "408e53d0b84ddac3e3c5e41e7bc63183e6e3081e",
+            "5da2c545baa4f64ff05bda46277572ce0bc686d3",
+            "003d7288f2daac498f6ebc369a25a76c027bb5aa",
+            "daaaf52560fa67e30461f3a7b8a8cac9742fb72f",
+            "a7adcc42d221702958db66cccf256aa691a4531a"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "007-secrets.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-23T11:33:46Z",
+      "lastCommit": "2020-09-23T11:48:01Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dcc483064bfd5e8d05136aa21974d52ce97d84e1",
+            "daaaf52560fa67e30461f3a7b8a8cac9742fb72f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "003-runtime.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-22T20:39:09Z",
+      "lastCommit": "2020-09-23T11:43:26Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "408e53d0b84ddac3e3c5e41e7bc63183e6e3081e",
+            "daaaf52560fa67e30461f3a7b8a8cac9742fb72f",
+            "41648d5979a4e402bd790e89f1139500dd4115a8"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "001-record-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-22T01:35:27Z",
+      "lastCommit": "2020-09-23T11:39:06Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "874ffa3121c577a15b5217474178cbaba945ddf1",
+            "daaaf52560fa67e30461f3a7b8a8cac9742fb72f",
+            "a7adcc42d221702958db66cccf256aa691a4531a"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-22T01:35:27Z",
+  "lastAdrCommit": "2020-09-23T11:48:51Z",
+  "firstCommit": "2020-09-19T23:05:08Z",
+  "lastCommit": "2020-09-23T12:41:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "327392ac16a37f5413b31fe99ba55e45a8a977b9",
+        "874ffa3121c577a15b5217474178cbaba945ddf1",
+        "daaaf52560fa67e30461f3a7b8a8cac9742fb72f",
+        "89b2867d542ebb844a5d8cc8ed05f04b39e891e2",
+        "a7adcc42d221702958db66cccf256aa691a4531a",
+        "41648d5979a4e402bd790e89f1139500dd4115a8",
+        "5daddcf9a2370e3d055f8024f546ede440d28d1b",
+        "408e53d0b84ddac3e3c5e41e7bc63183e6e3081e",
+        "5da2c545baa4f64ff05bda46277572ce0bc686d3",
+        "003d7288f2daac498f6ebc369a25a76c027bb5aa",
+        "1957bf2c612ecb3d713deb4357be45e7e28f26f5",
+        "dcc483064bfd5e8d05136aa21974d52ce97d84e1",
+        "59ec515a8ff3a09098b6c90ec7818d6e870f79b3"
+      ],
+      "numberOfCommits": 13
+    }
+  ]
+}

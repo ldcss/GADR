@@ -1,0 +1,599 @@
+{
+  "repositoryUrl": "https://github.com/eclipse/deeplearning4j.git",
+  "crawlDateTime": "2022-01-18T17:50:34.75324",
+  "numAdrDirectories": 2,
+  "adrDirectories": [
+    "ADRs",
+    "contrib/codegen-tools/codegen/adr"
+  ],
+  "numAdrFiles": 26,
+  "adrFiles": [
+    {
+      "adrDirectory": "ADRs",
+      "path": "0011 - OmniHub-Zoo Download.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2022-01-10T09:27:30Z",
+      "lastCommit": "2022-01-10T09:27:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab43b47a19638f19edf93f39bea50ce86c3f2b60"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0002-ONNX_Runtime.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-03-20T00:54:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50",
+            "7543fe9222dc8ecbf8d5a69097921cf5bb8e2f9d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0007 - Nd4j classifiers.md",
+      "template": "Nygard",
+      "status": "Accepted Proposed by: Adam Gibson (5-5-2021) Discussed with: saudet (Samuel Audet)",
+      "firstCommit": "2021-05-05T01:44:10Z",
+      "lastCommit": "2021-11-25T13:40:04Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d90f6fb66bbdb424e36ee864036f3f52bb3e70c",
+            "a30aad1b21c8a3c630481f63fa2974b7caa0d853",
+            "e6786fecb1a832421113bcc6c44b0672079b432a",
+            "076d03c16898135eb2292f8b70c469b6e7bef218",
+            "3ff674579de6c00072527606beceafae6868f547",
+            "ecb35312d99165bf51691a6348f7b52cf5bdc7fc",
+            "089a166d80925f2dabfaa81a6722ed595c8de612"
+          ],
+          "numberOfCommits": 7
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0010 - Test module consolidation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-12-13T14:54:39Z",
+      "lastCommit": "2021-12-13T14:54:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "28c2259ae40c3d77f5adecfc440ab8bfd8b7ec9d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0012 - OmniHub-Zoo Download Implementations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2022-01-10T09:27:30Z",
+      "lastCommit": "2022-01-10T09:27:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab43b47a19638f19edf93f39bea50ce86c3f2b60"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0001-SameDiff_File_Format.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-26T00:10:13Z",
+      "lastCommit": "2021-02-01T05:31:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2aa2a8be4019dbf2ce0b58082796a5cc58387d84"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0015 - Unified Resource Manager.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2022-01-14T09:03:06Z",
+      "lastCommit": "2022-01-14T09:03:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89ee745f6a84c00ba01cad97723b311afe03f0d1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0005-Interpreter.md",
+      "template": "Nygard",
+      "status": "Rejected Proposed by: Adam Gibson (28-09-2020) Discussed with: N/A",
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-03-20T00:54:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50",
+            "7543fe9222dc8ecbf8d5a69097921cf5bb8e2f9d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0003-NdArray_Strides_ArmCompute.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-03-20T00:54:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50",
+            "7543fe9222dc8ecbf8d5a69097921cf5bb8e2f9d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0004-Mapping_IR.md",
+      "template": "Nygard",
+      "status": "Implemented Proposed by: Adam Gibson (28-09-2020) Discussed with: N/A",
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-03-20T00:54:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50",
+            "7543fe9222dc8ecbf8d5a69097921cf5bb8e2f9d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0013 - OmniHub-Zoo Consumption.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2022-01-10T09:27:30Z",
+      "lastCommit": "2022-01-14T09:03:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89ee745f6a84c00ba01cad97723b311afe03f0d1",
+            "ab43b47a19638f19edf93f39bea50ce86c3f2b60"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0003-Import_IR.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-11-04T13:22:35Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50",
+            "7543fe9222dc8ecbf8d5a69097921cf5bb8e2f9d"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d77597bae3253e13a3384a168fda789f68309c1a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0006 - Test architecture.md",
+      "template": "Nygard",
+      "status": "Proposed Proposed by: Adam Gibson (21-03-2021) Discussed with: N/A",
+      "firstCommit": "2021-03-20T00:54:34Z",
+      "lastCommit": "2021-03-20T10:06:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5e8951cd8ee8106bb393635f840c398a1759b2fa",
+            "7543fe9222dc8ecbf8d5a69097921cf5bb8e2f9d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0008 - Nd4j eager  shape computation .md",
+      "template": "Nygard",
+      "status": "Accepted Proposed by: Adam Gibson (11-19-2021) Discussed with: Paul Dubs",
+      "firstCommit": "2021-11-19T14:36:20Z",
+      "lastCommit": "2021-11-25T13:40:04Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d90f6fb66bbdb424e36ee864036f3f52bb3e70c",
+            "dc5be002c5c95f27b0ef698497da46b20549c394",
+            "857edb96efc8ecad4ee37e2b6f754613cf6cd5c9",
+            "f576a7045e9fe4debd51d0ef671040f788cd9fc9"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0014 - OmniHub- Replace old model zoo.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2022-01-10T09:27:30Z",
+      "lastCommit": "2022-01-14T09:03:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89ee745f6a84c00ba01cad97723b311afe03f0d1",
+            "ab43b47a19638f19edf93f39bea50ce86c3f2b60"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0009 - Import node pre processing.md",
+      "template": "Nygard",
+      "status": "Discsusion Proposed by: Adam Gibson (11-25-2021) Discussed with: Paul Dubs",
+      "firstCommit": "2021-11-25T13:40:04Z",
+      "lastCommit": "2021-11-25T13:40:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d90f6fb66bbdb424e36ee864036f3f52bb3e70c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "contrib/codegen-tools/codegen/adr",
+      "path": "0009-aliasing.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by Alex Black and Paul Dubs on 05. March 2020.",
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-02-01T05:31:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "contrib/codegen-tools/codegen/adr",
+      "path": "0005-optional_parameters_and_signatures.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by: Alex Black, raver 119 and Paul Dubs on 25. November 2019",
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-02-01T05:31:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "contrib/codegen-tools/codegen/adr",
+      "path": "0010-ir-codegen.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-02-01T05:31:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "contrib/codegen-tools/codegen/adr",
+      "path": "0004-auto_initialization_for_inplace_operations.md",
+      "template": "Nygard",
+      "status": "REJECTED Discussed by: Paul Dubs, Alex Black, raver119 on 25. November 2019",
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-02-01T05:31:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "contrib/codegen-tools/codegen/adr",
+      "path": "0007-configuration_objects.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by Alex Black, raver119 and Paul Dubs on 27. November 2019.",
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-02-01T05:31:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "contrib/codegen-tools/codegen/adr",
+      "path": "0003-dealing_with_inconsistencies_in_java_naming.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by: Paul Dubs, Alex Black, raver119 on 22. November 2019",
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-02-01T05:31:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "contrib/codegen-tools/codegen/adr",
+      "path": "0001-kotlin_dsl_as_source_of_truth.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by: Paul Dubs, Alex Black, raver119 on 19. October 2019",
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-02-01T05:31:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "contrib/codegen-tools/codegen/adr",
+      "path": "0002-separate_object_graph_for_serialization.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by: Paul Dubs & Alex Black on 07. November 2019",
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-02-01T05:31:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "contrib/codegen-tools/codegen/adr",
+      "path": "0008-inheritance.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by Alex Black and Paul Dubs on 29. November 2019 and 2. December 2019.",
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-02-01T05:31:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "contrib/codegen-tools/codegen/adr",
+      "path": "0006-op_specific_enums.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by: Alex Black, Robert Altena and Paul Dubs on 26. November 2019",
+      "firstCommit": "2021-02-01T05:31:20Z",
+      "lastCommit": "2021-02-01T05:31:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-26T00:10:13Z",
+  "lastAdrCommit": "2022-01-14T09:03:06Z",
+  "firstCommit": "2013-11-27T02:03:28Z",
+  "lastCommit": "2022-01-17T07:55:51Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2d90f6fb66bbdb424e36ee864036f3f52bb3e70c",
+        "a30aad1b21c8a3c630481f63fa2974b7caa0d853",
+        "dc5be002c5c95f27b0ef698497da46b20549c394",
+        "e6786fecb1a832421113bcc6c44b0672079b432a",
+        "076d03c16898135eb2292f8b70c469b6e7bef218",
+        "857edb96efc8ecad4ee37e2b6f754613cf6cd5c9",
+        "3ff674579de6c00072527606beceafae6868f547",
+        "ecb35312d99165bf51691a6348f7b52cf5bdc7fc",
+        "089a166d80925f2dabfaa81a6722ed595c8de612",
+        "f576a7045e9fe4debd51d0ef671040f788cd9fc9"
+      ],
+      "numberOfCommits": 10
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "65c6a9a42e4e14fe98ccb99a3015d74b7072ae50",
+        "5e8951cd8ee8106bb393635f840c398a1759b2fa",
+        "7543fe9222dc8ecbf8d5a69097921cf5bb8e2f9d"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2aa2a8be4019dbf2ce0b58082796a5cc58387d84"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "89ee745f6a84c00ba01cad97723b311afe03f0d1",
+        "ab43b47a19638f19edf93f39bea50ce86c3f2b60",
+        "28c2259ae40c3d77f5adecfc440ab8bfd8b7ec9d"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d77597bae3253e13a3384a168fda789f68309c1a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "repositoryUrl": "https://github.com/azavea/grout-2018-fellowship.git",
+  "crawlDateTime": "2022-01-18T23:05:02.331491",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs",
+      "path": "demo-framework.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-06-27T21:05:27Z",
+      "lastCommit": "2018-07-02T13:30:34Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "452137f6da4614b35907b7131f70cbc5ec177573",
+            "86cd5cbb25789a12895ab541c0881916ff106e70",
+            "54d64835fe552301ec4453b1a9c99cf3263a34f2",
+            "56f2426109c82ae869f64ef237e77d21507d3c89",
+            "cec598d89f4428621d94f46f0900bf30aba51f9c",
+            "b1f7b525d384c98a429e616f0915ff26329d1664"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "rename-package.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-07-03T23:30:33Z",
+      "lastCommit": "2018-07-10T17:55:17Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dfdb6bfe613345910c7c344a55590b76a19994f6",
+            "c1305f5ef4b48a887b50a9020e3875d0e74f2d9c",
+            "1fecd1f4a75f0b030ae3acb35d04da909075dbde",
+            "819113a906ecd1305eb0e2dbf998b826ef7161ef",
+            "8edc8b8845f493121d8393626f0b72fb3a95d0dc"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "foreign-keys.md",
+      "template": "Nygard",
+      "status": "In review.",
+      "firstCommit": "2018-07-16T18:59:34Z",
+      "lastCommit": "2018-08-01T17:17:39Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7df2cf72962c4c144db86ce4e4ba6a6714f92af4",
+            "e18052f9aff767288761d9fba391b8e2539acffb",
+            "2943d0a5333f214e35275e7747d11e6a2d6365a9",
+            "d5f26f17f93f05eb9761971877b4793e114314ba"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "nosql-backends.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-07-17T21:06:11Z",
+      "lastCommit": "2018-07-18T18:24:00Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2c6ccc0c3df799c416e1e54b02aee6530deb6a4e",
+            "11bc600ec2deb4e1734514efba106bc413d5a589",
+            "c891caf74da233169ac728b193ff28d8d4af7a36",
+            "3a0a7caa90c85c061d9cd83442c505fa895bfd18"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-27T21:05:27Z",
+  "lastAdrCommit": "2018-08-01T17:17:39Z",
+  "firstCommit": "2018-06-07T18:48:16Z",
+  "lastCommit": "2018-08-01T17:18:08Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dfdb6bfe613345910c7c344a55590b76a19994f6",
+        "7df2cf72962c4c144db86ce4e4ba6a6714f92af4",
+        "c1305f5ef4b48a887b50a9020e3875d0e74f2d9c",
+        "2c6ccc0c3df799c416e1e54b02aee6530deb6a4e",
+        "e18052f9aff767288761d9fba391b8e2539acffb",
+        "c891caf74da233169ac728b193ff28d8d4af7a36",
+        "452137f6da4614b35907b7131f70cbc5ec177573",
+        "86cd5cbb25789a12895ab541c0881916ff106e70",
+        "54d64835fe552301ec4453b1a9c99cf3263a34f2",
+        "56f2426109c82ae869f64ef237e77d21507d3c89",
+        "b1f7b525d384c98a429e616f0915ff26329d1664",
+        "d5f26f17f93f05eb9761971877b4793e114314ba",
+        "11bc600ec2deb4e1734514efba106bc413d5a589",
+        "2943d0a5333f214e35275e7747d11e6a2d6365a9",
+        "3a0a7caa90c85c061d9cd83442c505fa895bfd18",
+        "1fecd1f4a75f0b030ae3acb35d04da909075dbde",
+        "819113a906ecd1305eb0e2dbf998b826ef7161ef",
+        "cec598d89f4428621d94f46f0900bf30aba51f9c",
+        "8edc8b8845f493121d8393626f0b72fb3a95d0dc"
+      ],
+      "numberOfCommits": 19
+    }
+  ]
+}

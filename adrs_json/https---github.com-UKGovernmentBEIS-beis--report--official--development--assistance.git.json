@@ -1,0 +1,867 @@
+{
+  "repositoryUrl": "https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance.git",
+  "crawlDateTime": "2022-01-18T19:29:10.392429",
+  "numAdrDirectories": 2,
+  "adrDirectories": [
+    "doc/architecture/decisions",
+    "doc/adr"
+  ],
+  "numAdrFiles": 36,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0025-use-terraform-to-set-up-and-deploy-to-the-paas.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-20T09:11:41Z",
+      "lastCommit": "2020-11-20T09:36:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c2c1b09a2c09288ee0bae5307ffc7079d6595be0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edc76a2f7c70c503f1cfdbecf8a423ff29947a43"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-add-rollbar-for-application-monitoring.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-21T11:21:23Z",
+      "lastCommit": "2019-10-21T11:21:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3199f25ffa3e2999533ea1b24c10f0343b828e18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-use-auth0-for-authentication.md",
+      "template": "Nygard",
+      "status": "Superceded by [16. Disable Auth0's requirement for Javascript during the authentication journey](0016-disable-auth0-s-requirement-for-javascript-during-the-authentication-journey.md)",
+      "firstCommit": "2019-11-05T11:47:45Z",
+      "lastCommit": "2020-02-10T15:51:12Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6aac389bb4251b423bc6620df7bbf60b7155c553"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30f75105df2959bd85f00948f4921c17b4cf5efe"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d54d485d53a10b8856960c35fa72d2c1827248f9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0020-use-skylight-application-performance-monitoring.md",
+      "template": "Nygard",
+      "status": "Superceded by [32. remove skylight](0032-remove-unused-skylight-performance-monitoring-app.md)",
+      "firstCommit": "2020-05-07T12:35:38Z",
+      "lastCommit": "2021-10-11T08:08:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1520fbec33f47c80e5ec4aeaf51703dc15cce40"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9976991479307ae358e2a70d6c3d3935ca6ec3d3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0032-remove-unused-skylight-performance-monitoring-app.md",
+      "template": "Nygard",
+      "status": "Supercedes [20. use-skylight-application-performance-monitoring](0020-use-skylight-application-performance-monitoring.md)",
+      "firstCommit": "2021-10-11T08:08:00Z",
+      "lastCommit": "2021-10-11T08:08:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1520fbec33f47c80e5ec4aeaf51703dc15cce40"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "215c9b45070eaf9d9746beb7131e3c2e60f9b282"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0012-use-wicked-for-multi-step-forms.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-05T11:15:23Z",
+      "lastCommit": "2019-12-05T11:15:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8c4b5761341f824080b8d8cff25817e8ff285000"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0028-add-cdn-route.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-15T10:46:43Z",
+      "lastCommit": "2021-02-15T10:46:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65a244c63c16c0d28c06cfdab7382187bbed6c03"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-use-pundit-to-manage-permissions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-25T11:41:53Z",
+      "lastCommit": "2019-11-25T11:41:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dcd558bedae0c0cf1869bc48d103c94ac93667b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0029-application-text-encoding.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-17T10:28:50Z",
+      "lastCommit": "2021-02-17T10:28:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bffe2a912575fbaaef5aa5f961934d612cbba60b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0030-run-data-migrations-manually.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-25T12:52:52Z",
+      "lastCommit": "2021-02-25T12:52:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b18c352e9f1482ba2bc2dbf946a27b3b6f18c8dd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-decision-to-not-use-docker-in-dev.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-25T16:02:42Z",
+      "lastCommit": "2019-11-25T16:02:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6aa89db9bf6b63031d6117e5b6d509e200ce7886"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0024-use-scripts-to-rule-them-all.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-03T10:49:53Z",
+      "lastCommit": "2020-11-03T10:49:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8187bcb1119ef0e50cedaec8b2bd2e37b271b6e1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0011-use-govuk-design-system-form-builder.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-03T11:48:28Z",
+      "lastCommit": "2019-12-03T11:48:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f1b3e2da49768074411df063d9a698d40a588e9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-use-travis-for-ci.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-28T11:37:53Z",
+      "lastCommit": "2019-10-28T11:37:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7c539c4b44c55771987f654e91b365158ea39880"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0013-travis-only-tests-with-docker-containers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-19T17:25:34Z",
+      "lastCommit": "2019-12-19T17:25:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8855b578e63a1ee10321477f2f91d9e809ac328"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0031-replace-publicactivity-with-our-own-hand-rolled-way-of-recording-changes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-01T08:17:02Z",
+      "lastCommit": "2021-07-01T08:17:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1a490a0f4640487b009c78aaf17e339ee4cfa7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0026-use-omniauth-to-standardise-authentication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-20T11:46:55Z",
+      "lastCommit": "2020-11-20T11:46:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7116075118b9f1ae3f8260db1b5d8cf1b104de65"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-use-heroku-for-hosting.md",
+      "template": "Nygard",
+      "status": "Superceded by [22. use-govuk-paas-for-hosting](0022-use-govuk-paas-for-hosting.md)",
+      "firstCommit": "2019-11-19T10:31:08Z",
+      "lastCommit": "2020-10-06T11:43:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d2f3e5831577283847a257c641f348eb92a0fde3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4c5bfe0ec48d7595d5c94a0efbdd2cca7264f90f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0015-disable-auth0s-requirement-for-javascript-during-the-authentication-journey.md",
+      "template": "Nygard",
+      "status": "Accepted Partial supersede of [6. Use Auth0 for authentication](0006-use-auth0-for-authentication.md)",
+      "firstCommit": "2020-02-10T15:51:12Z",
+      "lastCommit": "2020-02-10T15:51:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30f75105df2959bd85f00948f4921c17b4cf5efe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0019-use-data-migrations-to-update-live-data.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-09T14:55:13Z",
+      "lastCommit": "2020-04-09T14:55:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "74cd7334be447d6bd347a466265649a2f75a04aa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0022-use-govuk-paas-for-hosting.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [8. use-heroku-for-hosting](0008-use-heroku-for-hosting.md)",
+      "firstCommit": "2020-10-06T11:43:59Z",
+      "lastCommit": "2020-10-06T11:43:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d2f3e5831577283847a257c641f348eb92a0fde3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-dotenv-for-managing-environment-variables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-21T11:21:23Z",
+      "lastCommit": "2019-10-21T11:21:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3199f25ffa3e2999533ea1b24c10f0343b828e18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0027-use-github-actions-for-continuous-integration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-04T12:56:19Z",
+      "lastCommit": "2021-01-04T12:56:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "affdcc58ba0750fbfd72a643433fa4153c76b739"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0014-use-coveralls-for-monitoring-test-coverage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-20T11:33:20Z",
+      "lastCommit": "2019-12-20T11:33:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0a42ad6043720cbe9ebae6079ecaba83d85ea038"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0019-use-public-activity-gem.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-16T10:47:45Z",
+      "lastCommit": "2020-04-16T10:47:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cd8c33d8878034cce8bcba634c4091cbb1a9507b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-standard-rb.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-21T11:21:23Z",
+      "lastCommit": "2019-10-21T11:21:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3199f25ffa3e2999533ea1b24c10f0343b828e18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0023-use-docker-hub-in-deployments.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-06T11:43:59Z",
+      "lastCommit": "2020-10-06T11:43:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38322dbd4fccfef25877d6b0d530f10bce140a18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-use-sidekiq-and-redis-to-send-emails.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-25T15:57:48Z",
+      "lastCommit": "2019-11-25T15:57:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "535dc6b5fcb94b0de3ee9fbf4f0a6b80ecd4a3f0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0016-use-brakeman-as-a-static-code-analyser.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-03T11:22:06Z",
+      "lastCommit": "2020-03-03T11:22:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91ebb8bb00fffc42b5b3980989d158f0eebe1ac1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0033-move-towards-more-continuous-delivery.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-11-15T09:37:59Z",
+      "lastCommit": "2021-11-15T09:37:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "044550880fb9bf3166a5f76031c894cc5e9bef47"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-bullet-to-catch-nplus1-queries.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-21T11:21:23Z",
+      "lastCommit": "2019-10-21T11:21:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3199f25ffa3e2999533ea1b24c10f0343b828e18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0021-use-lograge-gem.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-18T10:07:59Z",
+      "lastCommit": "2020-06-18T10:07:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "599a2d5a07fee0606182cba5c67281c4fb0a08f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-21T11:21:23Z",
+      "lastCommit": "2019-10-21T11:21:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3199f25ffa3e2999533ea1b24c10f0343b828e18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0018-use-a-server-side-session-store.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-18T17:24:28Z",
+      "lastCommit": "2020-03-18T17:24:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f467951e0e583bb33064fe2a2b226975a2c93557"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-use-a-changelog-for-tracking-changes-in-a-release.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-08T09:51:49Z",
+      "lastCommit": "2019-11-11T11:34:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d9637bc456eb893244dfc67c6436f25147072a3e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f20c4af0c3bd885c2b0fa7dcee835f5dfa111dfa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-use-pull-request-templates.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-21T11:21:23Z",
+      "lastCommit": "2019-10-21T11:21:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3199f25ffa3e2999533ea1b24c10f0343b828e18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-21T11:21:23Z",
+  "lastAdrCommit": "2021-11-15T09:37:59Z",
+  "firstCommit": "2019-10-21T11:21:23Z",
+  "lastCommit": "2022-01-18T15:26:31Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0e1a490a0f4640487b009c78aaf17e339ee4cfa7"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d2f3e5831577283847a257c641f348eb92a0fde3",
+        "c2c1b09a2c09288ee0bae5307ffc7079d6595be0",
+        "38322dbd4fccfef25877d6b0d530f10bce140a18",
+        "6aac389bb4251b423bc6620df7bbf60b7155c553",
+        "7116075118b9f1ae3f8260db1b5d8cf1b104de65",
+        "bffe2a912575fbaaef5aa5f961934d612cbba60b"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "044550880fb9bf3166a5f76031c894cc5e9bef47",
+        "a1520fbec33f47c80e5ec4aeaf51703dc15cce40"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f467951e0e583bb33064fe2a2b226975a2c93557",
+        "d9637bc456eb893244dfc67c6436f25147072a3e",
+        "3199f25ffa3e2999533ea1b24c10f0343b828e18",
+        "6aa89db9bf6b63031d6117e5b6d509e200ce7886",
+        "4c5bfe0ec48d7595d5c94a0efbdd2cca7264f90f",
+        "74cd7334be447d6bd347a466265649a2f75a04aa",
+        "e8855b578e63a1ee10321477f2f91d9e809ac328",
+        "91ebb8bb00fffc42b5b3980989d158f0eebe1ac1",
+        "30f75105df2959bd85f00948f4921c17b4cf5efe",
+        "7c539c4b44c55771987f654e91b365158ea39880",
+        "0a42ad6043720cbe9ebae6079ecaba83d85ea038",
+        "535dc6b5fcb94b0de3ee9fbf4f0a6b80ecd4a3f0"
+      ],
+      "numberOfCommits": 12
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d54d485d53a10b8856960c35fa72d2c1827248f9",
+        "0dcd558bedae0c0cf1869bc48d103c94ac93667b",
+        "2f1b3e2da49768074411df063d9a698d40a588e9",
+        "8c4b5761341f824080b8d8cff25817e8ff285000"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f20c4af0c3bd885c2b0fa7dcee835f5dfa111dfa",
+        "9976991479307ae358e2a70d6c3d3935ca6ec3d3",
+        "cd8c33d8878034cce8bcba634c4091cbb1a9507b",
+        "599a2d5a07fee0606182cba5c67281c4fb0a08f6"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b18c352e9f1482ba2bc2dbf946a27b3b6f18c8dd",
+        "affdcc58ba0750fbfd72a643433fa4153c76b739",
+        "8187bcb1119ef0e50cedaec8b2bd2e37b271b6e1"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "215c9b45070eaf9d9746beb7131e3c2e60f9b282"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "65a244c63c16c0d28c06cfdab7382187bbed6c03"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "edc76a2f7c70c503f1cfdbecf8a423ff29947a43"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

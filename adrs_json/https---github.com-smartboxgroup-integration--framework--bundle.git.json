@@ -1,0 +1,135 @@
+{
+  "repositoryUrl": "https://github.com/smartboxgroup/integration-framework-bundle.git",
+  "crawlDateTime": "2022-01-18T21:09:38.6501",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "Docs/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "Docs/architecture/decisions",
+      "path": "001-amqp.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-21T15:24:32Z",
+      "lastCommit": "2020-05-11T08:03:50Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d708d1c2b31e8f00a1314833d6bbe771ea4a7667"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51089d92eeab1b1c0fb9dc0b9b9fe3bd39854803",
+            "ed89e9bc0c8411727a5b28cbc7576d9d138e6359"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64b0df0f2b6a6d28876ec1558d13f0c0ff1efb74"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Docs/architecture/decisions",
+      "path": "002-deprecate-response-fallback.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-08T11:00:18Z",
+      "lastCommit": "2020-05-11T09:11:23Z",
+      "numberOfCommits": 9,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c08c67ae1c70e6c75213788fac876aef7aeaa57"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77fab877a9daecf3c33afaee9e1d73d21970155c",
+            "814e4b7b1d2b3ff17d6752016b5c74b1e8f3ae50",
+            "b3aabc61aea210f4298d91579a850bf67c48f3fa",
+            "a4ad816c017ff05afaa59f78943ecfbe349a9608",
+            "5ae5572fef41c5075a55e8268a93b10ccd6a94df",
+            "b18e909ef20e8bcc3e4419dd9958a0f280c16b5e",
+            "68259b15b125fde42ee9da5b01563b27074c7c08"
+          ],
+          "numberOfCommits": 7
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64b0df0f2b6a6d28876ec1558d13f0c0ff1efb74"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-21T15:24:32Z",
+  "lastAdrCommit": "2020-05-11T09:11:23Z",
+  "firstCommit": "2015-11-23T13:55:10Z",
+  "lastCommit": "2021-07-27T09:51:07Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9c08c67ae1c70e6c75213788fac876aef7aeaa57",
+        "d708d1c2b31e8f00a1314833d6bbe771ea4a7667"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "77fab877a9daecf3c33afaee9e1d73d21970155c",
+        "814e4b7b1d2b3ff17d6752016b5c74b1e8f3ae50",
+        "b3aabc61aea210f4298d91579a850bf67c48f3fa",
+        "a4ad816c017ff05afaa59f78943ecfbe349a9608",
+        "5ae5572fef41c5075a55e8268a93b10ccd6a94df",
+        "b18e909ef20e8bcc3e4419dd9958a0f280c16b5e",
+        "68259b15b125fde42ee9da5b01563b27074c7c08"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "51089d92eeab1b1c0fb9dc0b9b9fe3bd39854803",
+        "ed89e9bc0c8411727a5b28cbc7576d9d138e6359"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "64b0df0f2b6a6d28876ec1558d13f0c0ff1efb74"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

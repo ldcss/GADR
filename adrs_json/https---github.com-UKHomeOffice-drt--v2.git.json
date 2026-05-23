@@ -1,0 +1,292 @@
+{
+  "repositoryUrl": "https://github.com/UKHomeOffice/drt-v2.git",
+  "crawlDateTime": "2022-01-18T21:08:56.505907",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0013-use-lihaoyi-s-autowire.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-03T08:48:48Z",
+      "lastCommit": "2017-04-03T08:48:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-bring-advance-passenger-info-code-into-main-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-03T08:48:48Z",
+      "lastCommit": "2017-04-03T08:48:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0011-use-play.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-03T08:48:48Z",
+      "lastCommit": "2017-04-03T08:48:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-use-scala-reactjs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-03T08:48:48Z",
+      "lastCommit": "2017-04-03T08:48:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-use-renjin.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-03T08:48:48Z",
+      "lastCommit": "2017-04-03T08:48:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-physical-deployment-one-jvm-per-port.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-03T08:48:48Z",
+      "lastCommit": "2017-04-03T08:48:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-scalajs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-03T08:48:48Z",
+      "lastCommit": "2017-04-03T08:48:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-scala.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-03T08:48:48Z",
+      "lastCommit": "2017-04-03T08:48:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0012-serialize-akka-persistence-with-protobuf.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-03T08:48:48Z",
+      "lastCommit": "2017-04-03T08:48:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-use-akka-persistence.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-03T08:48:48Z",
+      "lastCommit": "2017-05-26T15:58:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "862d56f9e3c5419eb1e1e507011ee5cfad4355cf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-use-diode.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-03T08:48:48Z",
+      "lastCommit": "2017-04-03T08:48:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-03T08:48:48Z",
+      "lastCommit": "2017-04-03T08:48:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-use-akka-streams.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-03T08:48:48Z",
+      "lastCommit": "2017-04-03T08:48:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-04-03T08:48:48Z",
+  "lastAdrCommit": "2017-05-26T15:58:43Z",
+  "firstCommit": "2015-02-06T20:02:58Z",
+  "lastCommit": "2022-01-12T11:44:14Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3f0d04ff80d09122c1b7b08ce857ebbf257bff75"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "862d56f9e3c5419eb1e1e507011ee5cfad4355cf"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

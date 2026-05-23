@@ -1,0 +1,292 @@
+{
+  "repositoryUrl": "https://github.com/jchaudhu/SAP-Cloud.git",
+  "crawlDateTime": "2022-01-18T19:39:07.467885",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "download-cache.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-03-15T09:37:45Z",
+      "lastCommit": "2018-03-15T09:37:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7e69832780a12cc70531581b3348f68c03e8b615"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "artifacts-deployment.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-20T13:04:20Z",
+      "lastCommit": "2018-03-15T09:37:45Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20bf37acdac8889f8191ad81956d6f67c17a726b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0d4e2816becc31329d945ffe92b0dd38d3457d4d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7e69832780a12cc70531581b3348f68c03e8b615"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "zero-downtime-deployment-for-end-to-end-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-19T07:51:06Z",
+      "lastCommit": "2018-10-19T08:56:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "49a7e3714802b74fe7ce570953ed282bb5848884"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "35543126504fb3cbd02275eca978df63348f7159"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "support-kubernetes.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-08-30T10:59:46Z",
+      "lastCommit": "2018-08-30T10:59:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6577fc089ef66185fefd4b5197b037c0bee25ce1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "project-structure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-28T07:35:18Z",
+      "lastCommit": "2019-08-13T09:27:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b597c503d3d504ab40b31399b47b89fcc31579c9",
+            "5498f51c68f1f90268bcf41e554c1912c760537d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "ignore-end-to-end-tests-on-non-produtive-branches.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-19T08:56:44Z",
+      "lastCommit": "2018-10-19T08:56:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "49a7e3714802b74fe7ce570953ed282bb5848884"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "sidecar-container.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-26T15:47:11Z",
+      "lastCommit": "2019-03-26T15:47:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5e86a75ac39febe7eea0a3b3bdfc3018d671ce77"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "unify-build-stage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-11T07:51:56Z",
+      "lastCommit": "2018-09-11T07:51:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3cfe3201b297188449720b705ae13b6b4e21d8b1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "node-package-lock.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-08T12:00:30Z",
+      "lastCommit": "2019-01-08T12:00:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc3547db482bb75c4ca9613929149e0a9618d42f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "cx-server-in-container.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-05-23T06:48:35Z",
+      "lastCommit": "2018-05-23T06:48:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f4474150977e2a2b51b4230a5e2120c82ba10c30"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "automatic-release.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-03-09T16:00:10Z",
+      "lastCommit": "2018-03-09T16:00:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20bf37acdac8889f8191ad81956d6f67c17a726b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-02-20T13:04:20Z",
+  "lastAdrCommit": "2019-08-13T09:27:09Z",
+  "firstCommit": "2017-08-21T19:22:50Z",
+  "lastCommit": "2020-02-22T09:50:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b597c503d3d504ab40b31399b47b89fcc31579c9",
+        "5498f51c68f1f90268bcf41e554c1912c760537d",
+        "3cfe3201b297188449720b705ae13b6b4e21d8b1",
+        "49a7e3714802b74fe7ce570953ed282bb5848884",
+        "20bf37acdac8889f8191ad81956d6f67c17a726b",
+        "f4474150977e2a2b51b4230a5e2120c82ba10c30",
+        "fc3547db482bb75c4ca9613929149e0a9618d42f"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "35543126504fb3cbd02275eca978df63348f7159",
+        "5e86a75ac39febe7eea0a3b3bdfc3018d671ce77"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0d4e2816becc31329d945ffe92b0dd38d3457d4d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7e69832780a12cc70531581b3348f68c03e8b615",
+        "6577fc089ef66185fefd4b5197b037c0bee25ce1"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

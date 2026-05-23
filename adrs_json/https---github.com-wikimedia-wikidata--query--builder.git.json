@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/wikimedia/wikidata-query-builder.git",
+  "crawlDateTime": "2022-01-18T19:48:05.917659",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-toolforge-kubernetes-for-test-system.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-10-01T08:19:12Z",
+      "lastCommit": "2020-10-01T08:19:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8d3743e97ca25876ccb9048783df399c608189c1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-01T08:19:12Z",
+  "lastAdrCommit": "2020-10-01T08:19:12Z",
+  "firstCommit": "2020-09-22T13:36:54Z",
+  "lastCommit": "2022-01-18T15:55:58Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8d3743e97ca25876ccb9048783df399c608189c1"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

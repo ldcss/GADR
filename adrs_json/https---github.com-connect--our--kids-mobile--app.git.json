@@ -1,0 +1,72 @@
+{
+  "repositoryUrl": "https://github.com/connect-our-kids/mobile-app.git",
+  "crawlDateTime": "2022-01-18T18:38:00.817496",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "."
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": ".",
+      "path": "ADR.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-06-19T15:58:45Z",
+      "lastCommit": "2019-06-19T15:58:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8c84854d55a8c342efffef19a3ea7919cf19fb8b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": ".",
+      "path": "ADR1.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2019-06-21T00:02:56Z",
+      "lastCommit": "2019-06-21T00:02:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2de95e8c29a81d27b44bdcf04391972427bfa271"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-06-19T15:58:45Z",
+  "lastAdrCommit": "2019-06-21T00:02:56Z",
+  "firstCommit": "2019-06-12T15:39:04Z",
+  "lastCommit": "2021-01-05T14:36:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2de95e8c29a81d27b44bdcf04391972427bfa271"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8c84854d55a8c342efffef19a3ea7919cf19fb8b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

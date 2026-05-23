@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/xmlking/grpc-starter-kit.git",
+  "crawlDateTime": "2022-01-18T17:31:31.418316",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "timestamp-format.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-16T19:09:30Z",
+      "lastCommit": "2021-01-16T19:09:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41702f6dc06ed7137617af7210edca2eb339bfeb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "monorepo-vs-multirepo.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-16T19:09:30Z",
+      "lastCommit": "2021-01-16T19:09:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41702f6dc06ed7137617af7210edca2eb339bfeb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-16T19:09:30Z",
+  "lastAdrCommit": "2021-01-16T19:09:30Z",
+  "firstCommit": "2020-06-14T19:11:07Z",
+  "lastCommit": "2022-01-16T19:02:55Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "41702f6dc06ed7137617af7210edca2eb339bfeb"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

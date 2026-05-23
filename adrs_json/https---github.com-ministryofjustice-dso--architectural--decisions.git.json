@@ -1,0 +1,94 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/dso-architectural-decisions.git",
+  "crawlDateTime": "2022-01-18T21:18:36.038426",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-rebuild-nomis-in-azure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-11T11:09:14Z",
+      "lastCommit": "2019-10-11T11:09:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26f7f428a9a8b9af77dd15110cf0b11ba1fc89d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-rebuild-nomis-in-azure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-12T13:03:58Z",
+      "lastCommit": "2019-09-12T13:03:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1d889d083a68ea3fc49e1ee57809b08eea464d3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-12T12:55:35Z",
+      "lastCommit": "2019-08-12T12:58:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b79440eda457d283dde763881ccfb5fc4e924186",
+            "4f52faebcc49b500cc8f733916bb967693123096"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-12T12:55:35Z",
+  "lastAdrCommit": "2019-10-11T11:09:14Z",
+  "firstCommit": "2019-08-12T12:55:35Z",
+  "lastCommit": "2019-12-05T16:21:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "26f7f428a9a8b9af77dd15110cf0b11ba1fc89d6",
+        "b79440eda457d283dde763881ccfb5fc4e924186",
+        "4f52faebcc49b500cc8f733916bb967693123096"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d1d889d083a68ea3fc49e1ee57809b08eea464d3"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

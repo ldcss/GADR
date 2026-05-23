@@ -1,0 +1,145 @@
+{
+  "repositoryUrl": "https://github.com/npryce/pottery.git",
+  "crawlDateTime": "2022-01-18T18:55:39.862218",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-sherd-files-have-unique-ids-to-make-merging-histories-easy.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [4. Store shards in time-stamped directories and files](0004-store-shards-in-time-stamped-directories-and-files.md)",
+      "firstCommit": "2018-08-23T10:17:18Z",
+      "lastCommit": "2018-08-23T10:17:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1066da336796c0aa1106425c84e75f640054d19"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-pottery-shards-are-markdown-text.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-19T09:59:43Z",
+      "lastCommit": "2018-08-19T09:59:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f1b2d3da4664873d61a2dcd789ba1bdc23b93e84"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-store-shards-in-time-stamped-directories-and-files.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [5. Sherd files have unique IDs to make merging histories easy](0005-sherd-files-have-unique-ids-to-make-merging-histories-easy.md)",
+      "firstCommit": "2018-08-19T09:59:43Z",
+      "lastCommit": "2018-08-23T10:17:18Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f1b2d3da4664873d61a2dcd789ba1bdc23b93e84",
+            "b1066da336796c0aa1106425c84e75f640054d19"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-bootstrap-by-copying-the-adr-tools-source-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-19T09:59:43Z",
+      "lastCommit": "2018-08-19T09:59:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f1b2d3da4664873d61a2dcd789ba1bdc23b93e84"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-provide-a-hook-for-different-types-of-sherd.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-23T10:17:18Z",
+      "lastCommit": "2018-08-23T10:17:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1066da336796c0aa1106425c84e75f640054d19"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-19T09:59:43Z",
+      "lastCommit": "2018-08-19T09:59:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f1b2d3da4664873d61a2dcd789ba1bdc23b93e84"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-19T09:59:43Z",
+  "lastAdrCommit": "2018-08-23T10:17:18Z",
+  "firstCommit": "2018-08-17T16:44:48Z",
+  "lastCommit": "2018-10-08T17:24:32Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f1b2d3da4664873d61a2dcd789ba1bdc23b93e84",
+        "b1066da336796c0aa1106425c84e75f640054d19"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

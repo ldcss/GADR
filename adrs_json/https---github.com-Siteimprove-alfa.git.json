@@ -1,0 +1,115 @@
+{
+  "repositoryUrl": "https://github.com/Siteimprove/alfa.git",
+  "crawlDateTime": "2022-01-18T20:41:30.847881",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-002.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-05-17T11:21:13Z",
+      "lastCommit": "2018-05-17T16:17:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aaed41caffa9101d2e13bf372474909ae1fe74fe",
+            "8393bc6497f668dfb5cdddc5adb987aa77d1e135",
+            "50038320f80c1bb85e1f6bf9ccd5eda20973ab9d"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-003.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-05-18T14:44:59Z",
+      "lastCommit": "2019-09-13T08:15:50Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0b1e6d8040882bd8b05eaa9146a2d85d9c0b7dcb",
+            "90d62608eb67e3749131ad85327a8d5d20c51ada",
+            "3b4329a96ab0c180fe6027cfb92be8a9270406b8",
+            "b643a7709cf366bba65c078e365e35dc630aab6e"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-004.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2019-03-18T14:01:54Z",
+      "lastCommit": "2019-09-13T08:15:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3b4329a96ab0c180fe6027cfb92be8a9270406b8",
+            "b643a7709cf366bba65c078e365e35dc630aab6e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-05-16T11:25:50Z",
+      "lastCommit": "2018-05-16T11:25:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bd6b07607a2c76c8a7fd5830836dc720dcdb21e3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-16T11:25:50Z",
+  "lastAdrCommit": "2019-09-13T08:15:50Z",
+  "firstCommit": "2017-11-21T20:53:52Z",
+  "lastCommit": "2022-01-18T16:02:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "aaed41caffa9101d2e13bf372474909ae1fe74fe",
+        "0b1e6d8040882bd8b05eaa9146a2d85d9c0b7dcb",
+        "bd6b07607a2c76c8a7fd5830836dc720dcdb21e3",
+        "8393bc6497f668dfb5cdddc5adb987aa77d1e135",
+        "90d62608eb67e3749131ad85327a8d5d20c51ada",
+        "3b4329a96ab0c180fe6027cfb92be8a9270406b8",
+        "50038320f80c1bb85e1f6bf9ccd5eda20973ab9d",
+        "b643a7709cf366bba65c078e365e35dc630aab6e"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

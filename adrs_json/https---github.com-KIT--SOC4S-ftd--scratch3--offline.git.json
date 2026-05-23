@@ -1,0 +1,413 @@
+{
+  "repositoryUrl": "https://github.com/KIT-SOC4S/ftd-scratch3-offline.git",
+  "crawlDateTime": "2022-01-18T19:05:52.910965",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 20,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-use-arduino-cli-in-offline-mode.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0014-only-a-single-scratch-hat-is-supported.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-java-as-language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0011-implement-complex-scratch-functions-in-a-helper-function.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-use-multiple-projects.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0012-generate-simple-scratch-statements-in-java-and-don-t-call-a-helper-function.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0016-don-t-support-scratch-sounds-and-sound-related-blocks.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-use-cpp-to-interface-with-the-ftduino.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0020-use-json-for-scratch-to-local-server-communication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-02T19:11:56Z",
+      "lastCommit": "2019-11-02T19:11:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "424f9d3cf788081038f815bf8bac36a4aa047656"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0019-allow-direct-input-of-project-json-without-a-sb3-file.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [8. Use scratch saves as input for conversion to C](0008-use-scratch-saves-as-input-for-conversion-to-c.md)",
+      "firstCommit": "2019-10-31T23:21:32Z",
+      "lastCommit": "2019-10-31T23:21:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f0f760238c1b8427a75c99c16396e038236fd72"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0010-use-travis-ci-for-continuous-integration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-use-scratch-saves-as-input-for-conversion-to-c.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [19. Allow direct input of project.json without a .sb3 file](0019-allow-direct-input-of-project-json-without-a-sb3-file.md)",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-31T23:21:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f0f760238c1b8427a75c99c16396e038236fd72",
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0018-conversion-of-unknown-scratch-functions-to-c-will-fail.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0013-communicate-with-the-scratch-app-via-a-local-web-server.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0009-use-jackson-to-read-json-files.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0017-don-t-support-scratch-images-sprites-and-image-sprite-related-blocks.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0015-use-floats-for-storing-numbers-not-doubles-as-scratch-does.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-use-gradle-as-build-system.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-19T19:27:24Z",
+      "lastCommit": "2019-10-19T19:27:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "66b56c9b18d2e9757d7c18592d2a573ff3d4908a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-use-arduino-cli-to-upload-compile-code-for-the-ftduino.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T19:19:01Z",
+      "lastCommit": "2019-10-20T19:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48495613e35a4c81760f0901552d37a171b20cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-19T19:27:24Z",
+  "lastAdrCommit": "2019-11-02T19:11:56Z",
+  "firstCommit": "2019-09-09T23:16:10Z",
+  "lastCommit": "2020-11-09T22:06:57Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "66b56c9b18d2e9757d7c18592d2a573ff3d4908a",
+        "424f9d3cf788081038f815bf8bac36a4aa047656",
+        "5f0f760238c1b8427a75c99c16396e038236fd72",
+        "48495613e35a4c81760f0901552d37a171b20cf3"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

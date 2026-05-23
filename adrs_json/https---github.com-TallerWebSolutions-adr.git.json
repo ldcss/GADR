@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/TallerWebSolutions/adr.git",
+  "crawlDateTime": "2022-01-18T17:28:59.015726",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0002-typescript-for-programming-language.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-02-05T21:32:06Z",
+      "lastCommit": "2020-02-05T21:32:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "582970f913cfb175321763af9e7ca116cc3ba933"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-prettier-for-code-formatting.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-05T20:46:54Z",
+      "lastCommit": "2020-02-05T20:46:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7b15121d4c98c3ad14c7da8e19e8fa5e2cff7da7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-05T20:46:54Z",
+  "lastAdrCommit": "2020-02-05T21:32:06Z",
+  "firstCommit": "2020-02-04T21:44:30Z",
+  "lastCommit": "2021-01-05T12:57:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7b15121d4c98c3ad14c7da8e19e8fa5e2cff7da7",
+        "582970f913cfb175321763af9e7ca116cc3ba933"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

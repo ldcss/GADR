@@ -1,0 +1,124 @@
+{
+  "repositoryUrl": "https://github.com/lcarsde/lcarsde.git",
+  "crawlDateTime": "2022-01-18T17:43:51.193164",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr/adrs"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr/adrs",
+      "path": "display-server-library.md",
+      "template": "Madr",
+      "status": "accepted <!-- optional -->",
+      "firstCommit": "2020-09-17T16:10:33Z",
+      "lastCommit": "2020-09-17T16:10:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe36238520eaa31ad12b46dbbf6eb89583185066"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr/adrs",
+      "path": "language-for-wm.md",
+      "template": "Madr",
+      "status": "accepted <!-- optional -->",
+      "firstCommit": "2020-09-17T16:10:33Z",
+      "lastCommit": "2020-09-17T16:10:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe36238520eaa31ad12b46dbbf6eb89583185066"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr/adrs",
+      "path": "use-of-colors.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-17T16:10:33Z",
+      "lastCommit": "2020-09-17T16:10:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe36238520eaa31ad12b46dbbf6eb89583185066"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr/adrs",
+      "path": "identification-of-special-tool-windows.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-18T07:19:35Z",
+      "lastCommit": "2020-09-18T07:48:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bbedfe008497d16cdc788084f7668c6dc004207b",
+            "6f1f1c3e9505645e796659e1b7fb8633368d5e85"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr/adrs",
+      "path": "ipc-between-wm-and-menu.md",
+      "template": "Madr",
+      "status": "accepted <!-- optional -->",
+      "firstCommit": "2020-09-17T16:10:33Z",
+      "lastCommit": "2020-09-17T16:10:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe36238520eaa31ad12b46dbbf6eb89583185066"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-17T16:10:33Z",
+  "lastAdrCommit": "2020-09-18T07:48:23Z",
+  "firstCommit": "2020-09-17T06:17:11Z",
+  "lastCommit": "2021-09-25T11:01:00Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bbedfe008497d16cdc788084f7668c6dc004207b",
+        "6f1f1c3e9505645e796659e1b7fb8633368d5e85",
+        "fe36238520eaa31ad12b46dbbf6eb89583185066"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

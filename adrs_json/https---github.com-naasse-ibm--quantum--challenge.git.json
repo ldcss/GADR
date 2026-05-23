@@ -1,0 +1,93 @@
+{
+  "repositoryUrl": "https://github.com/naasse/ibm-quantum-challenge.git",
+  "crawlDateTime": "2022-01-18T18:20:00.398533",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "documentation"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "documentation",
+      "path": "adr-1-database-choice.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-20T01:41:38Z",
+      "lastCommit": "2020-08-22T05:15:04Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "36ee01e6c2c0e96a289ba0ec32948fcf323212dd",
+            "1a359ca12a8060b7a5613c6fb3bec8639c171a26",
+            "0c2e25bf2105baa63c1cf352ddc41d7721d72af4",
+            "bdba5db9b037dcaeb56a56f83bd0fe6228d204fb"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation",
+      "path": "adr-3-frontend-framework-choice.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-22T05:15:04Z",
+      "lastCommit": "2020-08-22T05:15:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a359ca12a8060b7a5613c6fb3bec8639c171a26"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation",
+      "path": "adr-2-nodejs-framework-choice.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-20T02:28:55Z",
+      "lastCommit": "2020-08-22T05:15:04Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a359ca12a8060b7a5613c6fb3bec8639c171a26",
+            "af8cc0fb8083fe1fd2a26a19212f80089d5ab005",
+            "30fbe0cc988a800faa7d1058414a184abe2e9ba1"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-20T01:41:38Z",
+  "lastAdrCommit": "2020-08-22T05:15:04Z",
+  "firstCommit": "2020-08-19T12:35:36Z",
+  "lastCommit": "2020-09-16T02:42:36Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "36ee01e6c2c0e96a289ba0ec32948fcf323212dd",
+        "1a359ca12a8060b7a5613c6fb3bec8639c171a26",
+        "0c2e25bf2105baa63c1cf352ddc41d7721d72af4",
+        "af8cc0fb8083fe1fd2a26a19212f80089d5ab005",
+        "bdba5db9b037dcaeb56a56f83bd0fe6228d204fb",
+        "30fbe0cc988a800faa7d1058414a184abe2e9ba1"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "repositoryUrl": "https://github.com/hyprnz/terraform-aws-s3-static-website-module.git",
+  "crawlDateTime": "2022-01-18T20:57:09.982062",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-optionally-create-route53-resource.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-20T20:42:00Z",
+      "lastCommit": "2020-01-20T20:42:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "977cb8d2fd757bc18cec6fa76a1ec4ea2bcd34f0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-dual-support-for-terraform-version-0-11-and-0-12.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-21T20:00:58Z",
+      "lastCommit": "2020-01-21T20:00:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "37118f4e26f9a0ae0e54753ebbac52a657aeb168"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-designed-to-require-a-tls-certificate-dependency.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-20T20:42:00Z",
+      "lastCommit": "2020-01-20T20:42:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "977cb8d2fd757bc18cec6fa76a1ec4ea2bcd34f0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-20T20:42:00Z",
+      "lastCommit": "2020-01-20T20:42:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "977cb8d2fd757bc18cec6fa76a1ec4ea2bcd34f0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-20T20:42:00Z",
+  "lastAdrCommit": "2020-01-21T20:00:58Z",
+  "firstCommit": "2020-01-14T00:02:58Z",
+  "lastCommit": "2020-11-18T03:16:30Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "37118f4e26f9a0ae0e54753ebbac52a657aeb168",
+        "977cb8d2fd757bc18cec6fa76a1ec4ea2bcd34f0"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

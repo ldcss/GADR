@@ -1,0 +1,178 @@
+{
+  "repositoryUrl": "https://github.com/serverlessmike/terraform.git",
+  "crawlDateTime": "2022-01-18T17:36:57.24703",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/ADRs"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "Amazon-Linux.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-15T20:50:03Z",
+      "lastCommit": "2020-09-15T20:50:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32c7b49f45e62c2cf3281e57de7d835cfffc8f89"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "Scale-and-consolidate.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-15T20:50:03Z",
+      "lastCommit": "2020-09-15T20:50:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32c7b49f45e62c2cf3281e57de7d835cfffc8f89"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "Use-ADRs.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-15T20:50:03Z",
+      "lastCommit": "2020-09-15T20:50:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32c7b49f45e62c2cf3281e57de7d835cfffc8f89"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "Network-Controls.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-15T20:50:03Z",
+      "lastCommit": "2020-09-15T20:50:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32c7b49f45e62c2cf3281e57de7d835cfffc8f89"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "Automation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-15T20:50:03Z",
+      "lastCommit": "2020-09-15T20:50:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32c7b49f45e62c2cf3281e57de7d835cfffc8f89"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "SSH-and-RDP.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-15T20:50:03Z",
+      "lastCommit": "2020-09-15T20:50:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32c7b49f45e62c2cf3281e57de7d835cfffc8f89"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "OS-Patching.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-15T20:50:03Z",
+      "lastCommit": "2020-09-15T20:50:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32c7b49f45e62c2cf3281e57de7d835cfffc8f89"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "AMIs.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-15T20:50:03Z",
+      "lastCommit": "2020-09-15T20:50:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32c7b49f45e62c2cf3281e57de7d835cfffc8f89"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-15T20:50:03Z",
+  "lastAdrCommit": "2020-09-15T20:50:03Z",
+  "firstCommit": "2020-09-10T21:09:51Z",
+  "lastCommit": "2020-09-15T20:50:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "32c7b49f45e62c2cf3281e57de7d835cfffc8f89"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

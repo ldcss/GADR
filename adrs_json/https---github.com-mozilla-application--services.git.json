@@ -1,0 +1,147 @@
+{
+  "repositoryUrl": "https://github.com/mozilla/application-services.git",
+  "crawlDateTime": "2022-01-18T20:47:30.466637",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-update-logins-api.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-06-17T20:58:48Z",
+      "lastCommit": "2021-06-17T20:58:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ad3b312cb025b27464a93b789752d2777008ac8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-database-corruption.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-06-17T16:03:48Z",
+      "lastCommit": "2021-06-17T16:03:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ef26ed438cfae226cd4b61ea4cbc79424f205141"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-early-startup-experiments.md",
+      "template": "Madr",
+      "status": "rejected",
+      "firstCommit": "2021-09-15T16:05:48Z",
+      "lastCommit": "2021-09-15T16:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b006425531e85a507987dba8d29c65dea3d11104"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-06-17T20:58:48Z",
+      "lastCommit": "2021-06-17T20:58:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ad3b312cb025b27464a93b789752d2777008ac8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-swift-packaging.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-07-22T05:13:44Z",
+      "lastCommit": "2021-07-22T05:13:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf35f6ccd6f8029f1a0df5f2e2a1b8fe0e7949b5",
+            "0d84b1407099d3a0469247be13b9ec397a22c76d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-06-17T16:03:48Z",
+  "lastAdrCommit": "2021-09-15T16:05:48Z",
+  "firstCommit": "2018-03-05T18:39:51Z",
+  "lastCommit": "2022-01-18T02:54:01Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6ad3b312cb025b27464a93b789752d2777008ac8"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b006425531e85a507987dba8d29c65dea3d11104"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ef26ed438cfae226cd4b61ea4cbc79424f205141"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cf35f6ccd6f8029f1a0df5f2e2a1b8fe0e7949b5",
+        "0d84b1407099d3a0469247be13b9ec397a22c76d"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

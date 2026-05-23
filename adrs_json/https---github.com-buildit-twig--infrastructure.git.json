@@ -1,0 +1,153 @@
+{
+  "repositoryUrl": "https://github.com/buildit/twig-infrastructure.git",
+  "crawlDateTime": "2022-01-18T22:23:00.04254",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-build-and-deploy-pipelines-separate.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-05T22:24:56Z",
+      "lastCommit": "2019-02-19T20:09:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a39fb4b0f78f55f224baafec063a30385e7fc7ac",
+            "8f2a77c1b6809e37b5272b398ebfb2a6ee4901ee"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-use-ecs-fargate-host-type.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-19T20:09:13Z",
+      "lastCommit": "2019-02-19T20:09:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a39fb4b0f78f55f224baafec063a30385e7fc7ac"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-aws-bare-metal-rig-approach.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [3. Use AWS CodePipeline and CodeBuild instead of Travis](0003-use-aws-codepipeline-and-codebuild-instead-of-travis.md)",
+      "firstCommit": "2017-10-09T20:27:30Z",
+      "lastCommit": "2017-10-09T20:27:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "66dcb6f47331d599a40625c06e42ecbabb3d0c84"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-use-cloudwatch-logs-for-log-aggregation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-05T22:24:56Z",
+      "lastCommit": "2019-02-05T22:24:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f2a77c1b6809e37b5272b398ebfb2a6ee4901ee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-start-with-aws-codepipeline-and-codebuild.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [2. Use AWS Bare Metal Rig approach](0002-use-aws-bare-metal-rig-approach.md)",
+      "firstCommit": "2017-10-09T20:27:30Z",
+      "lastCommit": "2017-10-09T20:27:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "66dcb6f47331d599a40625c06e42ecbabb3d0c84"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-09T20:27:30Z",
+      "lastCommit": "2017-10-09T20:27:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "66dcb6f47331d599a40625c06e42ecbabb3d0c84"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-10-09T20:27:30Z",
+  "lastAdrCommit": "2019-02-19T20:09:13Z",
+  "firstCommit": "2017-10-09T20:27:30Z",
+  "lastCommit": "2019-02-22T00:50:55Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a39fb4b0f78f55f224baafec063a30385e7fc7ac",
+        "8f2a77c1b6809e37b5272b398ebfb2a6ee4901ee"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "66dcb6f47331d599a40625c06e42ecbabb3d0c84"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

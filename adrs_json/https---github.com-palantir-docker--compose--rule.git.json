@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/palantir/docker-compose-rule.git",
+  "crawlDateTime": "2022-01-18T18:55:30.133809",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-move-waiting-code-into-a-seperate-concern.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-03-08T09:47:38Z",
+      "lastCommit": "2016-03-08T09:47:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "afa1cf92d7c2dc2e050657285c35d42813b761a0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-03-08T09:47:38Z",
+      "lastCommit": "2016-03-08T09:47:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "afa1cf92d7c2dc2e050657285c35d42813b761a0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-03-08T09:47:38Z",
+  "lastAdrCommit": "2016-03-08T09:47:38Z",
+  "firstCommit": "2016-02-29T16:27:49Z",
+  "lastCommit": "2022-01-18T18:45:45Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "afa1cf92d7c2dc2e050657285c35d42813b761a0"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

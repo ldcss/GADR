@@ -1,0 +1,176 @@
+{
+  "repositoryUrl": "https://github.com/latextemplates/scientific-thesis-template.git",
+  "crawlDateTime": "2022-01-18T21:12:24.390512",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-minted-for-code-highlithing.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-03-08T09:50:31Z",
+      "lastCommit": "2020-04-30T06:14:34Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ced0928a3dd7fd1eba10677480e6dd7e0d35974a",
+            "c409ddd353585a94bb74a3f0ec02e9441cfd18f5"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d7531fa57b6a96d3bd002f264acef89731664af"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-offer-tex-files-instead-of-a-package.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-19T00:21:59Z",
+      "lastCommit": "2018-01-09T13:54:56Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03542e4baf814c9f1b0fb316bb9a68643848d1b7",
+            "1065d8a41f09c1e1f06c21c265346ffbb19aa7b6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-pdflatex-as-default.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-03T09:41:20Z",
+      "lastCommit": "2020-09-03T09:41:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d56956f0b915fcbc1158f7e6eca4b8fa6c7d82aa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-lualatex-for-correct-ligatures.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-03-12T15:55:06Z",
+      "lastCommit": "2020-09-03T09:41:20Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aa7ca36ec14779532b0fafb8cbb8a1ea2143f7b4",
+            "a759935cbe9124586e016291ddb36daec9849d17",
+            "7f53cbbb888cc420f84836a0bf988bfbb4ba611c",
+            "d56956f0b915fcbc1158f7e6eca4b8fa6c7d82aa",
+            "ced0928a3dd7fd1eba10677480e6dd7e0d35974a"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-cc0-as-license.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-23T08:32:37Z",
+      "lastCommit": "2020-04-30T06:14:34Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f53cbbb888cc420f84836a0bf988bfbb4ba611c",
+            "ced0928a3dd7fd1eba10677480e6dd7e0d35974a",
+            "8957db279ec9ac5f24d93d1886b8825fdc830e1b"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-19T00:21:59Z",
+      "lastCommit": "2018-03-07T09:57:30Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03542e4baf814c9f1b0fb316bb9a68643848d1b7",
+            "050701d4be036e9e149966320b652a0f93663a91",
+            "003371f7be24179ba19d0df78a9b4dcc9391b87c"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-12-19T00:21:59Z",
+  "lastAdrCommit": "2020-09-03T09:41:20Z",
+  "firstCommit": "2009-04-09T11:43:24Z",
+  "lastCommit": "2021-07-14T21:07:09Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "03542e4baf814c9f1b0fb316bb9a68643848d1b7",
+        "1065d8a41f09c1e1f06c21c265346ffbb19aa7b6",
+        "aa7ca36ec14779532b0fafb8cbb8a1ea2143f7b4",
+        "050701d4be036e9e149966320b652a0f93663a91",
+        "a759935cbe9124586e016291ddb36daec9849d17",
+        "7f53cbbb888cc420f84836a0bf988bfbb4ba611c",
+        "d56956f0b915fcbc1158f7e6eca4b8fa6c7d82aa",
+        "003371f7be24179ba19d0df78a9b4dcc9391b87c",
+        "ced0928a3dd7fd1eba10677480e6dd7e0d35974a",
+        "c409ddd353585a94bb74a3f0ec02e9441cfd18f5",
+        "8957db279ec9ac5f24d93d1886b8825fdc830e1b"
+      ],
+      "numberOfCommits": 11
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9d7531fa57b6a96d3bd002f264acef89731664af"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

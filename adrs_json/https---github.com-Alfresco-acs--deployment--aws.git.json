@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/Alfresco/acs-deployment-aws.git",
+  "crawlDateTime": "2022-01-18T22:57:11.950982",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0002-use-aws-cloudformation-for-provisioning-aws-resources.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-07-19T09:12:14Z",
+      "lastCommit": "2018-07-19T09:12:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f492abd940b3296e4c0b826c3006ed42ef7af73"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-19T09:12:14Z",
+      "lastCommit": "2018-07-19T09:12:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f492abd940b3296e4c0b826c3006ed42ef7af73"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-19T09:12:14Z",
+  "lastAdrCommit": "2018-07-19T09:12:14Z",
+  "firstCommit": "2018-07-19T09:05:07Z",
+  "lastCommit": "2019-12-17T14:24:07Z",
+  "adrDirFile": {
+    "fileContent": "docs/adrs\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3f492abd940b3296e4c0b826c3006ed42ef7af73"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

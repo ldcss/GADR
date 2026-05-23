@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/yetibot/core.git",
+  "crawlDateTime": "2022-01-18T21:24:19.510173",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-allow-dynamic-loading-of-yetibot-plugins-via-config.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-25T16:19:07Z",
+      "lastCommit": "2020-10-25T16:19:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "80d87f6ad4ba7f7b1ba812124b2167540e94cb08"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-25T16:19:07Z",
+      "lastCommit": "2020-10-25T16:19:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "80d87f6ad4ba7f7b1ba812124b2167540e94cb08"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-25T16:19:07Z",
+  "lastAdrCommit": "2020-10-25T16:19:07Z",
+  "firstCommit": "2013-12-17T03:34:28Z",
+  "lastCommit": "2022-01-05T20:36:53Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "80d87f6ad4ba7f7b1ba812124b2167540e94cb08"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

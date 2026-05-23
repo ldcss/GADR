@@ -1,0 +1,69 @@
+{
+  "repositoryUrl": "https://github.com/aoide-org/aoide-rs.git",
+  "crawlDateTime": "2022-01-18T17:47:32.353969",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-milliseconds-for-encoding-audio-positions-and-durations.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-04-18T08:47:51Z",
+      "lastCommit": "2021-06-07T14:45:53Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9680b6b357820e04f5e79719fd8d92b079db457f",
+            "08590d0f8b4c90520c2e00580302426923833883",
+            "5494dc41177dbb3ec970407810baf59f9b041bff"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-18T06:35:51Z",
+      "lastCommit": "2019-04-18T06:35:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f6962293c5e4e7725ca51fcd28b014194280a13"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-04-18T06:35:51Z",
+  "lastAdrCommit": "2021-06-07T14:45:53Z",
+  "firstCommit": "2018-03-22T11:39:38Z",
+  "lastCommit": "2022-01-14T13:57:17Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9680b6b357820e04f5e79719fd8d92b079db457f",
+        "08590d0f8b4c90520c2e00580302426923833883",
+        "5494dc41177dbb3ec970407810baf59f9b041bff",
+        "3f6962293c5e4e7725ca51fcd28b014194280a13"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

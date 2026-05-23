@@ -1,0 +1,89 @@
+{
+  "repositoryUrl": "https://github.com/architecture-topography/topo.git",
+  "crawlDateTime": "2022-01-18T19:10:09.901483",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-graphql-as-api-query-language-via-appolo-server.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-06T04:16:22Z",
+      "lastCommit": "2020-06-06T11:00:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe21f71cd3f61e3c3c1f961517b5246691c2c905",
+            "b6567bea8f5eaf52f2f4316ec960b516bdbf7f4e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-neo4j-as-persistence.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-06T04:16:22Z",
+      "lastCommit": "2020-06-06T11:00:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe21f71cd3f61e3c3c1f961517b5246691c2c905",
+            "b6567bea8f5eaf52f2f4316ec960b516bdbf7f4e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-06T04:16:22Z",
+      "lastCommit": "2020-06-06T04:16:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6567bea8f5eaf52f2f4316ec960b516bdbf7f4e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-06T04:16:22Z",
+  "lastAdrCommit": "2020-06-06T11:00:32Z",
+  "firstCommit": "2018-09-10T07:46:08Z",
+  "lastCommit": "2021-07-14T07:01:03Z",
+  "adrDirFile": {
+    "fileContent": "doc/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fe21f71cd3f61e3c3c1f961517b5246691c2c905",
+        "b6567bea8f5eaf52f2f4316ec960b516bdbf7f4e"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

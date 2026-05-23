@@ -1,0 +1,106 @@
+{
+  "repositoryUrl": "https://github.com/hycomsa/mokka.git",
+  "crawlDateTime": "2022-01-18T20:59:01.79982",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "index.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-29T13:39:15Z",
+      "lastCommit": "2020-02-11T09:02:21Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d28ccd35afc0a3ce0328dae1de44dd2b82d820ac",
+            "0da27dcc66aa7b6a5ce1d5c6426aae931e8632a5",
+            "238fd7d45653c52bd7c6c794b4f145a43a21aa35"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-should-wiremock-be-used-as-stubs-engine.md",
+      "template": "Nygard",
+      "status": "Open",
+      "firstCommit": "2020-02-11T09:02:21Z",
+      "lastCommit": "2020-02-11T09:02:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0da27dcc66aa7b6a5ce1d5c6426aae931e8632a5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-upgrade-to-spring-boot-2-2-1.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-07T22:12:29Z",
+      "lastCommit": "2019-11-07T22:12:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "238fd7d45653c52bd7c6c794b4f145a43a21aa35"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-29T13:39:15Z",
+      "lastCommit": "2019-09-29T13:39:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d28ccd35afc0a3ce0328dae1de44dd2b82d820ac"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-09-29T13:39:15Z",
+  "lastAdrCommit": "2020-02-11T09:02:21Z",
+  "firstCommit": "2016-06-08T11:35:55Z",
+  "lastCommit": "2021-08-30T07:13:55Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d28ccd35afc0a3ce0328dae1de44dd2b82d820ac",
+        "0da27dcc66aa7b6a5ce1d5c6426aae931e8632a5",
+        "238fd7d45653c52bd7c6c794b4f145a43a21aa35"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

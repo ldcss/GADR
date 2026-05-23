@@ -1,0 +1,90 @@
+{
+  "repositoryUrl": "https://github.com/PierreVaut/my-cv.git",
+  "crawlDateTime": "2022-01-18T18:33:00.385058",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0002-design-principles.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-09T09:44:23Z",
+      "lastCommit": "2020-05-09T09:47:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c8d4979d62c8810bdd9616f602e2317190e83b2d",
+            "40b23790eaac788c50f6b6248f981611723cf7f8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0003-single-source-of-truth.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-09T09:44:57Z",
+      "lastCommit": "2020-05-09T09:47:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58d411a028517362c4081f98178752677c82797a",
+            "40b23790eaac788c50f6b6248f981611723cf7f8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0001-record-architecture-decisions copy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-09T08:46:18Z",
+      "lastCommit": "2020-05-09T09:47:42Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2204cce6f6a98076e6dfba3c757acc1686ecabee",
+            "c8d4979d62c8810bdd9616f602e2317190e83b2d",
+            "40b23790eaac788c50f6b6248f981611723cf7f8"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-09T08:46:18Z",
+  "lastAdrCommit": "2020-05-09T09:47:42Z",
+  "firstCommit": "2020-05-07T10:44:10Z",
+  "lastCommit": "2022-01-14T09:14:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "58d411a028517362c4081f98178752677c82797a",
+        "2204cce6f6a98076e6dfba3c757acc1686ecabee",
+        "c8d4979d62c8810bdd9616f602e2317190e83b2d",
+        "40b23790eaac788c50f6b6248f981611723cf7f8"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "repositoryUrl": "https://github.com/anurtayev/aspan-server.git",
+  "crawlDateTime": "2022-01-18T17:58:45.288733",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-derived-attributes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-26T05:21:42Z",
+      "lastCommit": "2018-08-30T02:36:28Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29664c8bae67d77bdc8d3aa82a44c9d15459c95f",
+            "8d785e7fc5d600fd8d17e6ddd64f2ddaecd84b8b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-replacing-ramda-with-lodash.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-04T15:05:11Z",
+      "lastCommit": "2018-09-04T15:05:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d219e8903d33746182ad5cab114b7bafdf22e3c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-info-graphql-import.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-12T16:48:13Z",
+      "lastCommit": "2018-09-12T16:48:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8373c90970e4fc475c3243887146e995828d052"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-aspan-will-support-multiple-repositories.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-19T16:59:51Z",
+      "lastCommit": "2018-08-19T16:59:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52dc8e0d7520574302c7570590d4deec9ed666f1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-19T16:59:51Z",
+  "lastAdrCommit": "2018-09-12T16:48:13Z",
+  "firstCommit": "2018-08-19T16:59:51Z",
+  "lastCommit": "2019-03-18T21:05:45Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "52dc8e0d7520574302c7570590d4deec9ed666f1"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3d219e8903d33746182ad5cab114b7bafdf22e3c",
+        "29664c8bae67d77bdc8d3aa82a44c9d15459c95f",
+        "b8373c90970e4fc475c3243887146e995828d052",
+        "8d785e7fc5d600fd8d17e6ddd64f2ddaecd84b8b"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

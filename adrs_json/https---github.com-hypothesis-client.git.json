@@ -1,0 +1,114 @@
+{
+  "repositoryUrl": "https://github.com/hypothesis/client.git",
+  "crawlDateTime": "2022-01-18T18:30:33.796916",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/developers/arch"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/developers/arch",
+      "path": "adr-002.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-07-28T18:09:46Z",
+      "lastCommit": "2017-07-28T18:09:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2fddc3fb7d4896192984bac55c6cf12cd250c306"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/developers/arch",
+      "path": "adr-003.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-03-07T15:38:23Z",
+      "lastCommit": "2018-03-07T15:38:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d8a58317ab819d7581dfe3648866eb94a262a29"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/developers/arch",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "In discussion",
+      "firstCommit": "2017-03-16T08:01:43Z",
+      "lastCommit": "2017-03-17T14:44:13Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "27d9079db5651ca79cef0e44a9bf2d2a3254dcb3",
+            "e219757ab05c637010e301e80fee1871883fe13f",
+            "d87d517c65d31cbeb02af35921dc58e0618e0ca2"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e809311a7f0548870aae3c14bafbdde5b0897b40",
+            "49cbf1ad8f74642db8961b25ce6e36a929f8a4fc"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-03-16T08:01:43Z",
+  "lastAdrCommit": "2018-03-07T15:38:23Z",
+  "firstCommit": "2012-03-07T22:39:46Z",
+  "lastCommit": "2022-01-18T17:12:39Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "27d9079db5651ca79cef0e44a9bf2d2a3254dcb3",
+        "2d8a58317ab819d7581dfe3648866eb94a262a29",
+        "e219757ab05c637010e301e80fee1871883fe13f",
+        "d87d517c65d31cbeb02af35921dc58e0618e0ca2"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2fddc3fb7d4896192984bac55c6cf12cd250c306"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e809311a7f0548870aae3c14bafbdde5b0897b40",
+        "49cbf1ad8f74642db8961b25ce6e36a929f8a4fc"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

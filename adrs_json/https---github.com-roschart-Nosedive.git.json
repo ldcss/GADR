@@ -1,0 +1,202 @@
+{
+  "repositoryUrl": "https://github.com/roschart/Nosedive.git",
+  "crawlDateTime": "2022-01-18T23:05:02.960189",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-start-with-console-app.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-15T22:10:53Z",
+      "lastCommit": "2018-06-15T22:10:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4df9ae37260b232ea0b721d169145a22957d69df"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-of-migratus-library.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-15T22:19:52Z",
+      "lastCommit": "2018-06-15T22:19:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52a48cca66f8568c446586b19510f65311afc0fe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-evolutionary-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-15T22:10:53Z",
+      "lastCommit": "2018-06-15T22:10:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4df9ae37260b232ea0b721d169145a22957d69df"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-sqlite-database.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-15T22:10:53Z",
+      "lastCommit": "2018-06-15T22:10:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4df9ae37260b232ea0b721d169145a22957d69df"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-use-mount-and-clojure-tools-namespace.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-02T17:00:55Z",
+      "lastCommit": "2018-09-02T17:00:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "daf947806838301a7ad941f42c28bda99996f03e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-of-clojure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-15T22:10:53Z",
+      "lastCommit": "2018-06-15T22:10:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4df9ae37260b232ea0b721d169145a22957d69df"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-migrating-by-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-18T22:57:22Z",
+      "lastCommit": "2018-09-02T17:00:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c07914dba2ba816f40006cb1ca2a130a7a20dd5e",
+            "daf947806838301a7ad941f42c28bda99996f03e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-uso-of-tools-cli.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-18T10:41:32Z",
+      "lastCommit": "2018-06-18T10:41:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4fc93fa149a5e85eddbbd2884012b3b401b376cb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-15T22:10:53Z",
+      "lastCommit": "2018-06-15T22:10:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4df9ae37260b232ea0b721d169145a22957d69df"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-15T22:10:53Z",
+  "lastAdrCommit": "2018-09-02T17:00:55Z",
+  "firstCommit": "2018-06-14T15:36:37Z",
+  "lastCommit": "2018-09-02T17:00:57Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4fc93fa149a5e85eddbbd2884012b3b401b376cb",
+        "c07914dba2ba816f40006cb1ca2a130a7a20dd5e",
+        "daf947806838301a7ad941f42c28bda99996f03e",
+        "4df9ae37260b232ea0b721d169145a22957d69df",
+        "52a48cca66f8568c446586b19510f65311afc0fe"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

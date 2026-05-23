@@ -1,0 +1,273 @@
+{
+  "repositoryUrl": "https://github.com/nicfix/py-ddd-cqrs-microservice-boilerplate.git",
+  "crawlDateTime": "2022-01-18T17:28:12.385147",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADRs.md",
+      "template": "Nygard",
+      "status": "approved",
+      "firstCommit": "2020-05-13T18:44:07Z",
+      "lastCommit": "2020-05-23T11:17:22Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "27661d53623f38965e87ece79f930ca35396090b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "551556fdcdfd2e264832b6d072d44a4f9d1139d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "practices/001-Dependency injection.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-12T15:38:14Z",
+      "lastCommit": "2020-05-31T14:21:57Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa7f5e1c1f87d2e73c932ac046110be8163aed96",
+            "9cb351a6480ab3c5f8d9d0298fba8bf63b635c24",
+            "02c809b0f45540b7bf192bdbb9b8b0f27e520b05"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38e1cb895a65b4036f21b5ddf3f88f383ac3a8df"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "practices/000-Readiness probe.md",
+      "template": "Nygard",
+      "status": "approved",
+      "firstCommit": "2020-05-23T16:16:04Z",
+      "lastCommit": "2020-05-31T14:21:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02c809b0f45540b7bf192bdbb9b8b0f27e520b05",
+            "b973d073a05a49149bdd9aace86e35b26adec230"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "technologies/001-Pydantic.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-15T11:54:04Z",
+      "lastCommit": "2020-05-31T14:59:43Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4f765155a549c39a7ad26573afe32833b3d92c2d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "634c0fd54cbb80f2bc8d419e3e93d15464153748",
+            "5a53ebd5f6611054c148f290ffc21a399c70036c",
+            "83adb14792682b51cf0b6ed2cb35ee868856c66a"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "technologies/000-FastAPI.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-31T14:59:43Z",
+      "lastCommit": "2020-05-31T14:59:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4f765155a549c39a7ad26573afe32833b3d92c2d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "tooling/003-code_linter.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-05-12T20:36:17Z",
+      "lastCommit": "2020-05-13T18:44:07Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "579255a3e2977e62f827d9ba4fb26b8311e574ce",
+            "8a4670ae0c04f2000f9f968d0f0a40e0df7c592d"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "551556fdcdfd2e264832b6d072d44a4f9d1139d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "tooling/004-license_checker.md",
+      "template": "Nygard",
+      "status": "proposed",
+      "firstCommit": "2020-05-23T11:07:51Z",
+      "lastCommit": "2020-05-23T11:07:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "200deb752aea6c59fcfd9377b27c437019c2a3fa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "tooling/002-code_formatter.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-05-12T20:36:17Z",
+      "lastCommit": "2020-05-13T18:44:07Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "579255a3e2977e62f827d9ba4fb26b8311e574ce",
+            "8a4670ae0c04f2000f9f968d0f0a40e0df7c592d"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "551556fdcdfd2e264832b6d072d44a4f9d1139d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "tooling/001-pre-commit-hooks.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-05-12T20:36:17Z",
+      "lastCommit": "2020-05-13T18:44:07Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "579255a3e2977e62f827d9ba4fb26b8311e574ce",
+            "8a4670ae0c04f2000f9f968d0f0a40e0df7c592d"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "551556fdcdfd2e264832b6d072d44a4f9d1139d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-12T15:38:14Z",
+  "lastAdrCommit": "2020-05-31T14:59:43Z",
+  "firstCommit": "2020-05-12T14:01:08Z",
+  "lastCommit": "2021-05-23T15:59:46Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4f765155a549c39a7ad26573afe32833b3d92c2d",
+        "fa7f5e1c1f87d2e73c932ac046110be8163aed96",
+        "200deb752aea6c59fcfd9377b27c437019c2a3fa",
+        "27661d53623f38965e87ece79f930ca35396090b",
+        "9cb351a6480ab3c5f8d9d0298fba8bf63b635c24",
+        "579255a3e2977e62f827d9ba4fb26b8311e574ce",
+        "02c809b0f45540b7bf192bdbb9b8b0f27e520b05",
+        "b973d073a05a49149bdd9aace86e35b26adec230",
+        "8a4670ae0c04f2000f9f968d0f0a40e0df7c592d"
+      ],
+      "numberOfCommits": 9
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "551556fdcdfd2e264832b6d072d44a4f9d1139d6",
+        "634c0fd54cbb80f2bc8d419e3e93d15464153748",
+        "5a53ebd5f6611054c148f290ffc21a399c70036c",
+        "83adb14792682b51cf0b6ed2cb35ee868856c66a",
+        "38e1cb895a65b4036f21b5ddf3f88f383ac3a8df"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

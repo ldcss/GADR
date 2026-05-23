@@ -1,0 +1,381 @@
+{
+  "repositoryUrl": "https://github.com/dxw/rails-template.git",
+  "crawlDateTime": "2022-01-18T18:22:57.867909",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-use-brakeman-for-security-analysis.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-23T10:42:30Z",
+      "lastCommit": "2020-10-30T10:03:09Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5aa723add1473f266723a5abb141388b59b5286b",
+            "fc1546dd95cdb67b39c05f55eacaee1f4c0ce3d9"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89814c00364eccb2b11c01a237acd9f69d0b0650"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-use-simplecov-to-monitor-code-test-coverage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-19T11:22:12Z",
+      "lastCommit": "2020-12-22T12:56:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f0462a4c8d2ac7ec4e2cf91c0152904bb972c09"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "579a21775420a0927a5238f20e046b9eb1e88b92"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0011-use-prettier-to-format-js-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-30T10:03:09Z",
+      "lastCommit": "2020-12-22T12:56:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5aa723add1473f266723a5abb141388b59b5286b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "579a21775420a0927a5238f20e046b9eb1e88b92"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-use-a-changelog-for-tracking-changes-in-a-release.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-23T10:42:30Z",
+      "lastCommit": "2020-10-30T10:03:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc1546dd95cdb67b39c05f55eacaee1f4c0ce3d9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89814c00364eccb2b11c01a237acd9f69d0b0650"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-use-eslint.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-30T10:03:09Z",
+      "lastCommit": "2020-12-22T12:56:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24f45b59589c0640d9a7d335eb4fd27fc8b8d963",
+            "55d5bec57f02cba100d09fbdeb3bbcf9f9b8dd10"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "579a21775420a0927a5238f20e046b9eb1e88b92"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-pull-request-templates.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-23T10:42:30Z",
+      "lastCommit": "2020-10-30T10:03:09Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5aa723add1473f266723a5abb141388b59b5286b",
+            "fc1546dd95cdb67b39c05f55eacaee1f4c0ce3d9"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89814c00364eccb2b11c01a237acd9f69d0b0650"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-use-scripts-to-rule-them-all.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-30T10:03:10Z",
+      "lastCommit": "2020-10-30T10:03:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ea7ebca01ad10f3aadca1f8faa09e8563ef7078"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-use-bullet-to-catch-nplus1-queries.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-23T10:42:30Z",
+      "lastCommit": "2020-10-30T10:03:09Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5aa723add1473f266723a5abb141388b59b5286b",
+            "fc1546dd95cdb67b39c05f55eacaee1f4c0ce3d9"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89814c00364eccb2b11c01a237acd9f69d0b0650"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-standard-rb.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-19T14:26:46Z",
+      "lastCommit": "2020-10-30T10:03:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5aa723add1473f266723a5abb141388b59b5286b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "010dcf1dcef912e220cd17817260fdabef104647"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-add-rollbar-for-application-monitoring.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-23T10:42:30Z",
+      "lastCommit": "2020-10-30T10:03:09Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5aa723add1473f266723a5abb141388b59b5286b",
+            "fc1546dd95cdb67b39c05f55eacaee1f4c0ce3d9"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89814c00364eccb2b11c01a237acd9f69d0b0650"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-28T10:00:58Z",
+      "lastCommit": "2020-10-30T10:03:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5aa723add1473f266723a5abb141388b59b5286b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ec4cfe4812f0b0afd3f1c91f11ae371169caf23f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-use-dotenv-for-managing-environment-variables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-23T10:42:30Z",
+      "lastCommit": "2020-10-30T10:03:09Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5aa723add1473f266723a5abb141388b59b5286b",
+            "fc1546dd95cdb67b39c05f55eacaee1f4c0ce3d9"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89814c00364eccb2b11c01a237acd9f69d0b0650"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-06-28T10:00:58Z",
+  "lastAdrCommit": "2020-12-22T12:56:54Z",
+  "firstCommit": "2019-06-28T09:25:17Z",
+  "lastCommit": "2022-01-17T11:04:35Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5aa723add1473f266723a5abb141388b59b5286b",
+        "fc1546dd95cdb67b39c05f55eacaee1f4c0ce3d9",
+        "24f45b59589c0640d9a7d335eb4fd27fc8b8d963",
+        "55d5bec57f02cba100d09fbdeb3bbcf9f9b8dd10"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ec4cfe4812f0b0afd3f1c91f11ae371169caf23f",
+        "9f0462a4c8d2ac7ec4e2cf91c0152904bb972c09",
+        "4ea7ebca01ad10f3aadca1f8faa09e8563ef7078",
+        "89814c00364eccb2b11c01a237acd9f69d0b0650"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "579a21775420a0927a5238f20e046b9eb1e88b92"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "010dcf1dcef912e220cd17817260fdabef104647"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

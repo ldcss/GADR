@@ -1,0 +1,210 @@
+{
+  "repositoryUrl": "https://github.com/kakarotto67/mlmc.git",
+  "crawlDateTime": "2022-01-18T19:38:47.811321",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-rabbit-mq-for-eda.md",
+      "template": "Madr",
+      "status": "[accepted]",
+      "firstCommit": "2019-09-13T19:41:17Z",
+      "lastCommit": "2019-09-13T19:41:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "749232c635a1cf6f31e344cbdec3701f3cdc4afc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-mongodb-for-operation.md",
+      "template": "Madr",
+      "status": "[accepted]",
+      "firstCommit": "2019-09-10T16:53:31Z",
+      "lastCommit": "2019-09-12T15:44:16Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "056bbc9c4af90d58203720b27d9b2cb4fb1e25c4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a525aa0ce90adcb8905de47d4e9dba788c507899",
+            "01c98ee6e5a9ad7b72a1d71af11cc93f67a9de2e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-api-gateway.md",
+      "template": "Madr",
+      "status": "[proposed]",
+      "firstCommit": "2019-09-14T17:04:05Z",
+      "lastCommit": "2019-09-14T17:04:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2b058e622e72b9fda6b8d5396f162a28b6f17d24"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-post-signalr-directly-from-mgcc.md",
+      "template": "Madr",
+      "status": "[accepted]",
+      "firstCommit": "2019-09-17T13:42:39Z",
+      "lastCommit": "2019-09-17T13:46:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca28f80235a30db70d9decb0ef849b35485aec59"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0238464910b2ed9578f044b842d67439f9519864"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-09-10T13:38:36Z",
+      "lastCommit": "2019-09-10T13:38:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d57e2ebc1b44e6c0a4d728af74ed7f5c4d905be"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-azure-maps.md",
+      "template": "Madr",
+      "status": "[accepted]",
+      "firstCommit": "2019-09-10T13:38:36Z",
+      "lastCommit": "2019-09-12T15:43:52Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d57e2ebc1b44e6c0a4d728af74ed7f5c4d905be"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8cb781b02988473055eaa2ed0afd5d60bd95cf67",
+            "c0b5365b7ea74fd677902060e76b1d973316bb04"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-aks-orchestrator.md",
+      "template": "Madr",
+      "status": "[accepted]",
+      "firstCommit": "2019-09-14T17:04:05Z",
+      "lastCommit": "2019-09-14T17:05:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2b058e622e72b9fda6b8d5396f162a28b6f17d24"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7e0f4c5b50a4392b2816b0fff418a48746a6a107"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-09-10T13:38:36Z",
+  "lastAdrCommit": "2019-09-17T13:46:05Z",
+  "firstCommit": "2019-06-10T11:28:51Z",
+  "lastCommit": "2022-01-15T04:30:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "056bbc9c4af90d58203720b27d9b2cb4fb1e25c4",
+        "9d57e2ebc1b44e6c0a4d728af74ed7f5c4d905be",
+        "749232c635a1cf6f31e344cbdec3701f3cdc4afc",
+        "ca28f80235a30db70d9decb0ef849b35485aec59",
+        "2b058e622e72b9fda6b8d5396f162a28b6f17d24"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7e0f4c5b50a4392b2816b0fff418a48746a6a107",
+        "0238464910b2ed9578f044b842d67439f9519864",
+        "a525aa0ce90adcb8905de47d4e9dba788c507899",
+        "8cb781b02988473055eaa2ed0afd5d60bd95cf67",
+        "01c98ee6e5a9ad7b72a1d71af11cc93f67a9de2e",
+        "c0b5365b7ea74fd677902060e76b1d973316bb04"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

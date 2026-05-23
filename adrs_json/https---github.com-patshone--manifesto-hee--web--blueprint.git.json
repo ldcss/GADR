@@ -1,0 +1,288 @@
+{
+  "repositoryUrl": "https://github.com/patshone-manifesto/hee-web-blueprint.git",
+  "crawlDateTime": "2022-01-18T20:00:34.1178",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "pages/blueprint/adrs"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "pages/blueprint/adrs",
+      "path": "0011-use-federated-authentication-provider.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-06-01T06:06:13Z",
+      "lastCommit": "2020-06-01T09:34:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee340212e2308701f22a8c6233721611583689e5",
+            "28e0a8fdfc13c15b6016aa376512020c487d8724"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "pages/blueprint/adrs",
+      "path": "0007-use-storybook-js-to-develop-and-document-screens-and-components.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T06:06:13Z",
+      "lastCommit": "2020-06-01T06:06:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "28e0a8fdfc13c15b6016aa376512020c487d8724"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "pages/blueprint/adrs",
+      "path": "0008-use-npm-to-host-hee-frontend-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T06:06:13Z",
+      "lastCommit": "2020-06-01T06:06:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "28e0a8fdfc13c15b6016aa376512020c487d8724"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "pages/blueprint/adrs",
+      "path": "0003-use-github-actions-for-automation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T06:06:13Z",
+      "lastCommit": "2020-06-01T06:06:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "28e0a8fdfc13c15b6016aa376512020c487d8724"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "pages/blueprint/adrs",
+      "path": "0004-use-gherkin-for-describing-acceptance-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T06:06:13Z",
+      "lastCommit": "2020-06-01T06:06:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "28e0a8fdfc13c15b6016aa376512020c487d8724"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "pages/blueprint/adrs",
+      "path": "0002-use-github-for-source-control.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T06:06:13Z",
+      "lastCommit": "2020-06-01T06:06:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "28e0a8fdfc13c15b6016aa376512020c487d8724"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "pages/blueprint/adrs",
+      "path": "0013-use-bloomreach-channel-manager.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-06-08T13:05:09Z",
+      "lastCommit": "2020-06-08T13:05:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84fb56034bd3360fcc7c46b487b5857c9e03e405"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "pages/blueprint/adrs",
+      "path": "0009-use-react-to-manage-and-develop-the-components-for-the-hee-frontend-framework.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-06-01T06:06:13Z",
+      "lastCommit": "2020-06-01T09:34:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee340212e2308701f22a8c6233721611583689e5",
+            "28e0a8fdfc13c15b6016aa376512020c487d8724"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "pages/blueprint/adrs",
+      "path": "0005-use-selenide-for-creating-and-managing-acceptance-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T06:06:13Z",
+      "lastCommit": "2020-06-01T06:06:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "28e0a8fdfc13c15b6016aa376512020c487d8724"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "pages/blueprint/adrs",
+      "path": "0006-use-testcontainers-for-providing-ephemeral-test-environments.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T06:06:13Z",
+      "lastCommit": "2020-06-01T06:06:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "28e0a8fdfc13c15b6016aa376512020c487d8724"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "pages/blueprint/adrs",
+      "path": "0012-use-external-search-service.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-06-08T12:21:04Z",
+      "lastCommit": "2020-06-29T13:59:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8104d78f4a6da579f21b84e637f2fd6a9560251b",
+            "b02327e6eb6965df813392a3b43a87abfe16a827"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "pages/blueprint/adrs",
+      "path": "0010-use-external-document-management-system.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T06:06:13Z",
+      "lastCommit": "2020-06-01T09:34:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee340212e2308701f22a8c6233721611583689e5",
+            "28e0a8fdfc13c15b6016aa376512020c487d8724"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "pages/blueprint/adrs",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T06:06:13Z",
+      "lastCommit": "2020-06-01T06:06:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "28e0a8fdfc13c15b6016aa376512020c487d8724"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-01T06:06:13Z",
+  "lastAdrCommit": "2020-06-29T13:59:04Z",
+  "firstCommit": "2018-07-24T07:16:26Z",
+  "lastCommit": "2020-06-29T14:02:17Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "84fb56034bd3360fcc7c46b487b5857c9e03e405",
+        "8104d78f4a6da579f21b84e637f2fd6a9560251b",
+        "b02327e6eb6965df813392a3b43a87abfe16a827"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ee340212e2308701f22a8c6233721611583689e5",
+        "28e0a8fdfc13c15b6016aa376512020c487d8724"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

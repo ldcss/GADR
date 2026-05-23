@@ -1,0 +1,138 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/opg-modernising-lpa-docs.git",
+  "crawlDateTime": "2022-01-18T23:12:40.090331",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "src/adr/articles"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "src/adr/articles",
+      "path": "0003-github-source-control.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-06T06:54:05Z",
+      "lastCommit": "2021-07-13T07:12:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2816b3918b5c73c1c13cdaf87591c6893bfe49f",
+            "3d18a50a078fc2eb2f214ac0254660c20e9b992a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr/articles",
+      "path": "0002-verifiable-credentials.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-05T11:44:05Z",
+      "lastCommit": "2021-07-13T07:12:11Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2816b3918b5c73c1c13cdaf87591c6893bfe49f",
+            "92bde746936f8eca05f806304788141591bdb645",
+            "3d18a50a078fc2eb2f214ac0254660c20e9b992a"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr/articles",
+      "path": "0004-govuk-design-system.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-15T12:02:28Z",
+      "lastCommit": "2021-07-15T12:02:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a71a0bb468509c96e61c94f36b9f069ac5917aa6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr/articles",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-29T10:59:45Z",
+      "lastCommit": "2021-07-13T07:12:11Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2816b3918b5c73c1c13cdaf87591c6893bfe49f",
+            "bbe11a70ac738c69f367d8057a39a2d91888746e",
+            "6c9f14d6d18f7b2caebddf83454bf5915953a83c",
+            "92bde746936f8eca05f806304788141591bdb645",
+            "e96c816bcba178c426a61e0fd2e07fcb738ce152",
+            "47c8dfcb86ac8f585f2d94e99646c629ed8b8e6f",
+            "3d18a50a078fc2eb2f214ac0254660c20e9b992a"
+          ],
+          "numberOfCommits": 7
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr/articles",
+      "path": "0005-terraform.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-23T09:33:24Z",
+      "lastCommit": "2021-07-23T09:33:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6419aceac27ce202d082fe8bf57792e862b0d3a2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-06-29T10:59:45Z",
+  "lastAdrCommit": "2021-07-23T09:33:24Z",
+  "firstCommit": "2021-06-29T10:29:20Z",
+  "lastCommit": "2022-01-15T18:51:48Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a2816b3918b5c73c1c13cdaf87591c6893bfe49f",
+        "bbe11a70ac738c69f367d8057a39a2d91888746e",
+        "a71a0bb468509c96e61c94f36b9f069ac5917aa6",
+        "6c9f14d6d18f7b2caebddf83454bf5915953a83c",
+        "92bde746936f8eca05f806304788141591bdb645",
+        "e96c816bcba178c426a61e0fd2e07fcb738ce152",
+        "47c8dfcb86ac8f585f2d94e99646c629ed8b8e6f",
+        "3d18a50a078fc2eb2f214ac0254660c20e9b992a",
+        "6419aceac27ce202d082fe8bf57792e862b0d3a2"
+      ],
+      "numberOfCommits": 9
+    }
+  ]
+}

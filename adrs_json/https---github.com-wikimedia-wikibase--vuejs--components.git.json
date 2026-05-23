@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/wikimedia/wikibase-vuejs-components.git",
+  "crawlDateTime": "2022-01-18T21:12:10.591319",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-a-design-system.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-27T16:17:50Z",
+      "lastCommit": "2020-05-27T16:17:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5fe62292e57e1720fbae40d0ba60f133e3180d11"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-27T16:17:50Z",
+  "lastAdrCommit": "2020-05-27T16:17:50Z",
+  "firstCommit": "2019-10-18T13:34:30Z",
+  "lastCommit": "2020-06-24T12:13:02Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5fe62292e57e1720fbae40d0ba60f133e3180d11"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

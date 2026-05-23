@@ -1,0 +1,165 @@
+{
+  "repositoryUrl": "https://github.com/pagopa/io-backend.git",
+  "crawlDateTime": "2022-01-18T22:19:38.471625",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-use-a-dependency-injection-container.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-30T16:18:44Z",
+      "lastCommit": "2017-11-30T16:18:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53b83ed2c565811e2699a846065fd848936fe395"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-backend-is-deployed-on-more-than-one-instance.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-04T09:21:32Z",
+      "lastCommit": "2018-06-21T13:45:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a3ed1c776a41b76c1bdb6ede8237e5ca24007a1",
+            "01100a8935e51ae03a8e480cbd8400528b577d61"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-use-a-guid-as-installation-id.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-30T15:16:24Z",
+      "lastCommit": "2018-04-30T15:16:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30f2d93260c8a6bba597ddd4000b0bef1d4540e9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-backend-runs-on-docker-on-local-environments.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-06T15:54:15Z",
+      "lastCommit": "2017-10-06T15:54:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5765eb9441867294e203834ae352629090abfcc7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-openapi-to-defined-the-api-specs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-06T15:54:15Z",
+      "lastCommit": "2018-02-13T14:56:47Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5765eb9441867294e203834ae352629090abfcc7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53b83ed2c565811e2699a846065fd848936fe395",
+            "343338db118c9617f664fd05d6fa19bbd7dcdf79"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-06T15:54:15Z",
+      "lastCommit": "2017-10-06T15:54:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5765eb9441867294e203834ae352629090abfcc7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-10-06T15:54:15Z",
+  "lastAdrCommit": "2018-06-21T13:45:42Z",
+  "firstCommit": "2017-04-17T19:15:53Z",
+  "lastCommit": "2022-01-18T16:00:57Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5765eb9441867294e203834ae352629090abfcc7"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "53b83ed2c565811e2699a846065fd848936fe395",
+        "7a3ed1c776a41b76c1bdb6ede8237e5ca24007a1",
+        "01100a8935e51ae03a8e480cbd8400528b577d61",
+        "343338db118c9617f664fd05d6fa19bbd7dcdf79",
+        "30f2d93260c8a6bba597ddd4000b0bef1d4540e9"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

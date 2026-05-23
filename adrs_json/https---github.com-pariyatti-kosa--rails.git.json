@@ -1,0 +1,162 @@
+{
+  "repositoryUrl": "https://github.com/pariyatti/kosa-rails.git",
+  "crawlDateTime": "2022-01-18T22:20:41.913758",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-005-api-modeling.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-05-02T22:49:07Z",
+      "lastCommit": "2020-08-22T14:42:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cbfd5e4c10902be729020c281633d6a0c3563379",
+            "8fcc773ac54f20735003929bd15dd342231a2ceb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-001-use-adrs.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-05-02T22:49:07Z",
+      "lastCommit": "2020-05-02T22:49:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cbfd5e4c10902be729020c281633d6a0c3563379"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-003-graph-data-neo4j.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-05-02T22:49:07Z",
+      "lastCommit": "2020-05-02T22:49:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cbfd5e4c10902be729020c281633d6a0c3563379"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-002-rails.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-05-02T22:49:07Z",
+      "lastCommit": "2020-05-02T22:49:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cbfd5e4c10902be729020c281633d6a0c3563379"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-004-ansible.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-05-02T22:49:07Z",
+      "lastCommit": "2020-05-02T22:49:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cbfd5e4c10902be729020c281633d6a0c3563379"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-006-try-clojure.md",
+      "template": "Nygard",
+      "status": "Pending.",
+      "firstCommit": "2020-09-28T08:59:55Z",
+      "lastCommit": "2020-09-28T08:59:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5916c3dd68c94a8c5bad719f93681c60ad8d2201"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-007-try-crux.md",
+      "template": "Nygard",
+      "status": "Pending.",
+      "firstCommit": "2020-09-28T08:59:55Z",
+      "lastCommit": "2020-09-28T08:59:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5916c3dd68c94a8c5bad719f93681c60ad8d2201"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-02T22:49:07Z",
+  "lastAdrCommit": "2020-09-28T08:59:55Z",
+  "firstCommit": "2020-04-02T16:47:09Z",
+  "lastCommit": "2022-01-14T07:46:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cbfd5e4c10902be729020c281633d6a0c3563379",
+        "5916c3dd68c94a8c5bad719f93681c60ad8d2201",
+        "8fcc773ac54f20735003929bd15dd342231a2ceb"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

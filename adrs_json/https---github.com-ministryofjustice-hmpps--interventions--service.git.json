@@ -1,0 +1,91 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/hmpps-interventions-service.git",
+  "crawlDateTime": "2022-01-18T19:07:17.561642",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-decouple-transactions-on-asynch-calls.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-17T12:40:34Z",
+      "lastCommit": "2021-09-17T12:40:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cd8286602935610468773281cb852cf80b7b7707"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-represent-validation-errors-at-field-level.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-27T16:10:07Z",
+      "lastCommit": "2021-01-27T16:10:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "37f4541f2b1416d945cf43c8b16cd1261704dc21"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-27T16:10:07Z",
+      "lastCommit": "2021-01-27T16:10:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "37f4541f2b1416d945cf43c8b16cd1261704dc21"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-27T16:10:07Z",
+  "lastAdrCommit": "2021-09-17T12:40:34Z",
+  "firstCommit": "2020-11-13T10:30:03Z",
+  "lastCommit": "2022-01-13T17:18:18Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cd8286602935610468773281cb852cf80b7b7707"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "37f4541f2b1416d945cf43c8b16cd1261704dc21"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

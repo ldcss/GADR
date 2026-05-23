@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/magnetcoop/buddy-auth.jwt-oidc.git",
+  "crawlDateTime": "2022-01-18T18:41:00.475905",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2019-01-28T09:37:32Z",
+      "lastCommit": "2019-01-28T09:37:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "247cd8e6cc00fda738cccaf3832b3534b295dc9f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-01-28T09:37:32Z",
+  "lastAdrCommit": "2019-01-28T09:37:32Z",
+  "firstCommit": "2019-01-28T09:37:32Z",
+  "lastCommit": "2021-04-07T19:00:39Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "247cd8e6cc00fda738cccaf3832b3534b295dc9f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

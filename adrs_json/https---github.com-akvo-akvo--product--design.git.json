@@ -1,0 +1,288 @@
+{
+  "repositoryUrl": "https://github.com/akvo/akvo-product-design.git",
+  "crawlDateTime": "2022-01-18T20:11:51.605165",
+  "numAdrDirectories": 2,
+  "adrDirectories": [
+    "FLOW/arch",
+    "Lumen/doc/arch"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "FLOW/arch",
+      "path": "ADR-006.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-01-31T16:24:18Z",
+      "lastCommit": "2017-01-31T16:26:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91dd98212dd1cdf6254286e9632cec249201edee",
+            "d98a285b7739c4a6a09b57eacb898c077a80069a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "FLOW/arch",
+      "path": "ADR-003.md",
+      "template": "Nygard",
+      "status": "In progress.",
+      "firstCommit": "2015-01-27T12:54:55Z",
+      "lastCommit": "2015-02-10T10:50:00Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0fc102ad12baae63b7869321be869f10b373cc38",
+            "ca5a3095ddda95ba71c0e71046fe257c548f39fe"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "badd412a685d16a5b0970ee1892a2e2cd21eb8bb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "FLOW/arch",
+      "path": "ADR-005.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2016-12-23T11:20:50Z",
+      "lastCommit": "2016-12-23T11:22:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dbb90350833bafda795d95585ad692ec5c08583a",
+            "953ca6e036b26d235e2327b4dbd76b8f2f43f853"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "FLOW/arch",
+      "path": "ADR-002.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2015-01-22T14:55:26Z",
+      "lastCommit": "2015-01-22T15:05:37Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "affe200ff8274e3325ab29488fed513539ad0ec4",
+            "516a211a8dea29649b8b3f153a907cffd863f79f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "FLOW/arch",
+      "path": "ADR-001.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2015-01-14T11:18:44Z",
+      "lastCommit": "2015-01-14T11:18:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0615d3a68f40da8bcffc5931cc9f73ddca02b7c9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "FLOW/arch",
+      "path": "ADR-004.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2015-07-08T14:43:09Z",
+      "lastCommit": "2015-07-09T21:37:02Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a50e361c7fa4c370fa30335df8ceb081ec7b76e",
+            "db2f9f22f98bdc1cf617b449ab452934f2e95c7e",
+            "c9e1097679ecba3420fd0fd12ac181458ffb8940"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Lumen/doc/arch",
+      "path": "ADR-003.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2015-10-26T11:24:20Z",
+      "lastCommit": "2017-06-13T14:03:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab77f1c6753a37906894641c09f5d44e5d7c7b9e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9fd09202262cbd96a8f750c9d8878593e88abd6d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Lumen/doc/arch",
+      "path": "ADR-002.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2015-10-26T11:24:20Z",
+      "lastCommit": "2017-06-13T14:03:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab77f1c6753a37906894641c09f5d44e5d7c7b9e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9fd09202262cbd96a8f750c9d8878593e88abd6d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Lumen/doc/arch",
+      "path": "ADR-001.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2015-10-22T10:37:21Z",
+      "lastCommit": "2017-06-13T14:03:29Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab77f1c6753a37906894641c09f5d44e5d7c7b9e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1b092af0a6daebb424c17cc763cdb637e4798898",
+            "f2846653e6175c45dc6e79864e150b71de554eb3"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2015-01-14T11:18:44Z",
+  "lastAdrCommit": "2017-06-13T14:03:29Z",
+  "firstCommit": "2014-01-07T15:30:47Z",
+  "lastCommit": "2017-06-13T14:03:29Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ab77f1c6753a37906894641c09f5d44e5d7c7b9e",
+        "affe200ff8274e3325ab29488fed513539ad0ec4",
+        "516a211a8dea29649b8b3f153a907cffd863f79f"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dbb90350833bafda795d95585ad692ec5c08583a",
+        "0fc102ad12baae63b7869321be869f10b373cc38",
+        "ca5a3095ddda95ba71c0e71046fe257c548f39fe",
+        "953ca6e036b26d235e2327b4dbd76b8f2f43f853"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1a50e361c7fa4c370fa30335df8ceb081ec7b76e",
+        "db2f9f22f98bdc1cf617b449ab452934f2e95c7e",
+        "c9e1097679ecba3420fd0fd12ac181458ffb8940"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "badd412a685d16a5b0970ee1892a2e2cd21eb8bb"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "91dd98212dd1cdf6254286e9632cec249201edee",
+        "d98a285b7739c4a6a09b57eacb898c077a80069a"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9fd09202262cbd96a8f750c9d8878593e88abd6d",
+        "0615d3a68f40da8bcffc5931cc9f73ddca02b7c9",
+        "1b092af0a6daebb424c17cc763cdb637e4798898",
+        "f2846653e6175c45dc6e79864e150b71de554eb3"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

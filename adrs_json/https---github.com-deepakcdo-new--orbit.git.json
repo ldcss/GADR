@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/deepakcdo/new-orbit.git",
+  "crawlDateTime": "2022-01-18T22:57:16.833415",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-openshift-as-cloud-provider.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-09-08T20:27:52Z",
+      "lastCommit": "2020-09-08T20:27:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46e86354012560c92c8fc827ccb352762a3c4110"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-09-08T20:27:52Z",
+      "lastCommit": "2020-09-08T20:27:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46e86354012560c92c8fc827ccb352762a3c4110"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-08T20:27:52Z",
+  "lastAdrCommit": "2020-09-08T20:27:52Z",
+  "firstCommit": "2020-09-08T20:27:52Z",
+  "lastCommit": "2020-09-20T19:16:19Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "46e86354012560c92c8fc827ccb352762a3c4110"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

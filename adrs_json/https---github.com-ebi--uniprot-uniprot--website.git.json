@@ -1,0 +1,181 @@
+{
+  "repositoryUrl": "https://github.com/ebi-uniprot/uniprot-website.git",
+  "crawlDateTime": "2022-01-18T17:31:39.97542",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-design-system.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-06T15:36:06Z",
+      "lastCommit": "2019-03-06T16:21:39Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d3f1a0658e39df2564b78a58f72f7b557e1519b2",
+            "7b36a7eb46f80aa57731807d82e3db842f6d13c7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-coding-style.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-06T15:36:06Z",
+      "lastCommit": "2019-03-06T16:32:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d3f1a0658e39df2564b78a58f72f7b557e1519b2",
+            "667d16d94691a526f5efc9331e5fa232a279701a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-state-management.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-06T15:36:06Z",
+      "lastCommit": "2021-03-18T07:58:09Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "42daac79b6b6198d675204b46d7769c50f9e8f65"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d3f1a0658e39df2564b78a58f72f7b557e1519b2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d018b6eba5356f5a200faf541c27d127f203213f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-frontend-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-06T15:36:06Z",
+      "lastCommit": "2019-03-06T15:36:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d3f1a0658e39df2564b78a58f72f7b557e1519b2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-06T15:36:06Z",
+      "lastCommit": "2019-03-06T16:28:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f353d5c5dbd5a263d43dcaf7a9559ae2bed6b41",
+            "d3f1a0658e39df2564b78a58f72f7b557e1519b2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-06T15:36:06Z",
+      "lastCommit": "2019-03-06T15:36:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d3f1a0658e39df2564b78a58f72f7b557e1519b2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-06T15:36:06Z",
+  "lastAdrCommit": "2021-03-18T07:58:09Z",
+  "firstCommit": "2018-07-05T15:50:46Z",
+  "lastCommit": "2022-01-18T16:52:33Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "42daac79b6b6198d675204b46d7769c50f9e8f65"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d018b6eba5356f5a200faf541c27d127f203213f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d3f1a0658e39df2564b78a58f72f7b557e1519b2",
+        "8f353d5c5dbd5a263d43dcaf7a9559ae2bed6b41",
+        "667d16d94691a526f5efc9331e5fa232a279701a",
+        "7b36a7eb46f80aa57731807d82e3db842f6d13c7"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

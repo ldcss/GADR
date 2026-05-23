@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/azavea/pwd-waterworks-revealed.git",
+  "crawlDateTime": "2022-01-18T19:57:27.490173",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001-geofencing-and-orientation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-22T16:44:15Z",
+      "lastCommit": "2018-02-22T16:44:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a60d01051096ac07b2feec48848b67c7da52706"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-02-22T16:44:15Z",
+  "lastAdrCommit": "2018-02-22T16:44:15Z",
+  "firstCommit": "2014-04-30T14:29:56Z",
+  "lastCommit": "2018-02-22T18:06:16Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7a60d01051096ac07b2feec48848b67c7da52706"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

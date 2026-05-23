@@ -1,0 +1,207 @@
+{
+  "repositoryUrl": "https://github.com/thomvaill/log4brains.git",
+  "crawlDateTime": "2022-01-18T22:19:35.492593",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "20200925-use-prettier-eslint-airbnb-for-the-code-style.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-12-10T08:48:42Z",
+      "lastCommit": "2020-12-10T08:48:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03550dc4435c7668d36b50ca5ae420fab94e4936"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "20201026-the-core-api-is-responsible-for-enhancing-the-adr-markdown-body-with-mdx.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-12-10T08:48:42Z",
+      "lastCommit": "2020-12-10T08:48:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03550dc4435c7668d36b50ca5ae420fab94e4936"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "20210113-distribute-log4brains-as-a-global-npm-package.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-13T19:51:45Z",
+      "lastCommit": "2021-01-13T19:51:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9551b689ffbce82f5b6d2bb514f87bf3faa10e3e",
+            "e59fd271319bcc197ebdec7a9af9e12f648b2d6b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "20200925-multi-packages-architecture-in-a-monorepo-with-yarn-and-lerna.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-12-10T08:48:42Z",
+      "lastCommit": "2020-12-10T08:48:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03550dc4435c7668d36b50ca5ae420fab94e4936"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "20201016-use-the-adr-slug-as-its-unique-id.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-10T08:48:42Z",
+      "lastCommit": "2020-12-10T08:48:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03550dc4435c7668d36b50ca5ae420fab94e4936"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "20200927-avoid-default-exports.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-10T08:48:42Z",
+      "lastCommit": "2020-12-10T08:48:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03550dc4435c7668d36b50ca5ae420fab94e4936"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "20201103-use-lunr-for-search.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-12-10T08:48:42Z",
+      "lastCommit": "2020-12-10T08:48:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03550dc4435c7668d36b50ca5ae420fab94e4936"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "20200926-use-the-adr-number-as-its-unique-id.md",
+      "template": "Madr",
+      "status": "superseded by [20201016-use-the-adr-slug-as-its-unique-id](20201016-use-the-adr-slug-as-its-unique-id.md)",
+      "firstCommit": "2020-12-10T08:48:42Z",
+      "lastCommit": "2020-12-10T08:48:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03550dc4435c7668d36b50ca5ae420fab94e4936"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "20200924-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-12-10T08:48:42Z",
+      "lastCommit": "2020-12-10T08:48:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03550dc4435c7668d36b50ca5ae420fab94e4936"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-10T08:48:42Z",
+  "lastAdrCommit": "2021-01-13T19:51:45Z",
+  "firstCommit": "2020-09-15T15:06:41Z",
+  "lastCommit": "2021-10-28T20:15:50Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "03550dc4435c7668d36b50ca5ae420fab94e4936"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9551b689ffbce82f5b6d2bb514f87bf3faa10e3e",
+        "e59fd271319bcc197ebdec7a9af9e12f648b2d6b"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/slacgismo/openfido-utils.git",
+  "crawlDateTime": "2022-01-18T18:47:53.564732",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-migrate-from-openfido-workflow-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-01T19:59:29Z",
+      "lastCommit": "2020-10-01T19:59:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "39220428a34c9342e74e2ba6e2ede12e55c69904"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-01T19:59:29Z",
+      "lastCommit": "2020-10-01T19:59:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "39220428a34c9342e74e2ba6e2ede12e55c69904"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-01T19:59:29Z",
+  "lastAdrCommit": "2020-10-01T19:59:29Z",
+  "firstCommit": "2019-11-22T20:08:32Z",
+  "lastCommit": "2021-03-26T06:56:56Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "39220428a34c9342e74e2ba6e2ede12e55c69904"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "repositoryUrl": "https://github.com/carlosroman/aws-lambda-benchmark.git",
+  "crawlDateTime": "2022-01-18T19:27:04.766422",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-amazon-dynamodb-to-mimic-real-world-use-cases-of-lambdas.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-25T09:14:11Z",
+      "lastCommit": "2018-08-25T09:14:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f4e3701cb51a726821e1f2bb69ae0ace06effa73"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-aws-codepipeline-with-aws-codebuild-to-build-and-deploy-project.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-25T09:14:11Z",
+      "lastCommit": "2018-08-25T09:14:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f4e3701cb51a726821e1f2bb69ae0ace06effa73"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-25T09:14:11Z",
+      "lastCommit": "2018-08-25T09:14:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f4e3701cb51a726821e1f2bb69ae0ace06effa73"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-aws-sam-cli-to-run-lambdas-locally.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-03T16:38:49Z",
+      "lastCommit": "2019-05-03T16:38:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64472b6fd1a470b9db4d29346588faa03b27faa3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-25T09:14:11Z",
+  "lastAdrCommit": "2019-05-03T16:38:49Z",
+  "firstCommit": "2018-07-30T19:25:46Z",
+  "lastCommit": "2021-06-02T00:16:11Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f4e3701cb51a726821e1f2bb69ae0ace06effa73",
+        "64472b6fd1a470b9db4d29346588faa03b27faa3"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

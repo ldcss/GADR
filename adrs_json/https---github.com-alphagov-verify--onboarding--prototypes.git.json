@@ -1,0 +1,302 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/verify-onboarding-prototypes.git",
+  "crawlDateTime": "2022-01-18T19:04:22.258712",
+  "numAdrDirectories": 2,
+  "adrDirectories": [
+    "doc/adr",
+    "prototypes/prototype-0/docs/adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-build-a-prototype.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2017-06-01T08:46:52Z",
+      "lastCommit": "2017-06-01T14:48:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dced05c41b92eeba12155dc3d90e191096974b49"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "112f4a6c95ef730c60b94377c2c6e0be4441aa3a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-05-31T14:34:55Z",
+      "lastCommit": "2017-05-31T14:34:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cd9af0519422e18bead1ab19b18ad9889bc2887e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "prototypes/prototype-0/docs/adr",
+      "path": "0003-use-files-to-store-private-keys copy.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2017-06-01T11:21:36Z",
+      "lastCommit": "2017-06-02T15:39:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9ebb8310c52fa2970d4b850a15122ead66661ec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ba08a9fa5476e0eca19b406dd3028d194fc12f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "prototypes/prototype-0/docs/adr",
+      "path": "0005-sp-will-generate-request-id.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2017-06-01T11:21:36Z",
+      "lastCommit": "2017-06-02T15:39:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9ebb8310c52fa2970d4b850a15122ead66661ec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ba08a9fa5476e0eca19b406dd3028d194fc12f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "prototypes/prototype-0/docs/adr",
+      "path": "0007-we-will-document-a-strawman-api.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2017-06-01T11:21:36Z",
+      "lastCommit": "2017-06-02T15:39:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9ebb8310c52fa2970d4b850a15122ead66661ec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ba08a9fa5476e0eca19b406dd3028d194fc12f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "prototypes/prototype-0/docs/adr",
+      "path": "0008-provide-an-end-to-end-stub.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-12T11:06:28Z",
+      "lastCommit": "2017-07-10T15:02:29Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "049980648833dc4b592ea40a8cecc089b3bd168c",
+            "03199d5420fd65c8c92b037240ad52d1bbf0aaee"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8b784754fb60d0c0bf98c82339a0cc0ca6837b4",
+            "9c33a87b1ddf6915cdfbd23b4cad946f269908aa"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4df9cf9bb6648cc24c55ab935d2ae5e4417cc155"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "prototypes/prototype-0/docs/adr",
+      "path": "0006-we-will-build-a-js-client.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2017-06-01T11:21:36Z",
+      "lastCommit": "2017-06-02T15:39:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9ebb8310c52fa2970d4b850a15122ead66661ec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ba08a9fa5476e0eca19b406dd3028d194fc12f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "prototypes/prototype-0/docs/adr",
+      "path": "0002-how-do-we-secure-the-api.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2017-06-01T11:21:36Z",
+      "lastCommit": "2017-06-02T15:39:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9ebb8310c52fa2970d4b850a15122ead66661ec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ba08a9fa5476e0eca19b406dd3028d194fc12f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "prototypes/prototype-0/docs/adr",
+      "path": "0004-users-will-be-able-to-provide-relay-state.md",
+      "template": "Nygard",
+      "status": "Pending (may want to change if the added complexity is high)",
+      "firstCommit": "2017-06-01T11:21:36Z",
+      "lastCommit": "2017-06-02T15:39:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9ebb8310c52fa2970d4b850a15122ead66661ec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ba08a9fa5476e0eca19b406dd3028d194fc12f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-05-31T14:34:55Z",
+  "lastAdrCommit": "2017-07-10T15:02:29Z",
+  "firstCommit": "2017-05-31T14:34:21Z",
+  "lastCommit": "2021-08-11T04:05:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "049980648833dc4b592ea40a8cecc089b3bd168c",
+        "03199d5420fd65c8c92b037240ad52d1bbf0aaee"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f9ebb8310c52fa2970d4b850a15122ead66661ec",
+        "f8b784754fb60d0c0bf98c82339a0cc0ca6837b4",
+        "cd9af0519422e18bead1ab19b18ad9889bc2887e",
+        "9c33a87b1ddf6915cdfbd23b4cad946f269908aa",
+        "dced05c41b92eeba12155dc3d90e191096974b49"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9ba08a9fa5476e0eca19b406dd3028d194fc12f6",
+        "4df9cf9bb6648cc24c55ab935d2ae5e4417cc155"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "112f4a6c95ef730c60b94377c2c6e0be4441aa3a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/ruffythepirate/spin-archetype-base.git",
+  "crawlDateTime": "2022-01-18T20:24:33.714266",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-unified-terminology.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-25T03:55:09Z",
+      "lastCommit": "2020-04-25T03:55:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03812c2ff88b17df13ef5bb32803a60bdf02e087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-25T03:55:09Z",
+      "lastCommit": "2020-04-25T03:55:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03812c2ff88b17df13ef5bb32803a60bdf02e087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-25T03:55:09Z",
+  "lastAdrCommit": "2020-04-25T03:55:09Z",
+  "firstCommit": "2020-04-17T04:50:43Z",
+  "lastCommit": "2022-01-12T23:03:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "03812c2ff88b17df13ef5bb32803a60bdf02e087"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

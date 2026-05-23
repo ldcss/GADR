@@ -1,0 +1,84 @@
+{
+  "repositoryUrl": "https://github.com/marain-dotnet/Marain.LineOfBusiness.git",
+  "crawlDateTime": "2022-01-18T18:23:00.97121",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-api-design-and-background.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-01-29T15:33:29Z",
+      "lastCommit": "2021-01-29T15:52:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05f3a2febcd3c415d5d34402f479a08329bfb760"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3b20ec64f866963ee7eaf648d862408b97ac633b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-initial-technical-implementation.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-01-29T15:33:29Z",
+      "lastCommit": "2021-02-05T11:19:34Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05f3a2febcd3c415d5d34402f479a08329bfb760",
+            "08bcea460f90e34ce0c57a1470f9eb49915854ee",
+            "c173187b089e8a0464faaf7c1ce4ea62ac2ac20d"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-29T15:33:29Z",
+  "lastAdrCommit": "2021-02-05T11:19:34Z",
+  "firstCommit": "2021-01-29T15:33:29Z",
+  "lastCommit": "2021-02-18T17:02:54Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "05f3a2febcd3c415d5d34402f479a08329bfb760",
+        "08bcea460f90e34ce0c57a1470f9eb49915854ee",
+        "c173187b089e8a0464faaf7c1ce4ea62ac2ac20d"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3b20ec64f866963ee7eaf648d862408b97ac633b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

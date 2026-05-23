@@ -1,0 +1,146 @@
+{
+  "repositoryUrl": "https://github.com/adr/adr-manager.git",
+  "crawlDateTime": "2022-01-18T18:46:53.557677",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-implement-a-global-store.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-07T01:57:53Z",
+      "lastCommit": "2021-11-09T00:09:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb93a923fe46137c4f095bd12f1a7b977cb09a7a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dad85b9046f1bd780a9e7abec6cc6fdcb07512c7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-pizzly-as-backend.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-07T01:57:53Z",
+      "lastCommit": "2021-03-02T10:38:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb93a923fe46137c4f095bd12f1a7b977cb09a7a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc85da530a8f632664ae200ee97ebe5c2a5ffec5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-vue.js.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-07T01:57:53Z",
+      "lastCommit": "2021-01-07T01:57:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb93a923fe46137c4f095bd12f1a7b977cb09a7a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-antlr-for-parsing-adrs.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-07T01:57:53Z",
+      "lastCommit": "2021-01-07T01:57:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb93a923fe46137c4f095bd12f1a7b977cb09a7a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-01-07T01:57:53Z",
+      "lastCommit": "2021-01-07T01:57:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb93a923fe46137c4f095bd12f1a7b977cb09a7a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-07T01:57:53Z",
+  "lastAdrCommit": "2021-11-09T00:09:45Z",
+  "firstCommit": "2020-10-14T12:51:18Z",
+  "lastCommit": "2021-11-11T08:43:18Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bb93a923fe46137c4f095bd12f1a7b977cb09a7a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dad85b9046f1bd780a9e7abec6cc6fdcb07512c7",
+        "bc85da530a8f632664ae200ee97ebe5c2a5ffec5"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

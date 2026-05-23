@@ -1,0 +1,47 @@
+{
+  "repositoryUrl": "https://github.com/nowakprojects/coders-board-v2.git",
+  "crawlDateTime": "2022-01-18T21:09:48.702206",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-APP_BACKEND-modules-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-22T14:47:58Z",
+      "lastCommit": "2020-05-04T15:07:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cffcc8572a60c570835c0b6debd6049f901da35e",
+            "e01757ca3b76868c01681dec13c61caed8f8fd74"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-22T14:47:58Z",
+  "lastAdrCommit": "2020-05-04T15:07:07Z",
+  "firstCommit": "2020-03-23T18:56:37Z",
+  "lastCommit": "2021-07-16T15:32:34Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cffcc8572a60c570835c0b6debd6049f901da35e",
+        "e01757ca3b76868c01681dec13c61caed8f8fd74"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/amolofos/automated-workstation-setup.git",
+  "crawlDateTime": "2022-01-18T20:43:00.51365",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0002-ansible-do-not-use-local-connections.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-23T15:55:39Z",
+      "lastCommit": "2021-08-23T15:55:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff8e1afc317ee3920980213617930702609ffd7d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-23T15:55:39Z",
+      "lastCommit": "2021-08-23T15:55:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff8e1afc317ee3920980213617930702609ffd7d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-08-23T15:55:39Z",
+  "lastAdrCommit": "2021-08-23T15:55:39Z",
+  "firstCommit": "2019-01-05T06:43:22Z",
+  "lastCommit": "2021-11-18T13:45:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ff8e1afc317ee3920980213617930702609ffd7d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "repositoryUrl": "https://github.com/gitsupportting/angular.git",
+  "crawlDateTime": "2022-01-18T21:24:29.097739",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-start-with-api-and-ui-in-the-same-project.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-28T13:34:33Z",
+      "lastCommit": "2020-09-28T13:34:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d31301e0aab571001e65efab39f9a16504f7d033"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-angular-8.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-28T13:34:33Z",
+      "lastCommit": "2020-09-28T13:34:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d31301e0aab571001e65efab39f9a16504f7d033"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-28T13:34:33Z",
+      "lastCommit": "2020-09-28T13:34:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d31301e0aab571001e65efab39f9a16504f7d033"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-28T13:34:33Z",
+  "lastAdrCommit": "2020-09-28T13:34:33Z",
+  "firstCommit": "2020-09-28T13:34:33Z",
+  "lastCommit": "2020-09-28T13:34:33Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d31301e0aab571001e65efab39f9a16504f7d033"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

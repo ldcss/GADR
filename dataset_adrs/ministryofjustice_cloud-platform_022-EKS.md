@@ -1,0 +1,301 @@
+# EKS
+
+Date: 11/11/2024
+
+## Status
+
+✅ Accepted
+
+## What’s proposed
+
+Use Amazon EKS for running the main cluster, which hosts MOJ service teams' applications. This replaces usage of kOps.
+
+## Reasoning
+
+Benefits of EKS:
+
+- a managed control plane (master nodes), reducing operational overhead compared to kOps, such as scaling the control plane nodes. And reduces risk to k8s API availability, if there was a sudden increase in k8s API traffic.
+- [managed nodes](https://docs.aws.amazon.com/eks/latest/userguide/managed-node-groups.html), further reducing operational overhead
+- Kubernetes upgrades are smoother:
+  - kOps rolling upgrades have been problematic. e.g. during 1.18 to 1.19 upgrade kOps caused us to have to [work around a networking issue](https://docs.google.com/document/d/1HzmTk0IvuW1XsXmVJEsSOzB4jkiMpjwZWlUwIF7P9Gc/edit)
+  - CP team sees kOps upgrades as particularly stressful, and 3rd on our risk register
+- it opens the door to using [ELB for ingress](https://docs.aws.amazon.com/eks/latest/userguide/aws-load-balancer-controller.html). Being managed, it is seen as preferable to self-managed nginx, which requires upgrades, scaling etc.
+- avoid security challenge of managing tokens that are exported with `kops export kubeconfig`
+
+We already run the Manager cluster on EKS, and have gained a lot of insight and experience of using it.
+
+## EKS configuration decisions
+
+### Auth
+
+**Chosen:** OIDC, with Auth0 as broker and GitHub as Identity Provider
+
+Developers in service teams need to use the k8s auth, and GitHub continues to be the most common SSO amongst them with good tie-in to JML processes - see [ADR 6 Use GitHub as our identity provider](006-Use-github-as-user-directory.md)
+
+Auth0 is useful as a broker, for a couple of important [rules that it runs at login time](https://github.com/ministryofjustice/cloud-platform-terraform-global-resources-auth0):
+
+- it ensures that the user is in the ministryofjustice GitHub organization, so only staff can get a kubeconfig and login to CP websites like Grafana
+- it inserts the user's GitHub teams into the OIDC ID token as claims. These are used by k8s RBAC to authorize the user for the correct namespaces
+
+Future options:
+
+- Azure AD SSO is growing in MOJ - there's a case for switching to that, if it is adopted amongst our users
+- IAM auth has the benefit of immediately revoking access. Maybe we could use federated login with GitHub? (But would that give only temporary kubecfg?) Or sync the GitHub team info to IAM?
+
+**Status**: Completed 2/6/21 [#2854](https://github.com/ministryofjustice/cloud-platform/issues/2854)
+
+### Auth credential issuer
+
+**Chosen:** Cloud Platform Kuberos
+
+We've long used Kuberos for issuing kubecfg credentials to users. The [original version of Kuberos](https://github.com/negz/kuberos) is unmaintained, but it's pretty simple, so we have updated the dependencies in: https://github.com/ministryofjustice/cloud-platform-kuberos/ and will maintain our fork.
+
+Other options considered:
+
+- [Gangway](https://github.com/heptiolabs/gangway) - similar to Kuberos, it has not had releases for 2 years (v3.2.0)
+- [kubelogin](https://github.com/int128/kubelogin)
+  - CP team would have to distribute the client secret to all users. It seems odd to go to the trouble of securely sharing that secret, to overcome the perceived difficulty of issuing kubecfg credentials.
+  - Requires all of our users to install the software, rather than doing it server-side centrally
+- [kubehook](https://github.com/negz/kubehook) - not compatible with EKS - doesn't support web hook authn
+- [dex](https://github.com/dexidp/dex) - doesn't have a web front-end for issuing creds - it is more of an OIDC broker
+
+**Status:** Completed 24/6/21 [#1254](https://github.com/ministryofjustice/cloud-platform/issues/2945)
+
+### Authorization
+
+**Chosen:** existing RBAC configuration
+
+We'll continue to use our existing RBAC configuration from the previous cluster.
+
+**Status**: Completed 2/6/21 [#2854](https://github.com/ministryofjustice/cloud-platform/issues/2854)
+
+### Node management
+
+**Chosen:** Managed node groups, with future experimenting with Fargate
+
+Options:
+
+- Self-managed nodes
+- Managed node groups - automates various aspects of the node lifecycle, including creating the EC2s, the auto scaling group, registration of nodes with kubernetes and recycling nodes
+- Fargate nodes - fully automated nodes, the least to manage. Benefits from more isolation between pods and automatic scaling. Doesn't support daemonsets.
+
+We aim to take advantage of as much automation as possible, to minimize the team's operational overhead and risk. Initially we'll use managed node groups, before looking at Fargate for workloads.
+
+**Status**: Completed 2/6/21 [#2854](https://github.com/ministryofjustice/cloud-platform/issues/2854)
+
+#### Future Fargate considerations
+
+_Pod limits_ - there is a quota limit of [500 Fargate pods per region per AWS Account](https://aws.amazon.com/about-aws/whats-new/2020/09/aws-fargate-increases-default-resource-count-service-quotas/) which could be an issue, considering we currently run ~2000 pods. We can request AWS raise the limit - not currently sure what scope there is. With Multi-cluster stage 5, the separation of loads into different AWS accounts will settle this issue.
+
+_Daemonset functionality_ - needs replacement:
+
+- fluent-bit - currently used for log shipping to ElasticSearch. AWS provides a managed version of [Fluent Bit on Fargate](https://aws.amazon.com/blogs/containers/fluent-bit-for-amazon-eks-on-aws-fargate-is-here/) which can be configured to ship logs to ElasticSearch.
+- prometheus-node-exporter - currently used to export node metrics to prometheus. In Fargate the node itself is managed by AWS and therefore hidden. However we can [collect some useful metrics about pods running in Fargate from scraping cAdvisor](https://aws.amazon.com/blogs/containers/monitoring-amazon-eks-on-aws-fargate-using-prometheus-and-grafana/), including on CPU, memory, disk and network
+
+_No EBS support_ - Prometheus will run still in a managed node group. Likely other workloads too to consider.
+
+_how people check the status of their deployments_ - to be investigated
+
+_ingress can't be nginx? - just the load balancer in front_ - to be investigated
+
+If we don't use Fargate then we should take advantage of Spot instances for reduced costs. However Fargate is the priority, because the main driver here is engineer time, not EC2 cost.
+
+### Node groups
+
+**Chosen:** A main node group for majority workloads, and a prometheus node group.
+
+We'll minimize the number of node groups, to minimize the operation overhead.
+
+For Prometheus, we continue our design from our previous cluster, where we have a separate node group of larger nodes, dedicated to Prometheus pods. This is because Prometheus is resource hungry for memory and disk IOPS. We will have two large nodes, in a single availability zone, so they can both access the EBS volume that stores metrics data.
+
+Further node groups may be valueable for using Spot or Fargate nodes, as we explore them in the future.
+
+**Status:** Completed - Prometheus node group 27/8/21 [#2979](https://github.com/ministryofjustice/cloud-platform/issues/2979)
+
+### Node instance types
+
+**Chosen:** r5.xlarge, r5.4xlarge, r5a.xlarge - for the main node group
+
+**Chosen:** IP Prefixes [configured](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-prefix-eni.html) in the image
+
+In choosing instance types, our past experience has been that memory tends to be the limiting factor, so we have gone for the memory optimized range of instance types - 'r'. r5a is the latest, and most cost efficient, in that range, without going for ARM processors (see consideration below). However r5.xlarge is what we use on the current cluster, so we'll stick with that for now and move to r5a.xlarge after the migration.
+
+The choice of AWS CNI networking in the new cluster, initially added a constraint on the number of pods per node, due to limitations on numbers of ENIs / IP addresses. However AWS has now released [IP prefixes](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-virtual-private-cloud-vpc-customers-can-assign-ip-prefixes-ec2-instances/), giving higher pod density per node, which enables us to avoid this limit. Support is added in [AWS CNI 1.9.0](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.9.0) and it requires instances to be "nitro"-based, which the r5 range is, but not r4.
+
+So the primary choice is:
+
+- r5.xlarge - 4 vCPUs, 32GB memory
+
+With fallbacks (should the cloud provider run out of these in the AZ):
+
+- r5.2xlarge - 8 vCPUs, 64GB memory
+- r5a.xlarge - 4 vCPUs, 32GB memory
+
+In the future we might consider the ARM processor ranges, but we'd need to consider the added complexity of cross-compiled container images.
+
+**Chosen:** r5.2xlarge, r4.2xlarge - for the Prometheus node group
+
+The existing cluster uses r5.2xlarge, so we'll continue with that, and add some fall-backs:
+
+- r5.2xlarge - memory optimized range - 8 cores 64 GB
+- r4.2xlarge - memory optimized range - 8 cores 61 GB
+
+**Status:**
+
+- 1/9/21 r5.xlarge is in place for main node group - a temporarily a high number of instances
+- IP prefixes is in the backlog [#3086](https://github.com/ministryofjustice/cloud-platform/issues/3086)
+
+### Pod networking (CNI)
+
+**Chosen:** AWS VPC networking (CNI)
+
+Link: https://docs.aws.amazon.com/eks/latest/userguide/pod-networking.html
+
+AWS's CNI is used for the pod networking (IPAM, CNI and Routing). Each pod is given an ENI and IP address from the underlying VPC (rather than an overlay network). Pod traffic is routed between nodes using the native VPC.
+
+Advantages of AWS's CNI:
+
+- it is the default with EKS, native to AWS, is fully supported by AWS - low management overhead
+- offers good network performance
+
+The concern with AWS's CNI would be that it uses an IP address for every pod, and there is a [limit per node](https://github.com/awslabs/amazon-eks-ami/blob/main/nodeadm/internal/kubelet/eni-max-pods.txt), depending on the EC2 instance type and the number of ENIs it supports. The calculations in [Node Instance Types](#node-instance-types) show that with a change of instance type, the cost of the cluster increases by 17% or $8k, which is acceptable - likely less than the engineering cost of maintaining and supporting full Calico networking and custom node image.
+
+The alternative considered was [Calico networking](https://docs.projectcalico.org/getting-started/kubernetes/managed-public-cloud/eks#install-eks-with-calico-networking). This has the advantage of not needing an IP address per pod, and associated instance limit. And it is open source. However:
+
+- We wouldn't have any support from the cloud provider if there were networking issues.
+- We have to maintain a customized image with Calico installed. It's likely that changes to EKS over time will frequently cause breakages with this networking setup.
+- Installation requires recycling the nodes, which is not a good fit with declarative config.
+
+**Status**: Completed 2/6/21 [#2854](https://github.com/ministryofjustice/cloud-platform/issues/2854)
+
+### Node image
+
+**Chosen:** Amazon EKS optimized AMIs
+
+Link: https://docs.aws.amazon.com/eks/latest/userguide/eks-optimized-ami.html
+
+These EKS AMIs are the default and therefore lowest maintenance. We can't see a reason not to use them. (If we needed changes, then a launch config would give us flexibility.)
+
+**Status**: Completed 2/6/21 [#2854](https://github.com/ministryofjustice/cloud-platform/issues/2854)
+
+### Cluster scaling
+
+**Chosen:** Manual cluster scaling, with future consideration of auto-scaling
+
+Initially we will continue manually scaling up/down the nodes manually, as we did on the kops cluster. This has proven fine, since the workload changes only slowly. And we have alerts set-up to warn when capacity is low, to prompt the team to scale the cluster.
+
+Cluster auto-scaling should be considered soon though. This is to embrace one of the cloud's key advantages - to scale up/down swiftly, for good efficiency. For example, usage of the hosted sites is much lower at night, so we should aim to get our workloads to scale down automatically, and our cluster to follow suit. In addition, tenants' non-production environments do not need to run at all at night.
+
+Considerations for auto-scaler:
+
+- we need to maintain spare capacity, so that workloads that scale up don't have to wait for nodes to start-up, which can take about 7 minutes. This may require some tuning.
+- tenants should be encouraged to auto-scale their pods effectively (e.g. using the Horizontal pod autoscaler), to capitalize on cluster auto-scaling
+- scaling down non-prod namespaces will need agreement from service teams
+
+**Status:**
+
+- 18/8/21 Manual scaling in place [#3033](https://github.com/ministryofjustice/cloud-platform/issues/3033)
+- 23/9/21 Auto-scaler is still desired
+
+### Network policy enforcement
+
+**Chosen:** Calico network policy enforcement (i.e. just for policy, not the full blown Calico networking)
+
+Link: https://docs.projectcalico.org/getting-started/kubernetes/managed-public-cloud/eks#install-eks-with-amazon-vpc-networking
+
+This implements the Kubernetes Network Policy API, needed to isolate tenants. It is [recommended by EKS](https://docs.aws.amazon.com/eks/latest/userguide/calico.html). The CP team used it in the previous live-1 cluster, and are familiar with it.
+
+CP's namespaces have a [default NetworkPolicy](https://github.com/ministryofjustice/cloud-platform-environments/blob/main/namespace-resources-cli-template/04-networkpolicy.yaml) that only allows incoming requests from pods in the same namespace and ingress-controller namespace, not other tenants' namespaces.
+
+An alternative is [AWS Security Groups](https://docs.aws.amazon.com/eks/latest/userguide/security-groups-for-pods.html). Creating a 'SecurityGroupPolicy' resource for a namespace would attach a security group, allowing us to specify the inbound and outbound network traffic. The [advantage](https://github.com/aws/containers-roadmap/issues/177) over a similar NetworkPolicy, is that the Security Group can specify AWS resources like RDS instances. So it would be a network restriction, in addition to the auth restriction (CP's RDS instances are currently [network accessible across the VPC](https://user-guide.cloud-platform.service.justice.gov.uk/documentation/other-topics/rds-external-access.html#accessing-your-rds-database)). We should explore this in the future for defence in depth.
+
+**Status**: Completed 7/6/21 - AWS Calico (network policy enforcement) installed [#2974](https://github.com/ministryofjustice/cloud-platform/issues/2974)
+
+**Chosen:** Calico Typha
+
+Install Typha for performance benefits. It caches requests made by Calico Felix to the k8s API.
+
+### Control plane logging
+
+**Chosen:** enable all cluster logging
+
+Link: https://docs.aws.amazon.com/eks/latest/userguide/control-plane-logs.html
+
+Control plane logs can be enabled to log: k8s API, authentication, controller manager and scheduler
+
+The logs go to CloudWatch. Maybe we need to export them elsewhere. Further discussion is covered in: [ADR 23 Logging](023-Logging.md)
+
+**Status:** Completed 25/8/21 [#2860](https://github.com/ministryofjustice/cloud-platform/issues/2860)
+
+### Node terminal access
+
+**Chosen:** AWS Systems Manager Session Manager; no bastion nodes
+
+Links:
+
+- https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/install-ssm-agent-on-amazon-eks-worker-nodes-by-using-kubernetes-daemonset.html
+- https://github.com/aws/containers-roadmap/issues/593
+
+AWS Systems Manager Session Manager benefits:
+
+- easy to install - daemonset
+- auth is via a team member's AWS creds, so it's tied into JML processes and access can be removed immediately if they leave the team, and 2FA is the norm
+- terminal commands are logged - useful for audit purposes
+- [it's an EKS best practice](https://aws.github.io/aws-eks-best-practices/security/docs/hosts/#minimize-access-to-worker-nodes)
+- we can take advantage of other Systems Manager features in future, including diagnostic and compliance monitoring
+
+To note:
+
+- requires permissions `hostNetwork: true` and `privileged: true` so may need its own PSP
+- it's no use if the node is failing to boot or join the cluster properly, but we can live with that - it's likely that it's the pods we want to characterize, not the node, because the node is managed
+
+The traditional method of node access would be to SSH in via a bastion. This involves a shared ssh key, and shared credentials is not an acceptable security practice.
+
+**Status**
+
+Completed 2/9/21
+
+- Implementation ticket: https://github.com/ministryofjustice/cloud-platform/issues/2962
+- Runbook for usage: https://runbooks.cloud-platform.service.justice.gov.uk/eks-node-terminal-access.html
+
+### PodSecurityPolicies
+
+**Chosen:** Default EKS PSP `eks.privileged` should be used only by `aws-node` pod
+
+**Chosen:** Apply CP's existing `privileged` PSP only to the `kube-system` namespace and `restricted` PSP to the rest
+
+EKS comes with PSP `eks.privileged` that allows anything. However, security best practice is to limit it, to ensure most pods aren't allowed to run as privileged or root. [EKS best practices says]: "we recommend that you scope the binding for privileged pods to service accounts within a particular namespace, e.g. kube-system, and limiting access to that namespace". In practice we found only `aws-node` pod needed it.
+
+CP already has `privileged` and `restricted` PSPs which we can apply as on the existing cluster.
+
+**Status:** completed 13/5/21 in [#1172](https://github.com/ministryofjustice/cloud-platform-infrastructure/pull/1172) and [#1174](https://github.com/ministryofjustice/cloud-platform-infrastructure/pull/1174)
+
+#### PSP Deprecation
+
+PSPs are [deprecated](https://kubernetes.io/blog/2021/04/06/podsecuritypolicy-deprecation-past-present-and-future/) as of k8s 1.21 (April 2021) and will be removed 1.25 (due April 2022). This is because PSPs are considered a difficult way to specify policy. It's not clear what will replace them, but OPA Gatekeeper is a possibility. We will look to move from PSPs to whatever standard is selected in the KEP over coming months.
+
+**Status**: 24/9/21 Outstanding. In backlog: [#2706](https://github.com/ministryofjustice/cloud-platform/issues/2706)
+
+### Apps' access to AWS roles
+
+**Chosen:** IAM Roles for Service Accounts (IRSA), instead of kiam
+
+**Status:** Completed 21/7/21 - kube2iam usage is migrated to IRSA [#3014](https://github.com/ministryofjustice/cloud-platform/issues/3014) and [#2944](https://github.com/ministryofjustice/cloud-platform/issues/2944). kube2iam is not running on new cluster at all.
+
+**Chosen:** Block access to instance metadata's node role
+
+**Status:** Completed 18/8/21 - Access to instance metadata is blocked [#2942](https://github.com/ministryofjustice/cloud-platform/issues/2942)
+
+#### IRSA
+
+Benefits of IRSA over kiam or kube2iam:
+
+- kiam/kube2iam require running and managing a daemonset container.
+- kiam/kube2iam require [powerful AWS credentials](https://github.com/jtblin/kube2iam#iam-roles), which allow EC2 boxes to assume any role. Appropriate configuration of kiam/kube2iam aims to provide containers with only a specific role. However there are security concerns with this approach:
+  - With kube2iam you have to remember to set a `--default-role` to use when annotation is not set on a pod.
+  - When a node boots, there may be a short window until kiam/kube2iam starts up, when there is no protection of the instance metadata. In comparison, IRSA injects the token into the pod, avoiding this concern.
+  - With kube2iam/kiam, an attacker able to get root on the node could access the credentials and therefore any AWS Role. In comparison, with IRSA a breach of k8s might only have bring access to the AWS Roles that are associated with k8s service roles.
+
+#### Blocking access instance metadata
+
+The EKS node needs various AWS permissions, and these are provided by the node role. To avoid pods using these permissions, we should block access. Implementation details are provided here: https://aws.github.io/aws-eks-best-practices/security/docs/iam/#restrict-access-to-the-instance-profile-assigned-to-the-worker-node. This has been achieved using a [GlobalNetworkPolicy](https://github.com/ministryofjustice/cloud-platform-infrastructure/pull/1262/files).

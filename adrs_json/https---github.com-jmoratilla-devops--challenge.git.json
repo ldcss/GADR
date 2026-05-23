@@ -1,0 +1,289 @@
+{
+  "repositoryUrl": "https://github.com/jmoratilla/devops-challenge.git",
+  "crawlDateTime": "2022-01-18T21:17:03.701682",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-feat-ci-cd-with-circleci.md",
+      "template": "Nygard",
+      "status": "Draft",
+      "firstCommit": "2020-02-25T17:57:50Z",
+      "lastCommit": "2020-02-25T17:57:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f7ccaf27cd080251b89d41f895afc3d43bc9bfd4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-feat-code-for-microservices-arch.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-20T12:15:21Z",
+      "lastCommit": "2020-02-20T12:15:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2be9e4068b484287e809ba59cb931bb16985ead0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-doc-about-platform.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-17T10:11:46Z",
+      "lastCommit": "2020-02-17T10:22:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7b7335dc3fc1da0d26e13a57ef9a6178fc3c9c3",
+            "b2f987cc021e191d91fc128341b75040456b50f6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-feat-add-autoscaling-policy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-20T10:48:15Z",
+      "lastCommit": "2020-02-20T10:48:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ba4a693ba749280ac8a7700349e0a5fd681c69ff"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0013-feat-implement-helm.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-12T05:40:54Z",
+      "lastCommit": "2020-03-12T05:40:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "395c43a59c6d6c20351c09ec1c5b71bfb0574cfc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-feat-ideas-for-resilience.md",
+      "template": "Nygard",
+      "status": "Draft",
+      "firstCommit": "2020-02-25T10:05:06Z",
+      "lastCommit": "2020-02-25T10:05:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1de574091ea271856647ae31518162f36d82c937"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-feat-about-orchestration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-17T16:01:16Z",
+      "lastCommit": "2020-02-17T16:01:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "568c369319ae473ef944106d2afee942c559537e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0012-replace-spring-cloud-netflix-arch-with-spring-cloud-kubernetes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T11:00:41Z",
+      "lastCommit": "2020-03-05T11:38:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "032e60fe065edadc6a50fc52344275701ad12853",
+            "da69cf3d1ae0e50d0461ff8651dd9162b7bcacb8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-feat-create-staging-branch.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-17T09:39:45Z",
+      "lastCommit": "2020-02-17T09:39:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f73bb772e966eecc4fdb3aeedeecbc46bcae44b1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-feat-terraform-and-kops.md",
+      "template": "Nygard",
+      "status": "Draft",
+      "firstCommit": "2020-02-20T08:47:35Z",
+      "lastCommit": "2020-02-20T08:47:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7b836d8739a4edec3267a76e82ad5bcb15437ce0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-doc-about-monorepo.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-25T16:41:37Z",
+      "lastCommit": "2020-02-25T16:41:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a91c211ac37e013381415450b29430569c8bb1b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-doc-retrospective.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-03T09:13:40Z",
+      "lastCommit": "2020-03-03T09:13:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "94a554ae3330947cfb6348868205b088f56d3087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-17T09:33:21Z",
+      "lastCommit": "2020-02-17T09:33:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "572eaa2b580ded5f273400835c94acae554e64cf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-17T09:33:21Z",
+  "lastAdrCommit": "2020-03-12T05:40:54Z",
+  "firstCommit": "2020-02-17T09:28:19Z",
+  "lastCommit": "2020-04-19T07:34:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f7ccaf27cd080251b89d41f895afc3d43bc9bfd4",
+        "1de574091ea271856647ae31518162f36d82c937",
+        "ba4a693ba749280ac8a7700349e0a5fd681c69ff",
+        "94a554ae3330947cfb6348868205b088f56d3087",
+        "395c43a59c6d6c20351c09ec1c5b71bfb0574cfc",
+        "7b836d8739a4edec3267a76e82ad5bcb15437ce0",
+        "572eaa2b580ded5f273400835c94acae554e64cf",
+        "032e60fe065edadc6a50fc52344275701ad12853",
+        "b7b7335dc3fc1da0d26e13a57ef9a6178fc3c9c3",
+        "b2f987cc021e191d91fc128341b75040456b50f6",
+        "da69cf3d1ae0e50d0461ff8651dd9162b7bcacb8",
+        "f73bb772e966eecc4fdb3aeedeecbc46bcae44b1",
+        "568c369319ae473ef944106d2afee942c559537e",
+        "2be9e4068b484287e809ba59cb931bb16985ead0",
+        "1a91c211ac37e013381415450b29430569c8bb1b"
+      ],
+      "numberOfCommits": 15
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "repositoryUrl": "https://github.com/guardian/typerighter.git",
+  "crawlDateTime": "2022-01-18T18:35:14.451085",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decision-records"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decision-records",
+      "path": "001-regex-matcher-capitalisation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-24T12:31:45Z",
+      "lastCommit": "2020-11-24T12:31:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0a4bbd346e89945836d0c7edbbd00187fdba5517"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision-records",
+      "path": "001-management-service.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-17T16:28:57Z",
+      "lastCommit": "2020-11-24T19:08:40Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e88ee9086f634bb6c06c97e54eef1a0dc1e270e6",
+            "9084d1c99b0acc2de92e3864f9567b293b76f6f3",
+            "05d2259005198ba184c0310367c1d4de1d75afa1"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-17T16:28:57Z",
+  "lastAdrCommit": "2020-11-24T19:08:40Z",
+  "firstCommit": "2018-10-26T14:58:52Z",
+  "lastCommit": "2022-01-14T16:54:35Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e88ee9086f634bb6c06c97e54eef1a0dc1e270e6",
+        "0a4bbd346e89945836d0c7edbbd00187fdba5517",
+        "9084d1c99b0acc2de92e3864f9567b293b76f6f3",
+        "05d2259005198ba184c0310367c1d4de1d75afa1"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

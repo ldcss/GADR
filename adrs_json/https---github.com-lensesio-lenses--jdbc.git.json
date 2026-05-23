@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/lensesio/lenses-jdbc.git",
+  "crawlDateTime": "2022-01-18T23:01:42.113637",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-use-the-Value-projection-only.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-05T11:23:39Z",
+      "lastCommit": "2019-09-05T11:23:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c8d5adcefccf62b27f5a32fdc6fbd4528f2bb805"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-09-05T11:23:39Z",
+  "lastAdrCommit": "2019-09-05T11:23:39Z",
+  "firstCommit": "2017-11-24T00:52:54Z",
+  "lastCommit": "2021-05-07T11:43:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c8d5adcefccf62b27f5a32fdc6fbd4528f2bb805"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

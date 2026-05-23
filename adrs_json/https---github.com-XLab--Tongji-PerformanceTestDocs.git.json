@@ -1,0 +1,162 @@
+{
+  "repositoryUrl": "https://github.com/XLab-Tongji/PerformanceTestDocs.git",
+  "crawlDateTime": "2022-01-18T20:00:18.501416",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "failures-adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "failures-adr",
+      "path": "0007-vellum-fails-whilist-a-request-is-outstanding.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-17T06:10:27Z",
+      "lastCommit": "2018-06-17T06:10:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b67c9fcd389700476d351cd29055a134523f56e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "failures-adr",
+      "path": "0005-homestead-dime-fails.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-17T06:10:27Z",
+      "lastCommit": "2018-06-17T06:10:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b67c9fcd389700476d351cd29055a134523f56e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "failures-adr",
+      "path": "0003-sprout-fails-after-dialog-established.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-17T06:10:27Z",
+      "lastCommit": "2018-06-17T06:10:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b67c9fcd389700476d351cd29055a134523f56e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "failures-adr",
+      "path": "0004-sprout-fails-when-transaction-in-progress.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-17T06:10:27Z",
+      "lastCommit": "2018-06-17T06:10:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b67c9fcd389700476d351cd29055a134523f56e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "failures-adr",
+      "path": "0002-sprout-fails-before-receiving-request.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-17T06:10:27Z",
+      "lastCommit": "2018-06-17T06:10:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b67c9fcd389700476d351cd29055a134523f56e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "failures-adr",
+      "path": "0006-vellum-node-fails.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-17T06:10:27Z",
+      "lastCommit": "2018-06-17T06:10:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b67c9fcd389700476d351cd29055a134523f56e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "failures-adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-17T06:10:27Z",
+      "lastCommit": "2018-06-17T06:10:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b67c9fcd389700476d351cd29055a134523f56e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-17T06:10:27Z",
+  "lastAdrCommit": "2018-06-17T06:10:27Z",
+  "firstCommit": "2018-05-16T11:39:55Z",
+  "lastCommit": "2018-06-26T13:11:28Z",
+  "adrDirFile": {
+    "fileContent": "failures-adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b67c9fcd389700476d351cd29055a134523f56e5"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

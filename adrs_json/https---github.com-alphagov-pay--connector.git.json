@@ -1,0 +1,88 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/pay-connector.git",
+  "crawlDateTime": "2022-01-18T22:55:38.502607",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-002-decrypting-google-pay-token-not-required.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-23T14:42:06Z",
+      "lastCommit": "2019-01-23T14:42:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4c922ebc4cee3a1229b60dc0bc303bf3f6d1bb0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-001-dont-do-inquiry-after-notification.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2017-03-23T11:13:01Z",
+      "lastCommit": "2017-03-23T15:28:19Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48681b603984e6b205e1b2e26b4507d96357724d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d64339e9e28f349b5d0543fd9f4d61a824ee3c4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-03-23T11:13:01Z",
+  "lastAdrCommit": "2019-01-23T14:42:06Z",
+  "firstCommit": "2015-07-29T11:38:35Z",
+  "lastCommit": "2022-01-18T17:25:12Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "48681b603984e6b205e1b2e26b4507d96357724d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a4c922ebc4cee3a1229b60dc0bc303bf3f6d1bb0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2d64339e9e28f349b5d0543fd9f4d61a824ee3c4"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

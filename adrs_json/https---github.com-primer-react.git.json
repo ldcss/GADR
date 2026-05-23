@@ -1,0 +1,153 @@
+{
+  "repositoryUrl": "https://github.com/primer/react.git",
+  "crawlDateTime": "2022-01-18T17:43:54.453391",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "contributor-docs/adrs"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "contributor-docs/adrs",
+      "path": "adr-002-behavior-isolation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-25T23:02:36Z",
+      "lastCommit": "2021-10-01T00:53:49Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "219f8cb4ca50e7438272030f12277c33258c1d29",
+            "6a4e7fffced966a28af77a3dea621f8f8117fef4"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a06e1a32010e395d3e75a1b5da7d48567f1f6f26",
+            "670375fd3b0dc7cc3310775758b3a27c927e7221"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9e3cfce0851a66e837d5f3a5c2c0b84afc7aef02",
+            "dce7ec4154c6c53e45ee241639b314105fc8b53b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "contributor-docs/adrs",
+      "path": "adr-001-typescript.md",
+      "template": "Nygard",
+      "status": "Approved 2021-01-15",
+      "firstCommit": "2021-01-28T18:48:20Z",
+      "lastCommit": "2021-08-02T18:14:35Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8331e7cd3c798aed3a2d2342d3e932f23bf769aa",
+            "670375fd3b0dc7cc3310775758b3a27c927e7221"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "contributor-docs/adrs",
+      "path": "adr-003-prop-norms.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-15T20:33:20Z",
+      "lastCommit": "2021-12-16T23:53:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d5fafdb9c2e3c81263e2caed48b231a668dd860",
+            "befc751b91d9d827df8863fb64609da51fdf5308"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "contributor-docs/adrs",
+      "path": "adr-XXX-file-structure.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-12-16T23:20:25Z",
+      "lastCommit": "2021-12-16T23:20:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b05472eb3e6d296b2f50858f9320a40d2f62ba93"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-25T23:02:36Z",
+  "lastAdrCommit": "2021-12-16T23:53:40Z",
+  "firstCommit": "2018-02-17T00:09:06Z",
+  "lastCommit": "2022-01-18T17:34:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3d5fafdb9c2e3c81263e2caed48b231a668dd860",
+        "b05472eb3e6d296b2f50858f9320a40d2f62ba93",
+        "befc751b91d9d827df8863fb64609da51fdf5308"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "219f8cb4ca50e7438272030f12277c33258c1d29",
+        "6a4e7fffced966a28af77a3dea621f8f8117fef4"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8331e7cd3c798aed3a2d2342d3e932f23bf769aa",
+        "a06e1a32010e395d3e75a1b5da7d48567f1f6f26",
+        "670375fd3b0dc7cc3310775758b3a27c927e7221"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9e3cfce0851a66e837d5f3a5c2c0b84afc7aef02",
+        "dce7ec4154c6c53e45ee241639b314105fc8b53b"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

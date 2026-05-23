@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/UKGovernmentBEIS/beis-opss-psd.git",
+  "crawlDateTime": "2022-01-18T23:03:22.287738",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/decisions"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0001-use-erb-for-view-templates.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-09T14:37:17Z",
+      "lastCommit": "2020-03-09T14:37:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "95c04157b1cd6d329c49b3d444a105ecfd841059"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-09T14:37:17Z",
+  "lastAdrCommit": "2020-03-09T14:37:17Z",
+  "firstCommit": "2018-05-29T13:29:21Z",
+  "lastCommit": "2022-01-18T22:08:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "95c04157b1cd6d329c49b3d444a105ecfd841059"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

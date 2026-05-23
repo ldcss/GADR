@@ -1,0 +1,140 @@
+{
+  "repositoryUrl": "https://github.com/fablabbcn/smartcitizen-api.git",
+  "crawlDateTime": "2022-01-18T23:18:00.76531",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-hide-test-devices.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-04T16:28:32Z",
+      "lastCommit": "2021-01-05T12:03:05Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a03886b44dc2f60451b5efe4ac01277c534ae06",
+            "18e1f21b6c724414634a084dc31c7bd95b3ee2fb",
+            "a32296db7e8b963abcdcdbed4d8672c305904e7c"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-private-devices.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-05T11:59:11Z",
+      "lastCommit": "2021-01-05T13:52:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "18e1f21b6c724414634a084dc31c7bd95b3ee2fb",
+            "ab0c2a68c3009f3aa4a0fcc7ca75ffe4ed147766"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-minimize-kit-payload.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-03T15:41:34Z",
+      "lastCommit": "2020-12-04T13:41:00Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c702e8c33d7ec2e3ef7272aeb098f3686ddbfc2e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c792bafc88435279f5119edfa9ede35efb58e5c1",
+            "8fafa51c46397f70c21c63d390cb313173579dda"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-03T15:36:34Z",
+      "lastCommit": "2020-12-04T13:34:33Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c702e8c33d7ec2e3ef7272aeb098f3686ddbfc2e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e30bb53f6c183ff27dee2708ccb0cedde031e0b",
+            "f78d4ba3ae0a322a924e3791495da72623fd39c6",
+            "a4c612ff7f165f44dd05c7aa2aa59334695a8177"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-03T15:36:34Z",
+  "lastAdrCommit": "2021-01-05T13:52:32Z",
+  "firstCommit": "2015-01-26T14:54:55Z",
+  "lastCommit": "2021-10-12T18:50:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5a03886b44dc2f60451b5efe4ac01277c534ae06",
+        "c702e8c33d7ec2e3ef7272aeb098f3686ddbfc2e",
+        "18e1f21b6c724414634a084dc31c7bd95b3ee2fb",
+        "ab0c2a68c3009f3aa4a0fcc7ca75ffe4ed147766",
+        "a32296db7e8b963abcdcdbed4d8672c305904e7c"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1e30bb53f6c183ff27dee2708ccb0cedde031e0b",
+        "f78d4ba3ae0a322a924e3791495da72623fd39c6",
+        "a4c612ff7f165f44dd05c7aa2aa59334695a8177",
+        "c792bafc88435279f5119edfa9ede35efb58e5c1",
+        "8fafa51c46397f70c21c63d390cb313173579dda"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

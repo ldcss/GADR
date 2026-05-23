@@ -1,0 +1,126 @@
+{
+  "repositoryUrl": "https://github.com/customcommander/functionaut.git",
+  "crawlDateTime": "2022-01-18T22:19:34.525144",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0004-no-type-checking.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-10-12T23:20:25Z",
+      "lastCommit": "2021-10-12T23:20:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a03793fe2474a2f5bd0b8421f95730567ed5271f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0005-logical-true-logical-false.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2022-01-01T14:15:17Z",
+      "lastCommit": "2022-01-01T14:15:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3699f111526663e120289fca0b559b5f640f33e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-use-google-closure-compiler.md",
+      "template": "Nygard",
+      "status": "Accepted Explains [3. Test Distributed Files Only](0003-test-distributed-files-only.md)",
+      "firstCommit": "2021-02-13T20:10:44Z",
+      "lastCommit": "2021-02-13T20:10:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6983c3f74d29e499f82dbf88a85b4fd65f089654"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-test-distributed-files-only.md",
+      "template": "Nygard",
+      "status": "Accepted Relates [2. Use Google Closure Compiler](0002-use-google-closure-compiler.md)",
+      "firstCommit": "2021-02-13T20:10:44Z",
+      "lastCommit": "2021-02-13T20:10:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6983c3f74d29e499f82dbf88a85b4fd65f089654"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-13T20:10:44Z",
+      "lastCommit": "2021-02-13T20:10:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6983c3f74d29e499f82dbf88a85b4fd65f089654"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-02-13T20:10:44Z",
+  "lastAdrCommit": "2022-01-01T14:15:17Z",
+  "firstCommit": "2021-02-13T20:10:44Z",
+  "lastCommit": "2022-01-13T21:48:45Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6983c3f74d29e499f82dbf88a85b4fd65f089654",
+        "c3699f111526663e120289fca0b559b5f640f33e",
+        "a03793fe2474a2f5bd0b8421f95730567ed5271f"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

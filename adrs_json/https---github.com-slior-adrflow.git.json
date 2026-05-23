@@ -1,0 +1,199 @@
+{
+  "repositoryUrl": "https://github.com/slior/adrflow.git",
+  "crawlDateTime": "2022-01-18T18:01:54.07716",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "3-Allow_More_Permissive_File_Names.md",
+      "template": "Nygard",
+      "status": "Proposed 2017-07-26 Accepted 2017-07-26 generalized_by [7](7-Defining_Customizations.md)",
+      "firstCommit": "2017-07-26T20:09:33Z",
+      "lastCommit": "2017-12-31T20:53:35Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ee94ba60bfdc957e74d12e7c5888eb63d358cb7",
+            "58a121d03165255c8c2d8960283045f3566a4aa7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2-Create_ADR_Object.md",
+      "template": "Nygard",
+      "status": "Proposed 2017-07-08 Accepted 2017-07-12",
+      "firstCommit": "2017-07-08T19:12:47Z",
+      "lastCommit": "2017-07-28T21:31:57Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4aaa190ae2d2a67f3919478ce4bf119a05437712",
+            "a93248f29501562854fe32e016db01c865c96f96",
+            "1c6805467e89bc9dd629608568741c62c4bf9bff"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "1-ADR_directory_identified_by_marker_file.md",
+      "template": "Nygard",
+      "status": "Proposed 2017-07-01 Accepted 2017-07-11",
+      "firstCommit": "2017-07-01T19:10:22Z",
+      "lastCommit": "2017-07-22T16:32:50Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a48da2f893dc3945297861b97542384fbce7517",
+            "24f0c7e7beadefb4b0a83b3dcc84f50a83bf5d22",
+            "4aaa190ae2d2a67f3919478ce4bf119a05437712"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "5-Utility_Context_Lazily_Initialized.md",
+      "template": "Nygard",
+      "status": "Proposed 2017-12-07 Accepted 2017-12-07 mentions [1](1-ADR_directory_identified_by_marker_file.md)",
+      "firstCommit": "2017-12-07T21:11:43Z",
+      "lastCommit": "2017-12-07T21:11:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "66452ffb095af0ebe2382f04facde0b16479c678"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "8-Remove_ADR_Util_Sync_Module.md",
+      "template": "Nygard",
+      "status": "Proposed 2018-12-09 Accepted 2018-12-10 supersedes [5](5-Utility_Context_Lazily_Initialized.md) mentions [6](6-Centralize_Definition_of_Filename.md)",
+      "firstCommit": "2018-12-09T22:16:09Z",
+      "lastCommit": "2018-12-09T22:18:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56e0361c5f77bca41978940377cd3953b5bb929e",
+            "9f5eb59488103f3c5775b234f366bfba3c77baf7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "6-Centralize_Definition_of_Filename.md",
+      "template": "Nygard",
+      "status": "Proposed 2017-12-26 Accepted 2017-12-26",
+      "firstCommit": "2017-12-26T21:12:37Z",
+      "lastCommit": "2017-12-26T21:12:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0f8a3083e7436f94ac2e4d0b523bdde4ec15d19b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "4-Allow_Overriding_Configuration_with_Local_Configuration.md",
+      "template": "Nygard",
+      "status": "Proposed 2017-08-08 Accepted 2017-08-08 mentions 1",
+      "firstCommit": "2017-08-08T08:35:21Z",
+      "lastCommit": "2017-08-08T08:37:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc397999f2bfddb0c82eedd3dbcc673dd94b36d3",
+            "81e264faa4f4cfa10449b4d0453b542ffca84aa3"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "7-Defining_Customizations.md",
+      "template": "Nygard",
+      "status": "Proposed 2017-12-28 Accepted 2017-12-30 extends [3](3-Allow_More_Permissive_File_Names.md)",
+      "firstCommit": "2017-12-30T21:12:39Z",
+      "lastCommit": "2017-12-31T20:53:35Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3d44657159073209fe928976e589b1f5191f537",
+            "58a121d03165255c8c2d8960283045f3566a4aa7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-01T19:10:22Z",
+  "lastAdrCommit": "2018-12-09T22:18:50Z",
+  "firstCommit": "2017-06-15T21:00:26Z",
+  "lastCommit": "2018-12-27T19:49:15Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9f5eb59488103f3c5775b234f366bfba3c77baf7",
+        "fc397999f2bfddb0c82eedd3dbcc673dd94b36d3",
+        "6ee94ba60bfdc957e74d12e7c5888eb63d358cb7",
+        "24f0c7e7beadefb4b0a83b3dcc84f50a83bf5d22",
+        "0f8a3083e7436f94ac2e4d0b523bdde4ec15d19b",
+        "c3d44657159073209fe928976e589b1f5191f537",
+        "1c6805467e89bc9dd629608568741c62c4bf9bff",
+        "81e264faa4f4cfa10449b4d0453b542ffca84aa3",
+        "56e0361c5f77bca41978940377cd3953b5bb929e",
+        "66452ffb095af0ebe2382f04facde0b16479c678",
+        "7a48da2f893dc3945297861b97542384fbce7517",
+        "4aaa190ae2d2a67f3919478ce4bf119a05437712",
+        "58a121d03165255c8c2d8960283045f3566a4aa7",
+        "a93248f29501562854fe32e016db01c865c96f96"
+      ],
+      "numberOfCommits": 14
+    }
+  ]
+}

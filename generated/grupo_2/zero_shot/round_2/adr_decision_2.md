@@ -1,0 +1,9 @@
+# [ADR-002] Inter-Agent Communication: Event-Driven Architecture via Message Broker
+- **Status**: Accepted
+- **Context**: The core requirement is the orchestration of specialized, co-dependent agents (e.g., Traffic Agent, Weather Agent, Cost Agent) that must evaluate multimodal routes in real-time. The system must dynamically recalculate routes upon detecting critical environmental changes (e.g., accidents). These agents must exchange data efficiently, asynchronously, and at scale. 
+- **Decision**: Adopt an Event-Driven Architecture (EDA) utilizing a Message Broker (message queue). The simulated data generator will act as a publisher, pushing distinct environment events to specific topics. The specialized decision agents will act as consumers/workers, subscribing only to the data streams relevant to their domain (e.g., the Weather Agent subscribes solely to weather events), processing the data, and publishing their viability decisions back to the broker for the final orchestration.
+- **Considered Options**:
+  - **Synchronous REST/RPC APIs**: Rejected. Synchronous point-to-point communication creates tight coupling between agents, reduces overall system throughput, and scales poorly when handling continuous, real-time data streams and dynamic recalculations.
+- **Consequences**:
+  - **Pros**: Maximizes decoupling between specialized agents; highly scalable and fault-tolerant; natively supports the asynchronous nature of real-time event processing and dynamic route recalculation; simplifies adding new agent types in the future.
+  - **Cons**: Introduces operational complexity by requiring the deployment and maintenance of a message broker (e.g., RabbitMQ, Kafka); complicates system observability, making it harder to trace the logical decision path across multiple asynchronous agents for the user feedback interface.

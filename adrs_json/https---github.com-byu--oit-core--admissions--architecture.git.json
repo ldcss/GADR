@@ -1,0 +1,90 @@
+{
+  "repositoryUrl": "https://github.com/byu-oit/core-admissions-architecture.git",
+  "crawlDateTime": "2022-01-18T17:32:59.992118",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/adr",
+      "path": "0003-use-cashnet-for-application-payment-processing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-16T19:21:14Z",
+      "lastCommit": "2020-01-16T19:21:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8137da1cbab5ec119d080dc7eed07625dfc06734"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/adr",
+      "path": "0002-segregation-of-data-between-ces-profile-and-core-admissions.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-01-16T00:33:33Z",
+      "lastCommit": "2020-01-16T00:37:28Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0f8ab9d4fa3f2f7798e5419a7d2d6d731bb73a2",
+            "728e381afbebff7e53a2b7d0f48dfa2f9da90f7d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-15T03:23:26Z",
+      "lastCommit": "2020-01-15T03:23:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "67515a2371736fb0ed77496862a150e26da209d4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-15T03:23:26Z",
+  "lastAdrCommit": "2020-01-16T19:21:14Z",
+  "firstCommit": "2020-01-15T02:09:47Z",
+  "lastCommit": "2020-01-16T19:21:14Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f0f8ab9d4fa3f2f7798e5419a7d2d6d731bb73a2",
+        "728e381afbebff7e53a2b7d0f48dfa2f9da90f7d",
+        "67515a2371736fb0ed77496862a150e26da209d4",
+        "8137da1cbab5ec119d080dc7eed07625dfc06734"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

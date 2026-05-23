@@ -1,0 +1,119 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/collections-publisher.git",
+  "crawlDateTime": "2022-01-18T20:59:59.871139",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-3-store-status.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-03T11:43:11Z",
+      "lastCommit": "2019-09-19T15:51:56Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a67248a890bef16a951d77392b94cebeb8116377",
+            "2b23f90c84c359784cee3957271585130a5cfca4"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e9dfbf35eff46ed7c5152c20f58bcaca0f12232d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-001-defer-merging-of-taxonomy-apps.md",
+      "template": "Nygard",
+      "status": "Accepted, 2016-02-03.",
+      "firstCommit": "2016-02-05T09:34:25Z",
+      "lastCommit": "2018-09-24T12:45:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c24dfdf6ba8493ac6701a018513d03617755336f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3446c219b9627661ded2b62cc89f01e708de9dd1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-002-discarding-drafts.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-25T10:21:41Z",
+      "lastCommit": "2018-09-25T10:21:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1b79c54b50b0cb2778aeaa105432afb2c0c97a5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-02-05T09:34:25Z",
+  "lastAdrCommit": "2019-09-19T15:51:56Z",
+  "firstCommit": "2014-07-30T15:11:54Z",
+  "lastCommit": "2022-01-18T20:03:37Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c24dfdf6ba8493ac6701a018513d03617755336f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a67248a890bef16a951d77392b94cebeb8116377",
+        "2b23f90c84c359784cee3957271585130a5cfca4",
+        "3446c219b9627661ded2b62cc89f01e708de9dd1",
+        "e1b79c54b50b0cb2778aeaa105432afb2c0c97a5"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e9dfbf35eff46ed7c5152c20f58bcaca0f12232d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

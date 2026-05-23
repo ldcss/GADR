@@ -1,0 +1,68 @@
+{
+  "repositoryUrl": "https://github.com/embeddedartistry/arduino-printf.git",
+  "crawlDateTime": "2022-01-18T21:31:30.206434",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "extras/docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "extras/docs/adr",
+      "path": "0002-library-source-reorganization-to-support-avr-default-settings.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-26T17:05:55Z",
+      "lastCommit": "2020-05-26T17:05:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b886ad7734f4aadfdbe51ac2261c426cfe37b8b6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "extras/docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-26T16:48:05Z",
+      "lastCommit": "2020-05-26T16:48:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "296c10851e64a8ce0c10e76009bf570aae615b87"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-26T16:48:05Z",
+  "lastAdrCommit": "2020-05-26T17:05:55Z",
+  "firstCommit": "2019-10-08T18:16:55Z",
+  "lastCommit": "2021-10-01T15:18:37Z",
+  "adrDirFile": {
+    "fileContent": "extras/docs/adr/\n",
+    "matchesActualAdrDirectory": false
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b886ad7734f4aadfdbe51ac2261c426cfe37b8b6",
+        "296c10851e64a8ce0c10e76009bf570aae615b87"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

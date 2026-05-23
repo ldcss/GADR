@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/marain-dotnet/Marain.Workflow.git",
+  "crawlDateTime": "2022-01-18T19:10:31.783581",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-integration-of-event-store.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-15T10:29:54Z",
+      "lastCommit": "2020-10-15T10:29:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8fa544f517741b1a5eb9a2bcbcb4d1e6af67b83"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-15T10:29:54Z",
+  "lastAdrCommit": "2020-10-15T10:29:54Z",
+  "firstCommit": "2019-09-17T21:59:16Z",
+  "lastCommit": "2021-12-07T20:22:42Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b8fa544f517741b1a5eb9a2bcbcb4d1e6af67b83"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

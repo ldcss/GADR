@@ -1,0 +1,279 @@
+{
+  "repositoryUrl": "https://github.com/ben-biddington/news.git",
+  "crawlDateTime": "2022-01-18T17:58:10.828231",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-objects-function-refs-and-this.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-25T23:28:25Z",
+      "lastCommit": "2020-06-25T23:28:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb5ce2cb3ac18fe4b46ef67d48b90879c620d3ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-displaying-lobste-rs-news.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-25T23:28:25Z",
+      "lastCommit": "2020-06-25T23:28:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb5ce2cb3ac18fe4b46ef67d48b90879c620d3ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-on-testing-with-events.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-25T23:28:25Z",
+      "lastCommit": "2020-06-25T23:28:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb5ce2cb3ac18fe4b46ef67d48b90879c620d3ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-taking-care-with-object-literals.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-25T23:28:25Z",
+      "lastCommit": "2020-06-25T23:28:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb5ce2cb3ac18fe4b46ef67d48b90879c620d3ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-svelte-and-events.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-25T23:28:25Z",
+      "lastCommit": "2020-06-25T23:28:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb5ce2cb3ac18fe4b46ef67d48b90879c620d3ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-polymer-and-web-components.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-25T23:28:25Z",
+      "lastCommit": "2020-06-25T23:28:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb5ce2cb3ac18fe4b46ef67d48b90879c620d3ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-a-state-requirement.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-25T23:28:25Z",
+      "lastCommit": "2020-06-25T23:28:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb5ce2cb3ac18fe4b46ef67d48b90879c620d3ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-integration-tests-and-ports.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-25T23:28:25Z",
+      "lastCommit": "2020-06-25T23:28:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb5ce2cb3ac18fe4b46ef67d48b90879c620d3ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-on-application-state.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-30T22:49:35Z",
+      "lastCommit": "2021-03-30T22:49:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a03440d6aa800b38aca9b1a850f942da10528db7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-application-use-cases-ports-and-mocking.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-25T23:28:25Z",
+      "lastCommit": "2020-06-25T23:28:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb5ce2cb3ac18fe4b46ef67d48b90879c620d3ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0013-visualising-layout.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-05T21:04:02Z",
+      "lastCommit": "2021-08-05T21:04:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "11aeea9c0be5e98a863c3700b724278197bb74b8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0012-can-t-use-esbuild.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-06-13T07:16:53Z",
+      "lastCommit": "2021-06-13T07:16:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f850073647cfb49f1e96bb0352c0acbf51de7ab"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-25T23:28:25Z",
+      "lastCommit": "2020-06-25T23:28:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb5ce2cb3ac18fe4b46ef67d48b90879c620d3ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-25T23:28:25Z",
+  "lastAdrCommit": "2021-08-05T21:04:02Z",
+  "firstCommit": "2020-06-25T23:28:25Z",
+  "lastCommit": "2021-11-07T01:28:01Z",
+  "adrDirFile": {
+    "fileContent": "doc/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "11aeea9c0be5e98a863c3700b724278197bb74b8",
+        "5f850073647cfb49f1e96bb0352c0acbf51de7ab",
+        "eb5ce2cb3ac18fe4b46ef67d48b90879c620d3ed",
+        "a03440d6aa800b38aca9b1a850f942da10528db7"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

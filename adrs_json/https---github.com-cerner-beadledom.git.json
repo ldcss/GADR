@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/cerner/beadledom.git",
+  "crawlDateTime": "2022-01-18T20:48:45.91196",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "health/default_dependencies_primary.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-11-29T15:24:55Z",
+      "lastCommit": "2018-11-29T15:24:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02c634a52050b5fa9406b95c770757d88f5dbd82"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-11-29T15:24:55Z",
+  "lastAdrCommit": "2018-11-29T15:24:55Z",
+  "firstCommit": "2017-01-13T22:40:14Z",
+  "lastCommit": "2021-05-13T22:31:29Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "02c634a52050b5fa9406b95c770757d88f5dbd82"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

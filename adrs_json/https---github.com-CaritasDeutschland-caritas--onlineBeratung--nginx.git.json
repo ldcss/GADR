@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/CaritasDeutschland/caritas-onlineBeratung-nginx.git",
+  "crawlDateTime": "2022-01-18T18:55:29.443759",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-log-rotation-for-nginx.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-18T11:24:08Z",
+      "lastCommit": "2020-06-18T11:24:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5ea53c426a37804e8f58632e7e79cd4c209e2748"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-18T11:24:08Z",
+      "lastCommit": "2020-06-18T11:24:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5ea53c426a37804e8f58632e7e79cd4c209e2748"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-18T11:24:08Z",
+  "lastAdrCommit": "2020-06-18T11:24:08Z",
+  "firstCommit": "2020-06-18T11:24:08Z",
+  "lastCommit": "2022-01-15T06:39:42Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5ea53c426a37804e8f58632e7e79cd4c209e2748"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

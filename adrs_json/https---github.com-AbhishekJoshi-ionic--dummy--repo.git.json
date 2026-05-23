@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/AbhishekJoshi/ionic-dummy-repo.git",
+  "crawlDateTime": "2022-01-18T21:04:46.733903",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "@docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "@docs/adr",
+      "path": "ADR-001.md",
+      "template": "Nygard",
+      "status": ":bulb: Proposed on 2018-01-24 :white_check_mark: Accepted on 2017-06-23",
+      "firstCommit": "2018-02-22T10:48:03Z",
+      "lastCommit": "2018-02-22T10:48:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6b8ddc91fdb7b8861eb384098016de44906ce034"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-02-22T10:48:03Z",
+  "lastAdrCommit": "2018-02-22T10:48:03Z",
+  "firstCommit": "2018-02-22T10:48:03Z",
+  "lastCommit": "2018-02-22T11:28:17Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6b8ddc91fdb7b8861eb384098016de44906ce034"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

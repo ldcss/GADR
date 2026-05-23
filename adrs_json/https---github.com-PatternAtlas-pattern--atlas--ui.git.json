@@ -1,0 +1,118 @@
+{
+  "repositoryUrl": "https://github.com/PatternAtlas/pattern-atlas-ui.git",
+  "crawlDateTime": "2022-01-18T18:21:20.022581",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-define-pattern-structure.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-05-09T10:24:12Z",
+      "lastCommit": "2021-06-22T11:42:32Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4cb0b20fe6df513fc0b768eb07250a6e235223b1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56a6f8a26eaa3db6c46bf6df15180392a4aef46b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "19465eb1fe3cfe4fbc9e75af0c1593e5436fee20"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-a-serverside-compont-to-complete-oauth-flow.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-08-19T09:14:16Z",
+      "lastCommit": "2019-08-19T09:14:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24f4cb9aed8981a1514a72b8d042a790dcacd56b",
+            "4f0060ea8584598c29a57fa6ebb6a80c2564f73f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-05-09T10:24:12Z",
+      "lastCommit": "2019-05-09T10:24:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "19465eb1fe3cfe4fbc9e75af0c1593e5436fee20"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-09T10:24:12Z",
+  "lastAdrCommit": "2021-06-22T11:42:32Z",
+  "firstCommit": "2018-07-04T09:28:34Z",
+  "lastCommit": "2022-01-18T15:33:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "24f4cb9aed8981a1514a72b8d042a790dcacd56b",
+        "4f0060ea8584598c29a57fa6ebb6a80c2564f73f",
+        "4cb0b20fe6df513fc0b768eb07250a6e235223b1"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "56a6f8a26eaa3db6c46bf6df15180392a4aef46b"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "19465eb1fe3cfe4fbc9e75af0c1593e5436fee20"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

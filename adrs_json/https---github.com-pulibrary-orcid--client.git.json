@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/pulibrary/orcid-client.git",
+  "crawlDateTime": "2022-01-18T18:41:07.768939",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0001-document-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-06T15:51:48Z",
+      "lastCommit": "2020-04-06T15:51:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "16041ee68354298f484bd136b642028ad669515d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0002-generated-swagger-models.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-06T15:51:48Z",
+      "lastCommit": "2020-04-06T15:51:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "16041ee68354298f484bd136b642028ad669515d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-06T15:51:48Z",
+  "lastAdrCommit": "2020-04-06T15:51:48Z",
+  "firstCommit": "2020-03-11T13:54:51Z",
+  "lastCommit": "2021-09-28T17:20:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "16041ee68354298f484bd136b642028ad669515d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

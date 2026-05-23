@@ -1,0 +1,201 @@
+{
+  "repositoryUrl": "https://github.com/mozmeao/infra.git",
+  "crawlDateTime": "2022-01-18T20:57:11.979633",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-service-dns-patterns.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-06T17:33:19Z",
+      "lastCommit": "2021-01-06T17:33:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1564aa37e506ecd91ed11e0811b43815f6a2e219"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-helm-for-service-deployment-definitions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-19T23:24:57Z",
+      "lastCommit": "2020-03-05T18:43:03Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "10b5418fd971dca13dfb7dc393a691ab3a8a25dc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ef87fd6b34331e1674947039d3c6fb77676607f",
+            "a3ea0490030d4d6ef395b75f6c25140164e5e15d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-prometheus-and-alertmanager-monitoring-and-alerting.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T18:33:32Z",
+      "lastCommit": "2020-03-05T18:33:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dbaa1afc4bbefbc1e3cb36421176c78f3f2e5bec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-vpc-and-network-design.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [6. AWS VPC Public and Private subnets](0006-aws-vpc-public-and-private-subnets.md)",
+      "firstCommit": "2020-04-13T21:10:33Z",
+      "lastCommit": "2020-04-21T21:50:41Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "70a38c45c924c63c312d5855ee7b7ce6d31ffbd0",
+            "0eef9a866d2d8b39ce25244582819c2ba889e7ba"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-use-voyager-for-service-ingress.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-19T23:24:57Z",
+      "lastCommit": "2020-03-05T18:43:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "10b5418fd971dca13dfb7dc393a691ab3a8a25dc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3ea0490030d4d6ef395b75f6c25140164e5e15d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-09T17:47:15Z",
+      "lastCommit": "2019-01-09T17:47:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7b7f359b6130efab90bfcdb8de70761fa368729d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-aws-vpc-public-and-private-subnets.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [5. VPC and Network Design](0005-vpc-and-network-design.md)",
+      "firstCommit": "2020-04-21T21:50:41Z",
+      "lastCommit": "2020-04-21T21:50:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0eef9a866d2d8b39ce25244582819c2ba889e7ba"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-01-09T17:47:15Z",
+  "lastAdrCommit": "2021-01-06T17:33:19Z",
+  "firstCommit": "2017-01-19T19:39:02Z",
+  "lastCommit": "2021-01-29T20:34:34Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "70a38c45c924c63c312d5855ee7b7ce6d31ffbd0",
+        "10b5418fd971dca13dfb7dc393a691ab3a8a25dc",
+        "1564aa37e506ecd91ed11e0811b43815f6a2e219",
+        "dbaa1afc4bbefbc1e3cb36421176c78f3f2e5bec",
+        "0eef9a866d2d8b39ce25244582819c2ba889e7ba"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7b7f359b6130efab90bfcdb8de70761fa368729d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6ef87fd6b34331e1674947039d3c6fb77676607f",
+        "a3ea0490030d4d6ef395b75f6c25140164e5e15d"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

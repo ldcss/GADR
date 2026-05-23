@@ -1,0 +1,124 @@
+{
+  "repositoryUrl": "https://github.com/infection/infection.git",
+  "crawlDateTime": "2022-01-18T21:01:48.228559",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0001-inheritdoc.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-28T15:42:53Z",
+      "lastCommit": "2020-03-23T09:50:26Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3ee1ec64c1ceab174a9a1c705f7d0a902094852"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d25c7346f7d28937d40dcbb0c37a661b8c4ee2b1",
+            "9f51c11c6c08e7c0ccc1b207bd3bf17bf7a2961d",
+            "eedce9d56e2e223c50a891c00e7690209e1f03e1"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-PHPUnit-this-over-self.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-20T21:03:51Z",
+      "lastCommit": "2020-03-20T21:03:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d25c7346f7d28937d40dcbb0c37a661b8c4ee2b1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-@covers-annotations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-20T21:03:51Z",
+      "lastCommit": "2020-03-23T09:50:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d25c7346f7d28937d40dcbb0c37a661b8c4ee2b1",
+            "eedce9d56e2e223c50a891c00e7690209e1f03e1"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0004-PHPUnit-expect-exception-over-try-catch.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-20T21:03:51Z",
+      "lastCommit": "2020-03-23T09:50:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d25c7346f7d28937d40dcbb0c37a661b8c4ee2b1",
+            "eedce9d56e2e223c50a891c00e7690209e1f03e1"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-28T15:42:53Z",
+  "lastAdrCommit": "2020-03-23T09:50:26Z",
+  "firstCommit": "2017-04-05T20:26:29Z",
+  "lastCommit": "2022-01-11T20:50:00Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c3ee1ec64c1ceab174a9a1c705f7d0a902094852"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d25c7346f7d28937d40dcbb0c37a661b8c4ee2b1",
+        "9f51c11c6c08e7c0ccc1b207bd3bf17bf7a2961d",
+        "eedce9d56e2e223c50a891c00e7690209e1f03e1"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

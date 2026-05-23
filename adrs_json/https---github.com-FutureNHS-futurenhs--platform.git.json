@@ -1,0 +1,268 @@
+{
+  "repositoryUrl": "https://github.com/FutureNHS/futurenhs-platform.git",
+  "crawlDateTime": "2022-01-18T19:57:10.979916",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-feature-flags.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-10T14:23:51Z",
+      "lastCommit": "2020-06-18T16:03:44Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "be032c245d1911da773f9551509605c3150183b4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "284e6d7e1f989692583e8ac4d62056cd41ca746b",
+            "e1a6140450bf06f53023a7d79e6c5be6d335f655",
+            "5e2949070e16afd22a2dcf0ce12de6f3a9806813",
+            "49210a327d0c3a85b864554e9341f12e23382508"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e5759d547aae37a2697dd9ed9b0fb845deb4b836"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-platform-base.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-06-15T16:38:26Z",
+      "lastCommit": "2020-06-19T09:44:38Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "10a4d3b043b4a27c8b8c4be948a6f4b448f42c01",
+            "be032c245d1911da773f9551509605c3150183b4"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c22a2b71720c7b7f935c25e9130a92691481f62"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46fa777a59988263e1476906e601f98b724053ef"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-observability-tools-and-strategy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-26T15:06:53Z",
+      "lastCommit": "2020-06-18T16:03:44Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c20de987ed6ad6c99d7e04b6e7f912d7910aa7d5",
+            "0697559ca6ab4e219d5516282ad47a8605a0ddda",
+            "9f7a156c782968b82ad6008048fea08a241ab82b"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e5759d547aae37a2697dd9ed9b0fb845deb4b836"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc3807b662366b30a3fe26a50dec79f075dd4561"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-no-staging-environment.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-10T14:18:01Z",
+      "lastCommit": "2020-06-18T16:03:44Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "be032c245d1911da773f9551509605c3150183b4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1d5cf7f6a1fb2363fedb8bb7344725bb2d2d0aaf",
+            "9ba34a8f98c497e7a17394ccefa3f77e3693c1b3",
+            "d7fb801beb3d4d31e8ab8321b894e31621e4fc9e"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e5759d547aae37a2697dd9ed9b0fb845deb4b836"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-26T15:06:53Z",
+      "lastCommit": "2020-05-26T15:06:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0697559ca6ab4e219d5516282ad47a8605a0ddda"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-frontend-technology.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-26T12:11:04Z",
+      "lastCommit": "2020-06-29T08:17:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14f2587b0b58d532347e75dc7436d6452a83bfcc",
+            "f85fc849d75a3f7da460ee0a7a2a84a903c96583"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-26T15:06:53Z",
+  "lastAdrCommit": "2020-06-29T08:17:24Z",
+  "firstCommit": "2020-05-18T10:09:38Z",
+  "lastCommit": "2022-01-17T09:03:00Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c20de987ed6ad6c99d7e04b6e7f912d7910aa7d5",
+        "0697559ca6ab4e219d5516282ad47a8605a0ddda",
+        "9f7a156c782968b82ad6008048fea08a241ab82b"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "10a4d3b043b4a27c8b8c4be948a6f4b448f42c01",
+        "be032c245d1911da773f9551509605c3150183b4"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "284e6d7e1f989692583e8ac4d62056cd41ca746b",
+        "e1a6140450bf06f53023a7d79e6c5be6d335f655",
+        "1d5cf7f6a1fb2363fedb8bb7344725bb2d2d0aaf",
+        "9ba34a8f98c497e7a17394ccefa3f77e3693c1b3",
+        "d7fb801beb3d4d31e8ab8321b894e31621e4fc9e",
+        "5e2949070e16afd22a2dcf0ce12de6f3a9806813",
+        "49210a327d0c3a85b864554e9341f12e23382508"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "14f2587b0b58d532347e75dc7436d6452a83bfcc",
+        "f85fc849d75a3f7da460ee0a7a2a84a903c96583",
+        "0c22a2b71720c7b7f935c25e9130a92691481f62",
+        "e5759d547aae37a2697dd9ed9b0fb845deb4b836"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bc3807b662366b30a3fe26a50dec79f075dd4561"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "46fa777a59988263e1476906e601f98b724053ef"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

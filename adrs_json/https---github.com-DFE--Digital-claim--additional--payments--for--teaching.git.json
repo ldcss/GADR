@@ -1,0 +1,387 @@
+{
+  "repositoryUrl": "https://github.com/DFE-Digital/claim-additional-payments-for-teaching.git",
+  "crawlDateTime": "2022-01-18T18:33:27.318305",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture-decisions"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0006-use-dependabot-for-dependent-library-vulnerability-checking.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-21T11:04:29Z",
+      "lastCommit": "2019-05-21T11:04:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a6ec930ba792041d0ef08b439edb32507993048d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0010-dfe-can-download-claims-data-during-private-beta.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-13T15:34:10Z",
+      "lastCommit": "2019-07-04T10:27:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5aaf5a0723b31c056988f2865f0e6de9e10b712"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cff42b70c77f3cd00e450d9136200b8850fd8360"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0009-capture-teacher-reference-number.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-13T15:34:10Z",
+      "lastCommit": "2019-07-04T10:27:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5aaf5a0723b31c056988f2865f0e6de9e10b712"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cff42b70c77f3cd00e450d9136200b8850fd8360"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0003-use-rubocop-for-linting.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-03T14:13:01Z",
+      "lastCommit": "2019-07-04T10:27:29Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2688601dbbfab0379dfadaad5956aba0d5c2f454",
+            "c5aaf5a0723b31c056988f2865f0e6de9e10b712"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3cd5a4c989a5064ae68bd5dd9fe63155c1b72663",
+            "86b6b6613dd2dd05263e41803f4d9281f909e834"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0004-deployment-on-heroku.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-03T14:18:31Z",
+      "lastCommit": "2019-07-04T10:27:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5aaf5a0723b31c056988f2865f0e6de9e10b712"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dffebf7723217557f5817c925147fefb9eee257e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0005-use-brakeman-for-vulnerability-checking-on-ci.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-04T12:24:11Z",
+      "lastCommit": "2019-06-12T11:32:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2688601dbbfab0379dfadaad5956aba0d5c2f454"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed9bb01062662bdd9465555cbff80d9c614441d8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0002-use-rspec-for-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-03T14:12:19Z",
+      "lastCommit": "2019-07-04T10:27:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5aaf5a0723b31c056988f2865f0e6de9e10b712"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "110c9d8a8d95f498dff932380db12a2c3d703091"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0012-automate-dqt-integration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-29T12:22:48Z",
+      "lastCommit": "2021-03-29T12:22:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7881ba11379343caa72b4c08ca98ec1dafeaa9e6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0008-use-govuk-verify-for-claiment-identity-assurance.md",
+      "template": "Nygard",
+      "status": "Deprecated (Replaced by ADR #0012)",
+      "firstCommit": "2019-06-13T15:34:10Z",
+      "lastCommit": "2021-03-29T12:22:48Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5aaf5a0723b31c056988f2865f0e6de9e10b712"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cff42b70c77f3cd00e450d9136200b8850fd8360"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7881ba11379343caa72b4c08ca98ec1dafeaa9e6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0011-payroll-information-to-be-downloaded-directly-by-payroll-provider.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-06T12:54:41Z",
+      "lastCommit": "2020-04-06T12:54:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "872b1a6e166e7731c6df4d690caa090461aad330"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0007-use-dfe-sign-in-for-admin-authentication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-30T15:34:49Z",
+      "lastCommit": "2019-07-04T10:27:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5aaf5a0723b31c056988f2865f0e6de9e10b712"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "78526ae3873b14f8ce1f9045823b6c2f1ec45040"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-03T11:09:53Z",
+      "lastCommit": "2019-07-04T10:27:29Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5aaf5a0723b31c056988f2865f0e6de9e10b712"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4deda013813a06fd780b6ba3e5cf1da547b3a440",
+            "ed1a71f7e6ff069ecd7aa3b0208db689758fe96c",
+            "56840552926dff6d99257d6b121b79a015e5892f"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-04-03T11:09:53Z",
+  "lastAdrCommit": "2021-03-29T12:22:48Z",
+  "firstCommit": "2019-04-03T10:56:11Z",
+  "lastCommit": "2022-01-18T15:50:26Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2688601dbbfab0379dfadaad5956aba0d5c2f454",
+        "c5aaf5a0723b31c056988f2865f0e6de9e10b712"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "872b1a6e166e7731c6df4d690caa090461aad330",
+        "a6ec930ba792041d0ef08b439edb32507993048d"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dffebf7723217557f5817c925147fefb9eee257e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ed9bb01062662bdd9465555cbff80d9c614441d8",
+        "4deda013813a06fd780b6ba3e5cf1da547b3a440",
+        "110c9d8a8d95f498dff932380db12a2c3d703091",
+        "3cd5a4c989a5064ae68bd5dd9fe63155c1b72663",
+        "ed1a71f7e6ff069ecd7aa3b0208db689758fe96c",
+        "78526ae3873b14f8ce1f9045823b6c2f1ec45040",
+        "86b6b6613dd2dd05263e41803f4d9281f909e834",
+        "56840552926dff6d99257d6b121b79a015e5892f"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cff42b70c77f3cd00e450d9136200b8850fd8360"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7881ba11379343caa72b4c08ca98ec1dafeaa9e6"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

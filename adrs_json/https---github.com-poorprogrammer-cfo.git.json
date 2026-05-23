@@ -1,0 +1,72 @@
+{
+  "repositoryUrl": "https://github.com/poorprogrammer/cfo.git",
+  "crawlDateTime": "2022-01-18T19:27:48.503133",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-yarn-install-instead-of-npm-install-for-web.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-07T04:03:02Z",
+      "lastCommit": "2020-09-07T04:03:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2270667039f67695fbc5fc4b830d3490b0fc8da3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-07T14:59:51Z",
+      "lastCommit": "2020-05-07T14:59:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ebdc7ef7be27cf983b74a47baae6df5fdd3c1f84"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-07T14:59:51Z",
+  "lastAdrCommit": "2020-09-07T04:03:02Z",
+  "firstCommit": "2020-01-12T05:00:19Z",
+  "lastCommit": "2022-01-18T09:43:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2270667039f67695fbc5fc4b830d3490b0fc8da3"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ebdc7ef7be27cf983b74a47baae6df5fdd3c1f84"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

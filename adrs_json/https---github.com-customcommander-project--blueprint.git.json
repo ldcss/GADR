@@ -1,0 +1,89 @@
+{
+  "repositoryUrl": "https://github.com/customcommander/project-blueprint.git",
+  "crawlDateTime": "2022-01-18T17:36:15.151194",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0002-use-google-closure-compiler.md",
+      "template": "Nygard",
+      "status": "Accepted Explains [3. Test Distributed Files Only](0003-test-distributed-files-only.md)",
+      "firstCommit": "2021-02-08T22:37:13Z",
+      "lastCommit": "2021-02-08T22:37:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9bbe481f2c6d1b88376fdeda384ba34718c3b157",
+            "80511b0f473d685d690ff19e43ec5e9ac6474049"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-test-distributed-files-only.md",
+      "template": "Nygard",
+      "status": "Accepted Relates [2. Use Google Closure Compiler](0002-use-google-closure-compiler.md)",
+      "firstCommit": "2021-02-08T22:37:13Z",
+      "lastCommit": "2021-02-08T22:37:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "80511b0f473d685d690ff19e43ec5e9ac6474049"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-08T22:37:13Z",
+      "lastCommit": "2021-02-08T22:37:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a7ffa7083d1d2db795cba30d240530391e542b4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-02-08T22:37:13Z",
+  "lastAdrCommit": "2021-02-08T22:37:13Z",
+  "firstCommit": "2021-01-28T23:34:56Z",
+  "lastCommit": "2021-11-02T22:34:21Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9bbe481f2c6d1b88376fdeda384ba34718c3b157",
+        "1a7ffa7083d1d2db795cba30d240530391e542b4",
+        "80511b0f473d685d690ff19e43ec5e9ac6474049"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

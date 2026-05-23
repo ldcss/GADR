@@ -1,0 +1,86 @@
+{
+  "repositoryUrl": "https://github.com/zalando/riptide.git",
+  "crawlDateTime": "2022-01-18T18:34:32.944703",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-client-side-response-routing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-10T19:47:21Z",
+      "lastCommit": "2019-12-10T19:47:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb14ded284a4772aab48a16ee4b7d741cc015da7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-modularization.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-10T19:47:21Z",
+      "lastCommit": "2019-12-10T19:47:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb14ded284a4772aab48a16ee4b7d741cc015da7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-10T19:47:21Z",
+      "lastCommit": "2019-12-10T19:47:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb14ded284a4772aab48a16ee4b7d741cc015da7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-12-10T19:47:21Z",
+  "lastAdrCommit": "2019-12-10T19:47:21Z",
+  "firstCommit": "2015-04-07T18:09:30Z",
+  "lastCommit": "2022-01-17T04:10:56Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bb14ded284a4772aab48a16ee4b7d741cc015da7"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "repositoryUrl": "https://github.com/chunksnbits/tooling.git",
+  "crawlDateTime": "2022-01-18T20:00:10.96973",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-commitizen-commitlint.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-19T11:21:45Z",
+      "lastCommit": "2018-06-19T11:21:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2950e51412071171d61627c600793fa6e615ccfe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-architectural-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-19T09:37:29Z",
+      "lastCommit": "2018-06-19T09:37:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93abde36e816a0ba7c589bf99d1733582c1f79af"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-standard-version-for-versioning.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-19T11:22:58Z",
+      "lastCommit": "2018-06-19T11:22:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "402f63a9ae4cdb157e7d2567f891fae13602e33c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-use-linter-for-css.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-16T06:08:23Z",
+      "lastCommit": "2019-03-17T04:59:45Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ac13eafc7c36a2dd5281002e9f32656b18a99051",
+            "c3422ebf58be4b37a6ea9b1f2eb400e4674d68fd",
+            "0843f84752c6e13241b9927f8d150bae08212b40",
+            "bda50ee5353b40393158b44647923b783d7f8376"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-use-mock-server-and-use-it-early.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-02T10:29:40Z",
+      "lastCommit": "2019-03-02T10:29:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1aeb48f26f5796c92e28302805cee3f5be8a0661"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-use-linter.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-01T06:31:25Z",
+      "lastCommit": "2019-01-01T06:31:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7988412f70ba84fd0e3860fa0cb69f4cdc93708d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-husky-for-git-hooks.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-19T10:44:26Z",
+      "lastCommit": "2018-06-19T10:44:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3994a06e3b13639e1ec3991512f33f8f13ce277"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-typescript-in-javascript-projects.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-01T06:31:25Z",
+      "lastCommit": "2019-01-01T06:31:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7988412f70ba84fd0e3860fa0cb69f4cdc93708d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-19T09:37:29Z",
+  "lastAdrCommit": "2019-03-17T04:59:45Z",
+  "firstCommit": "2018-06-19T09:23:52Z",
+  "lastCommit": "2021-08-10T22:35:37Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "402f63a9ae4cdb157e7d2567f891fae13602e33c",
+        "ac13eafc7c36a2dd5281002e9f32656b18a99051",
+        "7988412f70ba84fd0e3860fa0cb69f4cdc93708d",
+        "c3422ebf58be4b37a6ea9b1f2eb400e4674d68fd",
+        "2950e51412071171d61627c600793fa6e615ccfe",
+        "93abde36e816a0ba7c589bf99d1733582c1f79af",
+        "0843f84752c6e13241b9927f8d150bae08212b40",
+        "f3994a06e3b13639e1ec3991512f33f8f13ce277",
+        "1aeb48f26f5796c92e28302805cee3f5be8a0661",
+        "bda50ee5353b40393158b44647923b783d7f8376"
+      ],
+      "numberOfCommits": 10
+    }
+  ]
+}

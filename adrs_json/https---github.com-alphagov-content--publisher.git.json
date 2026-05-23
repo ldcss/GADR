@@ -1,0 +1,522 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/content-publisher.git",
+  "crawlDateTime": "2022-01-18T18:33:58.038776",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 16,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-local-datastore.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-27T08:33:54Z",
+      "lastCommit": "2018-08-01T13:29:58Z",
+      "numberOfCommits": 9,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "61bd78b257b9889d8348a2d4f2278f6e54e3927b",
+            "5ce30c5599fbaf64f9da490bf44507c918a22231",
+            "09a7b6b12ffba8404148a1339033ecf91082673a",
+            "859bb663862b3ddae99f3f33923c16420a9753c9",
+            "37ec0ffa89c4bcea89f7bf8b11c73bec536235b0",
+            "3e2c803b4ef76ffd9b853e6f65eb492b57278fdd",
+            "757f1068092548ea77cf702c4f6cd4abb08a56ab",
+            "cbf4dcf9b56c2f8450e1024790e039cba4374042",
+            "977c7b476d22a9d970adcf17bc609b2e16cd52df"
+          ],
+          "numberOfCommits": 9
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-initial-domain-modelling.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-24T08:52:11Z",
+      "lastCommit": "2018-07-31T08:47:35Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "82be32f072f8513946eb3c836939d5d0cbadee52",
+            "9bfc33a1d22f00fcaa7fab4791a7f11fa99dfc3b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-avoiding-initialisation-flickers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-27T12:50:42Z",
+      "lastCommit": "2018-11-27T12:50:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e211f67f4007a976c85a5edb995e9f277631db18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-modelling-history.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-07T09:57:43Z",
+      "lastCommit": "2019-03-07T09:57:44Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0ef07917fe20c32351a2f3f54bcdbb49b0cb922f",
+            "65482359483b70d1b62605cdd1b25ffa7901e083",
+            "6abf33c74ad0421aa1c96347005dcf3656313936",
+            "d1e3b7c69c0cacff9357b6b397db5ee3668943b4",
+            "2ff33f8eeb95cffbb9ee55be916a171c004cf4e0"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0013-permitted-deletion.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-29T20:38:50Z",
+      "lastCommit": "2019-07-30T10:05:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3e18d9259e6f0497705412b8005a9af455c6c11",
+            "ffa24d0e9ca0c9761146812f438a508fd37e10ca"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0012-file-attachment-rendering.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-24T09:08:59Z",
+      "lastCommit": "2019-06-25T21:19:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff302160393d65087b68d0f170ab842658c7de8b",
+            "916fa4eaf860674a36123c107982bda76d650e11",
+            "e7fba7ebe4095775ad4b579f90d0ccadd79cab97"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-restricted-deletion.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-29T13:00:51Z",
+      "lastCommit": "2019-01-29T20:25:18Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "645c8f1635190914aec29669bb09015e6272082f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "322cf508fb69689232109a7732b115f3b03ab2d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0015-bulk-data-loading.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-20T21:12:24Z",
+      "lastCommit": "2019-12-20T21:12:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e697a10c8b6e8c5467b525ac07e5bf2db11ac97f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-tagging-governments.md",
+      "template": "Nygard",
+      "status": "Superseded",
+      "firstCommit": "2018-12-12T10:36:04Z",
+      "lastCommit": "2020-01-08T08:07:58Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89a5aa4e5e2317ad7558c4192070ab4abefcad1c",
+            "2b8d9d987fcbb00babd36c8917549ffcf1a14fb8"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9dd75ca24dfd53ac2837ebdc3e82ffaa94c8462e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee5a6352d88d0491e08b558df2318825bff0a0c4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-editing-microcopy.md",
+      "template": "Nygard",
+      "status": "Accepted The approach taken so far is primarily driven by the needs of developers, rather than the needs of the other roles in the team. We should avoid committing to this approach until other people in the team have made more use of it. For example, it may be easier to have fewer files (perhaps per collection of views, to keep things algorithmic), with more content in each file.",
+      "firstCommit": "2018-09-12T09:53:13Z",
+      "lastCommit": "2020-01-21T13:28:15Z",
+      "numberOfCommits": 9,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a47651ee44160a22abea1e940de6ff8516b1293"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26f9291e1956f8bd7204dcde14de3eb4fbf45873"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7f811e220661a1b7d47bb35324d0f1fc720c15e",
+            "8756dba33f3e375d0f5a7dd3f22f04b2efe357b2",
+            "76cc8c514367aa43e9bb3397460036cef754884f",
+            "f57c79f6106f635e5fc4b1753caab392125144bc",
+            "57bb94fe61fe947c55a7e32fddf427f2cfb58f50"
+          ],
+          "numberOfCommits": 5
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4acb53ea921485b53227117deaafcf1bdbb826bc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d54ff784f9239bde41bb8e155f2b232444013463"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0014-political-and-government-tagging.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-20T09:20:28Z",
+      "lastCommit": "2019-12-20T14:28:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "73c4792d5a54c9654f8a34a181ce750304ad5a45",
+            "bc023143f2dc94bfbb882850436400218ec6d308"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-moving-business-logic-out-of-controllers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-04T14:19:18Z",
+      "lastCommit": "2019-06-12T14:06:06Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0df1f94de902d4b3eb078c421bff21d731b0559",
+            "f220ffaa6389615cae61dd4f0231fa7000427178",
+            "082d240045441d2ab5ed922e4f59b5281903ffb7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-minimal-model.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-23T13:27:30Z",
+      "lastCommit": "2019-01-23T13:27:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "470b9a01de134b164cc4d1eff0cdb6a81f8298bf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-sending-email-notifications.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-09T15:43:00Z",
+      "lastCommit": "2019-04-16T11:55:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b89c7c130d111a0b2a9452967ca3b7ca6913a6f2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e055ca3c30d825ad672342258b0aca0e47625c41"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-17T08:56:26Z",
+      "lastCommit": "2018-07-31T08:47:35Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "82be32f072f8513946eb3c836939d5d0cbadee52"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "21284dead5b39ffe889092f1db6951878dc93e8f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0016-publishing-times-and-change-history.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-14T09:27:41Z",
+      "lastCommit": "2020-04-14T09:27:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adfc9d715d519b1008e89fbf9fc0bd9d6ce461bf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-17T08:56:26Z",
+  "lastAdrCommit": "2020-04-14T09:27:41Z",
+  "firstCommit": "2018-07-10T09:35:12Z",
+  "lastCommit": "2022-01-13T00:01:01Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7a47651ee44160a22abea1e940de6ff8516b1293"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "26f9291e1956f8bd7204dcde14de3eb4fbf45873",
+        "f220ffaa6389615cae61dd4f0231fa7000427178",
+        "e7fba7ebe4095775ad4b579f90d0ccadd79cab97",
+        "645c8f1635190914aec29669bb09015e6272082f",
+        "0ef07917fe20c32351a2f3f54bcdbb49b0cb922f",
+        "2b8d9d987fcbb00babd36c8917549ffcf1a14fb8",
+        "6abf33c74ad0421aa1c96347005dcf3656313936",
+        "d1e3b7c69c0cacff9357b6b397db5ee3668943b4",
+        "ff302160393d65087b68d0f170ab842658c7de8b",
+        "89a5aa4e5e2317ad7558c4192070ab4abefcad1c",
+        "916fa4eaf860674a36123c107982bda76d650e11",
+        "b89c7c130d111a0b2a9452967ca3b7ca6913a6f2",
+        "f3e18d9259e6f0497705412b8005a9af455c6c11",
+        "ffa24d0e9ca0c9761146812f438a508fd37e10ca",
+        "e211f67f4007a976c85a5edb995e9f277631db18",
+        "adfc9d715d519b1008e89fbf9fc0bd9d6ce461bf",
+        "f0df1f94de902d4b3eb078c421bff21d731b0559",
+        "082d240045441d2ab5ed922e4f59b5281903ffb7",
+        "9bfc33a1d22f00fcaa7fab4791a7f11fa99dfc3b",
+        "73c4792d5a54c9654f8a34a181ce750304ad5a45",
+        "e697a10c8b6e8c5467b525ac07e5bf2db11ac97f",
+        "82be32f072f8513946eb3c836939d5d0cbadee52",
+        "65482359483b70d1b62605cdd1b25ffa7901e083",
+        "bc023143f2dc94bfbb882850436400218ec6d308",
+        "2ff33f8eeb95cffbb9ee55be916a171c004cf4e0"
+      ],
+      "numberOfCommits": 25
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d7f811e220661a1b7d47bb35324d0f1fc720c15e",
+        "8756dba33f3e375d0f5a7dd3f22f04b2efe357b2",
+        "76cc8c514367aa43e9bb3397460036cef754884f",
+        "f57c79f6106f635e5fc4b1753caab392125144bc",
+        "9dd75ca24dfd53ac2837ebdc3e82ffaa94c8462e",
+        "470b9a01de134b164cc4d1eff0cdb6a81f8298bf",
+        "e055ca3c30d825ad672342258b0aca0e47625c41",
+        "57bb94fe61fe947c55a7e32fddf427f2cfb58f50"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ee5a6352d88d0491e08b558df2318825bff0a0c4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4acb53ea921485b53227117deaafcf1bdbb826bc"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d54ff784f9239bde41bb8e155f2b232444013463"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "322cf508fb69689232109a7732b115f3b03ab2d6"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "61bd78b257b9889d8348a2d4f2278f6e54e3927b",
+        "21284dead5b39ffe889092f1db6951878dc93e8f",
+        "5ce30c5599fbaf64f9da490bf44507c918a22231",
+        "09a7b6b12ffba8404148a1339033ecf91082673a",
+        "859bb663862b3ddae99f3f33923c16420a9753c9",
+        "37ec0ffa89c4bcea89f7bf8b11c73bec536235b0",
+        "3e2c803b4ef76ffd9b853e6f65eb492b57278fdd",
+        "757f1068092548ea77cf702c4f6cd4abb08a56ab",
+        "cbf4dcf9b56c2f8450e1024790e039cba4374042",
+        "977c7b476d22a9d970adcf17bc609b2e16cd52df"
+      ],
+      "numberOfCommits": 10
+    }
+  ]
+}

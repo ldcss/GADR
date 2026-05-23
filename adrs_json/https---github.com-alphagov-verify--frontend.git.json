@@ -1,0 +1,129 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/verify-frontend.git",
+  "crawlDateTime": "2022-01-18T18:38:08.657075",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0004-journey-hint-tracking-cookie.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-11T10:51:04Z",
+      "lastCommit": "2018-09-11T10:51:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b5bf98eb128d4c33cb3cf908789d52de65e1ab6c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0002-implement-ab-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-12T13:49:44Z",
+      "lastCommit": "2017-04-12T13:49:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a0d75832743b0854633c9a6f79628f011de6016f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0003-new-ab-testing-approach.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-12T13:14:54Z",
+      "lastCommit": "2018-09-11T10:51:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8be655f386c60915cd430db4c9f7be11a83a352a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b5bf98eb128d4c33cb3cf908789d52de65e1ab6c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-12T13:49:44Z",
+      "lastCommit": "2017-04-12T13:49:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a0d75832743b0854633c9a6f79628f011de6016f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-04-12T13:49:44Z",
+  "lastAdrCommit": "2018-09-11T10:51:04Z",
+  "firstCommit": "2016-02-05T10:13:50Z",
+  "lastCommit": "2022-01-04T07:31:12Z",
+  "adrDirFile": {
+    "fileContent": "architecture-decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8be655f386c60915cd430db4c9f7be11a83a352a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b5bf98eb128d4c33cb3cf908789d52de65e1ab6c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a0d75832743b0854633c9a6f79628f011de6016f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

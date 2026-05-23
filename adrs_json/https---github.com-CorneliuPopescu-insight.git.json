@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/CorneliuPopescu/insight.git",
+  "crawlDateTime": "2022-01-18T20:51:10.510653",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "_docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "_docs/adr",
+      "path": "0001-python.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-13T00:59:56Z",
+      "lastCommit": "2018-12-13T00:59:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b4f449c0f79558fc83474f36c5eac153d30e49d8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "_docs/adr",
+      "path": "0002-tweepy.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-12-13T00:59:56Z",
+      "lastCommit": "2018-12-13T00:59:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b4f449c0f79558fc83474f36c5eac153d30e49d8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-12-13T00:59:56Z",
+  "lastAdrCommit": "2018-12-13T00:59:56Z",
+  "firstCommit": "2018-12-12T21:31:53Z",
+  "lastCommit": "2018-12-13T01:02:08Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b4f449c0f79558fc83474f36c5eac153d30e49d8"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

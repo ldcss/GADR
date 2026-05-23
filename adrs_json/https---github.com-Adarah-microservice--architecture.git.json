@@ -1,0 +1,162 @@
+{
+  "repositoryUrl": "https://github.com/Adarah/microservice-architecture.git",
+  "crawlDateTime": "2022-01-18T21:09:41.44103",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-add-a-redirect-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-18T01:05:23Z",
+      "lastCommit": "2020-11-18T01:05:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7d9d795b014f9b7ef46964c36bbddcb49018b5d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-add-a-separate-pages-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-18T01:05:23Z",
+      "lastCommit": "2020-11-18T01:05:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7d9d795b014f9b7ef46964c36bbddcb49018b5d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-a-microservice-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-07T20:57:43Z",
+      "lastCommit": "2020-11-07T20:57:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6cda4c308d935920df421c0fa90e107ce2374a32"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-add-an-auth-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-18T01:05:23Z",
+      "lastCommit": "2020-11-18T01:05:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7d9d795b014f9b7ef46964c36bbddcb49018b5d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-rabbitmq-as-the-message-broker.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-07T20:57:55Z",
+      "lastCommit": "2020-11-07T20:57:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7055ccde43fef019fe7f59705d49b4e72af65495"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-add-an-analytics-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-18T01:05:23Z",
+      "lastCommit": "2020-11-18T01:05:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7d9d795b014f9b7ef46964c36bbddcb49018b5d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-07T20:56:57Z",
+      "lastCommit": "2020-11-07T20:56:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "22fb6c66c157bbb908dcf8524d8456f43017d62e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-07T20:56:57Z",
+  "lastAdrCommit": "2020-11-18T01:05:23Z",
+  "firstCommit": "2020-11-07T20:56:57Z",
+  "lastCommit": "2020-11-18T01:05:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "22fb6c66c157bbb908dcf8524d8456f43017d62e",
+        "7055ccde43fef019fe7f59705d49b4e72af65495",
+        "a7d9d795b014f9b7ef46964c36bbddcb49018b5d",
+        "6cda4c308d935920df421c0fa90e107ce2374a32"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

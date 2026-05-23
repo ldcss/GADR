@@ -1,0 +1,159 @@
+{
+  "repositoryUrl": "https://github.com/ammarnajjar/reading-todo.git",
+  "crawlDateTime": "2022-01-18T17:37:00.463236",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "003-postgres-as-database.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-19T19:42:31Z",
+      "lastCommit": "2019-09-29T05:06:21Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3b25092131947f4d444711d762a1a751c0bbfbdd",
+            "9be2f6fabd788e1a4e132c21aa2cb7686cb5ead4",
+            "cf15d410adf784e36e16c32361e92c60525556b0"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "001-document-architecture-decisions-in-adrs.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-08-15T20:54:32Z",
+      "lastCommit": "2019-09-04T14:48:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "722277aa9bfc51bc1b4ced0e1cdfb5110e9ea4f4",
+            "74792b35c3bcf5139b269da4dc2db582e6c98cf3",
+            "afd5636feb385d30d83ef2559f8cf7962b41a759"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "006-nestjs-for-backend.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-08T14:59:01Z",
+      "lastCommit": "2021-03-08T15:08:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ac9a066164df407baeede6ece088f9d117c62d6",
+            "605188654e9b81aa8478df9a064328719b8d4961"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "005-database-tables.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-30T17:11:59Z",
+      "lastCommit": "2019-09-30T17:11:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "da57f68b7bbbadc1a93a29fec34af79f2a6d6c88"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "004-kubernetes-with-docker-for-deployment.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-19T20:08:23Z",
+      "lastCommit": "2019-09-21T23:34:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a4639974ad86e8c8c647dd396368017c2ef8698",
+            "9e316d473cc46603ae5293cbb62a19ac4b4247e8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "002-react-and-jest-for-front-end.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-08-18T19:07:40Z",
+      "lastCommit": "2019-09-04T14:48:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "74792b35c3bcf5139b269da4dc2db582e6c98cf3",
+            "afd5636feb385d30d83ef2559f8cf7962b41a759",
+            "611d8f45003f23600b45f351da6d139a8e7afe68"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-15T20:54:32Z",
+  "lastAdrCommit": "2021-03-08T15:08:23Z",
+  "firstCommit": "2019-08-13T07:58:47Z",
+  "lastCommit": "2022-01-16T11:40:14Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "722277aa9bfc51bc1b4ced0e1cdfb5110e9ea4f4",
+        "74792b35c3bcf5139b269da4dc2db582e6c98cf3",
+        "3b25092131947f4d444711d762a1a751c0bbfbdd",
+        "afd5636feb385d30d83ef2559f8cf7962b41a759",
+        "611d8f45003f23600b45f351da6d139a8e7afe68",
+        "9be2f6fabd788e1a4e132c21aa2cb7686cb5ead4",
+        "8ac9a066164df407baeede6ece088f9d117c62d6",
+        "7a4639974ad86e8c8c647dd396368017c2ef8698",
+        "da57f68b7bbbadc1a93a29fec34af79f2a6d6c88",
+        "605188654e9b81aa8478df9a064328719b8d4961",
+        "cf15d410adf784e36e16c32361e92c60525556b0",
+        "9e316d473cc46603ae5293cbb62a19ac4b4247e8"
+      ],
+      "numberOfCommits": 12
+    }
+  ]
+}

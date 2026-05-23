@@ -1,0 +1,288 @@
+{
+  "repositoryUrl": "https://github.com/kits-ab/LogLady.git",
+  "crawlDateTime": "2022-01-18T17:29:52.843013",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/ADR"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "0005-use-of-fabric-ui-as-design-system.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-03T12:44:50Z",
+      "lastCommit": "2020-05-20T13:30:11Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8bbef946ff71c2bf32dc8572875a46ff1d9a606d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1dcae491d4e6fa1a97cfdb7dfb155c2eda151ab"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a975c24d8ae146ac0582d745754b798b6c93349"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "0003-implement-redux.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-16T13:47:41Z",
+      "lastCommit": "2020-05-20T13:30:11Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64b7d9fdc15caa0256ce882d63b6823f105ec8fa"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1dcae491d4e6fa1a97cfdb7dfb155c2eda151ab"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a975c24d8ae146ac0582d745754b798b6c93349"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "0002-use-gitflow-and-naming.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-26T11:30:51Z",
+      "lastCommit": "2020-05-20T13:30:11Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e24e1a81b22abbf045a031160800df655fb4858c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1dcae491d4e6fa1a97cfdb7dfb155c2eda151ab"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a975c24d8ae146ac0582d745754b798b6c93349"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "0004-implement-styled-components.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-16T13:52:22Z",
+      "lastCommit": "2020-05-20T13:30:11Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de82e5337f8537369c0eb0e7f870695578152ac5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1dcae491d4e6fa1a97cfdb7dfb155c2eda151ab"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a975c24d8ae146ac0582d745754b798b6c93349"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "0006-use-electron-updater-autoupdate.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-20T12:37:39Z",
+      "lastCommit": "2020-05-20T13:30:11Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1dcae491d4e6fa1a97cfdb7dfb155c2eda151ab"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2873f10a6b3ac980d844fc63d3b368b596048562"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a975c24d8ae146ac0582d745754b798b6c93349"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-18T13:09:08Z",
+      "lastCommit": "2020-05-20T13:30:11Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1dcae491d4e6fa1a97cfdb7dfb155c2eda151ab"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7429302779c65bfc91f88b1084c51ab9ef5196cf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a975c24d8ae146ac0582d745754b798b6c93349"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-18T13:09:08Z",
+  "lastAdrCommit": "2020-05-20T13:30:11Z",
+  "firstCommit": "2019-02-01T13:10:09Z",
+  "lastCommit": "2022-01-13T22:06:50Z",
+  "adrDirFile": {
+    "fileContent": "docs/ADR\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8bbef946ff71c2bf32dc8572875a46ff1d9a606d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e24e1a81b22abbf045a031160800df655fb4858c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "de82e5337f8537369c0eb0e7f870695578152ac5",
+        "64b7d9fdc15caa0256ce882d63b6823f105ec8fa"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e1dcae491d4e6fa1a97cfdb7dfb155c2eda151ab"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7429302779c65bfc91f88b1084c51ab9ef5196cf"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2873f10a6b3ac980d844fc63d3b368b596048562"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2a975c24d8ae146ac0582d745754b798b6c93349"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

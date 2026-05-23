@@ -1,0 +1,182 @@
+{
+  "repositoryUrl": "https://github.com/willgarcia/rotc.git",
+  "crawlDateTime": "2022-01-18T20:42:22.91906",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-use-standalone-prometheus.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-24T00:03:17Z",
+      "lastCommit": "2020-07-24T00:03:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7e0b76f942950667663150e28f71a801b8df272"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-gcp-as-example-cloud-platform.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-24T00:03:17Z",
+      "lastCommit": "2020-07-24T00:03:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7e0b76f942950667663150e28f71a801b8df272"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-azure-as-example-cloud-platform.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-24T00:03:17Z",
+      "lastCommit": "2020-07-24T00:03:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7e0b76f942950667663150e28f71a801b8df272"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-aws-as-example-cloud-platform.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-24T00:03:17Z",
+      "lastCommit": "2020-07-24T00:03:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7e0b76f942950667663150e28f71a801b8df272"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-use-app-gateway-for-network-isolation-in-azure.md",
+      "template": "Nygard",
+      "status": "Deferred",
+      "firstCommit": "2020-07-28T00:26:08Z",
+      "lastCommit": "2020-07-28T00:26:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a7a010b931f629eb9bcceb9977ccb1f6964d4b3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-use-standalone-kiali.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-24T00:03:17Z",
+      "lastCommit": "2020-07-24T00:04:15Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7e0b76f942950667663150e28f71a801b8df272",
+            "a56bfef82ceb0fd64a6ab4a62e54dffab51a442f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-23T23:54:23Z",
+      "lastCommit": "2020-07-23T23:54:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ef246577abdd0f69fab9617b598206d1278c9128"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-standalone-jaeger.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-24T00:03:17Z",
+      "lastCommit": "2020-07-24T00:03:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7e0b76f942950667663150e28f71a801b8df272"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-23T23:54:23Z",
+  "lastAdrCommit": "2020-07-28T00:26:08Z",
+  "firstCommit": "2020-04-08T22:58:43Z",
+  "lastCommit": "2021-10-03T11:31:09Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a7e0b76f942950667663150e28f71a801b8df272",
+        "8a7a010b931f629eb9bcceb9977ccb1f6964d4b3",
+        "a56bfef82ceb0fd64a6ab4a62e54dffab51a442f",
+        "ef246577abdd0f69fab9617b598206d1278c9128"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

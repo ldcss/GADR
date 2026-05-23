@@ -1,0 +1,280 @@
+{
+  "repositoryUrl": "https://github.com/scheduleonce/once-ui.git",
+  "crawlDateTime": "2022-01-18T23:05:14.119463",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-use-semver-for-versioning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-21T21:23:55Z",
+      "lastCommit": "2019-02-22T11:15:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e226b6a114a00f8c19956d7a04421e84ae904e2a",
+            "cbd8830743f807436aec207dd5b39dc59634e375"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-semantic-beta-versioning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-18T06:01:59Z",
+      "lastCommit": "2019-11-18T06:01:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa81907d757111745f98d1284db9ced64dc76e04"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-keep-the-api-surface-as-minimal-as-possible.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-21T21:23:55Z",
+      "lastCommit": "2019-02-22T11:15:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e226b6a114a00f8c19956d7a04421e84ae904e2a",
+            "cbd8830743f807436aec207dd5b39dc59634e375"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-run-the-code-in-continuous-integration-server.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-21T21:23:55Z",
+      "lastCommit": "2019-02-22T11:15:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e226b6a114a00f8c19956d7a04421e84ae904e2a",
+            "cbd8830743f807436aec207dd5b39dc59634e375"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-build-a-high-quality-ui-components-library.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-21T21:23:55Z",
+      "lastCommit": "2019-02-22T11:15:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e226b6a114a00f8c19956d7a04421e84ae904e2a",
+            "cbd8830743f807436aec207dd5b39dc59634e375"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-add-keyboard-accessibility.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-11T10:43:34Z",
+      "lastCommit": "2019-11-18T06:38:39Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a6c5872536643c0f3919ae3e45449535c765209",
+            "c6a1e4842fecc51416449aa96063712253da4d70",
+            "fa81907d757111745f98d1284db9ced64dc76e04",
+            "9e82e527af316629dacf6b549715f00954a5fe4e",
+            "02687268e7036c1695a2a6a626c1e24014d6782d"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-angular-material-as-inspiration-for-the-library.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-21T21:23:55Z",
+      "lastCommit": "2019-02-22T11:15:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e226b6a114a00f8c19956d7a04421e84ae904e2a",
+            "cbd8830743f807436aec207dd5b39dc59634e375"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-publish-the-library-on-npm.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-21T21:23:55Z",
+      "lastCommit": "2020-03-19T08:35:44Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e226b6a114a00f8c19956d7a04421e84ae904e2a",
+            "cbd8830743f807436aec207dd5b39dc59634e375"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3795a4960d360f362e15625361a251b1dd67add"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-create-a-theming-system.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-21T21:23:55Z",
+      "lastCommit": "2019-02-22T11:15:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e226b6a114a00f8c19956d7a04421e84ae904e2a",
+            "cbd8830743f807436aec207dd5b39dc59634e375"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-21T21:23:55Z",
+      "lastCommit": "2019-02-22T11:15:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e226b6a114a00f8c19956d7a04421e84ae904e2a",
+            "cbd8830743f807436aec207dd5b39dc59634e375"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-add-readme-for-each-component-for-documentation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-21T21:23:55Z",
+      "lastCommit": "2019-02-22T11:15:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e226b6a114a00f8c19956d7a04421e84ae904e2a",
+            "cbd8830743f807436aec207dd5b39dc59634e375"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-12-21T21:23:55Z",
+  "lastAdrCommit": "2020-03-19T08:35:44Z",
+  "firstCommit": "2018-04-13T05:25:25Z",
+  "lastCommit": "2021-12-17T20:41:57Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e226b6a114a00f8c19956d7a04421e84ae904e2a",
+        "cbd8830743f807436aec207dd5b39dc59634e375"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c3795a4960d360f362e15625361a251b1dd67add"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5a6c5872536643c0f3919ae3e45449535c765209",
+        "c6a1e4842fecc51416449aa96063712253da4d70",
+        "fa81907d757111745f98d1284db9ced64dc76e04",
+        "9e82e527af316629dacf6b549715f00954a5fe4e",
+        "02687268e7036c1695a2a6a626c1e24014d6782d"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

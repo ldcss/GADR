@@ -1,0 +1,142 @@
+{
+  "repositoryUrl": "https://github.com/theaiscope/GDD-app.git",
+  "crawlDateTime": "2022-01-18T19:09:32.451055",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-decouple-domain-models-from-representation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-10T13:57:20Z",
+      "lastCommit": "2019-09-10T13:57:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "273c9f5d41bbb2f627461cec319d2da248b7c979"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-preferences-for-data-storage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-27T10:19:10Z",
+      "lastCommit": "2019-06-27T20:44:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1fe5b8a020d5686822ab85e0cb035a6928c7c6cf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2782d89e0bfd48623fbb0bdedba4142fdda7e127"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-bitrise-for-ci.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-27T10:19:10Z",
+      "lastCommit": "2019-06-27T20:44:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1fe5b8a020d5686822ab85e0cb035a6928c7c6cf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2782d89e0bfd48623fbb0bdedba4142fdda7e127"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-06-27T10:19:10Z",
+      "lastCommit": "2019-06-27T20:44:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1fe5b8a020d5686822ab85e0cb035a6928c7c6cf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2782d89e0bfd48623fbb0bdedba4142fdda7e127"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-06-27T10:19:10Z",
+  "lastAdrCommit": "2019-09-10T13:57:20Z",
+  "firstCommit": "2019-05-17T13:35:38Z",
+  "lastCommit": "2022-01-15T12:52:32Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1fe5b8a020d5686822ab85e0cb035a6928c7c6cf"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2782d89e0bfd48623fbb0bdedba4142fdda7e127"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "273c9f5d41bbb2f627461cec319d2da248b7c979"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "repositoryUrl": "https://github.com/zazpi/nozama.git",
+  "crawlDateTime": "2022-01-18T19:38:25.614688",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001-simulator-webserver.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-16T10:25:34Z",
+      "lastCommit": "2019-01-16T10:27:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c8490b7bf9d92df70f7d5e1bfad9f4b3a9267268",
+            "ba731f219599f927f98c9796fcf1899aec547ec5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-01-16T10:25:34Z",
+  "lastAdrCommit": "2019-01-16T10:27:47Z",
+  "firstCommit": "2018-11-24T16:00:49Z",
+  "lastCommit": "2019-01-22T07:31:52Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c8490b7bf9d92df70f7d5e1bfad9f4b3a9267268",
+        "ba731f219599f927f98c9796fcf1899aec547ec5"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

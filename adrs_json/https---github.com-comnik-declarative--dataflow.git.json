@@ -1,0 +1,92 @@
+{
+  "repositoryUrl": "https://github.com/comnik/declarative-dataflow.git",
+  "crawlDateTime": "2022-01-18T20:12:00.480174",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-data-model.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-10-06T15:54:17Z",
+      "lastCommit": "2018-10-06T15:54:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c421d301d84d6d9d033fdcb302bd1b0e9db5838"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-server-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-16T22:23:46Z",
+      "lastCommit": "2018-09-16T22:23:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "92eac3a441dd318487bf4186a8ddb19c035d5dcd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-naming.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-17T22:35:22Z",
+      "lastCommit": "2019-03-17T22:35:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc621732cd8ae09bfb0588e3e8eccd46172f94d9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-16T22:23:46Z",
+  "lastAdrCommit": "2019-03-17T22:35:22Z",
+  "firstCommit": "2018-06-01T15:04:05Z",
+  "lastCommit": "2020-01-20T22:18:49Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "92eac3a441dd318487bf4186a8ddb19c035d5dcd",
+        "dc621732cd8ae09bfb0588e3e8eccd46172f94d9"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0c421d301d84d6d9d033fdcb302bd1b0e9db5838"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

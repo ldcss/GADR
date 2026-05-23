@@ -1,0 +1,98 @@
+{
+  "repositoryUrl": "https://github.com/DD-DeCaF/wsgi-base.git",
+  "crawlDateTime": "2022-01-18T21:09:48.097788",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0002-use-non-deterministic-docker-builds.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-20T15:34:26Z",
+      "lastCommit": "2018-08-20T15:34:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2e28e054c146ab9a6c48202c89f18a8a4d8dac4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0003-install-all-base-dependencies.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-01T15:18:43Z",
+      "lastCommit": "2019-11-06T09:50:22Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "67f1a16468042398da49578bdd9babfa7792ec8f",
+            "97973a4c78032bb70626c66013a51919be7e8999",
+            "2e825c7b163065c8b91197647ac3dac7f56e7f52"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-20T15:34:26Z",
+      "lastCommit": "2018-08-20T15:34:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2e28e054c146ab9a6c48202c89f18a8a4d8dac4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-20T15:34:26Z",
+  "lastAdrCommit": "2019-11-06T09:50:22Z",
+  "firstCommit": "2018-08-20T14:57:20Z",
+  "lastCommit": "2021-07-21T17:09:40Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a2e28e054c146ab9a6c48202c89f18a8a4d8dac4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "67f1a16468042398da49578bdd9babfa7792ec8f",
+        "97973a4c78032bb70626c66013a51919be7e8999",
+        "2e825c7b163065c8b91197647ac3dac7f56e7f52"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

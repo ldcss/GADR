@@ -1,0 +1,89 @@
+{
+  "repositoryUrl": "https://github.com/pulibrary/bibdata.git",
+  "crawlDateTime": "2022-01-18T19:55:54.045726",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture_decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture_decisions",
+      "path": "0003-index-merged-holdings-info.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T15:57:39Z",
+      "lastCommit": "2020-08-18T20:39:12Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bd6d2d89c6a79f5db7f745fea7b573122b4c88e0",
+            "d29efe659672348f4ceba95a9f2028f919d4f51e",
+            "5cd1704f9d2548dc69488461e05b48625249dae3"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decisions",
+      "path": "0002-index-catalog-date.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T15:57:39Z",
+      "lastCommit": "2020-08-18T20:39:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bd6d2d89c6a79f5db7f745fea7b573122b4c88e0",
+            "5cd1704f9d2548dc69488461e05b48625249dae3"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decisions",
+      "path": "0001-document-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T15:57:39Z",
+      "lastCommit": "2020-08-17T17:13:15Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bd6d2d89c6a79f5db7f745fea7b573122b4c88e0",
+            "d29efe659672348f4ceba95a9f2028f919d4f51e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-17T15:57:39Z",
+  "lastAdrCommit": "2020-08-18T20:39:12Z",
+  "firstCommit": "2014-07-21T21:10:33Z",
+  "lastCommit": "2022-01-18T18:47:28Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bd6d2d89c6a79f5db7f745fea7b573122b4c88e0",
+        "d29efe659672348f4ceba95a9f2028f919d4f51e",
+        "5cd1704f9d2548dc69488461e05b48625249dae3"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/dericcain/oauth-spike.git",
+  "crawlDateTime": "2022-01-18T23:07:28.470159",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "adr-03-prettier.md",
+      "template": "Nygard",
+      "status": "Adopted. However, the Prettier hooks could be removed with minimal effort.",
+      "firstCommit": "2018-12-10T21:27:31Z",
+      "lastCommit": "2018-12-10T21:27:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "658cd1f5b966c1a22a66f77b9c56932243632cc4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "adr-02-typescript.md",
+      "template": "Nygard",
+      "status": "Adopted. TypeScript is in use but could be removed with moderate effort (it may or may not be possible to programmatically remove the type annotations).",
+      "firstCommit": "2018-12-10T21:27:31Z",
+      "lastCommit": "2018-12-10T21:27:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "658cd1f5b966c1a22a66f77b9c56932243632cc4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "adr-01-rollup.md",
+      "template": "Nygard",
+      "status": "Adopted. This project currently uses rollup.js but could switch to Webpack with minimal effort. The bundle size savings (~4K) may not make a significant difference to end users.",
+      "firstCommit": "2018-12-10T21:27:31Z",
+      "lastCommit": "2018-12-10T21:27:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "658cd1f5b966c1a22a66f77b9c56932243632cc4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-12-10T21:27:31Z",
+  "lastAdrCommit": "2018-12-10T21:27:31Z",
+  "firstCommit": "2018-12-10T21:27:31Z",
+  "lastCommit": "2018-12-10T21:27:31Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "658cd1f5b966c1a22a66f77b9c56932243632cc4"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

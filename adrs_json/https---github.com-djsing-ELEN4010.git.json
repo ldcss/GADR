@@ -1,0 +1,251 @@
+{
+  "repositoryUrl": "https://github.com/djsing/ELEN4010.git",
+  "crawlDateTime": "2022-01-18T18:20:11.109765",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR Testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-20T22:08:50Z",
+      "lastCommit": "2019-05-21T21:53:34Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee02941eac696b53d21b7b1b86fe4bc025bef80c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "92b7a6ac0ee39b1bbff9b1b022c2d25daca50b07",
+            "824ebad2d4014874f5a76f14930ec9bbde6fd72e",
+            "9a4b45da4283c197d68b8d739eb8126d3526aa1f",
+            "a07b851e98129ab34eaa7596e17356c0e685efbd",
+            "732c792b4e24139c8dd882a6ee87593e6075433e"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR GitHub Project Board as KanBan.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-19T10:28:33Z",
+      "lastCommit": "2019-05-20T18:43:43Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5df70ebe9a674eb68aafeb52210dd6fbb3b13bb6",
+            "68166eb455a416638097cb978224c5e7779d8f78",
+            "a95d9bedab0586fd316650d7f2a292c05eaea66e"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR Reordering Destinations.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-19T10:28:33Z",
+      "lastCommit": "2019-05-19T11:09:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5df70ebe9a674eb68aafeb52210dd6fbb3b13bb6",
+            "a95d9bedab0586fd316650d7f2a292c05eaea66e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR Entering destinations for a trip.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-19T11:09:54Z",
+      "lastCommit": "2019-05-19T11:09:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5df70ebe9a674eb68aafeb52210dd6fbb3b13bb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR Email invites.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-21T19:03:56Z",
+      "lastCommit": "2019-05-21T19:03:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51cf31ee561b2cf7ff161f772a0f90bdab399589"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR Folder structure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-19T11:09:54Z",
+      "lastCommit": "2019-05-21T13:26:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5df70ebe9a674eb68aafeb52210dd6fbb3b13bb6",
+            "fe983e37b5125ad628824c3214e0be1d6cc70967"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR Trunk-Based Development.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-19T11:09:54Z",
+      "lastCommit": "2019-05-19T11:09:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5df70ebe9a674eb68aafeb52210dd6fbb3b13bb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR Maps API choice.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-19T10:28:33Z",
+      "lastCommit": "2019-05-19T11:09:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5df70ebe9a674eb68aafeb52210dd6fbb3b13bb6",
+            "a95d9bedab0586fd316650d7f2a292c05eaea66e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR Sprint Planning and timeline.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-19T11:09:54Z",
+      "lastCommit": "2019-05-19T11:09:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5df70ebe9a674eb68aafeb52210dd6fbb3b13bb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR Login API Choice.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-19T10:28:33Z",
+      "lastCommit": "2019-05-19T11:09:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5df70ebe9a674eb68aafeb52210dd6fbb3b13bb6",
+            "a95d9bedab0586fd316650d7f2a292c05eaea66e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-19T10:28:33Z",
+  "lastAdrCommit": "2019-05-21T21:53:34Z",
+  "firstCommit": "2019-04-09T15:15:56Z",
+  "lastCommit": "2019-11-13T10:33:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5df70ebe9a674eb68aafeb52210dd6fbb3b13bb6",
+        "68166eb455a416638097cb978224c5e7779d8f78",
+        "51cf31ee561b2cf7ff161f772a0f90bdab399589",
+        "fe983e37b5125ad628824c3214e0be1d6cc70967",
+        "ee02941eac696b53d21b7b1b86fe4bc025bef80c",
+        "a95d9bedab0586fd316650d7f2a292c05eaea66e"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "92b7a6ac0ee39b1bbff9b1b022c2d25daca50b07",
+        "824ebad2d4014874f5a76f14930ec9bbde6fd72e",
+        "9a4b45da4283c197d68b8d739eb8126d3526aa1f",
+        "a07b851e98129ab34eaa7596e17356c0e685efbd",
+        "732c792b4e24139c8dd882a6ee87593e6075433e"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

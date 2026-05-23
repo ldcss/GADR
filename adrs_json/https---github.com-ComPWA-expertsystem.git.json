@@ -1,0 +1,145 @@
+{
+  "repositoryUrl": "https://github.com/ComPWA/expertsystem.git",
+  "crawlDateTime": "2022-01-18T17:33:07.317972",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "000.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-06-05T13:31:22Z",
+      "lastCommit": "2021-01-29T13:48:21Z",
+      "numberOfCommits": 9,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf56a95cf31fab02db648d6bf315943536d56f77"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7b9b645351535d2b882839f27ed8c9423f935dbb",
+            "76e00cf926f2c6a619e11926281961c27d26735c",
+            "589cb9bcd861300144851b6cfdcb3cbe1573ee73",
+            "63c816bf13275ab5e6413d85ee144996ebfc0c41",
+            "659f7c5a9f8539bd316ddddddc9c1da6f279fe88",
+            "c6fe9f3d4bea8d3b19250699b975e997978794e2",
+            "4fc2df6c21dd0c9fe611144b1de8d01b77a238c0",
+            "ed932d79ce304c3ead2a7efe41ed339b1ed9756d"
+          ],
+          "numberOfCommits": 8
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-19T13:42:02Z",
+      "lastCommit": "2021-05-03T10:20:50Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "826971d7f9035d3693e0c71230c26f1977d00ca3",
+            "c104ed158664a50875450a9a9026dce228622d1b",
+            "659f7c5a9f8539bd316ddddddc9c1da6f279fe88",
+            "ed932d79ce304c3ead2a7efe41ed339b1ed9756d"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03edb125cbeb78dcd20e2037c1468d559087d6e4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "002.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-02T09:22:50Z",
+      "lastCommit": "2021-05-03T10:20:50Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f5564aa9ffa422a68e8d9b3bd6a87e9bd232fa1",
+            "56f5ef7edeecb7812a9d653792ca3a03298d1e62"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03edb125cbeb78dcd20e2037c1468d559087d6e4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-05T13:31:22Z",
+  "lastAdrCommit": "2021-05-03T10:20:50Z",
+  "firstCommit": "2020-04-30T10:28:12Z",
+  "lastCommit": "2021-05-03T10:20:50Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cf56a95cf31fab02db648d6bf315943536d56f77"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "826971d7f9035d3693e0c71230c26f1977d00ca3",
+        "3f5564aa9ffa422a68e8d9b3bd6a87e9bd232fa1",
+        "7b9b645351535d2b882839f27ed8c9423f935dbb",
+        "c104ed158664a50875450a9a9026dce228622d1b",
+        "76e00cf926f2c6a619e11926281961c27d26735c",
+        "589cb9bcd861300144851b6cfdcb3cbe1573ee73",
+        "63c816bf13275ab5e6413d85ee144996ebfc0c41",
+        "659f7c5a9f8539bd316ddddddc9c1da6f279fe88",
+        "56f5ef7edeecb7812a9d653792ca3a03298d1e62",
+        "c6fe9f3d4bea8d3b19250699b975e997978794e2",
+        "4fc2df6c21dd0c9fe611144b1de8d01b77a238c0",
+        "ed932d79ce304c3ead2a7efe41ed339b1ed9756d"
+      ],
+      "numberOfCommits": 12
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "03edb125cbeb78dcd20e2037c1468d559087d6e4"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

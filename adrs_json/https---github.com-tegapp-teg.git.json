@@ -1,0 +1,124 @@
+{
+  "repositoryUrl": "https://github.com/tegapp/teg.git",
+  "crawlDateTime": "2022-01-18T18:18:07.696761",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "adr002-protobuf-machine-interface.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-08-13T01:30:24Z",
+      "lastCommit": "2020-12-15T07:06:20Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe5973f272684de565cdfc6dab17beaaf1dffd64",
+            "b91f071d946e48e05aa26f6b6e83a136c5918352",
+            "18eb7ac1ca8feaa3bb0ee0b744d7afb3eed22fa6",
+            "0a1fe565d316e1184419f130ff61e60bbea2a624",
+            "23e8df334b77ff0e05ba543eb0e576f24668f02b"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "adr003-a-new-rust-architecture.md",
+      "template": "Madr",
+      "status": "draft",
+      "firstCommit": "2020-12-15T07:06:20Z",
+      "lastCommit": "2020-12-15T07:06:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "18eb7ac1ca8feaa3bb0ee0b744d7afb3eed22fa6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "adr001-configuration-api-for-heterogeneous-cnc-networks.md",
+      "template": "Madr",
+      "status": "draft",
+      "firstCommit": "2018-11-19T20:59:10Z",
+      "lastCommit": "2021-12-26T17:39:47Z",
+      "numberOfCommits": 10,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d3d9b1d9a2c566729d69ac6d3ac760a6b0a6d150",
+            "232919e586f4ed09bd0f3ea7026f51358ecab21a",
+            "0ce221325e16d7744de8f08f4536226faf0949b0",
+            "b011b05c51dd61af10da20c7fd42aea79b11e5e5",
+            "881a7c956fbf4bcc6eaad866c00d25590e89c627",
+            "3854b7e5e22bac6e2c1bba45bac1cdec5f104154",
+            "63cb0d5d8ac20139e6cc3607cbe55e23278eaa30",
+            "e936cad693189f04870fb130df8a8ee2222c7ae2",
+            "5b7e855cf3021a1e92635616a69fe741e8040fc2"
+          ],
+          "numberOfCommits": 9
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9a22b62bcb518cc2a5bf3ce0f71b2aec4c8e06cb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-11-19T20:59:10Z",
+  "lastAdrCommit": "2021-12-26T17:39:47Z",
+  "firstCommit": "2013-08-10T23:04:34Z",
+  "lastCommit": "2022-01-18T05:08:07Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d3d9b1d9a2c566729d69ac6d3ac760a6b0a6d150",
+        "0ce221325e16d7744de8f08f4536226faf0949b0",
+        "881a7c956fbf4bcc6eaad866c00d25590e89c627",
+        "b91f071d946e48e05aa26f6b6e83a136c5918352",
+        "18eb7ac1ca8feaa3bb0ee0b744d7afb3eed22fa6",
+        "0a1fe565d316e1184419f130ff61e60bbea2a624",
+        "5b7e855cf3021a1e92635616a69fe741e8040fc2",
+        "fe5973f272684de565cdfc6dab17beaaf1dffd64",
+        "232919e586f4ed09bd0f3ea7026f51358ecab21a",
+        "b011b05c51dd61af10da20c7fd42aea79b11e5e5",
+        "3854b7e5e22bac6e2c1bba45bac1cdec5f104154",
+        "63cb0d5d8ac20139e6cc3607cbe55e23278eaa30",
+        "23e8df334b77ff0e05ba543eb0e576f24668f02b",
+        "e936cad693189f04870fb130df8a8ee2222c7ae2"
+      ],
+      "numberOfCommits": 14
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9a22b62bcb518cc2a5bf3ce0f71b2aec4c8e06cb"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

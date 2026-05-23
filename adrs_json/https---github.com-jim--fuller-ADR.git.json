@@ -1,0 +1,120 @@
+{
+  "repositoryUrl": "https://github.com/jim-fuller/ADR.git",
+  "crawlDateTime": "2022-01-18T19:48:05.390059",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "."
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": ".",
+      "path": "adr-0001 choosing an RDS hIgh availability solution.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-07-01T16:07:11Z",
+      "lastCommit": "2020-07-02T17:49:54Z",
+      "numberOfCommits": 21,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7094a3fd53aea0fdfe09fc0ae419b07ab680e6f0",
+            "a7d3b9724be26f4ce197e5dfc69ec5adcb2d9976"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7bd8d53ca2e2717bad6e6ee84dd4525138fafb68",
+            "d27d60a33f7c284f4fcb6e5db0b6f06dfa7ba56c",
+            "6ac1452e306926d4ccffec75f9ff0fea5f2d4878",
+            "c36dd411ec74d3933de74b3dc19ccb6d74600985",
+            "1f242c1eff2afc437c417afb539357d240b55578",
+            "bf0ffa7d316c098c42097dc42cfb7b94ff7b292a",
+            "fdff4f030699f553cec025cf712fc4625c128ee1",
+            "e4b7e4626791a42874251645a3c65a1173fa91f3",
+            "d1216fd01b1492ae0ddf1d5eb34995f1c2f3dac9",
+            "169b171bb56da0acd58dc912d79b4fe6e7371d59",
+            "a061c274a7382d36e1383efaaad5b4fa081ef3e9",
+            "c59a1fff692c851d8ab47af9ac4ea598bea80909",
+            "7581ce0100208c43dc5c1a410d39b228ef2208ac",
+            "479585f111e6abbeae10a0803b0b4e599351245f",
+            "ac579b581076a574d3fb005a3f50e87a2fb084db",
+            "7a78b3c84d7afc5cf7731fb74776e64580815b58",
+            "de236ab5ed952b84665810b9a1cfcf38f6f1a973",
+            "6d8fd68dc763bd036232a6243cf75340f5eb4f7d",
+            "ce41af820f52924cf8ba0a9ae83aba5dae310ab7"
+          ],
+          "numberOfCommits": 19
+        }
+      ]
+    },
+    {
+      "adrDirectory": ".",
+      "path": "adr-0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-01T19:11:20Z",
+      "lastCommit": "2020-07-01T19:12:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f242c1eff2afc437c417afb539357d240b55578",
+            "76ac05515b17e8c28abb71cb2d6f5e56514ea1f9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-01T16:07:11Z",
+  "lastAdrCommit": "2020-07-02T17:49:54Z",
+  "firstCommit": "2020-07-01T16:07:11Z",
+  "lastCommit": "2020-07-02T17:49:54Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7094a3fd53aea0fdfe09fc0ae419b07ab680e6f0",
+        "a7d3b9724be26f4ce197e5dfc69ec5adcb2d9976"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7bd8d53ca2e2717bad6e6ee84dd4525138fafb68",
+        "d27d60a33f7c284f4fcb6e5db0b6f06dfa7ba56c",
+        "6ac1452e306926d4ccffec75f9ff0fea5f2d4878",
+        "c36dd411ec74d3933de74b3dc19ccb6d74600985",
+        "1f242c1eff2afc437c417afb539357d240b55578",
+        "bf0ffa7d316c098c42097dc42cfb7b94ff7b292a",
+        "fdff4f030699f553cec025cf712fc4625c128ee1",
+        "e4b7e4626791a42874251645a3c65a1173fa91f3",
+        "d1216fd01b1492ae0ddf1d5eb34995f1c2f3dac9",
+        "169b171bb56da0acd58dc912d79b4fe6e7371d59",
+        "a061c274a7382d36e1383efaaad5b4fa081ef3e9",
+        "c59a1fff692c851d8ab47af9ac4ea598bea80909",
+        "7581ce0100208c43dc5c1a410d39b228ef2208ac",
+        "479585f111e6abbeae10a0803b0b4e599351245f",
+        "ac579b581076a574d3fb005a3f50e87a2fb084db",
+        "7a78b3c84d7afc5cf7731fb74776e64580815b58",
+        "de236ab5ed952b84665810b9a1cfcf38f6f1a973",
+        "6d8fd68dc763bd036232a6243cf75340f5eb4f7d",
+        "ce41af820f52924cf8ba0a9ae83aba5dae310ab7",
+        "76ac05515b17e8c28abb71cb2d6f5e56514ea1f9"
+      ],
+      "numberOfCommits": 20
+    }
+  ]
+}

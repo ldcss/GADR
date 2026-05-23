@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/anurtayev/aspan.git",
+  "crawlDateTime": "2022-01-18T23:01:20.413419",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-aspan-router.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-27T02:42:23Z",
+      "lastCommit": "2020-04-27T02:42:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e9224f8d2114a8f43807860e42da83db3d01b0df"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-27T02:42:23Z",
+      "lastCommit": "2020-04-27T02:42:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e9224f8d2114a8f43807860e42da83db3d01b0df"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-27T02:42:23Z",
+  "lastAdrCommit": "2020-04-27T02:42:23Z",
+  "firstCommit": "2020-03-29T13:21:56Z",
+  "lastCommit": "2021-11-08T18:37:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e9224f8d2114a8f43807860e42da83db3d01b0df"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

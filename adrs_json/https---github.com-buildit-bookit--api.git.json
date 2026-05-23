@@ -1,0 +1,248 @@
+{
+  "repositoryUrl": "https://github.com/buildit/bookit-api.git",
+  "crawlDateTime": "2022-01-18T18:27:09.281874",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-use-junit-for-tests-instead-of-spek.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-01T17:42:45Z",
+      "lastCommit": "2017-11-02T15:27:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1b01034d6c0a9556af7d322ecfb840a194682da8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01589baf49bda19bb2d2eba8da55ba41443139db"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0009-use-jpa.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [8. Database](0008-database.md)",
+      "firstCommit": "2017-12-27T18:53:03Z",
+      "lastCommit": "2017-12-27T18:53:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "07265541eceb9c1a65fad4868d4099c27027f941"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-use-pac4j-to-validate-tokens.md",
+      "template": "Nygard",
+      "status": "Decline Alternative to [5. Use id_token from Microsoft as Bearer token](0005-use-id-token-from-microsoft-as-bearer-token.md)",
+      "firstCommit": "2017-12-07T22:17:25Z",
+      "lastCommit": "2017-12-07T22:17:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f12e40aae7676b972cb664997162a9623e28f0ae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-version-api-via-uri-path.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-13T16:16:12Z",
+      "lastCommit": "2017-10-13T16:16:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7513283ea57bba771c11996c7a6634d474cefd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-database.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [9. Use JPA](0009-use-jpa.md) - originally used JDBC Amended by [10. JPA manages schema](0010-jpa-manages-schema.md) - originally managed via schema.sql & data.sql and reset each deploy",
+      "firstCommit": "2017-12-27T18:53:03Z",
+      "lastCommit": "2017-12-27T18:53:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "07265541eceb9c1a65fad4868d4099c27027f941"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-use-id-token-from-microsoft-as-bearer-token.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [4. Security](0004-security.md) Alternative considered [6. Use Okta as Identity provider](0006-use-okta-as-identity-provider.md) Alternative considered [7. Use Pac4J to validate tokens](0007-use-pac4j-to-validate-tokens.md)",
+      "firstCommit": "2017-12-01T21:39:05Z",
+      "lastCommit": "2017-12-07T22:17:25Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1506a67fdc3319cf82697b980583371b9766384",
+            "f0df97eb797141811daba2a7243e0afcb2cebeb6",
+            "f12e40aae7676b972cb664997162a9623e28f0ae"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-use-okta-as-identity-provider.md",
+      "template": "Nygard",
+      "status": "Spiked - Delay for now Amends [4. Security](0004-security.md) Alternative to [5. Use id_token from Microsoft as Bearer token](0005-use-id-token-from-microsoft-as-bearer-token.md)",
+      "firstCommit": "2017-12-07T22:07:48Z",
+      "lastCommit": "2017-12-07T22:07:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1506a67fdc3319cf82697b980583371b9766384"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-13T15:48:24Z",
+      "lastCommit": "2017-10-13T15:48:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3562cd6ca2430f70e596e7cfb79303e88c4bc825"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-security.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [5. Use id_token from Microsoft as Bearer token](0005-use-id-token-from-microsoft-as-bearer-token.md) Amended by [6. Use Okta as Identity provider](0006-use-okta-as-identity-provider.md)",
+      "firstCommit": "2017-12-01T21:39:05Z",
+      "lastCommit": "2017-12-07T22:07:48Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1506a67fdc3319cf82697b980583371b9766384",
+            "f0df97eb797141811daba2a7243e0afcb2cebeb6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0010-jpa-manages-schema.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [8. Database](0008-database.md)",
+      "firstCommit": "2017-12-27T18:53:03Z",
+      "lastCommit": "2017-12-27T19:45:05Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8d5bfbce37093d80ffe7bacaa9efb1e8ca84cbac",
+            "22cf480b36e9e955e8bde3fa3a7ef4c05dda2671",
+            "07265541eceb9c1a65fad4868d4099c27027f941"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-10-13T15:48:24Z",
+  "lastAdrCommit": "2017-12-27T19:45:05Z",
+  "firstCommit": "2017-09-25T17:42:46Z",
+  "lastCommit": "2019-01-17T17:37:29Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e1506a67fdc3319cf82697b980583371b9766384",
+        "3562cd6ca2430f70e596e7cfb79303e88c4bc825",
+        "f0df97eb797141811daba2a7243e0afcb2cebeb6",
+        "f12e40aae7676b972cb664997162a9623e28f0ae",
+        "1b01034d6c0a9556af7d322ecfb840a194682da8",
+        "07265541eceb9c1a65fad4868d4099c27027f941",
+        "a7513283ea57bba771c11996c7a6634d474cefd7",
+        "8d5bfbce37093d80ffe7bacaa9efb1e8ca84cbac",
+        "22cf480b36e9e955e8bde3fa3a7ef4c05dda2671"
+      ],
+      "numberOfCommits": 9
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "01589baf49bda19bb2d2eba8da55ba41443139db"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

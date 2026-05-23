@@ -1,0 +1,230 @@
+{
+  "repositoryUrl": "https://github.com/kolide/launcher.git",
+  "crawlDateTime": "2022-01-18T18:37:39.612891",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "2018-03-29_add_crc_and_uuid_to_log_lines.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-05-04T17:23:47Z",
+      "lastCommit": "2018-05-04T17:23:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9571b89f84308aca53e105c2e320e7d7c2a3c6a1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "2019-09-05_autoupdate_v2.md",
+      "template": "Nygard",
+      "status": "Accepted: October, 2019 Supersedes: [Launcher Auto Update Process](2019-03-11_autoupdate.md)",
+      "firstCommit": "2019-10-18T18:42:52Z",
+      "lastCommit": "2019-10-18T18:42:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b04b9353f7476c682c39eb66195e030b4103231b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "2018-06-15_request_enrollment_details.md",
+      "template": "Nygard",
+      "status": "Accepted (June 15, 2018)",
+      "firstCommit": "2018-06-18T17:54:47Z",
+      "lastCommit": "2019-03-15T21:21:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4c0320d61d2b05fdd79bc32e905e2bf670937cfb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6c17ae75bc8b9e3b3881616bd41de5b484cc87d7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "2018-07-06_control-server-api.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-07-09T14:55:39Z",
+      "lastCommit": "2020-09-13T01:33:28Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4c0320d61d2b05fdd79bc32e905e2bf670937cfb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17008040f94774e00909b3516a73e55c0f7702fb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "afa4bfdb647d6ca17e1951a5da526a3978941481"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "2019-03-11_autoupdate.md",
+      "template": "Nygard",
+      "status": "Accepted (March 11, 2019) Superseded by [Version 2](2019-09-05_autoupdate_v2.md)",
+      "firstCommit": "2019-03-15T21:21:26Z",
+      "lastCommit": "2019-10-18T18:42:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4c0320d61d2b05fdd79bc32e905e2bf670937cfb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b04b9353f7476c682c39eb66195e030b4103231b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "2018-07-16_reorganization.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-07-17T19:25:04Z",
+      "lastCommit": "2019-03-15T21:21:26Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4c0320d61d2b05fdd79bc32e905e2bf670937cfb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5cefbc15ecddde9b1342c3a0a642e85c18e87ab5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f829d1ae43b13e7f2f569c159572ad0a7ffd4904"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-04T17:23:47Z",
+  "lastAdrCommit": "2020-09-13T01:33:28Z",
+  "firstCommit": "2017-05-02T19:52:56Z",
+  "lastCommit": "2022-01-11T19:36:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4c0320d61d2b05fdd79bc32e905e2bf670937cfb"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9571b89f84308aca53e105c2e320e7d7c2a3c6a1"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "17008040f94774e00909b3516a73e55c0f7702fb"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5cefbc15ecddde9b1342c3a0a642e85c18e87ab5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f829d1ae43b13e7f2f569c159572ad0a7ffd4904",
+        "6c17ae75bc8b9e3b3881616bd41de5b484cc87d7"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "afa4bfdb647d6ca17e1951a5da526a3978941481",
+        "b04b9353f7476c682c39eb66195e030b4103231b"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "repositoryUrl": "https://github.com/commercetools/commercetools-adyen-integration.git",
+  "crawlDateTime": "2022-01-18T19:06:59.002204",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-matching-adyen-notification.md",
+      "template": "Nygard",
+      "status": "[Accepted](https://github.com/commercetools/commercetools-adyen-integration/pull/395)",
+      "firstCommit": "2021-01-04T19:10:24Z",
+      "lastCommit": "2021-05-05T11:37:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c21f25c6f426aa8a448cf16ec15fb317846c4588"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c79c6956322bc4fad3f635085128639ba5bce90c",
+            "d197fc486cd40afa0506b1b78b770eedd9d4f71d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-notification-error-handling.md",
+      "template": "Nygard",
+      "status": "[Accepted](https://github.com/commercetools/commercetools-adyen-integration/pull/747)",
+      "firstCommit": "2021-07-12T13:27:47Z",
+      "lastCommit": "2021-07-12T13:27:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "08a21e26574557f2359645ff95bb5e4ba9051aaa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-matching-adyen-notification-in-multitenancy.md",
+      "template": "Nygard",
+      "status": "[Accepted](https://github.com/commercetools/commercetools-adyen-integration/pull/541)",
+      "firstCommit": "2021-02-17T09:45:50Z",
+      "lastCommit": "2021-10-27T17:08:41Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c21f25c6f426aa8a448cf16ec15fb317846c4588"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c79c6956322bc4fad3f635085128639ba5bce90c",
+            "d9a5eba29e154a950fb0262726740a395962d05c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-04T19:10:24Z",
+      "lastCommit": "2021-05-05T11:37:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c21f25c6f426aa8a448cf16ec15fb317846c4588"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d197fc486cd40afa0506b1b78b770eedd9d4f71d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-04T19:10:24Z",
+  "lastAdrCommit": "2021-10-27T17:08:41Z",
+  "firstCommit": "2019-01-11T16:35:12Z",
+  "lastCommit": "2022-01-16T15:43:12Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c21f25c6f426aa8a448cf16ec15fb317846c4588"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c79c6956322bc4fad3f635085128639ba5bce90c",
+        "d197fc486cd40afa0506b1b78b770eedd9d4f71d",
+        "d9a5eba29e154a950fb0262726740a395962d05c"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "08a21e26574557f2359645ff95bb5e4ba9051aaa"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

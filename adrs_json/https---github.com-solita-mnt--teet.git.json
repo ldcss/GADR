@@ -1,0 +1,129 @@
+{
+  "repositoryUrl": "https://github.com/solita/mnt-teet.git",
+  "crawlDateTime": "2022-01-18T20:12:01.394078",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR-1-Code-and-documentation-language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-06T06:25:38Z",
+      "lastCommit": "2019-09-02T12:12:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7db0d1e04509601b0bed2d813bc3823fb27a43b8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "60c1745fac53335fa0e1005057acb8bda52dd9db"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR-4-AWS-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-02T12:12:21Z",
+      "lastCommit": "2019-09-05T10:30:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7db0d1e04509601b0bed2d813bc3823fb27a43b8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "655eaf1c9d595183628d7a1fc590222f8a64ec04"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR-3-database.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-02T12:12:21Z",
+      "lastCommit": "2019-09-02T12:12:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7db0d1e04509601b0bed2d813bc3823fb27a43b8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR-2-Frontend-app-structure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-06T06:25:38Z",
+      "lastCommit": "2019-08-08T12:06:15Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6daa8ebb34b5a9af6b9e9b586a9ed3bf911fc97c",
+            "60c1745fac53335fa0e1005057acb8bda52dd9db"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-06T06:25:38Z",
+  "lastAdrCommit": "2019-09-05T10:30:57Z",
+  "firstCommit": "2019-07-30T09:40:37Z",
+  "lastCommit": "2021-09-13T09:14:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7db0d1e04509601b0bed2d813bc3823fb27a43b8"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "655eaf1c9d595183628d7a1fc590222f8a64ec04",
+        "6daa8ebb34b5a9af6b9e9b586a9ed3bf911fc97c",
+        "60c1745fac53335fa0e1005057acb8bda52dd9db"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

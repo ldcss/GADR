@@ -1,0 +1,421 @@
+{
+  "repositoryUrl": "https://github.com/wikimedia/mediawiki-extensions-Popups.git",
+  "crawlDateTime": "2022-01-18T21:04:18.128515",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-contain-and-manage-state.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-11-10T10:28:58Z",
+      "lastCommit": "2019-01-17T16:11:29Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ef925fb9758ea4f30f20d188d6fa776c65ab56e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1b29f47047ce315cedab6b994e7cd87a6e556ef",
+            "32f970cdda52ea93d8ea6d1f77060c789f0d0ea5"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ba5c0f77398fc779f31afebfb82a3c9b22e4762"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-replace-mustache-js-with-template-literals.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-23T14:17:52Z",
+      "lastCommit": "2019-01-17T16:11:29Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ef925fb9758ea4f30f20d188d6fa776c65ab56e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "133c921098841f5002406a5365377cab7129d4ee",
+            "8ba5c0f77398fc779f31afebfb82a3c9b22e4762"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-utilize-browser-caching.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-22T06:12:49Z",
+      "lastCommit": "2019-01-17T16:11:29Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ef925fb9758ea4f30f20d188d6fa776c65ab56e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "133c921098841f5002406a5365377cab7129d4ee",
+            "8ba5c0f77398fc779f31afebfb82a3c9b22e4762"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dac21ea832af461702a50b1b04755e1c7daa7013"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-factories.md",
+      "template": "Nygard",
+      "status": "Accepted. This ADR was accepted implicitly by the (current) primary maintainer of this repository, Sam Smith. The date of this ADR was changed to reflect this.",
+      "firstCommit": "2017-02-22T10:46:45Z",
+      "lastCommit": "2019-01-17T16:11:29Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ef925fb9758ea4f30f20d188d6fa776c65ab56e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58ab7345fba57c9877a0d9f1740c78cc26ea837a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ba5c0f77398fc779f31afebfb82a3c9b22e4762"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-keep-enabled-state-only-in-preview-reducer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-12-14T14:35:59Z",
+      "lastCommit": "2019-01-17T16:11:29Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ef925fb9758ea4f30f20d188d6fa776c65ab56e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "efb7b3d8728f165b3aa8272b2715c6bb2181cbfe"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ba5c0f77398fc779f31afebfb82a3c9b22e4762"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-prefer-running-qunit-tests-in-node-js.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-03-08T16:59:56Z",
+      "lastCommit": "2019-01-24T15:29:27Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ef925fb9758ea4f30f20d188d6fa776c65ab56e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f1d8dc7d75ee3988828dfb1078a80211e690bd95"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6859d6f828ea2da5a88a047cabb8d9f1738531b8",
+            "8ba5c0f77398fc779f31afebfb82a3c9b22e4762"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-enable-minification-of-bundle-with-uglifyjs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-05-12T16:12:30Z",
+      "lastCommit": "2019-01-17T16:11:29Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ef925fb9758ea4f30f20d188d6fa776c65ab56e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "937651f0eafd6c4d681edc4c471f3698cdf6ff02"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ba5c0f77398fc779f31afebfb82a3c9b22e4762"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-frontend-sources-directory-structure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-14T17:59:59Z",
+      "lastCommit": "2019-01-17T16:11:29Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ef925fb9758ea4f30f20d188d6fa776c65ab56e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa2b10a2e7ee2641381aa4cc318cf40d777a0f1e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ba5c0f77398fc779f31afebfb82a3c9b22e4762"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-webpack.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-13T12:42:22Z",
+      "lastCommit": "2019-01-17T16:11:29Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "096c74fae8dc9e82c5780aff22a82acd72849c12",
+            "7ef925fb9758ea4f30f20d188d6fa776c65ab56e"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ba5c0f77398fc779f31afebfb82a3c9b22e4762"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "49df4b9572276c5a458d030d42fd12a9161f1d59"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-11-10T10:28:58Z",
+      "lastCommit": "2019-01-17T16:11:29Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ef925fb9758ea4f30f20d188d6fa776c65ab56e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32f970cdda52ea93d8ea6d1f77060c789f0d0ea5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ba5c0f77398fc779f31afebfb82a3c9b22e4762"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-11-10T10:28:58Z",
+  "lastAdrCommit": "2019-01-24T15:29:27Z",
+  "firstCommit": "2014-02-06T10:01:39Z",
+  "lastCommit": "2022-01-18T07:11:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "096c74fae8dc9e82c5780aff22a82acd72849c12",
+        "7ef925fb9758ea4f30f20d188d6fa776c65ab56e"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "58ab7345fba57c9877a0d9f1740c78cc26ea837a",
+        "b1b29f47047ce315cedab6b994e7cd87a6e556ef",
+        "32f970cdda52ea93d8ea6d1f77060c789f0d0ea5"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f1d8dc7d75ee3988828dfb1078a80211e690bd95",
+        "fa2b10a2e7ee2641381aa4cc318cf40d777a0f1e",
+        "937651f0eafd6c4d681edc4c471f3698cdf6ff02",
+        "efb7b3d8728f165b3aa8272b2715c6bb2181cbfe"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "133c921098841f5002406a5365377cab7129d4ee",
+        "6859d6f828ea2da5a88a047cabb8d9f1738531b8",
+        "8ba5c0f77398fc779f31afebfb82a3c9b22e4762"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dac21ea832af461702a50b1b04755e1c7daa7013"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "49df4b9572276c5a458d030d42fd12a9161f1d59"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

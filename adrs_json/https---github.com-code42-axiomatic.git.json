@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/code42/axiomatic.git",
+  "crawlDateTime": "2022-01-18T19:57:26.054913",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-enabling-configuration-repo-access.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-09T17:49:35Z",
+      "lastCommit": "2020-11-09T17:49:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8396a73d9caddf148204f682b2fd865132fa8953"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-09T17:49:35Z",
+  "lastAdrCommit": "2020-11-09T17:49:35Z",
+  "firstCommit": "2020-01-06T19:15:28Z",
+  "lastCommit": "2022-01-10T16:42:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8396a73d9caddf148204f682b2fd865132fa8953"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

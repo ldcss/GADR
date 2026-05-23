@@ -1,0 +1,87 @@
+{
+  "repositoryUrl": "https://github.com/SparksNetwork/backend-services.git",
+  "crawlDateTime": "2022-01-18T17:32:56.436327",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "adr-001-service-scope.md",
+      "template": "Nygard",
+      "status": "**proposal** | ~~accepted~~ | ~~depreciated~~ | ~~superceded~~",
+      "firstCommit": "2016-10-15T04:51:34Z",
+      "lastCommit": "2016-10-15T04:51:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d83a39d2f37a2765b50edac2495b8e8b79c432f0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "adr-003-sending-notifications.md",
+      "template": "Nygard",
+      "status": "**proposal** | ~~accepted~~ | ~~depreciated~~ | ~~superceded~~",
+      "firstCommit": "2016-10-19T06:54:06Z",
+      "lastCommit": "2016-10-19T06:54:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "44631514ed8cca7f1b0845884d1e6da7c152bd6f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "adr-002-unique-ids.md",
+      "template": "Nygard",
+      "status": "**proposal** | ~~accepted~~ | ~~depreciated~~ | ~~superceded~~",
+      "firstCommit": "2016-10-15T10:30:01Z",
+      "lastCommit": "2016-10-18T02:24:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "33a0ab9c1a4ddf7333010dc3bebb29cf5b3abeab",
+            "81852a15acaa9535714968d1bb646188df9380c8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-10-15T04:51:34Z",
+  "lastAdrCommit": "2016-10-19T06:54:06Z",
+  "firstCommit": "2016-10-01T08:59:58Z",
+  "lastCommit": "2017-01-13T21:59:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "33a0ab9c1a4ddf7333010dc3bebb29cf5b3abeab",
+        "81852a15acaa9535714968d1bb646188df9380c8",
+        "44631514ed8cca7f1b0845884d1e6da7c152bd6f",
+        "d83a39d2f37a2765b50edac2495b8e8b79c432f0"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

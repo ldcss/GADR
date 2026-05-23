@@ -1,0 +1,96 @@
+{
+  "repositoryUrl": "https://github.com/slacgismo/openfido-auth-service.git",
+  "crawlDateTime": "2022-01-18T20:08:42.961032",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-authentication.md",
+      "template": "Nygard",
+      "status": "In Progress",
+      "firstCommit": "2020-10-17T15:54:07Z",
+      "lastCommit": "2020-10-17T15:54:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "571d698240eee50c2adfdb6456240b1be0131f47"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-deployment.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-21T13:53:40Z",
+      "lastCommit": "2020-12-08T14:41:37Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bfb4bd0652c02858365eaf45412fc50cde8b0422",
+            "fd905f7aa949a1791c8d2c4fb95217621efc3d30"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-17T15:54:07Z",
+      "lastCommit": "2020-10-17T15:54:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "571d698240eee50c2adfdb6456240b1be0131f47"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-17T15:54:07Z",
+  "lastAdrCommit": "2020-12-08T14:41:37Z",
+  "firstCommit": "2020-10-17T15:54:07Z",
+  "lastCommit": "2020-12-14T20:15:18Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bfb4bd0652c02858365eaf45412fc50cde8b0422",
+        "fd905f7aa949a1791c8d2c4fb95217621efc3d30"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "571d698240eee50c2adfdb6456240b1be0131f47"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "repositoryUrl": "https://github.com/holidays/definitions.git",
+  "crawlDateTime": "2022-01-18T23:12:40.808308",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "adr-002.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2019-04-07T03:34:02Z",
+      "lastCommit": "2019-04-07T03:34:02Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f783cd23efae69ed3b2a799331fe867514c617c8",
+            "663664e390e9b0b96b2f753acc8af0723d48ca79",
+            "1009516b935b96986ba5997fedb149ece7c98608"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-09-30T20:23:40Z",
+      "lastCommit": "2018-09-30T20:23:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "90402fa96e8c63acaa230514d3c467adeb4f502d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-30T20:23:40Z",
+  "lastAdrCommit": "2019-04-07T03:34:02Z",
+  "firstCommit": "2016-08-21T07:36:02Z",
+  "lastCommit": "2022-01-05T17:37:43Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "90402fa96e8c63acaa230514d3c467adeb4f502d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f783cd23efae69ed3b2a799331fe867514c617c8",
+        "663664e390e9b0b96b2f753acc8af0723d48ca79",
+        "1009516b935b96986ba5997fedb149ece7c98608"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

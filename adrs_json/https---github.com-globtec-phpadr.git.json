@@ -1,0 +1,157 @@
+{
+  "repositoryUrl": "https://github.com/globtec/phpadr.git",
+  "crawlDateTime": "2022-01-18T21:02:18.735218",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0003-php-as-scripting-language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-23T07:41:04Z",
+      "lastCommit": "2018-02-23T07:41:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6784d8dc492dcb6d7a9905d525eca4503df6eab2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0001-documenting-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-23T07:41:04Z",
+      "lastCommit": "2018-02-23T07:41:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6784d8dc492dcb6d7a9905d525eca4503df6eab2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0004-composer-as-dependency-management.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-23T07:41:04Z",
+      "lastCommit": "2018-02-23T07:41:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6784d8dc492dcb6d7a9905d525eca4503df6eab2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0005-phpunit-as-testing-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-23T07:41:04Z",
+      "lastCommit": "2018-06-30T15:40:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6784d8dc492dcb6d7a9905d525eca4503df6eab2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cfa98e1298ce9f2bcc8fb03949731da39b190e82"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0002-develop-tool-to-manage-adrs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-23T07:41:04Z",
+      "lastCommit": "2018-02-23T07:41:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6784d8dc492dcb6d7a9905d525eca4503df6eab2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0006-yaml-as-configuration-file.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-30T17:14:41Z",
+      "lastCommit": "2018-06-30T17:14:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7c8e8d349738065f626edad9d42b09c827a8be94"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-02-23T07:41:04Z",
+  "lastAdrCommit": "2018-06-30T17:14:41Z",
+  "firstCommit": "2017-12-27T01:47:12Z",
+  "lastCommit": "2021-06-20T21:46:39Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cfa98e1298ce9f2bcc8fb03949731da39b190e82",
+        "7c8e8d349738065f626edad9d42b09c827a8be94"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6784d8dc492dcb6d7a9905d525eca4503df6eab2"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "repositoryUrl": "https://github.com/cloudfoundry/mysql-monitoring-release.git",
+  "crawlDateTime": "2022-01-18T23:17:12.598037",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-common-go-linter.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T22:09:42Z",
+      "lastCommit": "2019-03-25T22:09:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4c7546b820fa3ef74df6466295975a4e10e28a50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T20:57:06Z",
+      "lastCommit": "2019-03-25T20:57:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51083d1c683aad1ae837566e4828e91c1cda6b36"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-25T20:57:06Z",
+  "lastAdrCommit": "2019-03-25T22:09:42Z",
+  "firstCommit": "2016-06-21T23:12:47Z",
+  "lastCommit": "2021-11-24T18:05:55Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "51083d1c683aad1ae837566e4828e91c1cda6b36"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4c7546b820fa3ef74df6466295975a4e10e28a50"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

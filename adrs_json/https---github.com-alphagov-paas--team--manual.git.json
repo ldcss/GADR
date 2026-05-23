@@ -1,0 +1,2210 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/paas-team-manual.git",
+  "crawlDateTime": "2022-01-18T19:27:05.350281",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "source/architecture_decision_records"
+  ],
+  "numAdrFiles": 49,
+  "adrFiles": [
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR002-concourse-pool-resource.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR015-rds-storage-encryption-plans.html.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "627a803fb02b0ead198373a2965cfeef36a8f941"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR020-deletion_of_ci_environment.html.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR022-web_app_language_and_framework_selection.html.md",
+      "template": "Nygard",
+      "status": "Superceded by [ADR024][].",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6aeae0e1ef97f897d4014ad1f61c4f0b0272928f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR005-pingdom-healthchecks.html.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR0049_calculate_bills.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2021-12-23T13:25:17Z",
+      "lastCommit": "2021-12-23T13:25:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f3add3889e0bc2c1ed4519209e1c602db10cc28"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR045-aws-waf.html.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-12-04T15:45:59Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4bccf82fcf96892d923310adb3a99edb4be6f1a1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR014-hsts-preload-using-api-gateway.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR036-add-new-rds-broker-plans.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T10:28:20Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84f42098e4014b1d78788f99bd0543a614a1cb83"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538",
+            "867864990de4efebc5754f506614b85dbc6f2c15"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR046-postgres-plans.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-26T17:39:23Z",
+      "lastCommit": "2021-09-17T11:22:18Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "80d5c1d05cfb697035ac38e0e757298951aa8a42",
+            "c13cc88cca7a75dc8488078adb2493106d53737a"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a33324c52f27042b7a9d6117d5e193987a6bc7f1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR038-audit-logs-in-splunk.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T10:28:20Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84f42098e4014b1d78788f99bd0543a614a1cb83"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR021-cell-capacity-assignment-2.html.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "992ce1175f356e91817a8fff712e7338c40909ff",
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d",
+            "d429f53308f6bfba99e9dd6310957ee758ccb41e"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538",
+            "867864990de4efebc5754f506614b85dbc6f2c15"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR047-postgres-extensions-approach.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-23T10:02:40Z",
+      "lastCommit": "2021-09-23T10:02:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a91dbb98de83a4e0de7a7356f1e02a96762ea0e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR044-remove-ipsec.html.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-11-25T08:35:40Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538",
+            "d10bc268f45df60c53e675c3afb27fa833364b89"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR028-move-logs-to-logit.html.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2018-07-13T12:35:57Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b63e0bc6c45469d99c4f1b30d22e301ad4ecbabb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR026-DNS-layout-for-UK-hosting.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-23T09:57:11Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1df3bb617ba86e089e7c69bb289d38ed3fc96c50"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dab57a30c4227ec1264e532eddea0c8a7d4597bc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538",
+            "867864990de4efebc5754f506614b85dbc6f2c15"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR030-single-staging-london.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-24T09:26:52Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a145daa852a1524102aa3e980055b39894b02c7d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d8dc181c5816becefe141ee896d39dcd5e39121"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81cd617034e4d3d75fa02bf30649db6034c4aedd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR027-pipeline-locking.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-11T09:04:39Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb0fc09369a653862f32291ed1322948defc48c9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR035-do-not-use-haproxy-use-aws-alb.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T10:28:20Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84f42098e4014b1d78788f99bd0543a614a1cb83"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR011-security-group-structure.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR032-ssl-only-for-applications-and-cf-endpoints.html.md",
+      "template": "Nygard",
+      "status": "Superceeded by [ADR033](../ADR033-redirect-http-for-applications)",
+      "firstCommit": "2020-05-15T10:28:20Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84f42098e4014b1d78788f99bd0543a614a1cb83"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "627a803fb02b0ead198373a2965cfeef36a8f941"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR016-end-to-end-encryption.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR007-terminating-tls-at-elbs.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR009-x-forwarded-headers.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "627a803fb02b0ead198373a2965cfeef36a8f941"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR0048_add_resources_table.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-12-23T13:25:17Z",
+      "lastCommit": "2021-12-23T13:25:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f3add3889e0bc2c1ed4519209e1c602db10cc28"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR019-accessing-user-provided-services.html.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "377dc408ae11b5eb121158c3f9de2fa5346a8b6d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR040-bosh-access-without-socks.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T10:28:20Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84f42098e4014b1d78788f99bd0543a614a1cb83"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3cca3ce767c948a726df3ac5fe694b2a54bb4c8f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f09e691e33643e06f805456123de82c59368c26c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR042-isolation-segments.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T10:28:20Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84f42098e4014b1d78788f99bd0543a614a1cb83"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR018-rds-broker-restore-last-operation.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR041-bosh-access-with-mtls.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T10:28:20Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84f42098e4014b1d78788f99bd0543a614a1cb83"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8ec7291b54ffca1f80f9a56751b364b21c12506",
+            "dcb58afeaacb091fd25b2aeb557f9095c7d8d1a4"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f09e691e33643e06f805456123de82c59368c26c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR003-AWS-credentials.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR031-services-core-pipeline-separate-jobs.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-15T14:24:30Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "98f12d7b4ffad5fa5cc5ebd5da370ee84c3bb988"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR023-idle-cpu-alerting-change.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "992ce1175f356e91817a8fff712e7338c40909ff",
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR043-new-product-pages-language-and-framework.html.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-05-15T10:28:20Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84f42098e4014b1d78788f99bd0543a614a1cb83"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e5767dc5c872760b955d7a261e993bece8589c57"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR033-redirect-http-for-applications.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T10:28:20Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84f42098e4014b1d78788f99bd0543a614a1cb83"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR037-automated-certificate-rotation.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T10:28:20Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84f42098e4014b1d78788f99bd0543a614a1cb83"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "627a803fb02b0ead198373a2965cfeef36a8f941"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR017-cell-capacity-assignment.html.md",
+      "template": "Nygard",
+      "status": "Superceded by [ADR021](/architecture_decision_records/ADR021-cell-capacity-assignment-2/).",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR001-manifest-management.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR006-rds-broker.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR012-haproxy-healthcheck.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR024-web-app-language-and-framework-selection-2.html.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-05-02T12:53:46Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6aeae0e1ef97f897d4014ad1f61c4f0b0272928f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR039-aiven-metrics-for-users.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T10:28:20Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84f42098e4014b1d78788f99bd0543a614a1cb83"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "be7e93312a0ab7b54eb19836248ccab8eb18781d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a27604425379f3addc62335f1f38b140b2ed6ea",
+            "bf564e3455ab5b283544cbe93b473c95b4c98fa2"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "627a803fb02b0ead198373a2965cfeef36a8f941"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR013-building-bosh-releases.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR004-domain-naming-scheme.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25ed4bdc77350bb39b6c7156c4d5ed579ca7276c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538",
+            "867864990de4efebc5754f506614b85dbc6f2c15"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR029-aiven-project-structure.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-13T12:47:10Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81e07779ac05df19ba97f6903ce44b1c98eb37c2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR034-continuously-deploy-platform-cf-apps.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T10:28:20Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84f42098e4014b1d78788f99bd0543a614a1cb83"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR010-postgres-bind-behaviour.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR025-service-plan-naming-conventions.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-11T08:33:58Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab8d0c56f3c57bff94f4b5b37f426cd136666b11"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f27fc0251409e6a4c10b653ee9e4905f2a6c381"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/architecture_decision_records",
+      "path": "ADR008-haproxy-for-request-rewriting.html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:22:14Z",
+      "lastCommit": "2021-03-18T22:01:24Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+            "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f03409d9a9b52ae230dfd49095c2f6d007c66b0d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f7d3bacae11286e7443cf77df623ea9cea6f538"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e5767dc5c872760b955d7a261e993bece8589c57"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a289db826ea03f5a042d7c495626349c241ba99d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-04-26T16:22:14Z",
+  "lastAdrCommit": "2021-12-23T13:25:17Z",
+  "firstCommit": "2015-11-19T14:11:20Z",
+  "lastCommit": "2022-01-18T11:00:18Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "80d5c1d05cfb697035ac38e0e757298951aa8a42",
+        "c13cc88cca7a75dc8488078adb2493106d53737a"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4bccf82fcf96892d923310adb3a99edb4be6f1a1",
+        "e8d63b262fb9a0ce99c317d895f83eace0cb3174"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fb0fc09369a653862f32291ed1322948defc48c9"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a33324c52f27042b7a9d6117d5e193987a6bc7f1"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3f3add3889e0bc2c1ed4519209e1c602db10cc28"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6aeae0e1ef97f897d4014ad1f61c4f0b0272928f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b8ec7291b54ffca1f80f9a56751b364b21c12506",
+        "be7e93312a0ab7b54eb19836248ccab8eb18781d",
+        "3cca3ce767c948a726df3ac5fe694b2a54bb4c8f",
+        "dcb58afeaacb091fd25b2aeb557f9095c7d8d1a4"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "992ce1175f356e91817a8fff712e7338c40909ff",
+        "f03409d9a9b52ae230dfd49095c2f6d007c66b0d",
+        "d429f53308f6bfba99e9dd6310957ee758ccb41e"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8840e49959e60cebdf395a8bafd5b0c10b56b9d1",
+        "2c11e204ce9fa8bc095e425019e595e19c8538b6"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e5767dc5c872760b955d7a261e993bece8589c57",
+        "f09e691e33643e06f805456123de82c59368c26c",
+        "627a803fb02b0ead198373a2965cfeef36a8f941",
+        "1f27fc0251409e6a4c10b653ee9e4905f2a6c381"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a145daa852a1524102aa3e980055b39894b02c7d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1df3bb617ba86e089e7c69bb289d38ed3fc96c50"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "377dc408ae11b5eb121158c3f9de2fa5346a8b6d",
+        "3d8dc181c5816becefe141ee896d39dcd5e39121",
+        "81e07779ac05df19ba97f6903ce44b1c98eb37c2",
+        "25ed4bdc77350bb39b6c7156c4d5ed579ca7276c"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "84f42098e4014b1d78788f99bd0543a614a1cb83"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ab8d0c56f3c57bff94f4b5b37f426cd136666b11"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b63e0bc6c45469d99c4f1b30d22e301ad4ecbabb",
+        "81cd617034e4d3d75fa02bf30649db6034c4aedd",
+        "dab57a30c4227ec1264e532eddea0c8a7d4597bc"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4a91dbb98de83a4e0de7a7356f1e02a96762ea0e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5a27604425379f3addc62335f1f38b140b2ed6ea",
+        "bf564e3455ab5b283544cbe93b473c95b4c98fa2"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7f7d3bacae11286e7443cf77df623ea9cea6f538",
+        "d10bc268f45df60c53e675c3afb27fa833364b89",
+        "867864990de4efebc5754f506614b85dbc6f2c15"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "98f12d7b4ffad5fa5cc5ebd5da370ee84c3bb988"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a289db826ea03f5a042d7c495626349c241ba99d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "repositoryUrl": "https://github.com/elastic/cloud-on-k8s.git",
+  "crawlDateTime": "2022-01-18T22:57:55.192302",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/design"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/design",
+      "path": "adr-template.md",
+      "template": "Madr",
+      "status": "[proposed | rejected | accepted | deprecated | \u2026 | superseded by [ADR-0005](0005-example.md)] <!-- optional -->",
+      "firstCommit": "2019-02-12T14:01:40Z",
+      "lastCommit": "2019-02-12T14:01:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29bbf8e32ce3f7dc5ed6811a22e1bdac8b948020"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design",
+      "path": "0010-license-checks.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-04-15T09:00:14Z",
+      "lastCommit": "2019-04-15T09:00:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "038c81d30e0c744375e110aee42b4531920681a1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design",
+      "path": "0006-sidecar-health.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-03-21T16:15:30Z",
+      "lastCommit": "2021-11-23T10:08:40Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87e8cb7ad35887adf32c91b302a5e4fe7bab2c19"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c1193b57a90eda1512a4ba7c55cc9b28562bfdd",
+            "2dd0c30d9b751618d8166f5adf395e2b280b9613",
+            "32f9b2b25eae8eca9ef8862f736ffbfdae8fc112"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design",
+      "path": "0006-certificate-management.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-03-07T08:22:24Z",
+      "lastCommit": "2022-01-05T10:03:45Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3fb165ded4860321478516d28316e0638ea1191",
+            "87e8cb7ad35887adf32c91b302a5e4fe7bab2c19"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c1193b57a90eda1512a4ba7c55cc9b28562bfdd",
+            "72624784cf4b80e248b7200b5377c11826eb7c39"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design",
+      "path": "0003-associations/0003-associations.md",
+      "template": "Madr",
+      "status": "~~accepted~~ rejected",
+      "firstCommit": "2019-01-29T12:05:18Z",
+      "lastCommit": "2019-07-30T12:47:44Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1419bb8a351a6d4b118c94a20dfdf601e52e76a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87e8cb7ad35887adf32c91b302a5e4fe7bab2c19"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6494a39f33eccd394422405d18b625f7b4b1a70a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design",
+      "path": "0007-local-volume-total-capacity.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-03-04T12:38:21Z",
+      "lastCommit": "2019-08-19T20:48:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "10de437f940b1863df1c8352ff2bdfeafbc4b25d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "07de21ed1a8cd6c7047b98390c7abda010bbde0a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c1193b57a90eda1512a4ba7c55cc9b28562bfdd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design",
+      "path": "0004-licensing.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-02-05T15:34:02Z",
+      "lastCommit": "2019-02-13T16:19:28Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8e8d2fdc449733320038e852ed6e47822c0105ec",
+            "4b6139e99b9405a58ebb51de132ad95349b6a266"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design",
+      "path": "0001-no-stateful-sets.md",
+      "template": "Madr",
+      "status": "~~accepted~~ rejected, superseded by https://github.com/elastic/cloud-on-k8s/issues/1173",
+      "firstCommit": "2019-01-29T14:03:39Z",
+      "lastCommit": "2021-03-09T11:20:59Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f743630102b6d8252c14ff0e092e50f8a20987b1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "efa94e28754380140cba75edca84839bba29ba86",
+            "87e8cb7ad35887adf32c91b302a5e4fe7bab2c19"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a08475411ca9cdc38d80fe264cf0bc2722834cfe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design",
+      "path": "0005-configurable-operator.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-02-14T10:50:19Z",
+      "lastCommit": "2022-01-05T10:03:45Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "74191b53c9c67b301eb9add54fa886c7ae43a860"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c1193b57a90eda1512a4ba7c55cc9b28562bfdd",
+            "72624784cf4b80e248b7200b5377c11826eb7c39"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design",
+      "path": "0009-pod-reuse-es-restart.md",
+      "template": "Madr",
+      "status": "rejected (implementation removed) in July 2019, in favor of moving towards the StatefulSet way of doing rolling restarts. The process-manager is also out of the picture. We don't reuse pods. Main benefits are code and architecture simplicity as well as respecting k8s standards.",
+      "firstCommit": "2019-03-27T14:42:38Z",
+      "lastCommit": "2019-07-15T09:40:51Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "13d2a2bfc1d343833db09ffaa227d75eeb08e9e8",
+            "e4726e9422b9e9302d853e88289b28793cebeb5f",
+            "12350ee394e54525e4d9d84c26a89e1ec505b9c0"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c1193b57a90eda1512a4ba7c55cc9b28562bfdd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design",
+      "path": "0008-volume-management.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-13T07:03:43Z",
+      "lastCommit": "2019-07-30T12:47:44Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87e8cb7ad35887adf32c91b302a5e4fe7bab2c19"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24c1bf4a3ea35da9d607ec8e4e7c0b80456c25f8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c1193b57a90eda1512a4ba7c55cc9b28562bfdd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design",
+      "path": "0011-process-manager.md",
+      "template": "Madr",
+      "status": "rejected (implementation removed) in July 2019. The keystore updater is moved into an init container to adopt the same pattern used for Kibana and APM server. With the move towards the StatefulSet way of doing rolling restarts, we no longer need a process manager to perform Elasticsearch cluster restart. The zombie reaping problem only exists when another process is started in the container (e.g. kubectl exec) and should probably be handled in the official images. Main benefits are code and architecture simplicity as well as respecting k8s standards.",
+      "firstCommit": "2019-06-06T09:04:19Z",
+      "lastCommit": "2022-01-05T10:03:45Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72624784cf4b80e248b7200b5377c11826eb7c39",
+            "4029bfd93f86b8241b9dcfc98b2279cd846132e4",
+            "f4719ab1a7fae67f416571658a7fc69d7a5e9f1b"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design",
+      "path": "0002-global-operator/0002-global-operator.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-01-16T10:23:02Z",
+      "lastCommit": "2022-01-05T10:03:45Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5363de3241e27341ad5a7a668bb10de69ae42bbf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "74191b53c9c67b301eb9add54fa886c7ae43a860"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5846aa629ed700f146ca5c08600e886a3403505",
+            "9e82bb96785365a24c593ff67d5ada77d69a47f2"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c1193b57a90eda1512a4ba7c55cc9b28562bfdd",
+            "72624784cf4b80e248b7200b5377c11826eb7c39"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-01-16T10:23:02Z",
+  "lastAdrCommit": "2022-01-05T10:03:45Z",
+  "firstCommit": "2018-10-30T11:17:04Z",
+  "lastCommit": "2022-01-18T20:05:26Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "29bbf8e32ce3f7dc5ed6811a22e1bdac8b948020",
+        "d1419bb8a351a6d4b118c94a20dfdf601e52e76a",
+        "8e8d2fdc449733320038e852ed6e47822c0105ec",
+        "4b6139e99b9405a58ebb51de132ad95349b6a266",
+        "038c81d30e0c744375e110aee42b4531920681a1",
+        "f743630102b6d8252c14ff0e092e50f8a20987b1",
+        "5363de3241e27341ad5a7a668bb10de69ae42bbf"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "10de437f940b1863df1c8352ff2bdfeafbc4b25d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a08475411ca9cdc38d80fe264cf0bc2722834cfe"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a3fb165ded4860321478516d28316e0638ea1191",
+        "74191b53c9c67b301eb9add54fa886c7ae43a860",
+        "13d2a2bfc1d343833db09ffaa227d75eeb08e9e8",
+        "efa94e28754380140cba75edca84839bba29ba86",
+        "87e8cb7ad35887adf32c91b302a5e4fe7bab2c19",
+        "07de21ed1a8cd6c7047b98390c7abda010bbde0a",
+        "e4726e9422b9e9302d853e88289b28793cebeb5f",
+        "12350ee394e54525e4d9d84c26a89e1ec505b9c0"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "24c1bf4a3ea35da9d607ec8e4e7c0b80456c25f8"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c5846aa629ed700f146ca5c08600e886a3403505",
+        "9e82bb96785365a24c593ff67d5ada77d69a47f2",
+        "6494a39f33eccd394422405d18b625f7b4b1a70a"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0c1193b57a90eda1512a4ba7c55cc9b28562bfdd",
+        "2dd0c30d9b751618d8166f5adf395e2b280b9613",
+        "72624784cf4b80e248b7200b5377c11826eb7c39",
+        "32f9b2b25eae8eca9ef8862f736ffbfdae8fc112",
+        "4029bfd93f86b8241b9dcfc98b2279cd846132e4",
+        "f4719ab1a7fae67f416571658a7fc69d7a5e9f1b"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

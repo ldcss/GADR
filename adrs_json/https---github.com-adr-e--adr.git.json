@@ -1,0 +1,95 @@
+{
+  "repositoryUrl": "https://github.com/adr/e-adr.git",
+  "crawlDateTime": "2022-01-18T19:43:31.057454",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-allow-adr-everywhere.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-09-09T09:13:51Z",
+      "lastCommit": "2017-09-09T10:00:17Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e6de71c4c0d83f130bce11956e4d7445f1afeb69",
+            "c9926a6929aced0b9aac548fe988f4e24f06110c",
+            "9ef0ff2934f7c59a5ca4d8eb0257c2d598371ff3"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-architectural-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-09-09T08:07:13Z",
+      "lastCommit": "2017-09-09T10:50:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bded48d2eb596b8e34c24e7c51fc63537fc31acf",
+            "9244611bc1367fe76d8079c4d01ee560d6c91aaf"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-runtime-retention.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-09-09T09:06:22Z",
+      "lastCommit": "2017-09-09T11:13:03Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2725cf1f473c62eaf4d66d9f52a44e5d5ba808ef",
+            "e6de71c4c0d83f130bce11956e4d7445f1afeb69",
+            "87ef7147d15c693e1b4392c2eced336061f23edb",
+            "c9926a6929aced0b9aac548fe988f4e24f06110c"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-09-09T08:07:13Z",
+  "lastAdrCommit": "2017-09-09T11:13:03Z",
+  "firstCommit": "2016-04-04T07:08:55Z",
+  "lastCommit": "2021-10-25T23:23:52Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2725cf1f473c62eaf4d66d9f52a44e5d5ba808ef",
+        "e6de71c4c0d83f130bce11956e4d7445f1afeb69",
+        "bded48d2eb596b8e34c24e7c51fc63537fc31acf",
+        "c9926a6929aced0b9aac548fe988f4e24f06110c",
+        "87ef7147d15c693e1b4392c2eced336061f23edb",
+        "9ef0ff2934f7c59a5ca4d8eb0257c2d598371ff3",
+        "9244611bc1367fe76d8079c4d01ee560d6c91aaf"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

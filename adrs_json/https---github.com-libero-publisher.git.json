@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/libero/publisher.git",
+  "crawlDateTime": "2022-01-18T19:06:01.390832",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-component-level-micro-frontends-for-the-header-and-footer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-25T15:26:03Z",
+      "lastCommit": "2020-03-25T15:26:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56d035c44b4efac4cd20577572d5626d2a95dcaf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-use-micro-frontends.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-25T15:26:03Z",
+      "lastCommit": "2020-03-25T15:26:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56d035c44b4efac4cd20577572d5626d2a95dcaf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-25T15:26:03Z",
+  "lastAdrCommit": "2020-03-25T15:26:03Z",
+  "firstCommit": "2018-07-24T15:18:37Z",
+  "lastCommit": "2020-03-25T15:26:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "56d035c44b4efac4cd20577572d5626d2a95dcaf"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

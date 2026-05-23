@@ -1,0 +1,340 @@
+{
+  "repositoryUrl": "https://github.com/superwerker/superwerker.git",
+  "crawlDateTime": "2022-01-18T23:15:43.1995",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "guardduty.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-04T14:40:14Z",
+      "lastCommit": "2021-01-07T10:42:52Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf0982c21af60ab798b1b2b1c5ec665e4a7f6642",
+            "e63238ff3158586732f277d139246d47029ee610",
+            "cf7cbb0501b16429c4dc635f88aa5c6f42e7fff0"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ca56347e5a3721e13aa692e33201a71bd9b6328",
+            "15c27dd9034f720a139e5c73cc6d2ca6ebb01d38"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "rootmail.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-04T14:04:12Z",
+      "lastCommit": "2021-01-21T13:25:00Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8cc6ad2c4762adcabd42427150c04022f6d4fe94",
+            "4db3ee708d41ece45056bd72fbc021a218fabba0",
+            "958c4ea15673481d0b1a6efa61b0bf25e72ffd68"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02268b3a9c5f730cbe16b414a2745316d6fc4aa8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "34accfb53164eaa68084aea9be47b27522a03108"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "backup.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-19T10:16:27Z",
+      "lastCommit": "2021-05-20T06:18:01Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45381ec71db86e0553d82332c5ed3d5a626a91bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d9faa070001079fa683c235fe598a98dd36b53c6",
+            "93f5e5aaa66d8f6b922b6a6a2c7feb388b466796"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "living-documentation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-19T12:52:53Z",
+      "lastCommit": "2021-04-15T11:25:42Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2067f46284e0980b638f9a582bc54aaacb589422"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ea74ed65b7fa68a5bc7f373565e0f6a606d97242",
+            "d8bed90cb27b65a959d1178972f86d4ffa765d2a",
+            "465cbfc9372dfe92b43391e0d5bfae2b4f427d3d"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "securityhub.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-05T10:54:45Z",
+      "lastCommit": "2021-01-05T10:54:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "921d59d6e240ac9c187c78f198766bb055a80575"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "budget.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-04T11:34:13Z",
+      "lastCommit": "2021-01-04T11:34:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58d34063d6691304e7c5cb598e43401db044590b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "control-tower.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-08T12:12:37Z",
+      "lastCommit": "2021-09-14T14:03:26Z",
+      "numberOfCommits": 15,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "544b5adeef77a3ff44ba57262782b3d7cb55e694",
+            "051504f89ed7a7b8608a43532ba4f0fa8435bdf3"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e46de1e5a15c8d7e21585adf712476a4bcf324f8",
+            "95729b999963b4e2e37ce7bf29c95fcfdbaafa29",
+            "4e658d22cb8148a735dd60df2aeb42b5ffb7d70d",
+            "b4ced209cf64c343f4ac4413a022d5e98e0c54ef",
+            "b6ed2e69608fa88f5b119a098a4792ea917906f6"
+          ],
+          "numberOfCommits": 5
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc092c0445ab9d7d9acddba6aec52569952641c6",
+            "c86cdf2d0125f3536245a973b13373bb818b4c78",
+            "9eac2b67fcb1a50c92185139e6cc107c9e5f30c4",
+            "fea199f413c97f7ce728f8fbbb0ef67b977f7bce",
+            "5448fcedd20f17ff23a71960b77a1ce3fcc6dd68",
+            "da25e1da0f1e72a8492d685d745e3ddbf7dee3f1",
+            "f396d7fd69b2e5833849551f8d17ccd0cd929919",
+            "fedd14c534dffe6ac9d0cc7ae002d0f8a26e29fe"
+          ],
+          "numberOfCommits": 8
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "notifications.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-10T12:46:36Z",
+      "lastCommit": "2021-03-18T15:48:41Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65ce4bd573622b454f8a66d9f2552069401a0df1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6cb07363ba2ecf6b22937bed27c80c65348111ce",
+            "bc6c58bc95c8e7df634c5159152ba10ded9a1d30",
+            "e1ec4d9561c5ef70cc32e001596a5072012391c6",
+            "a510a0860048480c11bff4543efe3143855c5db9"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "70e68df5325da05c4f2b40fc9d1b5b3677d4d15e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-08T12:12:37Z",
+  "lastAdrCommit": "2021-09-14T14:03:26Z",
+  "firstCommit": "2020-06-28T16:32:24Z",
+  "lastCommit": "2022-01-06T10:27:40Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "65ce4bd573622b454f8a66d9f2552069401a0df1"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8cc6ad2c4762adcabd42427150c04022f6d4fe94",
+        "e1ec4d9561c5ef70cc32e001596a5072012391c6",
+        "4db3ee708d41ece45056bd72fbc021a218fabba0",
+        "a510a0860048480c11bff4543efe3143855c5db9",
+        "cf0982c21af60ab798b1b2b1c5ec665e4a7f6642",
+        "6cb07363ba2ecf6b22937bed27c80c65348111ce",
+        "544b5adeef77a3ff44ba57262782b3d7cb55e694",
+        "bc6c58bc95c8e7df634c5159152ba10ded9a1d30",
+        "e63238ff3158586732f277d139246d47029ee610",
+        "cf7cbb0501b16429c4dc635f88aa5c6f42e7fff0",
+        "958c4ea15673481d0b1a6efa61b0bf25e72ffd68",
+        "2067f46284e0980b638f9a582bc54aaacb589422",
+        "051504f89ed7a7b8608a43532ba4f0fa8435bdf3"
+      ],
+      "numberOfCommits": 13
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e46de1e5a15c8d7e21585adf712476a4bcf324f8",
+        "02268b3a9c5f730cbe16b414a2745316d6fc4aa8",
+        "95729b999963b4e2e37ce7bf29c95fcfdbaafa29",
+        "4e658d22cb8148a735dd60df2aeb42b5ffb7d70d",
+        "b4ced209cf64c343f4ac4413a022d5e98e0c54ef",
+        "45381ec71db86e0553d82332c5ed3d5a626a91bf",
+        "b6ed2e69608fa88f5b119a098a4792ea917906f6"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cc092c0445ab9d7d9acddba6aec52569952641c6",
+        "ea74ed65b7fa68a5bc7f373565e0f6a606d97242",
+        "8ca56347e5a3721e13aa692e33201a71bd9b6328",
+        "70e68df5325da05c4f2b40fc9d1b5b3677d4d15e",
+        "93f5e5aaa66d8f6b922b6a6a2c7feb388b466796",
+        "465cbfc9372dfe92b43391e0d5bfae2b4f427d3d",
+        "15c27dd9034f720a139e5c73cc6d2ca6ebb01d38",
+        "d9faa070001079fa683c235fe598a98dd36b53c6",
+        "c86cdf2d0125f3536245a973b13373bb818b4c78",
+        "9eac2b67fcb1a50c92185139e6cc107c9e5f30c4",
+        "d8bed90cb27b65a959d1178972f86d4ffa765d2a",
+        "fea199f413c97f7ce728f8fbbb0ef67b977f7bce",
+        "5448fcedd20f17ff23a71960b77a1ce3fcc6dd68",
+        "da25e1da0f1e72a8492d685d745e3ddbf7dee3f1",
+        "f396d7fd69b2e5833849551f8d17ccd0cd929919",
+        "fedd14c534dffe6ac9d0cc7ae002d0f8a26e29fe"
+      ],
+      "numberOfCommits": 16
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "58d34063d6691304e7c5cb598e43401db044590b",
+        "921d59d6e240ac9c187c78f198766bb055a80575",
+        "34accfb53164eaa68084aea9be47b27522a03108"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

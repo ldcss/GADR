@@ -1,0 +1,11 @@
+# [ADR-001] Adoption of Layered Architecture for Multi-Agent System
+- **Status**: Accepted
+- **Context**: The team is designing a multi-agent conversational AI system. The architectural pattern must provide a robust structure for separating the UI, business logic (APIs), and data access layers. While conversational AI systems often benefit from highly reactive, real-time data flows, the team must balance system capabilities against architectural complexity and development overhead. 
+- **Decision**: We will adopt a Layered Architecture, specifically integrating Hexagonal (Ports and Adapters) principles to ensure strict isolation between external interfaces, APIs, utilities, and core domain services. 
+- **Considered Options**:
+  - **Event-Driven Architecture**: Strongly considered due to its asynchronous, reactive nature (using message brokers, topics, and channels). It is highly effective for real-time conversational data and multi-agent event routing. Rejected because it introduces unnecessary infrastructure and operational complexity for the current project scope.
+  - **Microservices**: Discussed as a means to split domains, but rejected as it introduces premature deployment complexity.
+  - **Microkernel / Plugin Architecture**: Discussed for its strong core-and-plugin decoupling, but deemed a poor fit for the standard request/response and conversational workflows required.
+- **Consequences**:
+  - **Pros**: Significant reduction in architectural complexity. Clear separation of concerns allows for simplified testing and modular development. Leveraging Hexagonal principles ensures the core business logic remains strictly isolated from cross-cutting dependencies and infrastructure details. Can effectively handle standard synchronous and asynchronous requests.
+  - **Cons**: Diminished native support for real-time, highly reactive event choreography. If the conversational agents eventually require complex, high-throughput asynchronous event routing or real-time analytics, the system may experience bottlenecks requiring a partial refactor toward an event-driven model.

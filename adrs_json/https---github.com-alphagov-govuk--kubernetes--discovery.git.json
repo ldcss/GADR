@@ -1,0 +1,140 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/govuk-kubernetes-discovery.git",
+  "crawlDateTime": "2022-01-18T17:43:51.806667",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-using-templates-for-manifests.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2017-06-26T13:42:11Z",
+      "lastCommit": "2017-06-26T13:42:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6324c3754cd6dd317d7f80240c16b167d115197d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-consistent-structure-for-terraform-files.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2017-06-26T13:42:11Z",
+      "lastCommit": "2017-06-26T13:42:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6324c3754cd6dd317d7f80240c16b167d115197d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-exposing-kubernetes-services.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-26T13:42:11Z",
+      "lastCommit": "2017-06-26T13:42:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6324c3754cd6dd317d7f80240c16b167d115197d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-structure-for-kubernetes-apps.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-26T13:42:11Z",
+      "lastCommit": "2017-06-26T13:42:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6324c3754cd6dd317d7f80240c16b167d115197d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2017-06-26T13:42:11Z",
+      "lastCommit": "2017-06-26T13:42:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6324c3754cd6dd317d7f80240c16b167d115197d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-structure-for-terraform-projects.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-26T13:42:11Z",
+      "lastCommit": "2017-06-26T13:42:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6324c3754cd6dd317d7f80240c16b167d115197d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-06-26T13:42:11Z",
+  "lastAdrCommit": "2017-06-26T13:42:11Z",
+  "firstCommit": "2017-06-26T13:37:08Z",
+  "lastCommit": "2017-10-17T15:28:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6324c3754cd6dd317d7f80240c16b167d115197d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

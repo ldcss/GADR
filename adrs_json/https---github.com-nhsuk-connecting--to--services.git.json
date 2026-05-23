@@ -1,0 +1,474 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/connecting-to-services.git",
+  "crawlDateTime": "2022-01-18T18:46:11.091715",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 17,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-search-by-place.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-07T12:06:33Z",
+      "lastCommit": "2018-02-01T12:37:36Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8de8d9c826448bcd30b0ad15d7aba82fbf00f76e",
+            "42b50a04b71174352621f6e2e06cfc1568da087d"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9345382a2fb0385132a9a480e45e4a980b510c19"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-add-cache-control-headers.md",
+      "template": "Nygard",
+      "status": "Superseded ([0007](https://github.com/nhsuk/connecting-to-services/blob/master/doc/adr/0007-remove-cache-control-headers.md))",
+      "firstCommit": "2017-08-17T15:57:14Z",
+      "lastCommit": "2017-10-11T10:24:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a6540ec62b12b60e49a858ff647b2561128df241"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "791fb818f4832514cd3a95eaa4ac1dc77390c46c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-prometheus-for-exposing-metrics.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-08T13:44:43Z",
+      "lastCommit": "2017-09-08T13:44:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "15a577948d30535e14760a1306b40432a23f5c79"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0014-use-azure-search.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-09T20:09:56Z",
+      "lastCommit": "2019-09-17T11:34:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "acbf1496f9b5f92477de78a83ad6004a9a0c3a53",
+            "e56680295de548262b7f4a5005cee78300e6d294"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-remove-cache-control-headers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-11T10:24:52Z",
+      "lastCommit": "2017-10-11T10:24:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a6540ec62b12b60e49a858ff647b2561128df241"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0013-remove-google-sitelinks-searchbox-metadata.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [11. Add Google Sitelinks Searchbox metadata](0011-add-google-sitelinks-searchbox-metadata.md)",
+      "firstCommit": "2019-03-18T12:01:32Z",
+      "lastCommit": "2019-03-18T12:01:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "23710ebdf5b52a3d348b87ce5a58a8608d4fb233"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-api-layer-for-returning-services.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-11T06:43:09Z",
+      "lastCommit": "2017-07-11T14:55:41Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eda863bd61ac31b6263cb858a3b948e1aceb2a8d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5dd01bf52d46fdc821545c265b7ddb54d2204a18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-postcodes-io-for-postcode-lookup.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-11T06:43:09Z",
+      "lastCommit": "2017-07-11T14:55:41Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eda863bd61ac31b6263cb858a3b948e1aceb2a8d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5dd01bf52d46fdc821545c265b7ddb54d2204a18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-use-postcodes-io-for-reverse-geocoding.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-22T12:49:29Z",
+      "lastCommit": "2017-11-22T12:49:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e6acdd913d326be636acf854f18f9f527a6c121f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0016-add-service-search-to-site-root.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-08T10:49:32Z",
+      "lastCommit": "2019-11-08T10:49:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1887366367cf6bc50d9072c2a04b3aeeca4291c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0017-update-links-to-pims-profiles.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-13T13:44:14Z",
+      "lastCommit": "2019-11-13T13:44:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bfedb85436cb3b5b26999dd93024c89d84a30d25"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0012-remove-snyk.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-26T10:47:58Z",
+      "lastCommit": "2018-03-26T11:26:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "979d8b02e11af548a5ba42435c13a3035a38175c",
+            "929c9b67f930264dd0fbb44fce65475f0987bff4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-add-basic-authentication-to-test-environments.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-26T10:29:05Z",
+      "lastCommit": "2017-10-26T10:29:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2046c174d3aa20402b4920156b482fefc345febd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-express-web-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-11T06:43:09Z",
+      "lastCommit": "2017-07-11T14:55:41Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eda863bd61ac31b6263cb858a3b948e1aceb2a8d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5dd01bf52d46fdc821545c265b7ddb54d2204a18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0015-add-info-page.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-21T15:10:49Z",
+      "lastCommit": "2019-10-22T08:44:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58a5332ef65bd6288178e635e2ba2f026f577de6",
+            "a9456d06c590965f700771d6c55775d3d80f9edc"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-11T06:43:09Z",
+      "lastCommit": "2017-07-11T14:55:41Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eda863bd61ac31b6263cb858a3b948e1aceb2a8d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5dd01bf52d46fdc821545c265b7ddb54d2204a18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-add-google-sitelinks-searchbox-metadata.md",
+      "template": "Nygard",
+      "status": "Superceded by [13. Remove Google Sitelinks Searchbox Metadata](0013-remove-google-sitelinks-searchbox-metadata.md)",
+      "firstCommit": "2018-01-25T10:25:42Z",
+      "lastCommit": "2019-03-18T12:01:32Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "708262787e5cefbd1aede6ead0c471b092d1c2fe",
+            "fbdf226b41db48e967b09eb312da343b1db30dc6",
+            "96a8c4d9a2f2d66122260e10924fe9052cf94107"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "23710ebdf5b52a3d348b87ce5a58a8608d4fb233"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-11T06:43:09Z",
+  "lastAdrCommit": "2019-11-13T13:44:14Z",
+  "firstCommit": "2016-05-24T11:36:17Z",
+  "lastCommit": "2021-08-10T22:23:22Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bfedb85436cb3b5b26999dd93024c89d84a30d25"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "58a5332ef65bd6288178e635e2ba2f026f577de6",
+        "acbf1496f9b5f92477de78a83ad6004a9a0c3a53",
+        "a9456d06c590965f700771d6c55775d3d80f9edc",
+        "e56680295de548262b7f4a5005cee78300e6d294"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "708262787e5cefbd1aede6ead0c471b092d1c2fe",
+        "979d8b02e11af548a5ba42435c13a3035a38175c",
+        "8de8d9c826448bcd30b0ad15d7aba82fbf00f76e",
+        "42b50a04b71174352621f6e2e06cfc1568da087d",
+        "a6540ec62b12b60e49a858ff647b2561128df241",
+        "929c9b67f930264dd0fbb44fce65475f0987bff4",
+        "fbdf226b41db48e967b09eb312da343b1db30dc6",
+        "96a8c4d9a2f2d66122260e10924fe9052cf94107"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e6acdd913d326be636acf854f18f9f527a6c121f",
+        "15a577948d30535e14760a1306b40432a23f5c79",
+        "791fb818f4832514cd3a95eaa4ac1dc77390c46c"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a1887366367cf6bc50d9072c2a04b3aeeca4291c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "eda863bd61ac31b6263cb858a3b948e1aceb2a8d",
+        "23710ebdf5b52a3d348b87ce5a58a8608d4fb233"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9345382a2fb0385132a9a480e45e4a980b510c19",
+        "2046c174d3aa20402b4920156b482fefc345febd",
+        "5dd01bf52d46fdc821545c265b7ddb54d2204a18"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

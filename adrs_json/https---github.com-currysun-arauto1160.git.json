@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/currysun/arauto1160.git",
+  "crawlDateTime": "2022-01-18T17:33:12.295288",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "2017-05-22-create-new-bdd-framework-for-AR.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-20T15:24:39Z",
+      "lastCommit": "2019-02-20T15:24:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a9ebe994803e21821f714828aaee60ea3622069c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-20T15:24:39Z",
+  "lastAdrCommit": "2019-02-20T15:24:39Z",
+  "firstCommit": "2019-02-20T15:24:39Z",
+  "lastCommit": "2019-02-20T15:24:39Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a9ebe994803e21821f714828aaee60ea3622069c"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "repositoryUrl": "https://github.com/jonathanrohland/tacboard.git",
+  "crawlDateTime": "2022-02-07T15:21:12.449255",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture",
+      "path": "002-Colocating_Frontend_and_Backend",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-20T18:08:21Z",
+      "lastCommit": "2021-04-25T15:45:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d414b8cca30a2c84f881978a78fa2f1d421b1f9b",
+            "aed0960cccb527378babf026b70e8d5516cd9f04"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture",
+      "path": "001-Selectors-and-Reselect.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-10T13:48:45Z",
+      "lastCommit": "2021-04-25T15:45:42Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e9d203bdeb271e0860b0e0eac73983a605a8d74d",
+            "a877fc68b02acb901ba4609e5ddcfc7c265f515c",
+            "d414b8cca30a2c84f881978a78fa2f1d421b1f9b"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture",
+      "path": "000-Decision-Records.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-10T13:13:00Z",
+      "lastCommit": "2021-04-25T15:45:42Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e9d203bdeb271e0860b0e0eac73983a605a8d74d",
+            "a877fc68b02acb901ba4609e5ddcfc7c265f515c",
+            "d414b8cca30a2c84f881978a78fa2f1d421b1f9b",
+            "6338232520d71331d886ac1ab0b33653fe3e77ad"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-10T13:13:00Z",
+  "lastAdrCommit": "2021-04-25T15:45:42Z",
+  "firstCommit": "2020-04-03T14:36:54Z",
+  "lastCommit": "2022-01-14T08:33:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e9d203bdeb271e0860b0e0eac73983a605a8d74d",
+        "a877fc68b02acb901ba4609e5ddcfc7c265f515c",
+        "d414b8cca30a2c84f881978a78fa2f1d421b1f9b",
+        "aed0960cccb527378babf026b70e8d5516cd9f04",
+        "6338232520d71331d886ac1ab0b33653fe3e77ad"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

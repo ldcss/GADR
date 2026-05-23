@@ -1,0 +1,117 @@
+{
+  "repositoryUrl": "https://github.com/Skyscanner/backpack-ios.git",
+  "crawlDateTime": "2022-01-18T20:13:30.4736",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "decisions",
+      "path": "assume-non-null-by-default.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-11T07:14:39Z",
+      "lastCommit": "2018-09-11T07:14:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "55bd713a7f9206d5236859706a4796507a6cefc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "components-preview.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-18T10:29:49Z",
+      "lastCommit": "2019-03-20T11:35:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3b0e8fdb46ae85ffa69ffa56604b454c8fe1b16"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "813047b4a51d848734e2076b21e70784ff25838c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "import-ordering.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-07-23T11:43:59Z",
+      "lastCommit": "2019-07-26T09:51:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d99d8471aabc3dcd8683bed3ac87d5708be8c7a5",
+            "8a62cd4b55975cc3e4190ebf6336f0d9f9584d63"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-11T07:14:39Z",
+  "lastAdrCommit": "2019-07-26T09:51:34Z",
+  "firstCommit": "2018-01-10T14:25:55Z",
+  "lastCommit": "2022-01-18T17:44:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e3b0e8fdb46ae85ffa69ffa56604b454c8fe1b16"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "55bd713a7f9206d5236859706a4796507a6cefc0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d99d8471aabc3dcd8683bed3ac87d5708be8c7a5",
+        "8a62cd4b55975cc3e4190ebf6336f0d9f9584d63"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "813047b4a51d848734e2076b21e70784ff25838c"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

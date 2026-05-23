@@ -1,0 +1,105 @@
+{
+  "repositoryUrl": "https://github.com/LBHackney-IT/document-evidence-store-frontend.git",
+  "crawlDateTime": "2022-01-18T21:28:05.268489",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-superjson-for-serialising-complex-objects.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-02-04T12:15:17Z",
+      "lastCommit": "2021-02-04T12:15:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5cb1c3051b6696750981fdec52d049277522eb51"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-mocks-server-for-mocking-api-requests-in-e2e-tests.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-02-04T12:15:17Z",
+      "lastCommit": "2021-02-04T12:15:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5cb1c3051b6696750981fdec52d049277522eb51"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-switch-from-client-side-api-requests-to-server-side.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-02-04T12:15:17Z",
+      "lastCommit": "2021-02-04T12:15:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5cb1c3051b6696750981fdec52d049277522eb51"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-04T12:15:17Z",
+      "lastCommit": "2021-02-04T12:15:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5cb1c3051b6696750981fdec52d049277522eb51"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-02-04T12:15:17Z",
+  "lastAdrCommit": "2021-02-04T12:15:17Z",
+  "firstCommit": "2020-11-19T14:50:09Z",
+  "lastCommit": "2022-01-11T16:00:29Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5cb1c3051b6696750981fdec52d049277522eb51"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

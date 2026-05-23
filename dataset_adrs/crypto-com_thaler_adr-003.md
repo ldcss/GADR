@@ -1,0 +1,173 @@
+# ADR 003: Migration to Jellyfish Merkle Tree
+
+## Changelog
+* 02-04-2020: Initial Draft
+* 02-04-2020: Minor Edits + Decision Updated
+* 03-04-2020: Root Hash Kept in Chain Node State (for light client verification)
+* 11-04-2020: Use dedicated version number rather than block height
+
+## Context
+For the authenticated integrity-checking storage of staking states, the prototype code has been using the [starling](https://crates.io/crates/starling) crate that implements "Merkle Binary Indexed Tree". This was choice, however, temporary
+and needed to be revisited as a part of the stabilization effort (given this code is consensus-critical). 
+The external crate itself had a few potential issues:
+
+- *Not enough scrutiny*: most of its code has been written and maintained by a single author in the "best effort" way
+- *Novel design*: while interesting and promising, custom data structures and algorithms have not been scrutinized much and deployed in critical settings
+- *Documentation*: the only comprehensive documentation has been an informal blogpost  
+
+## Decision
+The code will be adapted to use the [Jellyfish Merkle Tree](https://github.com/libra/libra/blob/master/storage/jellyfish-merkle/src/lib.rs) structure from the Libra project as its authenticated integrity-checking storage of staking states.
+The Jellyfish Merkle Tree offers the best tradeoff:
+
+- it has received more scrutiny as a part of the Libra project development;
+- its codebase is relatively small, well-documented and tested (or even formally verified);
+- its codebase is licensed under a compatible license;
+- the data structure itself is not too different from e.g. Ethereum-style MPT, 
+while being optimized for PBFT-style consensus algorithms;
+- it supports inclusion proofs, exclusion proofs and range proofs.
+
+### Jellyfish Merkle Tree Codebase
+As the current Libra codebase intertwines many of its crates,
+the Jellyfish Merkle Tree code will initially be isolated in this fork: https://github.com/crypto-com/jellyfish-merkle-tree
+In this fork, the codebase will be maintained, such that "jellyfish-merkle" can be a self-contained crate without
+unnecessary dependencies.
+
+### Integration
+The existing code will be adapted in the following way:
+
+- A `staking_version: Version` field will be added to `ChainNodeState`, which is initialized to zero, and increased by
+  one when a block with at least one staking modifications commit.
+
+- Two new columns `COL_TRIE_NODE`/`COL_STALE_NODE` will be added to store trie nodes in the same key-value store as other information.
+
+- The `jellyfish_merkle::TreeReader` trait will be implemented for `GetKV`.
+
+  ```rust
+  struct KVReader<'a, S: GetKV>(&'a S);
+  impl<'a, S: GetKV> TreeReader for KVReader<'a, S> {
+      fn get_node_option(&self, node_key: &NodeKey) -> Result<Option<Node>> {
+          self.0
+              .get(&(COL_TRIE_NODE, node_key.encode()?))
+              .map(|bytes| Node::decode(&bytes))
+              .transpose()
+      }
+  
+      fn get_rightmost_leaf(&self) -> Result<Option<(NodeKey, LeafNode)>> {
+          unimplemented!("this feature is only used in merkle tree restore which we don't need yet");
+      }
+  }
+  ```
+
+- The `StakingGetter` with `JellyfishMerkleTree` will be implemented against any `GetKV`.
+
+  ```rust
+  pub struct StakingGetter<'a, S: GetKV> {
+      storage: &'a S,
+      version: Version,
+  }
+  
+  impl<'a, S: GetKV> Get for StakingGetter<'a, S> {
+      type Key = StakedStateAddress;
+      type Value = StakedState;
+      fn get(&self, key: &Self::Key) -> Option<Self::Value> {
+          JellyfishMerkleTree::new(&KVReader::new(self.storage))
+              .get_with_proof(HashValue::new(to_stake_key(key)), self.version)
+              .expect("merkle trie internal error")
+              .0
+              .map(|blob| {
+                  StakedState::decode(&mut blob.as_ref()).expect("merkle trie storage corrupted")
+              })
+      }
+  }
+  ```
+  
+- The buffer abstraction will remain as before:
+  
+  ```rust
+  pub type StakingBufferStore<'a, S, H> = BufferSimpleStore<'a, StakingGetter<'a, S>, H>;
+  pub type StakingBufferGetter<'a, S, H> = BufferGetter<'a, StakingGetter<'a, S>, H>;
+  ```
+  
+- In the BlockCommit request processing, the staking buffer will be flushed into the Merkle trie,
+its nodes will be written into the `StoreKV` buffer, which is the buffered key-value storage which contains other information in different columns (UTXO state etc.).
+  
+  ```rust
+  pub fn flush_stakings<S: StoreKV>(
+      storage: &mut S,
+      version: Version,
+      buffer: StakingBuffer,
+  ) -> Result<(usize, usize)> {
+      let reader = KVReader::new(storage);
+      let tree = JellyfishMerkleTree::new(&reader);
+      let (_, batch) = tree.put_blob_sets(
+          vec![buffer
+              .values()
+              .map(|staking| (HashValue::new(staking.key()), staking.encode().into()))
+              .collect::<Vec<_>>()],
+          version,
+      )?;
+      for (key, node) in batch.node_batch.iter() {
+          storage.set((COL_TRIE_NODE, key.encode()?), node.encode()?);
+      }
+      storage.set(
+          (COL_STALE_NODE, version.encode()), 
+          batch.stale_node_index_batch.encode()
+      );
+      Ok((batch.num_new_leaves, batch.num_stale_leaves))
+  }
+  ```
+  
+- The complete block commit processing will be done as follows at the end:
+  
+  ```rust
+  flush_staking(&mut kv_store!(self), version, staking_buffer);
+  flush_kv(&mut self.kvdb, kv_buffer);  // Write to the disk atomically.
+  ```
+
+### Chain Node State Changes
+
+- `AccountStorage` will be removed from `ChainNodeApp` (as the node storage will be in the dedicated `COL_TRIE_NODE` column).
+
+
+### Staled Trie Nodes Cleanup
+
+When a node is modified, its old version is staled. The keys of staled trie nodes will be stored in the dedicated `COL_STALED_NODE` columned, indexed by the version number where they became staled.
+
+Pruning of these staled trie nodes (e.g. in the context of validator operation where only the most recent version is needed)
+is outside of the scope of this ADR.
+
+### Implementation Steps
+
+The work needed for this migration will be split into two PRs:
+
+1. A jellyfish module will be added in `chain-storage` (this module will implements all the integration groundwork mentioned above).
+2. The storage will be switched to use the jellyfish module and the starling-related code (`AccountStorage` etc.) will be removed.
+
+## Status
+
+Accepted
+
+## Consequences
+
+### Positive
+
+- Better integration with the existing buffer storage abstraction; all Chain node state modifications can be done in a  single batch write operation during the BlockCommit request processing
+- More robust trie data structure and algorithms
+
+### Negative
+
+- Extra maintenance of the isolated crate in the forked repository and possibly divergence from the upstream repository
+
+### Neutral
+
+- No support for forks because of the monotonically increasing version number: this is not an issue for Tendermint
+(or equivalent deterministic-finality consensus algorithms), but for probabilistic-finality consensus algorithms
+- One more repository
+- One "rocksdb" instance (as the nodes will be stored in one column rather than in a separate database instance)
+- When query history staking state, convert the request block height to version number through history `ChainNodeState` first
+
+## References
+
+* starling design blogpost: https://medium.com/@niallmoore22/binary-merkle-trie-aad76f422983 
+* Jellyfish merkle trie: https://github.com/libra/libra/tree/master/storage/jellyfish-merkle
+* Initial extracted library: https://github.com/yihuang/libra

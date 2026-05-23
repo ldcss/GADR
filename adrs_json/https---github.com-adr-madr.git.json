@@ -1,0 +1,366 @@
+{
+  "repositoryUrl": "https://github.com/adr/madr.git",
+  "crawlDateTime": "2022-01-18T18:33:01.78156",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decisions"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0005-use-dashes-in-filenames.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-16T09:46:08Z",
+      "lastCommit": "2021-10-19T21:49:16Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c62a7169d735b1bc0b5c239736338dc784586ca4",
+            "6d08eb06918499c8be0c08208def294751f56fb0",
+            "7cf2ad801ce12dc5b828fd4437191f54aebaf02e"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0002-do-not-use-numbers-in-headings.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-16T07:41:34Z",
+      "lastCommit": "2021-10-19T21:49:16Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6d08eb06918499c8be0c08208def294751f56fb0",
+            "7cf2ad801ce12dc5b828fd4437191f54aebaf02e",
+            "31f6e295229105fda999e745268e1b78549593b8"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0007-do-not-emphasize-line-headings.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-03-06T20:33:53Z",
+      "lastCommit": "2021-10-19T21:49:16Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6d08eb06918499c8be0c08208def294751f56fb0",
+            "18acb4da4eaa4b80612b335290599fc6343ae6c7",
+            "de9249ddc67b75ffe6a3a715dde9e83c0637da37"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0003-include-in-adr-tools.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-16T07:41:34Z",
+      "lastCommit": "2021-10-19T21:49:16Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6d08eb06918499c8be0c08208def294751f56fb0",
+            "31f6e295229105fda999e745268e1b78549593b8",
+            "de9249ddc67b75ffe6a3a715dde9e83c0637da37"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4f6dfed8ec5d4db23f4a3684aa72c1efb739da64"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0012-use-curly-brackets-to-denote-placeholder.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-10-19T21:40:54Z",
+      "lastCommit": "2021-10-21T19:36:09Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2338a803b7321c1ceda6c6cb0cb667f34e6a7a4b",
+            "403fa6f26eae513d6d4c3882c8cc80c4bd31b1e8",
+            "6d08eb06918499c8be0c08208def294751f56fb0"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0009-support-links-between-adrs-inside-an-adrs.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-03-06T20:33:53Z",
+      "lastCommit": "2021-10-19T21:49:16Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91321d478b7190f604cc0edb72130f2bf85a2b21",
+            "6c3f169f82c0938975d72c22a5ded3c7acce89f3",
+            "6d08eb06918499c8be0c08208def294751f56fb0",
+            "7cf2ad801ce12dc5b828fd4437191f54aebaf02e",
+            "18acb4da4eaa4b80612b335290599fc6343ae6c7"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0004-write-own-toc-tool.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-16T07:41:34Z",
+      "lastCommit": "2021-10-19T21:49:16Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "561c9db103cec4ff18430628ddf00554c31a75cd",
+            "6d08eb06918499c8be0c08208def294751f56fb0",
+            "7cf2ad801ce12dc5b828fd4437191f54aebaf02e",
+            "31f6e295229105fda999e745268e1b78549593b8"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0006-use-names-as-identifier.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-03-06T20:33:53Z",
+      "lastCommit": "2021-10-19T21:49:16Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6d08eb06918499c8be0c08208def294751f56fb0",
+            "18acb4da4eaa4b80612b335290599fc6343ae6c7",
+            "de9249ddc67b75ffe6a3a715dde9e83c0637da37"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0011-use-asterisk-as-list-marker.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-05-17T06:09:56Z",
+      "lastCommit": "2021-10-19T21:49:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6d08eb06918499c8be0c08208def294751f56fb0",
+            "5d44a14f789fadcd932c476dae859e544eccf996"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0001-use-CC0-as-license.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-04T09:54:54Z",
+      "lastCommit": "2021-10-19T21:49:16Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87e9540c9e4144d8fbf981c49b05303331176fea",
+            "6c3f169f82c0938975d72c22a5ded3c7acce89f3",
+            "6d08eb06918499c8be0c08208def294751f56fb0",
+            "e96fd69cbbb4619d77f56fc5ee62505a347974e5",
+            "de9249ddc67b75ffe6a3a715dde9e83c0637da37"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0010-support-categories.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-03-06T20:33:53Z",
+      "lastCommit": "2021-10-19T21:49:16Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6c3f169f82c0938975d72c22a5ded3c7acce89f3",
+            "6d08eb06918499c8be0c08208def294751f56fb0",
+            "7cf2ad801ce12dc5b828fd4437191f54aebaf02e",
+            "18acb4da4eaa4b80612b335290599fc6343ae6c7"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0008-add-status-field.md",
+      "template": "Madr",
+      "status": "//github.com/adr/madr/blob/main/docs/decisions/0001-use-CC0-as-license.md)",
+      "firstCommit": "2018-03-06T20:33:53Z",
+      "lastCommit": "2021-10-19T21:49:16Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6d08eb06918499c8be0c08208def294751f56fb0",
+            "7cf2ad801ce12dc5b828fd4437191f54aebaf02e",
+            "18acb4da4eaa4b80612b335290599fc6343ae6c7",
+            "de9249ddc67b75ffe6a3a715dde9e83c0637da37"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2017-07-18T08:42:08Z",
+      "lastCommit": "2021-10-19T21:49:16Z",
+      "numberOfCommits": 17,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1bbd9545753f2f2f7baa0038435b46d1e178765",
+            "e965cebd3fb2b49a55d5bb852bfe7cae14b6db00",
+            "cd019b109723ae1a54ccb42ca73832fa15b4a2e2",
+            "ddb120f6f717f4dda36f063049451694055e5ad6",
+            "434b1194a382512cace9835396a35004f75f57fe",
+            "e681b3dadc2fd7c3a2d3dfb4365bb2cb288e9106",
+            "28f17f45d442b2ff7cd58c3368f58f6cfb8d11c9",
+            "6d08eb06918499c8be0c08208def294751f56fb0",
+            "e96fd69cbbb4619d77f56fc5ee62505a347974e5",
+            "51acce387f3ccad901ba865496f93e86bd28b2e6",
+            "b4c3dcbd6f44303882362b5cfb8bd30a27d556fb",
+            "eb7515ce2af2e8d34e744ebebf15671b4ea6b9ec",
+            "4ac1dbab715487b95990042d00259155bf4f7786",
+            "9e96d7c708765b6e0620df902062cec086eb5657",
+            "297c9392047f4a7b9d6f1c2a01b09c0dba60c414",
+            "21ab4730323b63a5c3ffe38b4539b1c2881705ff",
+            "d32238d8fe890f911e30e45f8f20bb7293fc0fb1"
+          ],
+          "numberOfCommits": 17
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-18T08:42:08Z",
+  "lastAdrCommit": "2021-10-21T19:36:09Z",
+  "firstCommit": "2017-07-18T08:42:08Z",
+  "lastCommit": "2021-11-23T20:36:08Z",
+  "adrDirFile": {
+    "fileContent": "docs/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d1bbd9545753f2f2f7baa0038435b46d1e178765",
+        "561c9db103cec4ff18430628ddf00554c31a75cd",
+        "e965cebd3fb2b49a55d5bb852bfe7cae14b6db00",
+        "cd019b109723ae1a54ccb42ca73832fa15b4a2e2",
+        "ddb120f6f717f4dda36f063049451694055e5ad6",
+        "91321d478b7190f604cc0edb72130f2bf85a2b21",
+        "434b1194a382512cace9835396a35004f75f57fe",
+        "6d08eb06918499c8be0c08208def294751f56fb0",
+        "31f6e295229105fda999e745268e1b78549593b8",
+        "21ab4730323b63a5c3ffe38b4539b1c2881705ff",
+        "d32238d8fe890f911e30e45f8f20bb7293fc0fb1",
+        "87e9540c9e4144d8fbf981c49b05303331176fea",
+        "2338a803b7321c1ceda6c6cb0cb667f34e6a7a4b",
+        "e681b3dadc2fd7c3a2d3dfb4365bb2cb288e9106",
+        "403fa6f26eae513d6d4c3882c8cc80c4bd31b1e8",
+        "6c3f169f82c0938975d72c22a5ded3c7acce89f3",
+        "28f17f45d442b2ff7cd58c3368f58f6cfb8d11c9",
+        "7cf2ad801ce12dc5b828fd4437191f54aebaf02e",
+        "e96fd69cbbb4619d77f56fc5ee62505a347974e5",
+        "5d44a14f789fadcd932c476dae859e544eccf996",
+        "18acb4da4eaa4b80612b335290599fc6343ae6c7",
+        "de9249ddc67b75ffe6a3a715dde9e83c0637da37",
+        "51acce387f3ccad901ba865496f93e86bd28b2e6",
+        "b4c3dcbd6f44303882362b5cfb8bd30a27d556fb",
+        "eb7515ce2af2e8d34e744ebebf15671b4ea6b9ec",
+        "4ac1dbab715487b95990042d00259155bf4f7786",
+        "9e96d7c708765b6e0620df902062cec086eb5657",
+        "c62a7169d735b1bc0b5c239736338dc784586ca4",
+        "297c9392047f4a7b9d6f1c2a01b09c0dba60c414"
+      ],
+      "numberOfCommits": 29
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4f6dfed8ec5d4db23f4a3684aa72c1efb739da64"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "repositoryUrl": "https://github.com/pace-neutrons/pace-developers.git",
+  "crawlDateTime": "2022-01-18T23:09:17.253548",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "documentation/adr"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0011-use-mex-for-pyHorace-python-calls.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-12-29T17:37:55Z",
+      "lastCommit": "2021-01-11T09:46:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f49d4eb8bb2772c665a459065ab6547b197064e9",
+            "d19fdda38eb3681f6e23f15e865af497772e2ef5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0005-pace-projects-must-be-semantically-versioned.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-01T13:30:38Z",
+      "lastCommit": "2020-07-01T15:49:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbf6f2620b8faa6c88b31f8343fd80d74c86f515",
+            "fbc040e77ea4b9c5fcb9c8250692b0ca2617b24b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0004-pace-documentation-link-to-projects.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-01T13:30:38Z",
+      "lastCommit": "2020-07-01T13:30:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbf6f2620b8faa6c88b31f8343fd80d74c86f515"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0006-store-built-documentation-in-branch.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-07-01T15:49:49Z",
+      "lastCommit": "2020-07-28T07:56:33Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "db68a7658fdee62923a4f764f940b2c3189ca86a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbc040e77ea4b9c5fcb9c8250692b0ca2617b24b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a4ec51626179ef0d95bc81b140134ab58a80df0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0010-use-compiled-matlab-for-python.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-29T17:15:09Z",
+      "lastCommit": "2021-01-11T09:46:34Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f49d4eb8bb2772c665a459065ab6547b197064e9",
+            "d19fdda38eb3681f6e23f15e865af497772e2ef5",
+            "e91d15522e76a18b469bc4e1cb08df5a4bf766d6",
+            "be5284ea5a9b565f371299cce05fb3b745a8f6c8"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0007-developer-scripts-storage-location.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-07-28T07:56:33Z",
+      "lastCommit": "2020-11-29T14:52:04Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "db68a7658fdee62923a4f764f940b2c3189ca86a",
+            "262fb8c650d1f6e37f32e1ccb39b16fce85f2307"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e23ea48fa37ebf329ab83d4e55058a22e511c51e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0008-pace-syntax-guiding-principles.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-11-29T14:52:04Z",
+      "lastCommit": "2020-12-01T10:20:41Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "00ff8241edb700637b50ed7874e6d549d720638d",
+            "90ad0025d2b63de9a57bb5eab93fac274b31885b",
+            "ec0fe083786a63e4ad1da02dfb243dd3c0c2f5f5",
+            "e23ea48fa37ebf329ab83d4e55058a22e511c51e"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0002-use-github-pages-for-user-documentation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-01T13:30:38Z",
+      "lastCommit": "2020-07-01T15:49:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbf6f2620b8faa6c88b31f8343fd80d74c86f515",
+            "fbc040e77ea4b9c5fcb9c8250692b0ca2617b24b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0009-brille-integration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-01T10:20:41Z",
+      "lastCommit": "2020-12-29T17:15:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e91d15522e76a18b469bc4e1cb08df5a4bf766d6",
+            "90ad0025d2b63de9a57bb5eab93fac274b31885b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0012-matlab-python-wrapper.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-11T09:46:34Z",
+      "lastCommit": "2021-01-11T09:46:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d19fdda38eb3681f6e23f15e865af497772e2ef5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0003-pace-projects-will-have-independent-documentation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-01T13:30:38Z",
+      "lastCommit": "2020-07-01T13:30:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbf6f2620b8faa6c88b31f8343fd80d74c86f515"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0013-light-python-wrapper-implementation-detail.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-11T09:50:11Z",
+      "lastCommit": "2021-01-11T09:50:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6f0f2e35c265074d426bb7625a99c2f05907a096"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-01T13:30:38Z",
+      "lastCommit": "2020-07-01T13:30:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbf6f2620b8faa6c88b31f8343fd80d74c86f515"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-01T13:30:38Z",
+  "lastAdrCommit": "2021-01-11T09:50:11Z",
+  "firstCommit": "2019-05-02T15:54:53Z",
+  "lastCommit": "2021-11-10T11:29:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "db68a7658fdee62923a4f764f940b2c3189ca86a",
+        "262fb8c650d1f6e37f32e1ccb39b16fce85f2307"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fbf6f2620b8faa6c88b31f8343fd80d74c86f515",
+        "fbc040e77ea4b9c5fcb9c8250692b0ca2617b24b"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2a4ec51626179ef0d95bc81b140134ab58a80df0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f49d4eb8bb2772c665a459065ab6547b197064e9",
+        "d19fdda38eb3681f6e23f15e865af497772e2ef5",
+        "e91d15522e76a18b469bc4e1cb08df5a4bf766d6",
+        "00ff8241edb700637b50ed7874e6d549d720638d",
+        "90ad0025d2b63de9a57bb5eab93fac274b31885b",
+        "ec0fe083786a63e4ad1da02dfb243dd3c0c2f5f5",
+        "e23ea48fa37ebf329ab83d4e55058a22e511c51e",
+        "6f0f2e35c265074d426bb7625a99c2f05907a096",
+        "be5284ea5a9b565f371299cce05fb3b745a8f6c8"
+      ],
+      "numberOfCommits": 9
+    }
+  ]
+}

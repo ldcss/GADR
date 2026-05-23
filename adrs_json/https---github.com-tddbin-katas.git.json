@@ -1,0 +1,175 @@
+{
+  "repositoryUrl": "https://github.com/tddbin/katas.git",
+  "crawlDateTime": "2022-01-18T23:02:31.321912",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "006-kata-dependencies.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-05T15:58:34Z",
+      "lastCommit": "2019-10-06T22:01:05Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "485860152a417fb15d94bb926986e4e583dc64a1",
+            "b29f1fcdaae59bc0087509e6ffc2562114d45448",
+            "36448efc9e06440aa242809b9403e807c501ab14"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "003-katafication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-05T15:58:34Z",
+      "lastCommit": "2019-10-05T15:58:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dcb4b14f1a536276a88243c65273a3bd0ea6eb9d",
+            "40e5dd2458fb0316048921549f6af5e5db657fdb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "004-in-depth-katas.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-05T15:58:34Z",
+      "lastCommit": "2019-10-05T15:58:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77af6097d5a7e0da1ba418c6b4e7dbfd0b2eee85"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "000-use-adrs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-08T15:58:34Z",
+      "lastCommit": "2018-09-08T15:58:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dffba75405fece23372fc48e9aaa7e179d66817f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-formatting-katas.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-08T15:58:34Z",
+      "lastCommit": "2018-09-15T17:24:52Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dcc236c8a9826e2f93ec2157d6deb5c259c9492",
+            "d454b4bb727ef469e7be94290daea1c72639ece9",
+            "dffba75405fece23372fc48e9aaa7e179d66817f"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "005-kata-naming.md",
+      "template": "Nygard",
+      "status": "Draft",
+      "firstCommit": "2019-10-05T15:58:34Z",
+      "lastCommit": "2019-10-05T15:58:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "155933efae61f6b4750d253bc3408c38ef97271e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "002-no-eslint.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-08T15:58:34Z",
+      "lastCommit": "2019-10-05T15:58:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4096f4dc42a799ef9dcfca636836afcca6bfca69",
+            "dffba75405fece23372fc48e9aaa7e179d66817f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-08T15:58:34Z",
+  "lastAdrCommit": "2019-10-06T22:01:05Z",
+  "firstCommit": "2015-03-02T21:18:25Z",
+  "lastCommit": "2021-12-31T11:52:45Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dcb4b14f1a536276a88243c65273a3bd0ea6eb9d",
+        "0dcc236c8a9826e2f93ec2157d6deb5c259c9492",
+        "4096f4dc42a799ef9dcfca636836afcca6bfca69",
+        "485860152a417fb15d94bb926986e4e583dc64a1",
+        "b29f1fcdaae59bc0087509e6ffc2562114d45448",
+        "d454b4bb727ef469e7be94290daea1c72639ece9",
+        "155933efae61f6b4750d253bc3408c38ef97271e",
+        "36448efc9e06440aa242809b9403e807c501ab14",
+        "40e5dd2458fb0316048921549f6af5e5db657fdb",
+        "dffba75405fece23372fc48e9aaa7e179d66817f",
+        "77af6097d5a7e0da1ba418c6b4e7dbfd0b2eee85"
+      ],
+      "numberOfCommits": 11
+    }
+  ]
+}

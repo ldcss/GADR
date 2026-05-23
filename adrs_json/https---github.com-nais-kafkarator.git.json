@@ -1,0 +1,174 @@
+{
+  "repositoryUrl": "https://github.com/nais/kafkarator.git",
+  "crawlDateTime": "2022-01-18T21:00:03.870175",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-future-adrs-in-pig-repository.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [1. Record architecture decisions](0001-record-architecture-decisions.md)",
+      "firstCommit": "2021-08-16T11:52:15Z",
+      "lastCommit": "2021-08-16T11:52:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1666af97f5af1d772a2c884d7a17ae8d6a9220a7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-combine-topic-creation-and-credentials-management-in-same-app.md",
+      "template": "Nygard",
+      "status": "Followup [3. Kafkarator API is focused around dedicated CRDs](0003-kafkarator-api-is-focused-around-dedicated-crds.md) Superceded by [5. Kafkarator credentials rotation and flow](0005-kafkarator-credentials-rotation-and-flow.md)",
+      "firstCommit": "2020-09-14T08:43:08Z",
+      "lastCommit": "2021-08-16T11:52:15Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1666af97f5af1d772a2c884d7a17ae8d6a9220a7",
+            "539ad39e945aa02d5dcc5ceb253558df9ac10576"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-kafkarator-api-is-focused-around-dedicated-crds.md",
+      "template": "Nygard",
+      "status": "Accepted See also [2. Combine topic creation and credentials management in same app](0002-combine-topic-creation-and-credentials-management-in-same-app.md)",
+      "firstCommit": "2020-09-14T08:43:08Z",
+      "lastCommit": "2020-09-14T08:43:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "539ad39e945aa02d5dcc5ceb253558df9ac10576"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-kafkarator-credentials-rotation-and-flow.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-14T13:22:30Z",
+      "lastCommit": "2021-04-27T10:31:17Z",
+      "numberOfCommits": 9,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48ecd703344c71747522a8df2577fb79cda9b8a8",
+            "1c7450271ef83545afcae55c61752a4e5b4526d4"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1548533066cf9099372f4ac2f58b5c305c31fcc7",
+            "e86e6bb262274a47ed9d3d7a3d9cfc79ff344636",
+            "c34f3e18be25213fd2c6c89fe42d721faf992727",
+            "55ccfa0a2af6e1bc129b247075b090cc221eb4e1",
+            "5c92b827cac5e871cee13f05a84a740c0db64665",
+            "2b4c54ca68b1232b59a16c6eb9f0a440c725305d",
+            "ff73c78eb419f49fde39bf521226494e3215d4c9"
+          ],
+          "numberOfCommits": 7
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-only-for-aiven.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-14T08:43:08Z",
+      "lastCommit": "2020-09-14T08:43:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "539ad39e945aa02d5dcc5ceb253558df9ac10576"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Superceded by [6. Future ADRs in PIG repository](0006-future-adrs-in-pig-repository.md)",
+      "firstCommit": "2020-09-14T08:43:08Z",
+      "lastCommit": "2021-08-16T11:52:15Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1666af97f5af1d772a2c884d7a17ae8d6a9220a7",
+            "539ad39e945aa02d5dcc5ceb253558df9ac10576"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-14T08:43:08Z",
+  "lastAdrCommit": "2021-08-16T11:52:15Z",
+  "firstCommit": "2020-08-24T10:28:08Z",
+  "lastCommit": "2022-01-18T13:57:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "48ecd703344c71747522a8df2577fb79cda9b8a8",
+        "1c7450271ef83545afcae55c61752a4e5b4526d4"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1548533066cf9099372f4ac2f58b5c305c31fcc7",
+        "1666af97f5af1d772a2c884d7a17ae8d6a9220a7",
+        "539ad39e945aa02d5dcc5ceb253558df9ac10576",
+        "e86e6bb262274a47ed9d3d7a3d9cfc79ff344636",
+        "c34f3e18be25213fd2c6c89fe42d721faf992727",
+        "55ccfa0a2af6e1bc129b247075b090cc221eb4e1",
+        "5c92b827cac5e871cee13f05a84a740c0db64665",
+        "2b4c54ca68b1232b59a16c6eb9f0a440c725305d",
+        "ff73c78eb419f49fde39bf521226494e3215d4c9"
+      ],
+      "numberOfCommits": 9
+    }
+  ]
+}

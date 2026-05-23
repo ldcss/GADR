@@ -1,0 +1,72 @@
+{
+  "repositoryUrl": "https://github.com/benjspriggs/prayers.git",
+  "crawlDateTime": "2022-01-18T20:00:08.614057",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "02.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-19T06:29:02Z",
+      "lastCommit": "2019-11-19T06:29:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb3b9a353d25fcf50cebc102215287e28751968f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "01.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-21T04:25:49Z",
+      "lastCommit": "2019-10-21T04:25:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d68f39dad9222c42797953ee33dacab0f55c5d7a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-21T04:25:49Z",
+  "lastAdrCommit": "2019-11-19T06:29:02Z",
+  "firstCommit": "2019-10-21T04:18:01Z",
+  "lastCommit": "2021-12-13T20:30:09Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d68f39dad9222c42797953ee33dacab0f55c5d7a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fb3b9a353d25fcf50cebc102215287e28751968f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

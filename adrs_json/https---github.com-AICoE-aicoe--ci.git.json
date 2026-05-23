@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/AICoE/aicoe-ci.git",
+  "crawlDateTime": "2022-01-18T23:02:30.388061",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-gpl3-as-license.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-02T16:51:39Z",
+      "lastCommit": "2020-11-02T16:51:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b783f7cf10c9db95d7d57a863dadd8ec8ad14de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-11-02T16:51:39Z",
+      "lastCommit": "2020-11-02T16:51:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b783f7cf10c9db95d7d57a863dadd8ec8ad14de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-02T16:51:39Z",
+  "lastAdrCommit": "2020-11-02T16:51:39Z",
+  "firstCommit": "2020-03-17T17:01:27Z",
+  "lastCommit": "2022-01-18T22:33:02Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5b783f7cf10c9db95d7d57a863dadd8ec8ad14de"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

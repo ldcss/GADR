@@ -1,0 +1,191 @@
+{
+  "repositoryUrl": "https://github.com/kbase/execution_engine2.git",
+  "crawlDateTime": "2022-01-18T18:18:45.079426",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "003-Retry_endpoint_design.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-02T20:14:55Z",
+      "lastCommit": "2021-08-09T20:14:21Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d540f8719d530cf80c10633f611949521015e0e1",
+            "14f5a55bc97e97f03d6dd7faccdc4a83dfee268e",
+            "8212c8d60211bfca4c37ebe3fa422d729c64924c"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d6fc1ccc700a8bc67350180a49f45e5c8c160c0d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "004-SplitAndAggregate.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-09-22T16:58:55Z",
+      "lastCommit": "2021-11-23T21:42:09Z",
+      "numberOfCommits": 28,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7cafa3d09eb468c7b80c245ced36f8fd92e833d7",
+            "eed6fbed88615dfb48d05752af197b1d5957b99d",
+            "31c6c79e7ff5a81a17f7341f43b877125ca37d00",
+            "f98620690d1fd325d13bac25f0e39761b4d98044",
+            "db694914e511cd83358e644926316276ebbd816b",
+            "a8eba2e67d3b7265eb5dfe2a8fc1db7a3b925615",
+            "39eec885df428191f20199c2b7d2a25352bc0349",
+            "65a7d7e42799ac64d0cbc90c6d68addb31c276e8",
+            "517ebeac3923905f5e63f5f4e1eb8ea11fa51e99",
+            "3c9ae6f0815e6070122ae6b9c98163894a5285fb",
+            "ecc2535d2f625b2f5eb73022db025cff10f7aaa5",
+            "bebaad7d03ea772ee8ea194353f4036d0446f19b",
+            "60cf061cb77d334f9cac17f160847c26bf69c806",
+            "60489bc162f380337c7c8c4ad6adcfe9bcad9452",
+            "907cdca8819ce8e263c58ee9cfcfb98842d0ff55",
+            "c1e9f1527a75fa65de00284ba74a72581a61cbaa",
+            "9a677532551fd5ad93984a2f729e9d703c303bef",
+            "78d1849d8dfb26af8f37b1f6ac9037b00295c85b",
+            "1b9ad89f123ee94838af5c778c182e297e8b4267",
+            "f05daffd52ca812aabdf363f9bc1dc311fbee538",
+            "862baa760810b326581fdc9484ff767db74203f4",
+            "312b9f9fa50d2350348d84b1fd00405bf4772386",
+            "2de187ae46519b31379212f5215036f95df32b44",
+            "2189149171dac68438ef48ce4c54c292d5f9c20b",
+            "9fb7e18f92e14fc5eba8262f252b72bf4bfc26fd",
+            "802a89bc210c7bc03cb11dda37e12276dfde084b",
+            "80be1070c891f0832839f34455398d3369e78199",
+            "8e1596973de8151c6485d1a406308089d54fcbf8"
+          ],
+          "numberOfCommits": 28
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "rework-batch-analysis-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-28T23:29:26Z",
+      "lastCommit": "2020-09-30T00:26:25Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "537867b913f51fbc3845663faca1a81f1e3a13da",
+            "cfeb5de4d46c088a5374ff39d7d95d298b70fba6",
+            "02bacfa8c35e8d50cd2aef228347ecb782a18ee0",
+            "ab5ca9eafe46eaa722e29139536c13e7ea63cc24"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "002-Retry_endpoint.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-02T20:14:55Z",
+      "lastCommit": "2021-06-02T20:14:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14f5a55bc97e97f03d6dd7faccdc4a83dfee268e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-28T23:29:26Z",
+  "lastAdrCommit": "2021-11-23T21:42:09Z",
+  "firstCommit": "2019-07-01T18:47:17Z",
+  "lastCommit": "2022-01-14T20:12:35Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "537867b913f51fbc3845663faca1a81f1e3a13da",
+        "cfeb5de4d46c088a5374ff39d7d95d298b70fba6",
+        "02bacfa8c35e8d50cd2aef228347ecb782a18ee0",
+        "ab5ca9eafe46eaa722e29139536c13e7ea63cc24"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d6fc1ccc700a8bc67350180a49f45e5c8c160c0d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7cafa3d09eb468c7b80c245ced36f8fd92e833d7",
+        "eed6fbed88615dfb48d05752af197b1d5957b99d",
+        "d540f8719d530cf80c10633f611949521015e0e1",
+        "31c6c79e7ff5a81a17f7341f43b877125ca37d00",
+        "f98620690d1fd325d13bac25f0e39761b4d98044",
+        "db694914e511cd83358e644926316276ebbd816b",
+        "a8eba2e67d3b7265eb5dfe2a8fc1db7a3b925615",
+        "39eec885df428191f20199c2b7d2a25352bc0349",
+        "65a7d7e42799ac64d0cbc90c6d68addb31c276e8",
+        "517ebeac3923905f5e63f5f4e1eb8ea11fa51e99",
+        "3c9ae6f0815e6070122ae6b9c98163894a5285fb",
+        "ecc2535d2f625b2f5eb73022db025cff10f7aaa5",
+        "bebaad7d03ea772ee8ea194353f4036d0446f19b",
+        "60cf061cb77d334f9cac17f160847c26bf69c806",
+        "60489bc162f380337c7c8c4ad6adcfe9bcad9452",
+        "907cdca8819ce8e263c58ee9cfcfb98842d0ff55",
+        "c1e9f1527a75fa65de00284ba74a72581a61cbaa",
+        "9a677532551fd5ad93984a2f729e9d703c303bef",
+        "78d1849d8dfb26af8f37b1f6ac9037b00295c85b",
+        "1b9ad89f123ee94838af5c778c182e297e8b4267",
+        "f05daffd52ca812aabdf363f9bc1dc311fbee538",
+        "862baa760810b326581fdc9484ff767db74203f4",
+        "312b9f9fa50d2350348d84b1fd00405bf4772386",
+        "2de187ae46519b31379212f5215036f95df32b44",
+        "2189149171dac68438ef48ce4c54c292d5f9c20b",
+        "8212c8d60211bfca4c37ebe3fa422d729c64924c",
+        "9fb7e18f92e14fc5eba8262f252b72bf4bfc26fd",
+        "802a89bc210c7bc03cb11dda37e12276dfde084b",
+        "14f5a55bc97e97f03d6dd7faccdc4a83dfee268e",
+        "80be1070c891f0832839f34455398d3369e78199",
+        "8e1596973de8151c6485d1a406308089d54fcbf8"
+      ],
+      "numberOfCommits": 31
+    }
+  ]
+}

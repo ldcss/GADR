@@ -1,0 +1,94 @@
+{
+  "repositoryUrl": "https://github.com/geoadmin/service-stac.git",
+  "crawlDateTime": "2022-01-18T20:05:01.480771",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "2020_08_13_application_architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-13T15:26:24Z",
+      "lastCommit": "2020-08-17T11:29:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc455b3e54935734bf71ac239cb2ba26af55cfff",
+            "df3342ddd9894a02b01aef1ffbc0ac76a1171102"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020_10_21_static_asset.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-22T06:06:35Z",
+      "lastCommit": "2020-10-22T06:06:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6c53a80e7a87c649d97215adf0c92efc86486c33"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020_10_01_authentication.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-01T09:22:54Z",
+      "lastCommit": "2020-10-01T09:22:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d59fc1145488117818b9f716b9f8e89c4de35ab2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-13T15:26:24Z",
+  "lastAdrCommit": "2020-10-22T06:06:35Z",
+  "firstCommit": "2020-08-13T14:23:47Z",
+  "lastCommit": "2022-01-13T15:04:28Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6c53a80e7a87c649d97215adf0c92efc86486c33"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bc455b3e54935734bf71ac239cb2ba26af55cfff",
+        "df3342ddd9894a02b01aef1ffbc0ac76a1171102",
+        "d59fc1145488117818b9f716b9f8e89c4de35ab2"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

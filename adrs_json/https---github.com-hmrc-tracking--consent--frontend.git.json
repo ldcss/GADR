@@ -1,0 +1,237 @@
+{
+  "repositoryUrl": "https://github.com/hmrc/tracking-consent-frontend.git",
+  "crawlDateTime": "2022-01-18T19:56:30.741458",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-data-attribute-for-gtm-container.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-18T16:28:36Z",
+      "lastCommit": "2020-11-18T16:28:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c8ca93b7ed4dfba4cf374cbbe722c9e4607f131e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-18T16:28:36Z",
+      "lastCommit": "2020-11-18T16:28:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c8ca93b7ed4dfba4cf374cbbe722c9e4607f131e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-id-and-data-attributes-for-configuration.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-18T16:28:36Z",
+      "lastCommit": "2020-11-18T16:28:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c8ca93b7ed4dfba4cf374cbbe722c9e4607f131e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-use-eslint-for-linting-and-formatting.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-12-18T12:45:20Z",
+      "lastCommit": "2020-12-18T12:45:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b5d70b015c61c41054fbdec1f3c4fdcffd8d5e47"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-create-a-library-for-reading-the-user-consent-cookie.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-03-17T15:55:02Z",
+      "lastCommit": "2021-03-18T10:48:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6725462d39b3ffb8f0e9898850e3a2f533267ad8",
+            "559b2f7f3af38e4aa74172172b24bcac7ff0dada"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-make-visual-regression-tests-reproducible-on-jenkins.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2022-01-11T17:17:52Z",
+      "lastCommit": "2022-01-11T17:17:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b4ee29808a6a15beab86dcf6846c46dbc61f2db2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-make-tracking-consent-available-on-non-tax-domains.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-12-16T09:54:26Z",
+      "lastCommit": "2020-12-16T09:54:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f5a0f6f5f79cc0a514c6758f999c6d0be9aa271"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-always-store-consents-individually.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-03-05T06:08:04Z",
+      "lastCommit": "2021-03-05T06:08:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8bcbfba65e67d5e04a9fe8a4c5c359ba18522a4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-data-attribute-for-language.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-18T16:28:36Z",
+      "lastCommit": "2020-11-18T16:28:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c8ca93b7ed4dfba4cf374cbbe722c9e4607f131e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-namespace-the-gtm-container-attribute-for-tracking-consent.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-18T16:28:36Z",
+      "lastCommit": "2020-11-18T16:28:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c8ca93b7ed4dfba4cf374cbbe722c9e4607f131e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-18T16:28:36Z",
+  "lastAdrCommit": "2022-01-11T17:17:52Z",
+  "firstCommit": "2020-03-11T16:15:30Z",
+  "lastCommit": "2022-01-12T11:10:43Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3f5a0f6f5f79cc0a514c6758f999c6d0be9aa271",
+        "6725462d39b3ffb8f0e9898850e3a2f533267ad8",
+        "559b2f7f3af38e4aa74172172b24bcac7ff0dada",
+        "c8ca93b7ed4dfba4cf374cbbe722c9e4607f131e",
+        "e8bcbfba65e67d5e04a9fe8a4c5c359ba18522a4"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b4ee29808a6a15beab86dcf6846c46dbc61f2db2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b5d70b015c61c41054fbdec1f3c4fdcffd8d5e47"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/ftes/clickr.git",
+  "crawlDateTime": "2022-01-18T23:15:19.631507",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-zigbee-herdsman-lib-as-zigbee-bridge.md",
+      "template": "Nygard",
+      "status": "2020-04-27 accepted",
+      "firstCommit": "2020-04-27T15:31:37Z",
+      "lastCommit": "2020-04-27T15:31:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77c6dcf1e28eac30bf44fc9a86e69d4d32e74495"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-balena-io-to-deploy-to-raspberry-pi.md",
+      "template": "Nygard",
+      "status": "2020-04-27 accepted",
+      "firstCommit": "2020-04-27T15:31:37Z",
+      "lastCommit": "2020-04-27T15:31:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77c6dcf1e28eac30bf44fc9a86e69d4d32e74495"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-manage-code-for-heterogenous-services-in-a-monorepo.md",
+      "template": "Nygard",
+      "status": "2020-04-27 accepted",
+      "firstCommit": "2020-04-27T15:31:37Z",
+      "lastCommit": "2020-04-28T07:14:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77c6dcf1e28eac30bf44fc9a86e69d4d32e74495",
+            "01d180d270737b73292e284a0b19f991f7ba69a5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-27T15:31:37Z",
+  "lastAdrCommit": "2020-04-28T07:14:54Z",
+  "firstCommit": "2019-11-06T12:52:27Z",
+  "lastCommit": "2022-01-14T01:00:47Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "77c6dcf1e28eac30bf44fc9a86e69d4d32e74495",
+        "01d180d270737b73292e284a0b19f991f7ba69a5"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/hmpps-manage-supervisions.git",
+  "crawlDateTime": "2022-01-18T23:05:24.470959",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-use-assess-risks-and-needs-api.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [9. Read Risks data from Offender Assessment API](0009-read-risks-data-from-offender-assessment-api.md)",
+      "firstCommit": "2021-07-06T08:36:11Z",
+      "lastCommit": "2021-07-06T08:36:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5afd24bc70e126865ede36065cd9bc411c5b866f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-trial-nestjs-application-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-13T10:55:23Z",
+      "lastCommit": "2021-05-13T10:55:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "97643719aa2a11a81364102d64c28857b6ef951e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-read-risks-data-from-offender-assessment-api.md",
+      "template": "Nygard",
+      "status": "Superceded by [10. use-assess-risks-and-needs-api](0010-use-assess-risks-and-needs-api.md)",
+      "firstCommit": "2021-05-26T12:04:06Z",
+      "lastCommit": "2021-07-06T08:37:01Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4d574b3cf80bbd47651b590e22017c6dfe47ce58"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6fe8c282e2f7a4f2b2bd218f957eb762478caf97",
+            "5afd24bc70e126865ede36065cd9bc411c5b866f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0012-provide-an-audit-trail-via-logging.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-17T13:55:41Z",
+      "lastCommit": "2021-09-16T11:08:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4770f578bef028fcf693b1e1eb2abca7c3ff56c1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f996d99ef1ae8e5b4562b8d7359f83da04eee5a2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-write-data-into-delius-synchronously.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-31T08:24:01Z",
+      "lastCommit": "2021-03-31T08:24:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bfbdc7562823e37acddf3987156a6a94b16be6b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-define-release-environments.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-29T09:47:14Z",
+      "lastCommit": "2021-03-29T09:47:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b369f7f4ef7871d98944ccb9011a58f6b3c8ff4c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-authenticate-users-using-hmpps-auth.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-10T13:35:32Z",
+      "lastCommit": "2021-05-10T13:35:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25faf4cc8187a04697f3801a0c76e7c2997bc421"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-start-with-a-monolith.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-15T13:59:07Z",
+      "lastCommit": "2021-03-23T15:09:58Z",
+      "numberOfCommits": 16,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b067240634f677676edebdfc583bacfaf74f4ded",
+            "75f1cfb2ccfcb232dd6b0dd5329e2b49fbc550a7",
+            "6f01763598f72273aec5046d2ead4ad1a787aabf",
+            "9d090d580e6bb34de8a0805ae250cc0b0ca18739",
+            "4de658fc58fdcbe5e1ab48402ac53e32fe76662f",
+            "9268efd957022b93532bbe2c2357b4f163d9cc47",
+            "1815d04cb0efc0f1c6e8865c272ea832d9cef8f4",
+            "b241ad47edebc1994f7ad93c07cdc378d2f47e81",
+            "4f31e3ad6d8ef4084c216a0857859950b7e0b25d",
+            "b8f8375b720ddcd7ad5e8a38010cb7563e3d7861",
+            "732520cb6939ba312ee9534e0598d76619cb640d",
+            "e78e94e992dd35cc6937f69a32f9e9a570f1eb05",
+            "5c3a6d00ec98d7b8809c2c8f0a294c7c69f63ca9",
+            "c44eed20d4cc2fd6d0e9796db015a14dd3ab6023",
+            "2688dacc44cc1dfe3b15b11a813061dc2aaa9889",
+            "978b59076b414a0dabe8759dd430ebfcb5a600ce"
+          ],
+          "numberOfCommits": 16
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-build-in-typescript.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-15T15:11:56Z",
+      "lastCommit": "2021-03-15T15:11:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d8fde2cd9d8f0a4b616a5263961545d89ddba68b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-authorize-users-using-rbac.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-03T11:23:26Z",
+      "lastCommit": "2021-08-03T11:23:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d6f8a24d791d69ae422d83057fb8ea3d758153b8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-identify-service-users-by-crn.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-10T13:34:43Z",
+      "lastCommit": "2021-05-10T13:34:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cb4709b2728a060e46ef90880c1451030331f7ab"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-15T12:45:14Z",
+      "lastCommit": "2021-03-15T12:45:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "541eba340bca3d6e3dda1fe22dac994df2f3825b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-03-15T12:45:14Z",
+  "lastAdrCommit": "2021-09-16T11:08:07Z",
+  "firstCommit": "2021-03-15T12:37:05Z",
+  "lastCommit": "2022-01-18T22:31:28Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4d574b3cf80bbd47651b590e22017c6dfe47ce58",
+        "4770f578bef028fcf693b1e1eb2abca7c3ff56c1"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6fe8c282e2f7a4f2b2bd218f957eb762478caf97",
+        "b067240634f677676edebdfc583bacfaf74f4ded",
+        "541eba340bca3d6e3dda1fe22dac994df2f3825b",
+        "75f1cfb2ccfcb232dd6b0dd5329e2b49fbc550a7",
+        "6f01763598f72273aec5046d2ead4ad1a787aabf",
+        "9d090d580e6bb34de8a0805ae250cc0b0ca18739",
+        "3bfbdc7562823e37acddf3987156a6a94b16be6b",
+        "4de658fc58fdcbe5e1ab48402ac53e32fe76662f",
+        "9268efd957022b93532bbe2c2357b4f163d9cc47",
+        "1815d04cb0efc0f1c6e8865c272ea832d9cef8f4",
+        "b369f7f4ef7871d98944ccb9011a58f6b3c8ff4c",
+        "b241ad47edebc1994f7ad93c07cdc378d2f47e81",
+        "97643719aa2a11a81364102d64c28857b6ef951e",
+        "cb4709b2728a060e46ef90880c1451030331f7ab",
+        "b8f8375b720ddcd7ad5e8a38010cb7563e3d7861",
+        "d8fde2cd9d8f0a4b616a5263961545d89ddba68b",
+        "732520cb6939ba312ee9534e0598d76619cb640d",
+        "f996d99ef1ae8e5b4562b8d7359f83da04eee5a2",
+        "25faf4cc8187a04697f3801a0c76e7c2997bc421",
+        "5afd24bc70e126865ede36065cd9bc411c5b866f",
+        "4f31e3ad6d8ef4084c216a0857859950b7e0b25d",
+        "d6f8a24d791d69ae422d83057fb8ea3d758153b8",
+        "e78e94e992dd35cc6937f69a32f9e9a570f1eb05",
+        "5c3a6d00ec98d7b8809c2c8f0a294c7c69f63ca9",
+        "c44eed20d4cc2fd6d0e9796db015a14dd3ab6023",
+        "2688dacc44cc1dfe3b15b11a813061dc2aaa9889",
+        "978b59076b414a0dabe8759dd430ebfcb5a600ce"
+      ],
+      "numberOfCommits": 27
+    }
+  ]
+}

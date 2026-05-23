@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/MichaelAB97/ELEN4010_2020-Project.git",
+  "crawlDateTime": "2022-01-18T19:12:56.967309",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "documents"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "documents",
+      "path": "ADR2_ProjectBoards.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-16T18:03:09Z",
+      "lastCommit": "2020-06-16T18:03:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2c17569f8c2a19d8b75fbc929aa89c73f4d75098"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documents",
+      "path": "ADR1_Databases.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-09T21:59:03Z",
+      "lastCommit": "2020-06-16T18:03:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "407349636b16aa6dd52f68ecb9dbb5d8bd40ba22",
+            "2c17569f8c2a19d8b75fbc929aa89c73f4d75098"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documents",
+      "path": "ADR3_Sessions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-16T18:03:09Z",
+      "lastCommit": "2020-06-16T18:03:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2c17569f8c2a19d8b75fbc929aa89c73f4d75098"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-09T21:59:03Z",
+  "lastAdrCommit": "2020-06-16T18:03:09Z",
+  "firstCommit": "2020-05-18T18:21:06Z",
+  "lastCommit": "2021-09-21T23:48:42Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "407349636b16aa6dd52f68ecb9dbb5d8bd40ba22",
+        "2c17569f8c2a19d8b75fbc929aa89c73f4d75098"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

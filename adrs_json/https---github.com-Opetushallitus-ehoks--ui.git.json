@@ -1,0 +1,122 @@
+{
+  "repositoryUrl": "https://github.com/Opetushallitus/ehoks-ui.git",
+  "crawlDateTime": "2022-01-18T23:12:33.952261",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-finnish-as-the-domain-language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-26T09:52:09Z",
+      "lastCommit": "2020-04-03T07:56:58Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "04cde4a89b6e15b67db47ce5f794a9e3da050165",
+            "7a6b61e20555528baed7e835f048001d4c9c2e96",
+            "0c20cae84c997b5cb06b658f98806e266afad44b",
+            "c07c4f5b02545e4abb3312fce49efac54407b6f1"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d9a57342bacb3c2d9e861432e623ab438ed9dcb5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-single-callerid-for-both-oppija-and-virkailija.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-27T09:53:38Z",
+      "lastCommit": "2020-03-31T12:05:35Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f6be331a0b5f58fbc315cbf77d8d6bb4315e3fa"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ec107d2eaec6fa8412ca6152f48febbadc5fe3f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-and-desing-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-26T09:52:09Z",
+      "lastCommit": "2020-03-26T09:52:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c07c4f5b02545e4abb3312fce49efac54407b6f1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-26T09:52:09Z",
+  "lastAdrCommit": "2020-04-03T07:56:58Z",
+  "firstCommit": "2018-08-16T12:46:37Z",
+  "lastCommit": "2022-01-13T05:29:49Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "04cde4a89b6e15b67db47ce5f794a9e3da050165",
+        "7a6b61e20555528baed7e835f048001d4c9c2e96",
+        "8f6be331a0b5f58fbc315cbf77d8d6bb4315e3fa",
+        "0c20cae84c997b5cb06b658f98806e266afad44b",
+        "c07c4f5b02545e4abb3312fce49efac54407b6f1"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d9a57342bacb3c2d9e861432e623ab438ed9dcb5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8ec107d2eaec6fa8412ca6152f48febbadc5fe3f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

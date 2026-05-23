@@ -1,0 +1,142 @@
+{
+  "repositoryUrl": "https://github.com/ustream/api-docs.git",
+  "crawlDateTime": "2022-01-18T18:54:01.474927",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-using-markdown-in-jekyll.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-30T14:33:16Z",
+      "lastCommit": "2017-06-30T14:33:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab35c143252af2e38f44a1b61eb76da7a959f72b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-markdown-as-documentation-format.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-30T14:33:16Z",
+      "lastCommit": "2017-06-30T14:33:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab35c143252af2e38f44a1b61eb76da7a959f72b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-blog-post-as-a-documentation-page.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-30T12:15:33Z",
+      "lastCommit": "2017-06-30T12:15:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "82b16fdf2527e4dc122d75ec124fe3025f175ad1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-30T10:41:18Z",
+      "lastCommit": "2017-06-30T10:41:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "576a85abc499d72d0df4c066e2ee34a0b6500872"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-version-based-directory-and-path.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-30T14:33:16Z",
+      "lastCommit": "2017-06-30T14:33:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab35c143252af2e38f44a1b61eb76da7a959f72b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-jekyll-to-serve-documentation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-30T12:15:33Z",
+      "lastCommit": "2017-06-30T12:15:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "82b16fdf2527e4dc122d75ec124fe3025f175ad1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-06-30T10:41:18Z",
+  "lastAdrCommit": "2017-06-30T14:33:16Z",
+  "firstCommit": "2016-02-09T10:25:15Z",
+  "lastCommit": "2021-09-27T20:42:36Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ab35c143252af2e38f44a1b61eb76da7a959f72b",
+        "82b16fdf2527e4dc122d75ec124fe3025f175ad1",
+        "576a85abc499d72d0df4c066e2ee34a0b6500872"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

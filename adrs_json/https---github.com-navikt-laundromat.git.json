@@ -1,0 +1,88 @@
+{
+  "repositoryUrl": "https://github.com/navikt/laundromat.git",
+  "crawlDateTime": "2022-01-18T20:56:54.391393",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-choice-of-entities.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-09T13:06:11Z",
+      "lastCommit": "2020-09-01T23:03:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1cff303a2884e769a5092698ade0c3ad47f3294d",
+            "a08914d3de5ce879e94c01ec2655c552551baaf7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-create-own-python-package.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-01T11:22:31Z",
+      "lastCommit": "2020-09-01T23:03:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a08914d3de5ce879e94c01ec2655c552551baaf7",
+            "898e1cf1bd49923d372e31f7676d09f42613dfe5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-scoring-mechanism.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-09T13:06:11Z",
+      "lastCommit": "2020-09-01T23:03:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1cff303a2884e769a5092698ade0c3ad47f3294d",
+            "a08914d3de5ce879e94c01ec2655c552551baaf7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-01T11:22:31Z",
+  "lastAdrCommit": "2020-09-01T23:03:13Z",
+  "firstCommit": "2020-07-01T10:02:18Z",
+  "lastCommit": "2020-09-08T09:02:01Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1cff303a2884e769a5092698ade0c3ad47f3294d",
+        "a08914d3de5ce879e94c01ec2655c552551baaf7",
+        "898e1cf1bd49923d372e31f7676d09f42613dfe5"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

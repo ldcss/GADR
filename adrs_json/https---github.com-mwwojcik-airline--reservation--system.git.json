@@ -1,0 +1,106 @@
+{
+  "repositoryUrl": "https://github.com/mwwojcik/airline-reservation-system.git",
+  "crawlDateTime": "2022-01-18T18:47:38.890296",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "ars"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "ars",
+      "path": "0002-TCH-RES-use-modular-monolith.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-02T20:48:48Z",
+      "lastCommit": "2020-05-02T20:48:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ed336968905f34cf36c0bac5b6db5001509172e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ars",
+      "path": "0004-TCH-RES-use-document-database-as-a-aggregate-data-repository.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-19T05:42:17Z",
+      "lastCommit": "2020-05-19T05:42:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "99b3852ef383aa110f5c982a5cd0d82ece1eeebb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ars",
+      "path": "0003-TCH-RES-use-ports-and-adapters-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-02T20:48:48Z",
+      "lastCommit": "2020-05-03T13:08:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ed336968905f34cf36c0bac5b6db5001509172e",
+            "8d4314caa77d237e9513edaa7eecf5dd48c6576b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ars",
+      "path": "0005-TCH-RES-use-spring-repository.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-02T20:48:48Z",
+      "lastCommit": "2020-05-03T13:08:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ed336968905f34cf36c0bac5b6db5001509172e",
+            "8d4314caa77d237e9513edaa7eecf5dd48c6576b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-02T20:48:48Z",
+  "lastAdrCommit": "2020-05-19T05:42:17Z",
+  "firstCommit": "2020-04-04T19:37:54Z",
+  "lastCommit": "2020-06-23T21:05:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "99b3852ef383aa110f5c982a5cd0d82ece1eeebb",
+        "4ed336968905f34cf36c0bac5b6db5001509172e",
+        "8d4314caa77d237e9513edaa7eecf5dd48c6576b"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

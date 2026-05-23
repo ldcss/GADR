@@ -1,0 +1,580 @@
+{
+  "repositoryUrl": "https://github.com/LBHackney-IT/Data-Platform-Playbook.git",
+  "crawlDateTime": "2022-01-18T23:05:21.786223",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture-decisions"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "records/007-sftp-to-s3-lambda.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-28T11:00:24Z",
+      "lastCommit": "2021-11-10T18:06:13Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bfc094c96080233d67f352a87674acd6feaa5b7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe586f482c553b793919f27d4a3f2d5abd6f8712",
+            "5be35db3c14e4abc4208af378720679cd322c84b",
+            "63eeeac735c9ebc7e6031666ff92e5f1e8758484"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "831516c28ac2086fabbe2fce02c39786bc068d27"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "556dfdfdadd8038b877b6d7c96cd3baa7e14322b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "records/003-role-based-access-control.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-30T13:50:54Z",
+      "lastCommit": "2021-11-15T12:40:47Z",
+      "numberOfCommits": 9,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bfc094c96080233d67f352a87674acd6feaa5b7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe586f482c553b793919f27d4a3f2d5abd6f8712",
+            "c4d55b3724f0af545c7324733344243b9c6ed375",
+            "5be35db3c14e4abc4208af378720679cd322c84b",
+            "ba53b29e02df9cb6bcf036496ddd27fdb1e79a81",
+            "63eeeac735c9ebc7e6031666ff92e5f1e8758484"
+          ],
+          "numberOfCommits": 5
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84a7eb5507ea4f73832d2128fd57ef032bb9c3df",
+            "87c6d1796de8621d7031d5368663e4165c433fdc"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a94a57f15774e6ef055d62830397397b9678549"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "records/009-ingesting-data-from-apis.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-16T11:21:53Z",
+      "lastCommit": "2021-11-10T18:06:13Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bfc094c96080233d67f352a87674acd6feaa5b7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0fedc896245e3099cb435650a6526d02ab02c182"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe586f482c553b793919f27d4a3f2d5abd6f8712",
+            "5be35db3c14e4abc4208af378720679cd322c84b",
+            "63eeeac735c9ebc7e6031666ff92e5f1e8758484"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64aa4873ec3f678f87b99f86c758439427d168b7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "records/010-using-pytest-for-verifying-pyspark-transformations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-25T10:29:40Z",
+      "lastCommit": "2021-11-15T12:40:47Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32ed9c4e88a7a03852c96ecc3e11475a8d3b8467"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bfc094c96080233d67f352a87674acd6feaa5b7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe586f482c553b793919f27d4a3f2d5abd6f8712",
+            "c4d55b3724f0af545c7324733344243b9c6ed375",
+            "5be35db3c14e4abc4208af378720679cd322c84b",
+            "63eeeac735c9ebc7e6031666ff92e5f1e8758484"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25adb5893af88fad4d69104f08d465e97794d378"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "records/001-record-architecture-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-30T13:50:54Z",
+      "lastCommit": "2021-11-10T18:06:13Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bfc094c96080233d67f352a87674acd6feaa5b7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe586f482c553b793919f27d4a3f2d5abd6f8712",
+            "5be35db3c14e4abc4208af378720679cd322c84b",
+            "63eeeac735c9ebc7e6031666ff92e5f1e8758484"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84a7eb5507ea4f73832d2128fd57ef032bb9c3df",
+            "87c6d1796de8621d7031d5368663e4165c433fdc"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5df3e837c31eb523be0b18da8f6f63d6dc97f960"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "records/005-recovered-data.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-20T08:47:25Z",
+      "lastCommit": "2021-11-10T18:06:13Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bfc094c96080233d67f352a87674acd6feaa5b7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe586f482c553b793919f27d4a3f2d5abd6f8712",
+            "5be35db3c14e4abc4208af378720679cd322c84b",
+            "63eeeac735c9ebc7e6031666ff92e5f1e8758484",
+            "ebf285d0cc749ea11c512e8a2831783f0ee34ade"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d6f08899ae47072362cf54390ccbd26df30c700"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "be6b223788c582894b91e1de2d5f9341c1ff5f04"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "records/011-using-datahub-as-a-data-catalogue.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-08T14:29:40Z",
+      "lastCommit": "2021-11-15T12:40:47Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe586f482c553b793919f27d4a3f2d5abd6f8712",
+            "c4d55b3724f0af545c7324733344243b9c6ed375",
+            "5be35db3c14e4abc4208af378720679cd322c84b",
+            "63eeeac735c9ebc7e6031666ff92e5f1e8758484"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0271a958fae146dac1246921a53cc99b753dfc1f",
+            "fd5cf71b6ee6f266a08cf4b623822290ee48eaed"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "records/004-partition-strategy.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-19T11:55:50Z",
+      "lastCommit": "2021-11-10T18:06:13Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bfc094c96080233d67f352a87674acd6feaa5b7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe586f482c553b793919f27d4a3f2d5abd6f8712",
+            "5be35db3c14e4abc4208af378720679cd322c84b",
+            "63eeeac735c9ebc7e6031666ff92e5f1e8758484"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64412a4dfcce582735061a96523ab5673f8833e1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e77e76dfffcc5f876a71d4a6734d43925c7c05a2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "records/002-ingest-google-sheets-data.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-30T13:50:54Z",
+      "lastCommit": "2021-11-10T18:06:13Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bfc094c96080233d67f352a87674acd6feaa5b7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe586f482c553b793919f27d4a3f2d5abd6f8712",
+            "5be35db3c14e4abc4208af378720679cd322c84b",
+            "63eeeac735c9ebc7e6031666ff92e5f1e8758484"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84a7eb5507ea4f73832d2128fd57ef032bb9c3df",
+            "87c6d1796de8621d7031d5368663e4165c433fdc"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cd8e53f429df898911480d2ecf29654cb245b606"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "records/006-ingest-sql-flat-files.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-26T09:48:58Z",
+      "lastCommit": "2021-11-15T12:40:47Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bfc094c96080233d67f352a87674acd6feaa5b7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d78416b954a1a05c057f0c0ee5105f9f865b2c8a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe586f482c553b793919f27d4a3f2d5abd6f8712",
+            "c4d55b3724f0af545c7324733344243b9c6ed375",
+            "5be35db3c14e4abc4208af378720679cd322c84b",
+            "63eeeac735c9ebc7e6031666ff92e5f1e8758484"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "66c72dc9f1f3c0d3e09a1272068f77345f6213e0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "records/008-production-data-in-staging.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-25T12:23:24Z",
+      "lastCommit": "2021-11-10T18:06:13Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8df32f58765938c09ec27e01ed703a5605015768",
+            "3bfc094c96080233d67f352a87674acd6feaa5b7"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe586f482c553b793919f27d4a3f2d5abd6f8712",
+            "5be35db3c14e4abc4208af378720679cd322c84b",
+            "63eeeac735c9ebc7e6031666ff92e5f1e8758484"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "991593539d2b04f31599bec74b784229c09d9bdb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-04-30T13:50:54Z",
+  "lastAdrCommit": "2021-11-15T12:40:47Z",
+  "firstCommit": "2021-03-23T15:09:49Z",
+  "lastCommit": "2022-01-14T10:53:27Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture-decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "32ed9c4e88a7a03852c96ecc3e11475a8d3b8467"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8df32f58765938c09ec27e01ed703a5605015768",
+        "3bfc094c96080233d67f352a87674acd6feaa5b7"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d78416b954a1a05c057f0c0ee5105f9f865b2c8a",
+        "0fedc896245e3099cb435650a6526d02ab02c182"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fe586f482c553b793919f27d4a3f2d5abd6f8712",
+        "c4d55b3724f0af545c7324733344243b9c6ed375",
+        "5be35db3c14e4abc4208af378720679cd322c84b",
+        "ba53b29e02df9cb6bcf036496ddd27fdb1e79a81",
+        "63eeeac735c9ebc7e6031666ff92e5f1e8758484",
+        "ebf285d0cc749ea11c512e8a2831783f0ee34ade"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2d6f08899ae47072362cf54390ccbd26df30c700",
+        "84a7eb5507ea4f73832d2128fd57ef032bb9c3df",
+        "64412a4dfcce582735061a96523ab5673f8833e1",
+        "87c6d1796de8621d7031d5368663e4165c433fdc"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "831516c28ac2086fabbe2fce02c39786bc068d27"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "25adb5893af88fad4d69104f08d465e97794d378",
+        "4a94a57f15774e6ef055d62830397397b9678549",
+        "cd8e53f429df898911480d2ecf29654cb245b606",
+        "64aa4873ec3f678f87b99f86c758439427d168b7",
+        "be6b223788c582894b91e1de2d5f9341c1ff5f04",
+        "e77e76dfffcc5f876a71d4a6734d43925c7c05a2",
+        "66c72dc9f1f3c0d3e09a1272068f77345f6213e0",
+        "0271a958fae146dac1246921a53cc99b753dfc1f",
+        "991593539d2b04f31599bec74b784229c09d9bdb",
+        "5df3e837c31eb523be0b18da8f6f63d6dc97f960",
+        "556dfdfdadd8038b877b6d7c96cd3baa7e14322b",
+        "fd5cf71b6ee6f266a08cf4b623822290ee48eaed"
+      ],
+      "numberOfCommits": 12
+    }
+  ]
+}

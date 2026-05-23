@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/esantanche/webwritertechandhumanity.com.git",
+  "crawlDateTime": "2022-01-18T23:06:47.470662",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0002-how-to-implement-special-pages.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-23T15:14:50Z",
+      "lastCommit": "2020-01-23T15:14:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a931d1a9e316bed7fc89af29d1f8b3b6b0cb9e1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-23T15:14:50Z",
+      "lastCommit": "2020-01-23T15:14:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a931d1a9e316bed7fc89af29d1f8b3b6b0cb9e1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-23T15:14:50Z",
+  "lastAdrCommit": "2020-01-23T15:14:50Z",
+  "firstCommit": "2020-01-23T15:14:50Z",
+  "lastCommit": "2020-12-14T10:13:26Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5a931d1a9e316bed7fc89af29d1f8b3b6b0cb9e1"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

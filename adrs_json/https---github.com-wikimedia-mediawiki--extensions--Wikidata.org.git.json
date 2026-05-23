@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/wikimedia/mediawiki-extensions-Wikidata.org.git",
+  "crawlDateTime": "2022-01-18T21:10:43.129797",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "001-including-query-service-lag-in-maxlaginfo.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-02T16:41:27Z",
+      "lastCommit": "2019-09-02T16:41:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf41b91cb68c8fa938de8e6f509ba12e1d7a851a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-09-02T16:41:27Z",
+  "lastAdrCommit": "2019-09-02T16:41:27Z",
+  "firstCommit": "2014-07-15T16:20:45Z",
+  "lastCommit": "2022-01-11T05:48:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cf41b91cb68c8fa938de8e6f509ba12e1d7a851a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

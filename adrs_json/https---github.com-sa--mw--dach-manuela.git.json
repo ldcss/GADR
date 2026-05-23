@@ -1,0 +1,187 @@
+{
+  "repositoryUrl": "https://github.com/sa-mw-dach/manuela.git",
+  "crawlDateTime": "2022-01-18T20:41:04.661418",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-overall-context-and-container-platform.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-21T23:27:01Z",
+      "lastCommit": "2020-03-21T23:27:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "95c6d8fc70840023b0194c50d4c4ed1ab1553a8a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-need-for-time-series-database.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-06-16T22:16:27Z",
+      "lastCommit": "2020-06-25T19:58:39Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7709a172f9add86be2a3f7b1d4d16394426d8d0f",
+            "465906751cf329d0a38876c1612ea2d14e0a4d25"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-argocd-as-deployment-agent.md",
+      "template": "Nygard",
+      "status": "Accepted Context [2. Overall context and Container Platform](0002-overall-context-and-container-platform.md) Related [3. Gitops Approach](0003-gitops-approach.md) Related [5. Kustomize as templating tool](0005-kustomize-as-templating-tool.md)",
+      "firstCommit": "2020-03-21T23:27:01Z",
+      "lastCommit": "2020-03-21T23:27:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "95c6d8fc70840023b0194c50d4c4ed1ab1553a8a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-how-to-implement-multiple-demo-instances.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2020-04-10T21:32:32Z",
+      "lastCommit": "2020-04-21T11:33:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4fca146ed98bdcf8bbbed2f1afa3bb4e491f2530",
+            "4d3aadc524949d970088f70f98f5998fdd43b019"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-gitops-approach.md",
+      "template": "Nygard",
+      "status": "Accepted Related [4. ArgoCD as deployment agent](0004-argocd-as-deployment-agent.md)",
+      "firstCommit": "2020-03-21T23:27:01Z",
+      "lastCommit": "2020-03-21T23:27:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "95c6d8fc70840023b0194c50d4c4ed1ab1553a8a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-single-node-edge-server.md",
+      "template": "Nygard",
+      "status": "Open - we PoCd that single node servers could be managed via GitOps, are waiting for the RH product develop to address the single node use case: https://github.com/stefan-bergstein/edge-lab/tree/master/podman-gitops Context [2. Overall context and Container Platform](0002-overall-context-and-container-platform.md)",
+      "firstCommit": "2020-03-21T23:27:01Z",
+      "lastCommit": "2020-03-21T23:27:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "95c6d8fc70840023b0194c50d4c4ed1ab1553a8a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-kustomize-as-templating-tool.md",
+      "template": "Nygard",
+      "status": "Accepted Context [2. Overall context and Container Platform](0002-overall-context-and-container-platform.md) Related [3. Gitops Approach](0003-gitops-approach.md) Related [4. ArgoCD as deployment agent](0004-argocd-as-deployment-agent.md)",
+      "firstCommit": "2020-03-21T23:27:01Z",
+      "lastCommit": "2020-03-21T23:27:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "95c6d8fc70840023b0194c50d4c4ed1ab1553a8a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-21T23:27:01Z",
+      "lastCommit": "2020-03-21T23:27:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "95c6d8fc70840023b0194c50d4c4ed1ab1553a8a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-21T23:27:01Z",
+  "lastAdrCommit": "2020-06-25T19:58:39Z",
+  "firstCommit": "2019-11-28T11:54:44Z",
+  "lastCommit": "2021-06-07T08:26:49Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "95c6d8fc70840023b0194c50d4c4ed1ab1553a8a",
+        "4fca146ed98bdcf8bbbed2f1afa3bb4e491f2530",
+        "7709a172f9add86be2a3f7b1d4d16394426d8d0f",
+        "465906751cf329d0a38876c1612ea2d14e0a4d25",
+        "4d3aadc524949d970088f70f98f5998fdd43b019"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

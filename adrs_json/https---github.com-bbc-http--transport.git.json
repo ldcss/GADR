@@ -1,0 +1,101 @@
+{
+  "repositoryUrl": "https://github.com/bbc/http-transport.git",
+  "crawlDateTime": "2022-01-18T19:26:46.376619",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-001-http-transport.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-26T09:41:31Z",
+      "lastCommit": "2018-02-26T09:41:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "483837ea557882d85eeabd07c7249ccb9aeebdbb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-002-middleware.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2018-02-26T13:22:31Z",
+      "lastCommit": "2018-02-28T12:28:52Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f7a70e9f2d34129b43e4de4718666c8ddcee36a3",
+            "88fcd7e6b39aa9649685725a093b52cd15f90bd9"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e809afa30b102a8b5102865c92e74a2c9eb8b5b4",
+            "111bd50a90138933bdd703c55de059cb5a23611f"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dacbc2835aa56efb0ba108c4b70445945137e21"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-02-26T09:41:31Z",
+  "lastAdrCommit": "2018-02-28T12:28:52Z",
+  "firstCommit": "2017-08-21T16:46:27Z",
+  "lastCommit": "2020-09-22T13:58:52Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f7a70e9f2d34129b43e4de4718666c8ddcee36a3",
+        "88fcd7e6b39aa9649685725a093b52cd15f90bd9",
+        "483837ea557882d85eeabd07c7249ccb9aeebdbb"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e809afa30b102a8b5102865c92e74a2c9eb8b5b4",
+        "111bd50a90138933bdd703c55de059cb5a23611f"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0dacbc2835aa56efb0ba108c4b70445945137e21"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

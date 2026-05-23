@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/Coleoid/CopperBend.git",
+  "crawlDateTime": "2022-01-18T20:50:27.708543",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "ADRs"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "ADRs",
+      "path": "D001_keep_ADRs_in_git_and_freely_reformat.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-05-31T12:03:12Z",
+      "lastCommit": "2019-05-31T12:03:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "42702c7345f4319b9cdb09c929f92814c9873edd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "D002_unify_command_flow_for_player_and_creatures.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-03T12:39:53Z",
+      "lastCommit": "2019-09-03T12:39:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45a71a3a32e61f228ae9db81a2adabd6debe5a3c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-31T12:03:12Z",
+  "lastAdrCommit": "2019-09-03T12:39:53Z",
+  "firstCommit": "2018-09-07T21:18:09Z",
+  "lastCommit": "2021-01-29T20:28:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "45a71a3a32e61f228ae9db81a2adabd6debe5a3c",
+        "42702c7345f4319b9cdb09c929f92814c9873edd"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

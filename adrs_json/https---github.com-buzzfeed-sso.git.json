@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/buzzfeed/sso.git",
+  "crawlDateTime": "2022-01-18T17:46:15.878113",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "2018-08-16-circuit-breaker.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-08-22T19:15:18Z",
+      "lastCommit": "2018-08-22T19:15:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c169b34603a63883f26dc2b717e65df34b0503f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-22T19:15:18Z",
+  "lastAdrCommit": "2018-08-22T19:15:18Z",
+  "firstCommit": "2018-08-16T20:44:54Z",
+  "lastCommit": "2022-01-14T11:40:07Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9c169b34603a63883f26dc2b717e65df34b0503f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

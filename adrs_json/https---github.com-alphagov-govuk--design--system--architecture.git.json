@@ -1,0 +1,137 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/govuk-design-system-architecture.git",
+  "crawlDateTime": "2022-01-18T19:56:09.287527",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decision-records"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "decision-records",
+      "path": "002-restructure-based-on-single-package.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-05-21T15:50:13Z",
+      "lastCommit": "2019-01-15T14:51:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e57044f4c5083b718d813ae1ef2b68cebd8114a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa01fd4cc7cd5e4f7693b977bef6570886872e78"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-records",
+      "path": "003-templating-languages.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-07-09T08:12:17Z",
+      "lastCommit": "2018-07-09T08:12:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ba1ff1f2fe66bd3632abd5a8c5b56361ef8cb081"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-records",
+      "path": "001-javascript-for-less-capable-browsers.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-05-18T15:36:24Z",
+      "lastCommit": "2018-05-18T15:36:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9cdf7a7753da972ae8d9b6182e5d05b51a945f6a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-records",
+      "path": "004-new-version-font.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-07-29T16:14:56Z",
+      "lastCommit": "2019-07-29T16:15:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "62d99efcef3e06d543d1b2c476abe612f0b53df1",
+            "e7d274173e562d502bcf4d91b92a2a8cec0a8802"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-18T15:36:24Z",
+  "lastAdrCommit": "2019-07-29T16:15:23Z",
+  "firstCommit": "2018-03-14T13:59:53Z",
+  "lastCommit": "2020-05-04T15:05:42Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2e57044f4c5083b718d813ae1ef2b68cebd8114a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ba1ff1f2fe66bd3632abd5a8c5b56361ef8cb081"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fa01fd4cc7cd5e4f7693b977bef6570886872e78",
+        "62d99efcef3e06d543d1b2c476abe612f0b53df1",
+        "e7d274173e562d502bcf4d91b92a2a8cec0a8802"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9cdf7a7753da972ae8d9b6182e5d05b51a945f6a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "repositoryUrl": "https://github.com/seancarroll/jfluentvalidation.git",
+  "crawlDateTime": "2022-01-18T20:22:01.030491",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-primitive-array-constraints.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-05-28T01:20:03Z",
+      "lastCommit": "2019-05-29T12:20:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "88ae48b3c7c79844cfd907cc7ba397e86ddaeb38",
+            "1a1c988686afa902fc17b954875f3505de2336e9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-28T01:20:03Z",
+  "lastAdrCommit": "2019-05-29T12:20:13Z",
+  "firstCommit": "2018-08-26T03:32:05Z",
+  "lastCommit": "2021-06-04T21:59:47Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "88ae48b3c7c79844cfd907cc7ba397e86ddaeb38",
+        "1a1c988686afa902fc17b954875f3505de2336e9"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

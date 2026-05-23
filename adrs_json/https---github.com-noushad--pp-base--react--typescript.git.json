@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/noushad-pp/base-react-typescript.git",
+  "crawlDateTime": "2022-01-18T22:55:19.142388",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-feature-driven-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-31T10:43:00Z",
+      "lastCommit": "2019-08-31T10:43:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "80e92386f822ba8a0079fc19f3bedaca19905853"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-31T10:43:00Z",
+      "lastCommit": "2019-08-31T10:43:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "80e92386f822ba8a0079fc19f3bedaca19905853"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-31T10:43:00Z",
+  "lastAdrCommit": "2019-08-31T10:43:00Z",
+  "firstCommit": "2019-08-25T08:48:27Z",
+  "lastCommit": "2022-01-13T21:29:43Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "80e92386f822ba8a0079fc19f3bedaca19905853"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

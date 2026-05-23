@@ -1,0 +1,115 @@
+{
+  "repositoryUrl": "https://github.com/status-im/open-bounty.git",
+  "crawlDateTime": "2022-01-18T19:43:33.810902",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0003-include-compiled-web3j-contracts-in-git.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-26T16:09:38Z",
+      "lastCommit": "2018-03-26T16:09:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "006d6d6bdf7dd371ac4b35a73379dff8428ea17a",
+            "400f848e08dcd98969ad9ca89c2624f9d109753f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0004-use-tachyons.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T16:34:46Z",
+      "lastCommit": "2018-04-26T16:34:46Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "830cb1d43470d46085182e360566f808e61975f2",
+            "08d6fa97d8bbe9562744426aea2bd10731ec16b0",
+            "d1ad02edf7bfb249262510b4ab428316f81ba0f8",
+            "be35f249da5d1122403cca78a7e77a08b2cc062f"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0002-sign-commits-with-gpg.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-02-21T18:54:13Z",
+      "lastCommit": "2018-02-21T18:54:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "796b034486bc9b53088a9c456e56e9e7c761d342",
+            "4dfdfd2369607d8a70b223af23d78afa67c09fdc"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0001-record-decisions.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-02-21T18:54:13Z",
+      "lastCommit": "2018-02-21T18:54:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e582b00147b02d86e7bb42b20771ae08356b9dc5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-02-21T18:54:13Z",
+  "lastAdrCommit": "2018-04-26T16:34:46Z",
+  "firstCommit": "2016-08-20T21:36:09Z",
+  "lastCommit": "2019-02-08T11:21:00Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "006d6d6bdf7dd371ac4b35a73379dff8428ea17a",
+        "830cb1d43470d46085182e360566f808e61975f2",
+        "400f848e08dcd98969ad9ca89c2624f9d109753f",
+        "08d6fa97d8bbe9562744426aea2bd10731ec16b0",
+        "796b034486bc9b53088a9c456e56e9e7c761d342",
+        "d1ad02edf7bfb249262510b4ab428316f81ba0f8",
+        "be35f249da5d1122403cca78a7e77a08b2cc062f",
+        "4dfdfd2369607d8a70b223af23d78afa67c09fdc",
+        "e582b00147b02d86e7bb42b20771ae08356b9dc5"
+      ],
+      "numberOfCommits": 9
+    }
+  ]
+}

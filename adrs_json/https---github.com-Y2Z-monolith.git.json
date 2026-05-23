@@ -1,0 +1,203 @@
+{
+  "repositoryUrl": "https://github.com/Y2Z/monolith.git",
+  "crawlDateTime": "2022-01-18T22:22:55.027541",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0004-asset-integrity-check.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-24T04:15:32Z",
+      "lastCommit": "2020-05-25T01:21:52Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8fbae735fa2430e2671490c1ef6f848b8c431641",
+            "f16a2a9ed5fad26593adb30cc98ec66b7ac91b97",
+            "38d7873d6e52658e8202000aee8ea887ca0ef6d7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0002-noscript-nodes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-17T03:24:03Z",
+      "lastCommit": "2020-05-25T01:21:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87c8b361eac650d358e9332ee4f4c5010f4372e6",
+            "f16a2a9ed5fad26593adb30cc98ec66b7ac91b97"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0005-asset-minimization.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-16T03:04:03Z",
+      "lastCommit": "2020-11-23T03:20:37Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87c8b361eac650d358e9332ee4f4c5010f4372e6",
+            "60ef631315a724a550e045b71c113e9c9484ee8b",
+            "7a97291498a57468bfc1f4bfec97afe51949e91d",
+            "f16a2a9ed5fad26593adb30cc98ec66b7ac91b97"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0008-base-tag.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-25T04:38:44Z",
+      "lastCommit": "2020-12-25T22:06:56Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "816b6175ac307c39a2c0a8e8d4d56aabc97ebb5d",
+            "15d98a7269db57e2852d20cb87d4381a1393c891"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0003-network-request-timeout.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-20T13:07:01Z",
+      "lastCommit": "2020-11-23T03:20:37Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b4c46c59d4c92970516364cefa7cf465e6fa47e8",
+            "7a97291498a57468bfc1f4bfec97afe51949e91d",
+            "8574b7899b5b23903afde8957f5dd6dbc0e7ae74",
+            "f16a2a9ed5fad26593adb30cc98ec66b7ac91b97"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0007-network-errors.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-23T03:20:37Z",
+      "lastCommit": "2020-11-23T03:20:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a97291498a57468bfc1f4bfec97afe51949e91d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-20T13:07:01Z",
+      "lastCommit": "2020-02-21T12:58:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b4c46c59d4c92970516364cefa7cf465e6fa47e8",
+            "8574b7899b5b23903afde8957f5dd6dbc0e7ae74"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0006-reload-and-location-meta-tags.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-26T18:44:54Z",
+      "lastCommit": "2020-11-23T03:20:37Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a97291498a57468bfc1f4bfec97afe51949e91d",
+            "ac04af2cfc918733b97429ab4de8ab0c8efb54c6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-20T13:07:01Z",
+  "lastAdrCommit": "2020-12-25T22:06:56Z",
+  "firstCommit": "2017-02-20T07:47:35Z",
+  "lastCommit": "2021-12-06T06:26:44Z",
+  "adrDirFile": {
+    "fileContent": "docs/arch\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "816b6175ac307c39a2c0a8e8d4d56aabc97ebb5d",
+        "87c8b361eac650d358e9332ee4f4c5010f4372e6",
+        "8fbae735fa2430e2671490c1ef6f848b8c431641",
+        "60ef631315a724a550e045b71c113e9c9484ee8b",
+        "b4c46c59d4c92970516364cefa7cf465e6fa47e8",
+        "7a97291498a57468bfc1f4bfec97afe51949e91d",
+        "15d98a7269db57e2852d20cb87d4381a1393c891",
+        "8574b7899b5b23903afde8957f5dd6dbc0e7ae74",
+        "ac04af2cfc918733b97429ab4de8ab0c8efb54c6",
+        "f16a2a9ed5fad26593adb30cc98ec66b7ac91b97",
+        "38d7873d6e52658e8202000aee8ea887ca0ef6d7"
+      ],
+      "numberOfCommits": 11
+    }
+  ]
+}

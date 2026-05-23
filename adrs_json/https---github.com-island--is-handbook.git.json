@@ -1,0 +1,445 @@
+{
+  "repositoryUrl": "https://github.com/island-is/handbook.git",
+  "crawlDateTime": "2022-01-18T20:47:22.756518",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-nx.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-05-03T23:14:19Z",
+      "lastCommit": "2020-07-06T09:25:43Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c47f2963e0d15f4e3ba37ba646538bf4c6f3bc22",
+            "b1b993d26f4409f8a5e1f01d588293fcb4ee0d2c",
+            "1a60dec344e58b27654576e48cdaf9798de824a9"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a319acbe8757487f62e1c25e4c8a26b170d48630"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-cms.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-07-06T09:25:00Z",
+      "lastCommit": "2020-07-06T09:25:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84fb271cddeb521a371c8c238b6ffa70ca35090f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-css.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-05-27T15:52:16Z",
+      "lastCommit": "2020-07-06T09:25:43Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1b993d26f4409f8a5e1f01d588293fcb4ee0d2c",
+            "1a60dec344e58b27654576e48cdaf9798de824a9",
+            "4b3de2af7fb447730f1482b06381d6b72a3f6817"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-naming-files-and-directories.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-07-03T10:47:21Z",
+      "lastCommit": "2020-07-06T09:25:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c65fe17041e9d44dcb5e1bcd6e1e54a7e57fa7ca"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a60dec344e58b27654576e48cdaf9798de824a9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-open-source-license.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2020-06-23T11:11:28Z",
+      "lastCommit": "2020-07-13T17:13:29Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9da63598269c82606d3069bd57be46ba6718ff7f",
+            "524f5414863eb0ca8e5adaa2e8f43ef751790bab",
+            "0a4b97200dd2e2f1ee9071c8934ee24f8a8bc2f9"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-continuous-integration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-25T11:08:47Z",
+      "lastCommit": "2020-05-25T15:14:48Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a319acbe8757487f62e1c25e4c8a26b170d48630",
+            "f3b83c2b8620720b9de186509c39b471addcd830"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6974c1c377382290ce52d4f1a16011794bd6d594"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-viskuausan-static-site-generator.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-06-29T11:27:41Z",
+      "lastCommit": "2020-09-07T12:28:47Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a60dec344e58b27654576e48cdaf9798de824a9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edfdcd6b5c24418cfb6de7cc290c49ec69642826",
+            "f32fc3d184dde85c6582fe628951c65b98a4d7c9",
+            "a1a305a756dde25bd870724c6bf69c83af3c5d5b"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-use-oauth-and-openid-connect.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-05-25T13:35:06Z",
+      "lastCommit": "2020-07-06T09:25:43Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a60dec344e58b27654576e48cdaf9798de824a9",
+            "500d75b688f858c06b80f650b18d663553113d8f"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "27e3ab85352d15eb2158dcacf4f53b0099c835a9",
+            "2a4b5aa3f88d082d5b5543488bd239db8a85f24a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-branching-and-release-strategy.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-06-01T14:17:01Z",
+      "lastCommit": "2020-07-06T09:25:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a60dec344e58b27654576e48cdaf9798de824a9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9274c895cc87727a460c7bf4ccd88d3ee13bcb41"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-06-01T14:12:58Z",
+      "lastCommit": "2020-07-06T09:25:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1b993d26f4409f8a5e1f01d588293fcb4ee0d2c",
+            "1a60dec344e58b27654576e48cdaf9798de824a9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-what-api-management-tool-to-consider.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-06-12T10:31:06Z",
+      "lastCommit": "2020-10-23T15:39:37Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "73019209f73f27c22be4cab9cddf803b5d92d254"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a60dec344e58b27654576e48cdaf9798de824a9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "54e7eec7235c0bee446f83735a19535d01e0d484",
+            "db285970b24cdea7f73ed815fb7f45b986de73b1"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bbab1750045e7ea4b782e77decf5915a2106dc1f",
+            "5f1fb737511427202120ddb2bb2f0be0dac06dcf"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-error-tracking-and-monitoring.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-06-12T10:10:02Z",
+      "lastCommit": "2020-06-12T10:38:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e0b1dd4ab4061572290a31b90293cd310a06dcea",
+            "c224bf4ae27cf3e5f373c01126ad77eabe8ec1b7",
+            "22204d94d7e56bedcc50f0301b8df3a8f2310c65"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-03T23:14:19Z",
+  "lastAdrCommit": "2020-10-23T15:39:37Z",
+  "firstCommit": "2020-04-27T12:18:52Z",
+  "lastCommit": "2020-11-24T13:52:47Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "73019209f73f27c22be4cab9cddf803b5d92d254"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c65fe17041e9d44dcb5e1bcd6e1e54a7e57fa7ca"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c47f2963e0d15f4e3ba37ba646538bf4c6f3bc22",
+        "b1b993d26f4409f8a5e1f01d588293fcb4ee0d2c",
+        "1a60dec344e58b27654576e48cdaf9798de824a9",
+        "4b3de2af7fb447730f1482b06381d6b72a3f6817",
+        "500d75b688f858c06b80f650b18d663553113d8f"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "54e7eec7235c0bee446f83735a19535d01e0d484",
+        "db285970b24cdea7f73ed815fb7f45b986de73b1"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9274c895cc87727a460c7bf4ccd88d3ee13bcb41"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9da63598269c82606d3069bd57be46ba6718ff7f",
+        "524f5414863eb0ca8e5adaa2e8f43ef751790bab",
+        "0a4b97200dd2e2f1ee9071c8934ee24f8a8bc2f9"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "edfdcd6b5c24418cfb6de7cc290c49ec69642826",
+        "f32fc3d184dde85c6582fe628951c65b98a4d7c9",
+        "a1a305a756dde25bd870724c6bf69c83af3c5d5b"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bbab1750045e7ea4b782e77decf5915a2106dc1f",
+        "5f1fb737511427202120ddb2bb2f0be0dac06dcf",
+        "a319acbe8757487f62e1c25e4c8a26b170d48630",
+        "f3b83c2b8620720b9de186509c39b471addcd830"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e0b1dd4ab4061572290a31b90293cd310a06dcea",
+        "c224bf4ae27cf3e5f373c01126ad77eabe8ec1b7",
+        "22204d94d7e56bedcc50f0301b8df3a8f2310c65"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6974c1c377382290ce52d4f1a16011794bd6d594"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "27e3ab85352d15eb2158dcacf4f53b0099c835a9",
+        "2a4b5aa3f88d082d5b5543488bd239db8a85f24a"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "84fb271cddeb521a371c8c238b6ffa70ca35090f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

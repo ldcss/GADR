@@ -1,0 +1,88 @@
+{
+  "repositoryUrl": "https://github.com/opinionated-digital-center/python-library-project-generator.git",
+  "crawlDateTime": "2022-01-18T21:08:55.806305",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-04-07T13:52:09Z",
+      "lastCommit": "2020-04-07T13:52:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa2379623c7f36de28347c966440ac8a3145badd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-record-architecture-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-07T13:52:09Z",
+      "lastCommit": "2020-09-10T10:03:39Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa2379623c7f36de28347c966440ac8a3145badd",
+            "a750ccddfbdccd0d17f4679b6079347920a7e4b9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-gnu-make-to-centralise-all-tasks.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-05-07T16:40:06Z",
+      "lastCommit": "2020-05-15T22:06:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "98251a2594d782db5ff87202a179c42d2c83595f",
+            "5a114e7ed40f7fdf9975a59260dd4ccc9f0cf262"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-07T13:52:09Z",
+  "lastAdrCommit": "2020-09-10T10:03:39Z",
+  "firstCommit": "2020-02-07T19:56:40Z",
+  "lastCommit": "2021-10-19T02:31:43Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "98251a2594d782db5ff87202a179c42d2c83595f",
+        "5a114e7ed40f7fdf9975a59260dd4ccc9f0cf262",
+        "fa2379623c7f36de28347c966440ac8a3145badd",
+        "a750ccddfbdccd0d17f4679b6079347920a7e4b9"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

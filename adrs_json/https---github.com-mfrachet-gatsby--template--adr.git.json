@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/mfrachet/gatsby-template-adr.git",
+  "crawlDateTime": "2022-01-18T19:55:45.401847",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "src/adrs"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "src/adrs",
+      "path": "1-Choosing-a-frontend-framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-12T15:38:30Z",
+      "lastCommit": "2020-11-12T15:38:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "50fd4c881e4ecf72aa734985215a9a2c6a9105ee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adrs",
+      "path": "2-Switching-frontend-technology.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-12T15:38:30Z",
+      "lastCommit": "2020-11-12T15:38:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "50fd4c881e4ecf72aa734985215a9a2c6a9105ee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-12T15:38:30Z",
+  "lastAdrCommit": "2020-11-12T15:38:30Z",
+  "firstCommit": "2020-11-12T15:38:30Z",
+  "lastCommit": "2020-11-12T18:05:16Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "50fd4c881e4ecf72aa734985215a9a2c6a9105ee"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/edinella/micro.git",
+  "crawlDateTime": "2022-01-18T20:06:42.457892",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-ISC-as-license.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-12T17:07:18Z",
+      "lastCommit": "2020-10-12T17:07:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3faea8d84648edb2fa4aa41cf1bfc4add06b079"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-have-a-single-repository-for-all-microservices.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-12T19:16:44Z",
+      "lastCommit": "2020-10-12T19:16:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "696a58f0526b458c017f7a2cfce196f70a0a7401"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-12T16:40:22Z",
+      "lastCommit": "2020-10-12T16:40:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fca8c1f687fe0d85c70b26cd1ad0528292470b64"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-12T16:40:22Z",
+  "lastAdrCommit": "2020-10-12T19:16:44Z",
+  "firstCommit": "2020-10-12T16:07:23Z",
+  "lastCommit": "2021-01-15T14:50:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a3faea8d84648edb2fa4aa41cf1bfc4add06b079",
+        "696a58f0526b458c017f7a2cfce196f70a0a7401",
+        "fca8c1f687fe0d85c70b26cd1ad0528292470b64"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

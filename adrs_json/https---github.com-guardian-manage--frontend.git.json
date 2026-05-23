@@ -1,0 +1,197 @@
+{
+  "repositoryUrl": "https://github.com/guardian/manage-frontend.git",
+  "crawlDateTime": "2022-01-18T17:50:19.87385",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs",
+      "path": "00-lightweight-architecture-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-05-31T11:35:27Z",
+      "lastCommit": "2019-01-25T11:56:46Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ed6332432af159cb4c42d4bb3ff2a1ff0b4530f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f35f928b46667de79de0e5db15e7cd119df7dcbc",
+            "6b8c0f10f8468747b33b2260e0fa23736e53e300"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "02-react.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-05-31T11:35:27Z",
+      "lastCommit": "2019-01-25T12:12:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1046eee4f547bbaf506b20afcccfa21ad92e057d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f35f928b46667de79de0e5db15e7cd119df7dcbc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "01-separate-webapp.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-25T12:09:40Z",
+      "lastCommit": "2019-01-25T12:09:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "757b81dcab90a72d80a7cb5c7a7fe3c6b1e5f15b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "03-typescript.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-05-31T11:35:27Z",
+      "lastCommit": "2019-01-25T12:18:27Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "170a8c92f1ca15ce2531ad4e3036dc27f2b539b2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f35f928b46667de79de0e5db15e7cd119df7dcbc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "05-form-submission-via-server-side.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-08T10:53:57Z",
+      "lastCommit": "2021-01-11T15:22:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b03a0da521931f7ecd5120bd881c8aa8d14fea89",
+            "844b6b372e2c842ca928b656b38039964b3be77d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "04-node.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-05-31T11:35:27Z",
+      "lastCommit": "2019-01-25T12:23:41Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5cb6bdc8529c924b120cfe10eb529813d592bd6"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f35f928b46667de79de0e5db15e7cd119df7dcbc",
+            "6b8c0f10f8468747b33b2260e0fa23736e53e300"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-31T11:35:27Z",
+  "lastAdrCommit": "2021-01-11T15:22:54Z",
+  "firstCommit": "2018-04-05T16:02:45Z",
+  "lastCommit": "2022-01-17T09:52:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1046eee4f547bbaf506b20afcccfa21ad92e057d",
+        "9ed6332432af159cb4c42d4bb3ff2a1ff0b4530f",
+        "170a8c92f1ca15ce2531ad4e3036dc27f2b539b2",
+        "757b81dcab90a72d80a7cb5c7a7fe3c6b1e5f15b",
+        "f5cb6bdc8529c924b120cfe10eb529813d592bd6"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f35f928b46667de79de0e5db15e7cd119df7dcbc",
+        "6b8c0f10f8468747b33b2260e0fa23736e53e300"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b03a0da521931f7ecd5120bd881c8aa8d14fea89",
+        "844b6b372e2c842ca928b656b38039964b3be77d"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

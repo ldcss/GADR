@@ -1,0 +1,105 @@
+{
+  "repositoryUrl": "https://github.com/buildit/midashboard-infrastructure.git",
+  "crawlDateTime": "2022-01-18T19:38:23.585515",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-aws-bare-metal-rig-approach.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [3. Use AWS CodePipeline and CodeBuild instead of Travis](0003-use-aws-codepipeline-and-codebuild-instead-of-travis.md)",
+      "firstCommit": "2017-10-24T19:58:34Z",
+      "lastCommit": "2017-10-24T19:58:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adea288f44035ef901e5e47e4af715ba0b0c538e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-use-cloudwatch-logs-for-log-aggregation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-24T19:58:34Z",
+      "lastCommit": "2017-10-24T19:58:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adea288f44035ef901e5e47e4af715ba0b0c538e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-use-aws-codepipeline-and-codebuild-instead-of-travis.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [2. Use AWS Bare Metal Rig approach](0002-use-aws-bare-metal-rig-approach.md)",
+      "firstCommit": "2017-10-24T19:58:34Z",
+      "lastCommit": "2017-10-24T19:58:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adea288f44035ef901e5e47e4af715ba0b0c538e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-24T19:58:34Z",
+      "lastCommit": "2017-10-24T19:58:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adea288f44035ef901e5e47e4af715ba0b0c538e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-10-24T19:58:34Z",
+  "lastAdrCommit": "2017-10-24T19:58:34Z",
+  "firstCommit": "2017-10-24T19:58:34Z",
+  "lastCommit": "2017-10-30T16:37:52Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "adea288f44035ef901e5e47e4af715ba0b0c538e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

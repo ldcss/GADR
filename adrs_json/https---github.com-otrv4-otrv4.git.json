@@ -1,0 +1,1317 @@
+{
+  "repositoryUrl": "https://github.com/otrv4/otrv4.git",
+  "crawlDateTime": "2022-01-18T23:12:31.817332",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decisions"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "001-security-level.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2016-10-20T23:01:55Z",
+      "lastCommit": "2019-03-29T22:09:50Z",
+      "numberOfCommits": 40,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c34e168594c45cadc051d8eb1d7de560f08f0a0",
+            "8527eba111988355b92fcbe7979fc908abd1401a",
+            "1c675e688675b292360466487533b32d2453ecc0",
+            "1ead0b94af92576d57fa48078ba16d623fcbae02"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "887713d03a24a47247e9de0d5820e446267bb90f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "85ca4d56cab5f84974141b697082dfbc5ce09183",
+            "8193a801f73834fa83bf6c178230fde19ec56b17",
+            "3c01ab9c8eea9e5121d3ab6188996b4ad966bbc3"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ddb2422092cf294eff46b67d7951bd3dff1ada5b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "be5dba9dda2ba55a384d81973be81ec2d51453ed"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a5db3a16f7a81c2ace7e47c6839ce026d2e015f6",
+            "6c3f3c04cfc7b0ec932b2b73d176fe607a4e80c3",
+            "7ed73a165b340db83a79fbb05e2cd4b850f7e211",
+            "5dc37c50f4ad6def27df550f15b64e88b780682a",
+            "1c15a224ac2ba13d6ca8c114699a288cca5ea92c",
+            "f84d2ffdd1e84d453a6c05c4830ef7712daf6a90",
+            "d7ab3d51d9ee5e3f641ac2c100f2a8133321b5ac",
+            "8f6abdc96a9ff259a2f30636bc7f69e7086cb2c7",
+            "af0b6ea25ac61a00a0e41ac3515cd20d19a74bf2",
+            "a205a65ae641d59b8c863b667ce322a825bdbd9c",
+            "1c6cc3a0701dc5ed54f65d5413699a0c67aca3e0"
+          ],
+          "numberOfCommits": 11
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f602e3372baee56e314cf874d8a0defc831c574",
+            "ae051e0344552560beed397fc698586abbf976c5",
+            "94568dfe1d9d544a52580ff9c179effa19fc567e",
+            "f96a18a6a5b13a2a28ead612a810033dfdb37fe8",
+            "15d037a0c72b5afcc91a7281637883357c18c6ad",
+            "45d1e234c60178f267161394e0103c73880216d6",
+            "196648d0b818578855301b7b8ddf63f3a29238eb",
+            "3da665f5b4cf4ed865473a0a37b3e7c65b2bc7e8",
+            "69ed0199807ed89d0d714447cfd44ce64f2ffb48",
+            "6f2c3df22e811077cdfe8327ed71879e29d70a48",
+            "24fe52786063d185cea671802c45965817017edc",
+            "0ee35b921e201cd84633e284da6a3b7e992b9ea1",
+            "fb46f7ea52e8e94526cdf12307314372a28a42b4",
+            "11b63457633c96259e87b9b9aa7c9536e93d98cf",
+            "6a09d8127fed1480c54e183e42e0d9e8c0ff8829",
+            "5722733d6ea433f76c0085b48c7c30a2a9a0836c"
+          ],
+          "numberOfCommits": 16
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7a222e4401ae9e401abf6556521329aa537d36a",
+            "8d3af4358b75d14509a7114eb562174ceecadbfd",
+            "b58c4f4d24a30f216a3d5d15fdf6f88383c409f0"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "002-key-management.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-07-20T19:40:21Z",
+      "lastCommit": "2019-03-11T04:11:10Z",
+      "numberOfCommits": 24,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2db723a0cf2cbe441d8ca61da21cecffef6d631b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a205a65ae641d59b8c863b667ce322a825bdbd9c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2e4de69f352d302f71d2372f4ebe45ec40bb61f",
+            "923a0fa942df46ce32b79860b44ea3eebdbab4d8",
+            "1cf007d1e4c414492bba51e0f2ee4ff83875ddd0",
+            "f96a18a6a5b13a2a28ead612a810033dfdb37fe8",
+            "63c51884942b2c2e8aa706f53c6233f7fe0be631",
+            "15d037a0c72b5afcc91a7281637883357c18c6ad",
+            "8889c93bc6d0426831724069d93dc469fed88f1d",
+            "09e6521b1c4e389eada9b2b4a11f67e5c82a5229",
+            "0db604bb5b61effd957d2d8c940b702f8a8f24bb",
+            "69ed0199807ed89d0d714447cfd44ce64f2ffb48",
+            "dd21d9e754bde777f29f78b2195f1bb408f81c3d",
+            "70a9fb0c6156b527d7a5eca585255ca3ecf6be5c",
+            "bd816d451aaa7d1209d8c345fe6dcad150c654f0",
+            "a7e77ded27edf2a313ca4decff048febd9aec234",
+            "69eb70b697afcbabd1c9cdcc90eccfa84deb630b",
+            "b1eb7b770a3c4d18917244dfaeba8a566c22a000",
+            "448461051366cf46701eaad046838f2f7c28e5ee",
+            "85d22f4f1f92eff3fda8f7b5c1b561a40db901d5",
+            "1e9a0d77e7514e1e3a802ec977d108edf7702382",
+            "5722733d6ea433f76c0085b48c7c30a2a9a0836c",
+            "9b25fc49330ebc12a1f9fdcfd49f0a8c648c41a7",
+            "dfd24ec07c79f3fb0277ff78190b63cd90099aab"
+          ],
+          "numberOfCommits": 22
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "005-brace-keys.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2016-11-21T17:02:54Z",
+      "lastCommit": "2019-06-02T20:55:14Z",
+      "numberOfCommits": 58,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e887c0ba6a76f58211101794054e5870e6a64153",
+            "96315bf7d26c2b1e107011430f2cbcb56f2698e1"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1547e1ce6d2f235d0a265884e5cc625c3e81cc4",
+            "e6b89c05793c88c632e830f9b66265f44e98b0bd",
+            "bcceec5878ab31263631a0cffc2398e9d793b2a1",
+            "887713d03a24a47247e9de0d5820e446267bb90f"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d756ea3acece4c50f44b8c8886ae22d15dde1efe",
+            "605875c99488cfc0e54abcce09e00dfb4c3f399c",
+            "0975229fa87175b49eb52e86f37f3a85d42980f3"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5916af066e30e28fd5e370e41e546c8dce2b6405",
+            "75122ad567aef49298fe7e4b7cdaf86f262f1d78"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb5ada156659bff60c9ca6996c103b3961438e86",
+            "6ec4f67d5de6d6e0869d432dc564877fb62eaf19",
+            "3769db815839235ae40457c2d4b716d714735ff2",
+            "2cc553b0c41e9265bd065f79fe264a807d2e57df",
+            "832b98a43dcfcd734f49f5f7577f572f21c8ef86",
+            "f58712e2c5f9b0d7c2aa4dad674617817ba6cae6"
+          ],
+          "numberOfCommits": 6
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc0431ca4b94655f13ddb9a70560dbd64e91df76"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6619d411e7b6d3bb633dc7ff85a74d37e8a9caa2",
+            "1c15a224ac2ba13d6ca8c114699a288cca5ea92c",
+            "cf4e9f74dc822de4d338566f1d03988f55cd08f8",
+            "b2405c0053cf72b737ea0302b66feab15a20ec4f",
+            "dd42dc5a6c14ac430c196dda8c26fcf1f4c6ccc2",
+            "0ce0a21bd6554dee371b9ff91b6236d6a4ba2f72",
+            "fc27d7a302cdf8fa71f4e20ce2631a50c5de9e8b",
+            "a205a65ae641d59b8c863b667ce322a825bdbd9c",
+            "7ed73a165b340db83a79fbb05e2cd4b850f7e211",
+            "335a57114c71388f8e1c7726386463400717ad2c",
+            "622b7d15a2f91ff75d150fd0853a0eb41106e4aa",
+            "32df96c68f2b453dd317a1ac86e4893d5bfbbb65",
+            "c582bf8bc143ff962364d1bea4842ed6385e4b10"
+          ],
+          "numberOfCommits": 13
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5de22cc24c62ba4d9c200123dc7529b7778f9a71",
+            "6ace91c9653905c9da7318c2ec220d0ed87dbaee"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc9ff61691da7418d5eaf35169d3e54712f53fa8",
+            "7d4fd434c1f45c0aec83b62420ce3811165d93de",
+            "2ffc7f9ae63fe2485160ec3df2be1d9955fbe237",
+            "63c51884942b2c2e8aa706f53c6233f7fe0be631",
+            "15d037a0c72b5afcc91a7281637883357c18c6ad",
+            "1181ae17471470e3e952df0700b93720468dad4e",
+            "fa854dfdfee56368dadd01d4da66cce0efb12587",
+            "7bd2d148971d1357ab26b627d188a47ca3c0e25c",
+            "ceaa9c60a1955f970fe1976992b7f10c1a409ee0",
+            "e3bbc9141686f78640fb8a6700ae277275b091f9",
+            "24fe52786063d185cea671802c45965817017edc",
+            "979b5cdf039a2bbc8792f5be519e21d4fc7296bd",
+            "11d4c2ded9bb5a038ab0536f5adf032793a4226c",
+            "52facfaee701c6fe394c04f9e669366ae06dd193",
+            "5b51eeb7c17998b5a927bc6eec1c5f6d236cf8a4",
+            "9bdb13765772cc5376c96296a12dc57e269a7d8f",
+            "469bb61ed7cd105abb99bd38c322408076597a7a",
+            "fb46f7ea52e8e94526cdf12307314372a28a42b4",
+            "11b63457633c96259e87b9b9aa7c9536e93d98cf",
+            "6a09d8127fed1480c54e183e42e0d9e8c0ff8829",
+            "5722733d6ea433f76c0085b48c7c30a2a9a0836c",
+            "121d15f05c744f1b7a9b6d5e8eb8d17ad56d7a04",
+            "82b89a6522506db0e95195e69acd8aea9e8d5cf1"
+          ],
+          "numberOfCommits": 23
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f826986bc53354d74386a186abe14ed5d6c685c3",
+            "ae97ecac0c6723a0f9e5dc3f0a0020db66a27bdc"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "009-non-interactive-dake.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-03-30T01:42:34Z",
+      "lastCommit": "2019-03-11T04:37:32Z",
+      "numberOfCommits": 51,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6bec0e2aa90f5a341c0efe01ccbc0a43fe4fc79c",
+            "30499344dd0a5448ca6fa00406ec6aaccc214a05",
+            "5e040c97a1b6c46d216c8438be934b6f8fca3127",
+            "d9c9273713d8302a85353e448d17f3cb57a15f3d"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "35f41b68b51023ac8ba7f2f56a04bb24926923c3",
+            "fc3b610d9c47c60b7669f3f5cffe8be63f117721"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "503b48f44b8aa90b93d4a879165ad2d315561fbd",
+            "b908e4c67dcd5dcff8fc2de0935ef952ddc255b8"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d28b3e4235a6a49554f282de2ff63c24a6b05240"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "045d43492b0209ebed580c9c9cdbcc4b9affb8a7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "df3f392e703e2517fda474331fc3c64c0cf17d00",
+            "24bc829fe942820adc5359740d3588431e7342eb",
+            "438937339ac7250fe37ad291497321185b2dcaa9",
+            "2ef0960b126e6a3a8b5dad72d4c7aca3c9f04c9e",
+            "f84d2ffdd1e84d453a6c05c4830ef7712daf6a90",
+            "722cd996a2bbb4e6fded82ea23c4dca3030582a7",
+            "6487f9400a65ae52a080438c727f90f34d2900f5",
+            "af0b6ea25ac61a00a0e41ac3515cd20d19a74bf2"
+          ],
+          "numberOfCommits": 8
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f1e047687840cf40c75f4d3661f5854c2590d64"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b68fcf446e8b89e30561630fe84025aa678ebf7e",
+            "99a028e040b9465a6b3c7e416c39b18f64c0d039",
+            "28eceb9ff0fa9a4083f427b70383454856a645b7",
+            "2ffc7f9ae63fe2485160ec3df2be1d9955fbe237",
+            "5b9730331d707d47d3cb8f02103d5028503b601b",
+            "0b805c161cfec6dc225f0f05e97bb6d8f7ed302b",
+            "3a88e5c0c5ac54869c94fe648004d4d0b31edf52",
+            "63c51884942b2c2e8aa706f53c6233f7fe0be631",
+            "82c776168c898d003e980beb24d5f908eb0f773e",
+            "0b54a3df35c6882adb8fd65265010f751a1a04a1",
+            "80651830a9b74604b0385b368314b2ebb1765353",
+            "71b47b87b0de8fee2401a5ce4de55d39e7a4ebc8",
+            "09e8aae34d5adced45e6f1fa6cfd4cd3234db487",
+            "69eb70b697afcbabd1c9cdcc90eccfa84deb630b",
+            "c5b36709a99bdd626210df5f32e1f2bf0eac92d0",
+            "fb46f7ea52e8e94526cdf12307314372a28a42b4",
+            "2c680dad45db40d5880efe448ae7fbc59a275474",
+            "5722733d6ea433f76c0085b48c7c30a2a9a0836c"
+          ],
+          "numberOfCommits": 18
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0adbac4b315e958c1d9d3969cb77a60c27f0f4e8",
+            "889a2423d014a48cea27f67675618b3306ac407c",
+            "5113829466a15bdfd2708c4648757f4b295199ca",
+            "1c6b71f4dfc476d757f4881ff1c60c2804e75874",
+            "3dc79449cddbc42e19677d1eadb5f0e11a10fd7f",
+            "f38693e462167748b78f3594ee3a4acb44feaeae",
+            "9b2564158446ea8f3b816f9cdf139f6c103aa539",
+            "21d312f5a3ebadaaf2b6749c3dd0134da5d790d1",
+            "3fc733a5ad7553c9aaf4f039239d04bee6fb64a3",
+            "fad6c3dd551ae3ae946efe1f5575d43b41787711",
+            "4b186654500fadf4e85b2d68ce59630298e9875d",
+            "51168cb32972cd4907421480283b54289ca79313",
+            "0f34814a551ee468db0b76a8128a16ceac613ec5",
+            "1c579840154e25e54a31216b210dd473613c73a0"
+          ],
+          "numberOfCommits": 14
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "008-interactive-dake.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-03-30T01:29:09Z",
+      "lastCommit": "2019-03-11T04:34:16Z",
+      "numberOfCommits": 12,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d0462b3c33901f38c200c897897e2122df93c94e",
+            "5e040c97a1b6c46d216c8438be934b6f8fca3127",
+            "df4517e9fc1bd52f3b80a3e343f387531cc6ea1f"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "503b48f44b8aa90b93d4a879165ad2d315561fbd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "df3f392e703e2517fda474331fc3c64c0cf17d00",
+            "f84d2ffdd1e84d453a6c05c4830ef7712daf6a90"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf0a7c68e4e70f93a241cd0d19e7192bd697ed23",
+            "47e86ccb9402151e1977af0ee6b5a3eeb929c788",
+            "99a028e040b9465a6b3c7e416c39b18f64c0d039",
+            "15d037a0c72b5afcc91a7281637883357c18c6ad"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4bca3edb4c89bfd17211d406dce91d568293fae6",
+            "284da2b3b493517c37ffa0944f24f4050e6fdf4e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "003-client-profile.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2016-11-21T19:57:15Z",
+      "lastCommit": "2019-03-06T18:37:09Z",
+      "numberOfCommits": 38,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51e769308022bf28b5855e6623e0cc78d04012e0",
+            "31030e422b77fd23e7963545bd97482b1c0d8edb",
+            "d9c9273713d8302a85353e448d17f3cb57a15f3d"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "874f52a27096fd7e1d0a9dfb43ad562927847853",
+            "1e9d73dc153d488739f312e99e4ea66e4556b0fe",
+            "b1165d88d297541d9c1b2badbe59cb4e064bf296"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "75122ad567aef49298fe7e4b7cdaf86f262f1d78"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8811bbe03766a29ef8d16705677efb0a961fda06",
+            "d06edace5a51d7f4dcec0932343963a8bdf752ee"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc0431ca4b94655f13ddb9a70560dbd64e91df76",
+            "16d9b7dc50a6497f894ac21a05234e0752b7e348",
+            "7ac3216a885a121caf3db94b3579d892dcefff02",
+            "030a3c9dc2f023366d423834d32edda289b5ad9e"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ed73a165b340db83a79fbb05e2cd4b850f7e211",
+            "e9a009c0ed16be97c58dcc2abb01203c84aae525",
+            "c914ae00d8ee67ed14f06aa1076228b83dfd4be8",
+            "9ab831781179fb26856183578320e844ed71b071"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8705f47eccd093de7d0d69b20dc4261e91059073",
+            "fb7a460fc98929882a61bb566fb9c76170a66d33"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "815ad8d49e7af8cb69ab3e7b45e73e86823a8027"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f1e047687840cf40c75f4d3661f5854c2590d64"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3e82ccacf049a74dd3455f0cfee844934670dff",
+            "b68fcf446e8b89e30561630fe84025aa678ebf7e",
+            "3e4cd46c6168fe284d1cc1bd99d4e19dcc143a0c",
+            "cb5d47d1cbf8a8ca677d31647baf6a47211ff8a3",
+            "f96a18a6a5b13a2a28ead612a810033dfdb37fe8",
+            "2bcbb07393d7cd7f4f425e924f962da236386f07",
+            "82c776168c898d003e980beb24d5f908eb0f773e",
+            "0db604bb5b61effd957d2d8c940b702f8a8f24bb",
+            "69ed0199807ed89d0d714447cfd44ce64f2ffb48",
+            "b4a47b7b5e8d41115bc13fffb1f8a50609b31b59",
+            "e96948aa8997e8b410d1569cfa292b16d71ce854",
+            "886acbb64584b703344e81c7fa796d26c255ec81",
+            "6f16f269891140bcf8e0716dff1694eef426f07d",
+            "d384ec81c6243c82e928351016ab4b96b129c23f",
+            "2c680dad45db40d5880efe448ae7fbc59a275474"
+          ],
+          "numberOfCommits": 15
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b58c4f4d24a30f216a3d5d15fdf6f88383c409f0",
+            "ae97ecac0c6723a0f9e5dc3f0a0020db66a27bdc"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "011-encoding.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-03-03T22:11:21Z",
+      "lastCommit": "2018-11-02T05:38:19Z",
+      "numberOfCommits": 19,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f6050f7db0b7f00b495ce1d9959d6ae4623b3861"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "86daf9b68f12a33e4e441e53ad44c7ecd11bd0cb",
+            "d85294cfc7e8eb3aa6b8a9d1d2dce2b251fb0751",
+            "c4c75654c0de03c1af361fd3b134b962fc69f2ef"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b03e4d90b3d5dd18d6b3b62ad373173e9a227946",
+            "ebe8247a7880e27af6d5133b451878e076d76e2e",
+            "695bbace2ad1a80af94c6552eb5755d5ffb04838",
+            "25e6bba6de3dbf90b14b8db78f7b40393f4ec45a",
+            "8493bff218c115535c6bc71aa6235326b191a123",
+            "f108c3767b4625d9c1c18c771c3e54c8b1569f3e",
+            "1a60685660b01f8ad5bcb2b2c207d4ad9ac39f97",
+            "4d746befb430fa6c8dc0869886d3b7995c5228be",
+            "c51083c621fcf6bb91ac042aa72ba75edfbec0a5",
+            "d9d1859cf82003561022a96a37c2e666a0814ac4",
+            "4d1dac3beaf2dbc709c2143892b40513e57ae980",
+            "5b51eeb7c17998b5a927bc6eec1c5f6d236cf8a4",
+            "c7baf2090fda57fc0c35261a8d3b545cac8f300f",
+            "208a97d59944390e090abca0b5f911f5016ad645",
+            "e153ca448d72b7fd04e3726385aca1c224168e90"
+          ],
+          "numberOfCommits": 15
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "010-modes.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-08-18T22:02:34Z",
+      "lastCommit": "2018-05-07T19:27:26Z",
+      "numberOfCommits": 20,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "585ba0dfcecf6abc0d30ba0ff0524bce3795110a",
+            "a0d18635dfd85645aeb6ef87190369dfeef136a9"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "818c72d793bdcc792db6e2d9465b395cdbf7f233",
+            "1c15a224ac2ba13d6ca8c114699a288cca5ea92c",
+            "af77f96160504fb177751d1e760ddcfcb85189f3",
+            "f94e14fe51b667a76fcfe283fc847b77412ed023"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb7a460fc98929882a61bb566fb9c76170a66d33"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "15f126428466e805e302684cdfc8a45cb5888f55",
+            "efa4897663784a5ac7c7f54eb58ef429df0b6314",
+            "b68fcf446e8b89e30561630fe84025aa678ebf7e",
+            "84269ec1a633ecedabe469dc253f49d76afa1b09",
+            "c7dacd2022dc6845c538ecdb913863db21c5b43a",
+            "671cd295ab25c989de2eb885bbd4bbea2155926d",
+            "3a88e5c0c5ac54869c94fe648004d4d0b31edf52",
+            "63c51884942b2c2e8aa706f53c6233f7fe0be631",
+            "168bf9e42807f84dbbfb79b0a3ab89d6d614df73",
+            "5b51eeb7c17998b5a927bc6eec1c5f6d236cf8a4",
+            "69eb70b697afcbabd1c9cdcc90eccfa84deb630b",
+            "2c680dad45db40d5880efe448ae7fbc59a275474",
+            "5722733d6ea433f76c0085b48c7c30a2a9a0836c"
+          ],
+          "numberOfCommits": 13
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "012-prekey-server.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-03-08T23:40:01Z",
+      "lastCommit": "2018-05-07T19:27:26Z",
+      "numberOfCommits": 16,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "82ceb69f12c40138eb06d1b1a3cce58409656578",
+            "791f364b43ba22a543aebb5c9e8bf0d1f0efb12c",
+            "6ac4d49042360735b5505c299a34a279377b37b3",
+            "a611a303de98cccf599023383b0aaee9e55551fd",
+            "da2bd5806c18a9f34d6157a3b07d8ac81f03f539",
+            "7478e192ea88a69e7e9c452bf6a83ca1eeb51dd4",
+            "69a0dd442c7528411495d7ec2810118a2db0817f"
+          ],
+          "numberOfCommits": 7
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b03e4d90b3d5dd18d6b3b62ad373173e9a227946",
+            "5b51eeb7c17998b5a927bc6eec1c5f6d236cf8a4",
+            "03a4278737329a8b6b80a8f185aef55e28965e3e",
+            "3a88e5c0c5ac54869c94fe648004d4d0b31edf52",
+            "c7c38d3bcefb6d463fa44722b5a36a7b9db191a3",
+            "82c776168c898d003e980beb24d5f908eb0f773e",
+            "1a60685660b01f8ad5bcb2b2c207d4ad9ac39f97",
+            "2c680dad45db40d5880efe448ae7fbc59a275474",
+            "c51083c621fcf6bb91ac042aa72ba75edfbec0a5"
+          ],
+          "numberOfCommits": 9
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "007-query-messages.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2016-11-29T16:54:18Z",
+      "lastCommit": "2018-06-26T18:11:07Z",
+      "numberOfCommits": 13,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c319413be5c85ea01de3de19096464d7f66efc9d",
+            "7376a9934dfe5e8bde655ecc2bfaa7a533deff7d",
+            "b6e1bcae6a817862008b348358b9aa358402efdf"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab9513618c7d29b55f25e906ba7c9861f54e0c4b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "df3f392e703e2517fda474331fc3c64c0cf17d00",
+            "95da15e1fd33a987d566bebf89cd460211b8b8d5",
+            "00605e9fb79a450b64b43c6bf8d4320b6c16fb18",
+            "52630cdaf0c77531942dc943757b832f649fac24"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a0ebdc810222ef0da81182d8835dc367c12ee72",
+            "2f1e047687840cf40c75f4d3661f5854c2590d64"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52facfaee701c6fe394c04f9e669366ae06dd193",
+            "c591ad729fc307e10a58f68c73d7397ec149b5fd",
+            "5722733d6ea433f76c0085b48c7c30a2a9a0836c"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "004-smp-v2.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2016-11-16T20:59:55Z",
+      "lastCommit": "2019-03-07T22:03:34Z",
+      "numberOfCommits": 13,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1dfdbab81894cf164c755b9eb5f1bfce455a082"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b506fcf00dcca1f5bc0848256020d616d5f5b3e4",
+            "7ed73a165b340db83a79fbb05e2cd4b850f7e211",
+            "f84d2ffdd1e84d453a6c05c4830ef7712daf6a90",
+            "a205a65ae641d59b8c863b667ce322a825bdbd9c"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51e705c7b66b6519354f721310ebe26ec8779fc4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcbb7188a2e5dd1453fb1ffcd7c3542dff535453",
+            "7d4fd434c1f45c0aec83b62420ce3811165d93de",
+            "a4afe2c1d026cda23b8ffd9930516cac28854f93",
+            "5b51eeb7c17998b5a927bc6eec1c5f6d236cf8a4",
+            "5722733d6ea433f76c0085b48c7c30a2a9a0836c",
+            "ab491cd4bff37285be1612d90e6de82407561541"
+          ],
+          "numberOfCommits": 6
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae97ecac0c6723a0f9e5dc3f0a0020db66a27bdc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "006-no-postquantum.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2016-11-28T23:12:35Z",
+      "lastCommit": "2019-02-27T22:33:19Z",
+      "numberOfCommits": 14,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "96315bf7d26c2b1e107011430f2cbcb56f2698e1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "887713d03a24a47247e9de0d5820e446267bb90f",
+            "829c777f6b79136e45e5c4a745add39ede1bf7dc"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab9513618c7d29b55f25e906ba7c9861f54e0c4b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae8db145ec5c3ecbfc076b7df36ff45f4ca4d46a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f84d2ffdd1e84d453a6c05c4830ef7712daf6a90",
+            "0cea730ea4ff99abcce34e36c4b83678b1a89a1d"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8c066a83a7ead58eca4ff82cd5cad427e71419d",
+            "08fefd909ad7e29a8e0e0697e81e27617fdcaa9d"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3bbc9141686f78640fb8a6700ae277275b091f9",
+            "9bdb13765772cc5376c96296a12dc57e269a7d8f",
+            "b75f86e6af2891b33165b55bf29f58ce24bccaf6",
+            "5722733d6ea433f76c0085b48c7c30a2a9a0836c",
+            "ab491cd4bff37285be1612d90e6de82407561541"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-10-20T23:01:55Z",
+  "lastAdrCommit": "2019-06-02T20:55:14Z",
+  "firstCommit": "2016-09-06T14:34:37Z",
+  "lastCommit": "2020-05-22T01:01:37Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "585ba0dfcecf6abc0d30ba0ff0524bce3795110a",
+        "82ceb69f12c40138eb06d1b1a3cce58409656578",
+        "874f52a27096fd7e1d0a9dfb43ad562927847853",
+        "1e9d73dc153d488739f312e99e4ea66e4556b0fe",
+        "a0d18635dfd85645aeb6ef87190369dfeef136a9",
+        "791f364b43ba22a543aebb5c9e8bf0d1f0efb12c",
+        "6ac4d49042360735b5505c299a34a279377b37b3",
+        "b1165d88d297541d9c1b2badbe59cb4e064bf296",
+        "a611a303de98cccf599023383b0aaee9e55551fd",
+        "da2bd5806c18a9f34d6157a3b07d8ac81f03f539",
+        "7478e192ea88a69e7e9c452bf6a83ca1eeb51dd4",
+        "69a0dd442c7528411495d7ec2810118a2db0817f"
+      ],
+      "numberOfCommits": 12
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "be5dba9dda2ba55a384d81973be81ec2d51453ed",
+        "fb5ada156659bff60c9ca6996c103b3961438e86",
+        "6ec4f67d5de6d6e0869d432dc564877fb62eaf19",
+        "8811bbe03766a29ef8d16705677efb0a961fda06",
+        "3769db815839235ae40457c2d4b716d714735ff2",
+        "2cc553b0c41e9265bd065f79fe264a807d2e57df",
+        "d06edace5a51d7f4dcec0932343963a8bdf752ee",
+        "832b98a43dcfcd734f49f5f7577f572f21c8ef86",
+        "ae8db145ec5c3ecbfc076b7df36ff45f4ca4d46a",
+        "f58712e2c5f9b0d7c2aa4dad674617817ba6cae6"
+      ],
+      "numberOfCommits": 10
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6c3f3c04cfc7b0ec932b2b73d176fe607a4e80c3",
+        "6619d411e7b6d3bb633dc7ff85a74d37e8a9caa2",
+        "24bc829fe942820adc5359740d3588431e7342eb",
+        "5dc37c50f4ad6def27df550f15b64e88b780682a",
+        "af77f96160504fb177751d1e760ddcfcb85189f3",
+        "d7ab3d51d9ee5e3f641ac2c100f2a8133321b5ac",
+        "8f6abdc96a9ff259a2f30636bc7f69e7086cb2c7",
+        "cf4e9f74dc822de4d338566f1d03988f55cd08f8",
+        "b2405c0053cf72b737ea0302b66feab15a20ec4f",
+        "dd42dc5a6c14ac430c196dda8c26fcf1f4c6ccc2",
+        "722cd996a2bbb4e6fded82ea23c4dca3030582a7",
+        "6487f9400a65ae52a080438c727f90f34d2900f5",
+        "0ce0a21bd6554dee371b9ff91b6236d6a4ba2f72",
+        "a205a65ae641d59b8c863b667ce322a825bdbd9c",
+        "335a57114c71388f8e1c7726386463400717ad2c",
+        "95da15e1fd33a987d566bebf89cd460211b8b8d5",
+        "00605e9fb79a450b64b43c6bf8d4320b6c16fb18",
+        "52630cdaf0c77531942dc943757b832f649fac24",
+        "af0b6ea25ac61a00a0e41ac3515cd20d19a74bf2",
+        "818c72d793bdcc792db6e2d9465b395cdbf7f233",
+        "df3f392e703e2517fda474331fc3c64c0cf17d00",
+        "b506fcf00dcca1f5bc0848256020d616d5f5b3e4",
+        "c914ae00d8ee67ed14f06aa1076228b83dfd4be8",
+        "1c15a224ac2ba13d6ca8c114699a288cca5ea92c",
+        "438937339ac7250fe37ad291497321185b2dcaa9",
+        "2ef0960b126e6a3a8b5dad72d4c7aca3c9f04c9e",
+        "f94e14fe51b667a76fcfe283fc847b77412ed023",
+        "0cea730ea4ff99abcce34e36c4b83678b1a89a1d",
+        "fc27d7a302cdf8fa71f4e20ce2631a50c5de9e8b",
+        "9ab831781179fb26856183578320e844ed71b071",
+        "a5db3a16f7a81c2ace7e47c6839ce026d2e015f6",
+        "7ed73a165b340db83a79fbb05e2cd4b850f7e211",
+        "e9a009c0ed16be97c58dcc2abb01203c84aae525",
+        "622b7d15a2f91ff75d150fd0853a0eb41106e4aa",
+        "f84d2ffdd1e84d453a6c05c4830ef7712daf6a90",
+        "32df96c68f2b453dd317a1ac86e4893d5bfbbb65",
+        "1c6cc3a0701dc5ed54f65d5413699a0c67aca3e0",
+        "c582bf8bc143ff962364d1bea4842ed6385e4b10"
+      ],
+      "numberOfCommits": 38
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9f602e3372baee56e314cf874d8a0defc831c574",
+        "2bcbb07393d7cd7f4f425e924f962da236386f07",
+        "c7c38d3bcefb6d463fa44722b5a36a7b9db191a3",
+        "ab491cd4bff37285be1612d90e6de82407561541",
+        "c51083c621fcf6bb91ac042aa72ba75edfbec0a5",
+        "4d1dac3beaf2dbc709c2143892b40513e57ae980",
+        "71b47b87b0de8fee2401a5ce4de55d39e7a4ebc8",
+        "c7baf2090fda57fc0c35261a8d3b545cac8f300f",
+        "69eb70b697afcbabd1c9cdcc90eccfa84deb630b",
+        "efa4897663784a5ac7c7f54eb58ef429df0b6314",
+        "1cf007d1e4c414492bba51e0f2ee4ff83875ddd0",
+        "99a028e040b9465a6b3c7e416c39b18f64c0d039",
+        "84269ec1a633ecedabe469dc253f49d76afa1b09",
+        "8493bff218c115535c6bc71aa6235326b191a123",
+        "c591ad729fc307e10a58f68c73d7397ec149b5fd",
+        "5b9730331d707d47d3cb8f02103d5028503b601b",
+        "196648d0b818578855301b7b8ddf63f3a29238eb",
+        "cf0a7c68e4e70f93a241cd0d19e7192bd697ed23",
+        "bd816d451aaa7d1209d8c345fe6dcad150c654f0",
+        "979b5cdf039a2bbc8792f5be519e21d4fc7296bd",
+        "5b51eeb7c17998b5a927bc6eec1c5f6d236cf8a4",
+        "c5b36709a99bdd626210df5f32e1f2bf0eac92d0",
+        "9b25fc49330ebc12a1f9fdcfd49f0a8c648c41a7",
+        "2c680dad45db40d5880efe448ae7fbc59a275474",
+        "a3e82ccacf049a74dd3455f0cfee844934670dff",
+        "ceaa9c60a1955f970fe1976992b7f10c1a409ee0",
+        "0ee35b921e201cd84633e284da6a3b7e992b9ea1",
+        "11d4c2ded9bb5a038ab0536f5adf032793a4226c",
+        "b4a47b7b5e8d41115bc13fffb1f8a50609b31b59",
+        "09e8aae34d5adced45e6f1fa6cfd4cd3234db487",
+        "a7e77ded27edf2a313ca4decff048febd9aec234",
+        "6a09d8127fed1480c54e183e42e0d9e8c0ff8829",
+        "b68fcf446e8b89e30561630fe84025aa678ebf7e",
+        "82c776168c898d003e980beb24d5f908eb0f773e",
+        "8889c93bc6d0426831724069d93dc469fed88f1d",
+        "1181ae17471470e3e952df0700b93720468dad4e",
+        "4d746befb430fa6c8dc0869886d3b7995c5228be",
+        "7bd2d148971d1357ab26b627d188a47ca3c0e25c",
+        "e3bbc9141686f78640fb8a6700ae277275b091f9",
+        "448461051366cf46701eaad046838f2f7c28e5ee",
+        "fb46f7ea52e8e94526cdf12307314372a28a42b4",
+        "6f16f269891140bcf8e0716dff1694eef426f07d",
+        "1e9a0d77e7514e1e3a802ec977d108edf7702382",
+        "dfd24ec07c79f3fb0277ff78190b63cd90099aab",
+        "d384ec81c6243c82e928351016ab4b96b129c23f",
+        "121d15f05c744f1b7a9b6d5e8eb8d17ad56d7a04",
+        "dc9ff61691da7418d5eaf35169d3e54712f53fa8",
+        "7d4fd434c1f45c0aec83b62420ce3811165d93de",
+        "47e86ccb9402151e1977af0ee6b5a3eeb929c788",
+        "3e4cd46c6168fe284d1cc1bd99d4e19dcc143a0c",
+        "25e6bba6de3dbf90b14b8db78f7b40393f4ec45a",
+        "f108c3767b4625d9c1c18c771c3e54c8b1569f3e",
+        "94568dfe1d9d544a52580ff9c179effa19fc567e",
+        "f96a18a6a5b13a2a28ead612a810033dfdb37fe8",
+        "cb5d47d1cbf8a8ca677d31647baf6a47211ff8a3",
+        "63c51884942b2c2e8aa706f53c6233f7fe0be631",
+        "1a60685660b01f8ad5bcb2b2c207d4ad9ac39f97",
+        "69ed0199807ed89d0d714447cfd44ce64f2ffb48",
+        "70a9fb0c6156b527d7a5eca585255ca3ecf6be5c",
+        "52facfaee701c6fe394c04f9e669366ae06dd193",
+        "9bdb13765772cc5376c96296a12dc57e269a7d8f",
+        "e96948aa8997e8b410d1569cfa292b16d71ce854",
+        "469bb61ed7cd105abb99bd38c322408076597a7a",
+        "886acbb64584b703344e81c7fa796d26c255ec81",
+        "b1eb7b770a3c4d18917244dfaeba8a566c22a000",
+        "208a97d59944390e090abca0b5f911f5016ad645",
+        "15f126428466e805e302684cdfc8a45cb5888f55",
+        "ebe8247a7880e27af6d5133b451878e076d76e2e",
+        "ae051e0344552560beed397fc698586abbf976c5",
+        "c7dacd2022dc6845c538ecdb913863db21c5b43a",
+        "bcbb7188a2e5dd1453fb1ffcd7c3542dff535453",
+        "09e6521b1c4e389eada9b2b4a11f67e5c82a5229",
+        "0db604bb5b61effd957d2d8c940b702f8a8f24bb",
+        "6f2c3df22e811077cdfe8327ed71879e29d70a48",
+        "24fe52786063d185cea671802c45965817017edc",
+        "03a4278737329a8b6b80a8f185aef55e28965e3e",
+        "e153ca448d72b7fd04e3726385aca1c224168e90",
+        "11b63457633c96259e87b9b9aa7c9536e93d98cf",
+        "5722733d6ea433f76c0085b48c7c30a2a9a0836c",
+        "82b89a6522506db0e95195e69acd8aea9e8d5cf1",
+        "b03e4d90b3d5dd18d6b3b62ad373173e9a227946",
+        "923a0fa942df46ce32b79860b44ea3eebdbab4d8",
+        "2ffc7f9ae63fe2485160ec3df2be1d9955fbe237",
+        "15d037a0c72b5afcc91a7281637883357c18c6ad",
+        "45d1e234c60178f267161394e0103c73880216d6",
+        "fa854dfdfee56368dadd01d4da66cce0efb12587",
+        "168bf9e42807f84dbbfb79b0a3ab89d6d614df73",
+        "dd21d9e754bde777f29f78b2195f1bb408f81c3d",
+        "0b54a3df35c6882adb8fd65265010f751a1a04a1",
+        "a4afe2c1d026cda23b8ffd9930516cac28854f93",
+        "85d22f4f1f92eff3fda8f7b5c1b561a40db901d5",
+        "a2e4de69f352d302f71d2372f4ebe45ec40bb61f",
+        "28eceb9ff0fa9a4083f427b70383454856a645b7",
+        "695bbace2ad1a80af94c6552eb5755d5ffb04838",
+        "671cd295ab25c989de2eb885bbd4bbea2155926d",
+        "0b805c161cfec6dc225f0f05e97bb6d8f7ed302b",
+        "3a88e5c0c5ac54869c94fe648004d4d0b31edf52",
+        "b75f86e6af2891b33165b55bf29f58ce24bccaf6",
+        "3da665f5b4cf4ed865473a0a37b3e7c65b2bc7e8",
+        "80651830a9b74604b0385b368314b2ebb1765353",
+        "d9d1859cf82003561022a96a37c2e666a0814ac4"
+      ],
+      "numberOfCommits": 101
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0adbac4b315e958c1d9d3969cb77a60c27f0f4e8",
+        "f826986bc53354d74386a186abe14ed5d6c685c3",
+        "889a2423d014a48cea27f67675618b3306ac407c",
+        "5113829466a15bdfd2708c4648757f4b295199ca",
+        "1c6b71f4dfc476d757f4881ff1c60c2804e75874",
+        "3dc79449cddbc42e19677d1eadb5f0e11a10fd7f",
+        "f38693e462167748b78f3594ee3a4acb44feaeae",
+        "284da2b3b493517c37ffa0944f24f4050e6fdf4e",
+        "ae97ecac0c6723a0f9e5dc3f0a0020db66a27bdc",
+        "9b2564158446ea8f3b816f9cdf139f6c103aa539",
+        "21d312f5a3ebadaaf2b6749c3dd0134da5d790d1",
+        "3fc733a5ad7553c9aaf4f039239d04bee6fb64a3",
+        "a7a222e4401ae9e401abf6556521329aa537d36a",
+        "fad6c3dd551ae3ae946efe1f5575d43b41787711",
+        "4b186654500fadf4e85b2d68ce59630298e9875d",
+        "4bca3edb4c89bfd17211d406dce91d568293fae6",
+        "8d3af4358b75d14509a7114eb562174ceecadbfd",
+        "51168cb32972cd4907421480283b54289ca79313",
+        "0f34814a551ee468db0b76a8128a16ceac613ec5",
+        "b58c4f4d24a30f216a3d5d15fdf6f88383c409f0",
+        "1c579840154e25e54a31216b210dd473613c73a0"
+      ],
+      "numberOfCommits": 21
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9c34e168594c45cadc051d8eb1d7de560f08f0a0",
+        "6bec0e2aa90f5a341c0efe01ccbc0a43fe4fc79c",
+        "8527eba111988355b92fcbe7979fc908abd1401a",
+        "d0462b3c33901f38c200c897897e2122df93c94e",
+        "31030e422b77fd23e7963545bd97482b1c0d8edb",
+        "30499344dd0a5448ca6fa00406ec6aaccc214a05",
+        "5e040c97a1b6c46d216c8438be934b6f8fca3127",
+        "df4517e9fc1bd52f3b80a3e343f387531cc6ea1f",
+        "e887c0ba6a76f58211101794054e5870e6a64153",
+        "51e769308022bf28b5855e6623e0cc78d04012e0",
+        "96315bf7d26c2b1e107011430f2cbcb56f2698e1",
+        "1c675e688675b292360466487533b32d2453ecc0",
+        "c319413be5c85ea01de3de19096464d7f66efc9d",
+        "7376a9934dfe5e8bde655ecc2bfaa7a533deff7d",
+        "b6e1bcae6a817862008b348358b9aa358402efdf",
+        "d9c9273713d8302a85353e448d17f3cb57a15f3d",
+        "1ead0b94af92576d57fa48078ba16d623fcbae02"
+      ],
+      "numberOfCommits": 17
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a1547e1ce6d2f235d0a265884e5cc625c3e81cc4",
+        "35f41b68b51023ac8ba7f2f56a04bb24926923c3",
+        "e6b89c05793c88c632e830f9b66265f44e98b0bd",
+        "bcceec5878ab31263631a0cffc2398e9d793b2a1",
+        "fc3b610d9c47c60b7669f3f5cffe8be63f117721",
+        "887713d03a24a47247e9de0d5820e446267bb90f",
+        "829c777f6b79136e45e5c4a745add39ede1bf7dc"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d756ea3acece4c50f44b8c8886ae22d15dde1efe",
+        "605875c99488cfc0e54abcce09e00dfb4c3f399c",
+        "85ca4d56cab5f84974141b697082dfbc5ce09183",
+        "503b48f44b8aa90b93d4a879165ad2d315561fbd",
+        "2db723a0cf2cbe441d8ca61da21cecffef6d631b",
+        "0975229fa87175b49eb52e86f37f3a85d42980f3",
+        "8193a801f73834fa83bf6c178230fde19ec56b17",
+        "3c01ab9c8eea9e5121d3ab6188996b4ad966bbc3",
+        "b908e4c67dcd5dcff8fc2de0935ef952ddc255b8"
+      ],
+      "numberOfCommits": 9
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d28b3e4235a6a49554f282de2ff63c24a6b05240",
+        "ab9513618c7d29b55f25e906ba7c9861f54e0c4b",
+        "5916af066e30e28fd5e370e41e546c8dce2b6405",
+        "ddb2422092cf294eff46b67d7951bd3dff1ada5b",
+        "75122ad567aef49298fe7e4b7cdaf86f262f1d78",
+        "e1dfdbab81894cf164c755b9eb5f1bfce455a082"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "045d43492b0209ebed580c9c9cdbcc4b9affb8a7"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "86daf9b68f12a33e4e441e53ad44c7ecd11bd0cb",
+        "d85294cfc7e8eb3aa6b8a9d1d2dce2b251fb0751",
+        "c4c75654c0de03c1af361fd3b134b962fc69f2ef"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8705f47eccd093de7d0d69b20dc4261e91059073",
+        "f6050f7db0b7f00b495ce1d9959d6ae4623b3861",
+        "fb7a460fc98929882a61bb566fb9c76170a66d33"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fc0431ca4b94655f13ddb9a70560dbd64e91df76",
+        "16d9b7dc50a6497f894ac21a05234e0752b7e348",
+        "7ac3216a885a121caf3db94b3579d892dcefff02",
+        "030a3c9dc2f023366d423834d32edda289b5ad9e"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8a0ebdc810222ef0da81182d8835dc367c12ee72",
+        "2f1e047687840cf40c75f4d3661f5854c2590d64"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5de22cc24c62ba4d9c200123dc7529b7778f9a71",
+        "b8c066a83a7ead58eca4ff82cd5cad427e71419d",
+        "815ad8d49e7af8cb69ab3e7b45e73e86823a8027",
+        "51e705c7b66b6519354f721310ebe26ec8779fc4",
+        "6ace91c9653905c9da7318c2ec220d0ed87dbaee",
+        "08fefd909ad7e29a8e0e0697e81e27617fdcaa9d"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

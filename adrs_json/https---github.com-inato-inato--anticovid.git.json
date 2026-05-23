@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/inato/inato-anticovid.git",
+  "crawlDateTime": "2022-01-18T22:20:58.978672",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "2020_04_02_environments_management.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-02T14:10:20Z",
+      "lastCommit": "2020-04-03T09:21:10Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "71ec44467fd59b2de1f5e092392b84c034e40ad3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "931bcd267210d1c4cd1c80a3ed8cceb31473bc34",
+            "bbcd115e7ea9374cd61be97b798e2695d7ef899f",
+            "df5fc4d92e914f1d74424e4b0edeaf3e71c7b8ea",
+            "11bdc4780a4cd9b6e41753c586bda23784a384cd"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-02T14:10:20Z",
+  "lastAdrCommit": "2020-04-03T09:21:10Z",
+  "firstCommit": "2020-03-18T16:58:41Z",
+  "lastCommit": "2021-05-30T05:09:14Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "71ec44467fd59b2de1f5e092392b84c034e40ad3"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "931bcd267210d1c4cd1c80a3ed8cceb31473bc34",
+        "bbcd115e7ea9374cd61be97b798e2695d7ef899f",
+        "df5fc4d92e914f1d74424e4b0edeaf3e71c7b8ea",
+        "11bdc4780a4cd9b6e41753c586bda23784a384cd"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

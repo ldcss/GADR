@@ -1,0 +1,72 @@
+{
+  "repositoryUrl": "https://github.com/marain-dotnet/Marain.UserNotifications.git",
+  "crawlDateTime": "2022-01-18T20:31:58.984471",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-delivery-channels-templating.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-02-22T16:17:18Z",
+      "lastCommit": "2021-02-22T16:17:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a511d0c611c0ce5829dcb2a95b8388d90e2a2ba5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-high-level-notifications-service-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-30T20:36:04Z",
+      "lastCommit": "2020-07-30T20:36:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8bc360486a55a6f2b3d7dc5a341318bd9879e9d1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-30T20:36:04Z",
+  "lastAdrCommit": "2021-02-22T16:17:18Z",
+  "firstCommit": "2020-07-27T22:15:20Z",
+  "lastCommit": "2021-12-10T13:03:37Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a511d0c611c0ce5829dcb2a95b8388d90e2a2ba5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8bc360486a55a6f2b3d7dc5a341318bd9879e9d1"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "repositoryUrl": "https://github.com/budproj/unfinished-design-system.git",
+  "crawlDateTime": "2022-01-18T18:24:25.885549",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adl"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adl",
+      "path": "002-unit-testing-tools.md",
+      "template": "Nygard",
+      "status": "**DEPRECATED** _check [update 1](#update-1)_",
+      "firstCommit": "2020-10-26T18:47:19Z",
+      "lastCommit": "2020-10-26T18:47:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b268aff26739f428fbacb7c30fc207a4deaa54f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adl",
+      "path": "007-package-repository.md",
+      "template": "Nygard",
+      "status": "**DEPRECATED** _check [update 1](#update-1)_",
+      "firstCommit": "2020-10-26T18:47:19Z",
+      "lastCommit": "2020-10-26T18:47:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b268aff26739f428fbacb7c30fc207a4deaa54f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adl",
+      "path": "005-lerna.md",
+      "template": "Nygard",
+      "status": "**DEPRECATED** _check [update 1](#update-1)_",
+      "firstCommit": "2020-10-26T18:47:19Z",
+      "lastCommit": "2020-10-26T18:47:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b268aff26739f428fbacb7c30fc207a4deaa54f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adl",
+      "path": "006-yarn-workspaces.md",
+      "template": "Nygard",
+      "status": "**DEPRECATED** _check [update 1](#update-1)_",
+      "firstCommit": "2020-10-26T18:47:19Z",
+      "lastCommit": "2020-10-26T18:47:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b268aff26739f428fbacb7c30fc207a4deaa54f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adl",
+      "path": "004-tokenization-and-static-assets.md",
+      "template": "Nygard",
+      "status": "**DEPRECATED** _check [update 1](#update-1)_",
+      "firstCommit": "2020-10-26T18:47:19Z",
+      "lastCommit": "2020-10-26T18:47:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b268aff26739f428fbacb7c30fc207a4deaa54f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adl",
+      "path": "001-components-documentation.md",
+      "template": "Nygard",
+      "status": "**DEPRECATED** _check [update 1](#update-1)_",
+      "firstCommit": "2020-10-26T18:47:19Z",
+      "lastCommit": "2020-10-26T18:47:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b268aff26739f428fbacb7c30fc207a4deaa54f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adl",
+      "path": "003-theming-framework.md",
+      "template": "Nygard",
+      "status": "**DEPRECATED** _check [update 1](#update-1)_",
+      "firstCommit": "2020-10-26T18:47:19Z",
+      "lastCommit": "2020-10-26T18:47:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b268aff26739f428fbacb7c30fc207a4deaa54f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-26T18:47:19Z",
+  "lastAdrCommit": "2020-10-26T18:47:19Z",
+  "firstCommit": "2020-10-20T14:41:42Z",
+  "lastCommit": "2020-10-26T18:47:19Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5b268aff26739f428fbacb7c30fc207a4deaa54f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/yext/edward.git",
+  "crawlDateTime": "2022-01-18T23:02:50.069462",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-implement-in-go.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-19T21:28:33Z",
+      "lastCommit": "2018-08-19T21:28:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f858711213bf2ff4dd245d368e9c8025f8a49508"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-cobra-for-command-line-interface.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-19T21:28:33Z",
+      "lastCommit": "2018-08-19T21:28:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f858711213bf2ff4dd245d368e9c8025f8a49508"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-19T21:28:33Z",
+      "lastCommit": "2018-08-19T21:28:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f858711213bf2ff4dd245d368e9c8025f8a49508"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-19T21:28:33Z",
+  "lastAdrCommit": "2018-08-19T21:28:33Z",
+  "firstCommit": "2016-03-22T22:11:43Z",
+  "lastCommit": "2021-05-27T14:56:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f858711213bf2ff4dd245d368e9c8025f8a49508"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "repositoryUrl": "https://github.com/mlibrary/nebula.git",
+  "crawlDateTime": "2022-01-18T18:37:53.136414",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-roll-our-own-kubernetes-profile.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-29T20:29:47Z",
+      "lastCommit": "2019-07-29T20:29:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad1fbfb6a9898574c774a219e1b0231265b9b96d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-only-manage-certain-netfilter-chains-in-kubernetes-machines.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-29T20:29:47Z",
+      "lastCommit": "2019-07-29T20:29:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad1fbfb6a9898574c774a219e1b0231265b9b96d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-manage-prometheus-node-exporter-package-ourselves.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-21T14:13:12Z",
+      "lastCommit": "2019-08-21T14:13:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1ffec80fe7d68798b6d953de40f051c980c6e86"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-prefer-apt-to-cpan.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-06T17:47:59Z",
+      "lastCommit": "2020-04-06T17:47:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5ed8d7d6306994deac274d458509e6da8be0dfe0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-dedicate-separate-haproxy-machines-for-load-balancing-kubernetes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-29T20:29:47Z",
+      "lastCommit": "2019-07-29T20:29:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad1fbfb6a9898574c774a219e1b0231265b9b96d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-dont-export-moku-init-execs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-27T15:50:33Z",
+      "lastCommit": "2019-02-27T15:50:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d5b71cf773442201fe7aaa9819107fd8c9113b49",
+            "4b0c0a6d076fbeb222e4b8124df4709f7d8e5f56"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-calico-for-kubernetes-networking.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-29T20:29:47Z",
+      "lastCommit": "2019-07-29T20:29:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad1fbfb6a9898574c774a219e1b0231265b9b96d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-use-nginx-for-simple-https-proxies.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-27T16:45:17Z",
+      "lastCommit": "2020-01-27T16:45:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3f4e99f1b07d397ebcc91949154c57d9ae70fa0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-run-kubernetes-locally.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-29T20:29:47Z",
+      "lastCommit": "2019-07-29T20:29:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad1fbfb6a9898574c774a219e1b0231265b9b96d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-systemd-as-cgroup-driver-for-docker.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-03T21:11:19Z",
+      "lastCommit": "2019-06-03T21:11:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "435c08160a1c6ecba01f02b89361bb613fad3ebf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-stack-k8s-controllers-with-etcd.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-29T20:29:47Z",
+      "lastCommit": "2019-07-29T20:29:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad1fbfb6a9898574c774a219e1b0231265b9b96d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-27T15:50:33Z",
+  "lastAdrCommit": "2020-04-06T17:47:59Z",
+  "firstCommit": "2018-03-19T15:37:49Z",
+  "lastCommit": "2022-01-12T17:50:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c3f4e99f1b07d397ebcc91949154c57d9ae70fa0",
+        "d5b71cf773442201fe7aaa9819107fd8c9113b49",
+        "d1ffec80fe7d68798b6d953de40f051c980c6e86",
+        "4b0c0a6d076fbeb222e4b8124df4709f7d8e5f56",
+        "ad1fbfb6a9898574c774a219e1b0231265b9b96d",
+        "435c08160a1c6ecba01f02b89361bb613fad3ebf"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5ed8d7d6306994deac274d458509e6da8be0dfe0"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "repositoryUrl": "https://github.com/threefoldtech/js-sdk.git",
+  "crawlDateTime": "2022-01-18T18:34:37.049442",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 21,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0013-update-cryptpad-flist.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-07T10:49:43Z",
+      "lastCommit": "2020-10-07T10:49:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a46eb2479c2107b8987c6e612fda05306879d3a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0016-update-threebot-deployer-flist.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-21T08:25:53Z",
+      "lastCommit": "2020-10-21T08:25:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "075d051820ec05c341369d5cfec1e6bb678592d8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-marketplace-to-automate-payment.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-09T16:32:04Z",
+      "lastCommit": "2020-09-09T16:32:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c028681e69ffbb162e47cd809554139c8ccb0a7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0017-migrate-testnet-devnet-to-use-std-stellar-wallet.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-30T13:31:31Z",
+      "lastCommit": "2020-12-30T13:31:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e0545b225949a5c30dbb90ccdb0c7401aae6878"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-add-preinstall-to-packages.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-13T19:53:06Z",
+      "lastCommit": "2020-09-13T19:53:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9b6794042888c8e7561a1eb2e1c499de7e553592"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0010-update-3bot-deployer-image-to-use-ubuntu-20-04.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-07T10:43:27Z",
+      "lastCommit": "2020-10-07T10:43:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25340338b33f391e773834da408d7afe7f868f04"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-add-kwargs-to-3bot-start.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-27T14:55:38Z",
+      "lastCommit": "2020-09-27T14:55:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c1c3b75eae69ba2afa6327260d03267ecdeabc47"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0021-wait-for-pool-payments.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-19T12:20:38Z",
+      "lastCommit": "2021-01-19T12:20:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3b322803343c4b56bad04cbb60f9ef87b38fea3a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0015-parameterize-zos-sal-in-identity.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-07T11:04:53Z",
+      "lastCommit": "2020-10-07T11:04:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b411f75cfd2d13e2a45217b25e808bd86a08a353"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0020-dynamically-get-branch-for-threebot-deployer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-19T12:03:18Z",
+      "lastCommit": "2021-01-19T12:03:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e29453d61d36f44618319bba1f444168172dde41"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-allow-only-tft-token.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-09T16:01:27Z",
+      "lastCommit": "2020-09-09T16:01:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d3e9cee9ac95dcb77a27146cb96bf085327c8969"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0012-use-poetry-lock-file-to-install-instead-of-poetry-update.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-07T10:43:17Z",
+      "lastCommit": "2020-10-07T10:43:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a78b9f6c9448347ada1ce129a7154c809d7ed899"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0018-change-domain-names-to-shorter-ones.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-31T13:20:03Z",
+      "lastCommit": "2020-12-31T13:20:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b65d685845daea0eaed57630a0fffe3cb06bc398"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0009-add-logs-in-trc-and-nginx-container.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-07T10:43:38Z",
+      "lastCommit": "2020-10-07T10:43:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4965c3ba6efd5d253f78547a2fb0b7e2be399e86"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0019-use-custom-activation-wallet-for-threebot-deployers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-11T16:06:38Z",
+      "lastCommit": "2021-01-11T16:06:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e21c53e2fafb47bfc790fc5e3eed74569097d79f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0014-managed-domain-verification-and-blocking-in-apps.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-07T10:50:48Z",
+      "lastCommit": "2020-10-07T10:50:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3076c05594c0a0e2296257a0028401131692685a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-payment-for-3bot-deployer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-15T16:13:14Z",
+      "lastCommit": "2020-09-15T20:04:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bfe04d35cdb1fe67d3c1769c6062ed0603362466"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ba638374935ee7d7e47045a3ea64f55dda62ec8c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-3bot-to-start-with-a-testnet-funded-wallet.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-10T21:07:48Z",
+      "lastCommit": "2020-09-10T21:07:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a11f1b51d7b3346fe147a8908fdba1d4c8e0cd2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0011-nginx-expose-option.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-07T10:53:15Z",
+      "lastCommit": "2020-10-07T10:53:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "82864d11c9599ebdcecbdab4e2e63cc96b77b10a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-07T08:29:54Z",
+      "lastCommit": "2020-09-07T08:29:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81e9991aae20659f72bb8873c290f410335dde44"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-block-misbehaving-nodes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-07T08:30:09Z",
+      "lastCommit": "2020-09-07T08:30:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "397e8cd4ced156dcb13915ef7d34f818552d5c70"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-07T08:29:54Z",
+  "lastAdrCommit": "2021-01-19T12:20:38Z",
+  "firstCommit": "2019-07-23T11:36:46Z",
+  "lastCommit": "2021-12-21T08:36:31Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3076c05594c0a0e2296257a0028401131692685a",
+        "82864d11c9599ebdcecbdab4e2e63cc96b77b10a"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "81e9991aae20659f72bb8873c290f410335dde44",
+        "397e8cd4ced156dcb13915ef7d34f818552d5c70",
+        "d3e9cee9ac95dcb77a27146cb96bf085327c8969",
+        "0c028681e69ffbb162e47cd809554139c8ccb0a7",
+        "bfe04d35cdb1fe67d3c1769c6062ed0603362466",
+        "7a11f1b51d7b3346fe147a8908fdba1d4c8e0cd2"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c1c3b75eae69ba2afa6327260d03267ecdeabc47"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1e0545b225949a5c30dbb90ccdb0c7401aae6878",
+        "b65d685845daea0eaed57630a0fffe3cb06bc398",
+        "3b322803343c4b56bad04cbb60f9ef87b38fea3a",
+        "a78b9f6c9448347ada1ce129a7154c809d7ed899",
+        "e21c53e2fafb47bfc790fc5e3eed74569097d79f",
+        "9b6794042888c8e7561a1eb2e1c499de7e553592",
+        "4965c3ba6efd5d253f78547a2fb0b7e2be399e86",
+        "e29453d61d36f44618319bba1f444168172dde41",
+        "3a46eb2479c2107b8987c6e612fda05306879d3a",
+        "b411f75cfd2d13e2a45217b25e808bd86a08a353",
+        "075d051820ec05c341369d5cfec1e6bb678592d8",
+        "25340338b33f391e773834da408d7afe7f868f04",
+        "ba638374935ee7d7e47045a3ea64f55dda62ec8c"
+      ],
+      "numberOfCommits": 13
+    }
+  ]
+}

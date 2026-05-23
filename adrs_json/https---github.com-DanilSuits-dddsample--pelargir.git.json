@@ -1,0 +1,84 @@
+{
+  "repositoryUrl": "https://github.com/DanilSuits/dddsample-pelargir.git",
+  "crawlDateTime": "2022-01-18T21:10:14.383698",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-isolate-components-into-submodules.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-03T14:58:16Z",
+      "lastCommit": "2018-06-03T14:58:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72ffc0ae4b19da40eb72d40446ff77dd15c4264d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-install-citerus-as-a-git-submodule.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-03T14:58:16Z",
+      "lastCommit": "2018-06-03T14:58:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72ffc0ae4b19da40eb72d40446ff77dd15c4264d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-03T14:33:21Z",
+      "lastCommit": "2018-06-03T14:33:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cbe01360c64dca7d9261e241b6313a29ec5b43ae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-03T14:33:21Z",
+  "lastAdrCommit": "2018-06-03T14:58:16Z",
+  "firstCommit": "2018-06-03T12:23:22Z",
+  "lastCommit": "2018-06-17T11:28:55Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cbe01360c64dca7d9261e241b6313a29ec5b43ae",
+        "72ffc0ae4b19da40eb72d40446ff77dd15c4264d"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/dlcs/protagonist.git",
+  "crawlDateTime": "2022-01-18T18:35:52.268883",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-api-project-design.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2020-11-10T14:28:10Z",
+      "lastCommit": "2021-11-12T10:36:29Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "63ad946c4692d56a3d457338af52a0961c381360"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17b8de083d4fbf4ea6f84a474a421737d45dcb3a",
+            "55ae5fb9f9b7a3ea6fd4657c14fdc1fbde1a15c8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-composite-handler-design.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2021-11-12T10:36:29Z",
+      "lastCommit": "2021-11-12T10:36:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "99cc9d05dacf21b0307d43be9e55d2599fed2511",
+            "a800bd6b83f66ec477ca9e0c2d80407db877395a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-10T14:28:10Z",
+  "lastAdrCommit": "2021-11-12T10:36:29Z",
+  "firstCommit": "2020-01-11T16:44:17Z",
+  "lastCommit": "2022-01-17T11:41:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "99cc9d05dacf21b0307d43be9e55d2599fed2511",
+        "a800bd6b83f66ec477ca9e0c2d80407db877395a",
+        "63ad946c4692d56a3d457338af52a0961c381360"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "17b8de083d4fbf4ea6f84a474a421737d45dcb3a",
+        "55ae5fb9f9b7a3ea6fd4657c14fdc1fbde1a15c8"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

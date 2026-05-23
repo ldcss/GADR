@@ -1,0 +1,71 @@
+{
+  "repositoryUrl": "https://github.com/raster-foundry/granary.git",
+  "crawlDateTime": "2022-01-18T20:05:00.501725",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0002-api-documentation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-16T21:56:46Z",
+      "lastCommit": "2020-03-03T20:18:00Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93c26bd469fe4d0c17974ad24be97e44957dfa51",
+            "8a1b401ebb0d6fdc4fb621da09471977b742d108"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0001-app-setup-and-goals.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-02T14:20:36Z",
+      "lastCommit": "2020-03-03T20:18:00Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93c26bd469fe4d0c17974ad24be97e44957dfa51",
+            "65e42bf11ba6330696f4a1b1451edb28d68cf46a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-02T14:20:36Z",
+  "lastAdrCommit": "2020-03-03T20:18:00Z",
+  "firstCommit": "2019-09-25T22:24:39Z",
+  "lastCommit": "2022-01-15T06:09:23Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "93c26bd469fe4d0c17974ad24be97e44957dfa51",
+        "8a1b401ebb0d6fdc4fb621da09471977b742d108",
+        "65e42bf11ba6330696f4a1b1451edb28d68cf46a"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

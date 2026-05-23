@@ -1,0 +1,143 @@
+{
+  "repositoryUrl": "https://github.com/serienator/serienator.git",
+  "crawlDateTime": "2022-01-18T20:00:07.917701",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "cloud-provider.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-08T20:29:02Z",
+      "lastCommit": "2019-10-08T20:29:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "236fa616d8c98ee61afa648d44707942db16f86b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "frameworks.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-08T20:29:02Z",
+      "lastCommit": "2019-10-08T20:29:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "236fa616d8c98ee61afa648d44707942db16f86b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "cicd-tool.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-08T20:29:02Z",
+      "lastCommit": "2019-10-08T20:29:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "236fa616d8c98ee61afa648d44707942db16f86b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "programming-languages.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-08T20:29:02Z",
+      "lastCommit": "2019-10-08T20:29:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "236fa616d8c98ee61afa648d44707942db16f86b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "api-providers.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-08T20:29:02Z",
+      "lastCommit": "2019-10-08T20:29:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "236fa616d8c98ee61afa648d44707942db16f86b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "work-flow.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-08T19:12:46Z",
+      "lastCommit": "2019-10-08T19:13:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5303154aeb213452402fc8bf66ea9b6b6f17563b",
+            "46483f0b706461407b23dc8afada4e2e5faac76c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-08T19:12:46Z",
+  "lastAdrCommit": "2019-10-08T20:29:02Z",
+  "firstCommit": "2019-10-08T18:02:06Z",
+  "lastCommit": "2019-10-21T10:17:14Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5303154aeb213452402fc8bf66ea9b6b6f17563b",
+        "46483f0b706461407b23dc8afada4e2e5faac76c",
+        "236fa616d8c98ee61afa648d44707942db16f86b"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

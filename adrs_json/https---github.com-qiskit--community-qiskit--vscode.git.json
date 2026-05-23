@@ -1,0 +1,184 @@
+{
+  "repositoryUrl": "https://github.com/qiskit-community/qiskit-vscode.git",
+  "crawlDateTime": "2022-01-18T19:36:14.971232",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "ADR-003.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-22T08:05:26Z",
+      "lastCommit": "2018-07-20T06:48:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "436127883879326ed48eef002b83df76e55ff58d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1a2d3cc55d2e2091ba036fb5a37c8b7dbc1af91",
+            "a34f965085ccfd2933bb94187d34d38d2cae0949"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "ADR-002.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-12T13:26:15Z",
+      "lastCommit": "2018-07-15T14:00:44Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6540920d6d9583e91285207aeaaa6be0f3ca79b1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb7929c9ed62cac7badce33c2d48af428a2e6da3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "75ea17d1905b7704f81e450049d34f9540efd4f9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "ADR-001.md",
+      "template": "Nygard",
+      "status": "Superseded",
+      "firstCommit": "2018-06-12T13:19:43Z",
+      "lastCommit": "2018-07-20T06:48:23Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "436127883879326ed48eef002b83df76e55ff58d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb7929c9ed62cac7badce33c2d48af428a2e6da3",
+            "e706dace35ea237e888637dcb49aedd9160a09b8"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "75ea17d1905b7704f81e450049d34f9540efd4f9",
+            "d1291f6045472737c12347e015a1de14fd41f118"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "ADR-004.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-26T08:19:54Z",
+      "lastCommit": "2018-07-20T06:48:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "436127883879326ed48eef002b83df76e55ff58d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9b733be33ac194a00dbd94befb7fb7768758fa5c",
+            "ebdc37d2f6750375209dae0160bdc81e95fcebc2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-12T13:19:43Z",
+  "lastAdrCommit": "2018-07-20T06:48:23Z",
+  "firstCommit": "2018-02-23T08:17:16Z",
+  "lastCommit": "2019-05-21T08:43:35Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "436127883879326ed48eef002b83df76e55ff58d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6540920d6d9583e91285207aeaaa6be0f3ca79b1"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bb7929c9ed62cac7badce33c2d48af428a2e6da3",
+        "e706dace35ea237e888637dcb49aedd9160a09b8"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "75ea17d1905b7704f81e450049d34f9540efd4f9",
+        "a1a2d3cc55d2e2091ba036fb5a37c8b7dbc1af91",
+        "9b733be33ac194a00dbd94befb7fb7768758fa5c",
+        "d1291f6045472737c12347e015a1de14fd41f118",
+        "ebdc37d2f6750375209dae0160bdc81e95fcebc2",
+        "a34f965085ccfd2933bb94187d34d38d2cae0949"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

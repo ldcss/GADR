@@ -1,0 +1,88 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/static.git",
+  "crawlDateTime": "2022-01-18T19:55:55.776093",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture-decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0002-add-enhanced-ecommerce.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T14:51:26Z",
+      "lastCommit": "2020-06-09T15:26:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "854faadee5ce63adebc51c6650f466c359363689"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b752bbeae44ac39005203f50038f6e2dd0f46eb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T14:51:26Z",
+      "lastCommit": "2020-06-09T15:26:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "854faadee5ce63adebc51c6650f466c359363689"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b752bbeae44ac39005203f50038f6e2dd0f46eb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-09T14:51:26Z",
+  "lastAdrCommit": "2020-06-09T15:26:26Z",
+  "firstCommit": "2011-04-11T13:42:03Z",
+  "lastCommit": "2022-01-18T16:02:07Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "854faadee5ce63adebc51c6650f466c359363689"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4b752bbeae44ac39005203f50038f6e2dd0f46eb"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

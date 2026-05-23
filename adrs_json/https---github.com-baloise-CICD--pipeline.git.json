@@ -1,0 +1,224 @@
+{
+  "repositoryUrl": "https://github.com/baloise/CICD-pipeline.git",
+  "crawlDateTime": "2022-01-18T21:07:29.592925",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decisions"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "008-backwards-compatibility.md",
+      "template": "Nygard",
+      "status": "In progress",
+      "firstCommit": "2020-11-20T16:22:47Z",
+      "lastCommit": "2020-11-20T16:22:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8b98db923e574d60234f49f389c231606fe4ddcf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "002-usage-and-import-of-shared-library.md",
+      "template": "Nygard",
+      "status": "Recommended",
+      "firstCommit": "2020-11-02T10:00:05Z",
+      "lastCommit": "2020-11-02T10:00:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "231f1179175dfb34b83d8c603b9a3c687503258e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "007-use-docker-as-default-for-tool-provisioning.md",
+      "template": "Nygard",
+      "status": "In progress",
+      "firstCommit": "2020-11-20T16:22:23Z",
+      "lastCommit": "2020-11-20T16:22:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32d14189f5fb8ca58f6d35fa3315301352cd1c5a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "005-use-interfaces-for-abstraction.md",
+      "template": "Nygard",
+      "status": "In progress",
+      "firstCommit": "2020-11-02T10:00:05Z",
+      "lastCommit": "2020-11-20T16:21:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "525c3cc148299429583c17308cb0c2c8d30dca45"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "231f1179175dfb34b83d8c603b9a3c687503258e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "003-library-testing.md",
+      "template": "Nygard",
+      "status": "Recommended",
+      "firstCommit": "2020-11-02T10:00:05Z",
+      "lastCommit": "2020-11-20T16:21:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "525c3cc148299429583c17308cb0c2c8d30dca45"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "231f1179175dfb34b83d8c603b9a3c687503258e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "006-homogeneous-build-across-environments.md",
+      "template": "Nygard",
+      "status": "In progress",
+      "firstCommit": "2020-11-20T16:22:09Z",
+      "lastCommit": "2020-11-23T15:36:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d4b45c9e5419adf4233e7464ec55910a4e862dc7",
+            "d85a6ad844c8d5d216f287168c2ca2f48abbd82a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "004-depend-on-linux.md",
+      "template": "Nygard",
+      "status": "Recommended",
+      "firstCommit": "2020-11-02T10:00:05Z",
+      "lastCommit": "2020-11-20T16:21:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "525c3cc148299429583c17308cb0c2c8d30dca45"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "231f1179175dfb34b83d8c603b9a3c687503258e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "001-open-source-shared-jenkins-library.md",
+      "template": "Nygard",
+      "status": "Recommended",
+      "firstCommit": "2020-11-02T10:00:05Z",
+      "lastCommit": "2020-11-05T15:14:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5ac2ed1b5624568e8c0b6022c1c1ce5a3ca07de7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "231f1179175dfb34b83d8c603b9a3c687503258e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-02T10:00:05Z",
+  "lastAdrCommit": "2020-11-23T15:36:21Z",
+  "firstCommit": "2020-10-13T07:56:51Z",
+  "lastCommit": "2021-10-11T14:53:19Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8b98db923e574d60234f49f389c231606fe4ddcf",
+        "525c3cc148299429583c17308cb0c2c8d30dca45",
+        "d4b45c9e5419adf4233e7464ec55910a4e862dc7",
+        "5ac2ed1b5624568e8c0b6022c1c1ce5a3ca07de7",
+        "32d14189f5fb8ca58f6d35fa3315301352cd1c5a",
+        "d85a6ad844c8d5d216f287168c2ca2f48abbd82a"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "231f1179175dfb34b83d8c603b9a3c687503258e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "repositoryUrl": "https://github.com/LBHackney-IT/evidence-api.git",
+  "crawlDateTime": "2022-01-18T22:56:01.455139",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-create-two-platform-apis-instead-of-a-single-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-17T16:55:26Z",
+      "lastCommit": "2020-12-17T16:55:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8cc6e6147ec49049f6e1512537da7cbf15843bbf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-use-palos-altos-to-perform-malware-scanning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-27T15:07:14Z",
+      "lastCommit": "2021-05-27T15:07:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "284791233a7386285f2bb9988984edc2a4ddbf69"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-text-files-for-simple-configuration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-17T17:05:07Z",
+      "lastCommit": "2020-12-17T17:05:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "437cf9b61273b5979803c2c17632844ca5171355"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-asp-net-for-platform-apis.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-17T16:55:26Z",
+      "lastCommit": "2020-12-17T16:55:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8cc6e6147ec49049f6e1512537da7cbf15843bbf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-17T16:55:26Z",
+      "lastCommit": "2020-12-17T16:55:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8cc6e6147ec49049f6e1512537da7cbf15843bbf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-build-an-abstracted-resident-store.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-17T16:55:26Z",
+      "lastCommit": "2020-12-17T17:05:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8cc6e6147ec49049f6e1512537da7cbf15843bbf",
+            "437cf9b61273b5979803c2c17632844ca5171355"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-17T16:55:26Z",
+  "lastAdrCommit": "2021-05-27T15:07:14Z",
+  "firstCommit": "2020-11-30T16:15:57Z",
+  "lastCommit": "2021-11-18T17:09:48Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "284791233a7386285f2bb9988984edc2a4ddbf69"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8cc6e6147ec49049f6e1512537da7cbf15843bbf",
+        "437cf9b61273b5979803c2c17632844ca5171355"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/smart-answers.git",
+  "crawlDateTime": "2022-01-18T20:30:26.217797",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-001-removing-smartdown.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2021-02-05T13:45:18Z",
+      "lastCommit": "2021-06-14T11:44:42Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5608a0ed738f0399d969fb8b80f04fa6e245d62e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "201c3b75e33f7639b631d5576833d3080d61cb0c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a664ab8bed453e264a91f1a13b37dcb5b24f3639"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "003-testing-flows.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-07T10:07:59Z",
+      "lastCommit": "2021-09-27T09:49:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20b550844714553cfe7f6738f47fa13ff7aab6d7",
+            "e9e1aac2f1900131d836880685b56ef40f8ecad8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "002-store-responses-in-query-string.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-02T11:41:45Z",
+      "lastCommit": "2021-03-05T15:41:45Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc007788200e6084273ef0d767ed40e276dfe5f1",
+            "e8abb3d0a8cfd8b731fd313425164f0128bbd217",
+            "e6cd8f985af5a16e90be3b6d244009ac427936c1",
+            "ba8e35e2521ebbe8a733e4702826b931d0063b60"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-02-05T13:45:18Z",
+  "lastAdrCommit": "2021-09-27T09:49:40Z",
+  "firstCommit": "2011-10-26T15:43:18Z",
+  "lastCommit": "2022-01-18T17:03:43Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5608a0ed738f0399d969fb8b80f04fa6e245d62e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "20b550844714553cfe7f6738f47fa13ff7aab6d7",
+        "e9e1aac2f1900131d836880685b56ef40f8ecad8"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cc007788200e6084273ef0d767ed40e276dfe5f1",
+        "e8abb3d0a8cfd8b731fd313425164f0128bbd217",
+        "201c3b75e33f7639b631d5576833d3080d61cb0c",
+        "e6cd8f985af5a16e90be3b6d244009ac427936c1",
+        "ba8e35e2521ebbe8a733e4702826b931d0063b60"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a664ab8bed453e264a91f1a13b37dcb5b24f3639"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

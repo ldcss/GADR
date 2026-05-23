@@ -1,0 +1,244 @@
+{
+  "repositoryUrl": "https://github.com/hamlet-io/architectural-decision-log.git",
+  "crawlDateTime": "2022-01-18T23:09:39.101025",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0006-hamlet-docker-layer-release-mgmt.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-04-21T02:28:12Z",
+      "lastCommit": "2021-04-21T06:18:39Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "262c58349e05e1e011c439be3e7d857aa6e6b033",
+            "edc27486f6e48451a5ffeba2f4481bd4fc3896e5",
+            "705e97ef0db2411e15662a86931d7220486fdf49"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0007-placement-support.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-07-03T03:26:52Z",
+      "lastCommit": "2021-09-27T11:14:55Z",
+      "numberOfCommits": 16,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02829dfe065ab75b47f91825f5bcd3972ccd5f7e",
+            "bd5b2f85ca7170579130d5bd0ec56afabfc7151d",
+            "8352384dbcef225ceee9cf55aeef4a7b4f07e2ca",
+            "2c122f088071ff06c025e3f98ec7b42401fdb51f",
+            "7103fcd2e50df4d495c01b794452658b7ccc799e",
+            "ffea1b29e43ad8eaf2f45bbef00c961a5470dd19",
+            "86b584833c3dee0e8d2a940bfe06d6740708c26d",
+            "13b8ede7d82313bcf024fb3521ecde6302053742",
+            "01a066a43827ea23caaf6cc8d6b74a666cec574c",
+            "aecc42166566bdef5dd87425aa373197f321ef7c",
+            "3fd4e9852bb750e80924d1b6959a7c54cf71d54d",
+            "bf198c15ca3f795588a3a56cdee1c445139e37da",
+            "bcf35e70df367ddd3c05edaaca174be810092abf",
+            "9544a4d9378090659353edcbb22fc82162e485b5",
+            "97bca0aa51a5d487345bddc2d76931ed51104ab0",
+            "21811133f96e3e6c585a47379c42e1f575fa65f1"
+          ],
+          "numberOfCommits": 16
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-executor-engine-separation.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-02-24T02:49:14Z",
+      "lastCommit": "2021-02-24T02:49:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "73310fd1d419579030101192ea89bc17d4723b0f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-provide-implementation-tracking-on-records.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-21T09:56:36Z",
+      "lastCommit": "2021-01-21T09:56:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01f0d10370eb3ff604839d414343de7d8312c55e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0004-provide-error-codes-on-handled-exception.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-03-03T00:12:35Z",
+      "lastCommit": "2021-03-03T00:12:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "99169cc5952e6394ded773d265798fbd5187bddc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0005-convention-based-logging-classes.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-04-20T05:40:30Z",
+      "lastCommit": "2021-04-20T05:40:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81754e9d0114b38a26e05588f9087bcf992571e7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-12-18T00:08:59Z",
+      "lastCommit": "2020-12-18T00:08:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ee131569e5dacd3da17501a208f11beb7c3f767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-layer-deployments.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2021-05-20T23:37:13Z",
+      "lastCommit": "2021-05-20T23:37:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b87267be40775b9ffff46e04681b637c84f80590",
+            "134c3024f0ce0cbeb42800e74855aa3c17dc3ebe",
+            "1ed502f59b5f024206312a1409a8767d9c33da0c"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-18T00:08:59Z",
+  "lastAdrCommit": "2021-09-27T11:14:55Z",
+  "firstCommit": "2020-12-17T23:51:31Z",
+  "lastCommit": "2021-09-27T11:14:55Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "02829dfe065ab75b47f91825f5bcd3972ccd5f7e",
+        "bd5b2f85ca7170579130d5bd0ec56afabfc7151d",
+        "8352384dbcef225ceee9cf55aeef4a7b4f07e2ca",
+        "2c122f088071ff06c025e3f98ec7b42401fdb51f",
+        "7103fcd2e50df4d495c01b794452658b7ccc799e",
+        "ffea1b29e43ad8eaf2f45bbef00c961a5470dd19",
+        "86b584833c3dee0e8d2a940bfe06d6740708c26d",
+        "13b8ede7d82313bcf024fb3521ecde6302053742",
+        "01a066a43827ea23caaf6cc8d6b74a666cec574c",
+        "aecc42166566bdef5dd87425aa373197f321ef7c",
+        "3fd4e9852bb750e80924d1b6959a7c54cf71d54d",
+        "bf198c15ca3f795588a3a56cdee1c445139e37da",
+        "bcf35e70df367ddd3c05edaaca174be810092abf",
+        "9544a4d9378090659353edcbb22fc82162e485b5",
+        "97bca0aa51a5d487345bddc2d76931ed51104ab0",
+        "21811133f96e3e6c585a47379c42e1f575fa65f1"
+      ],
+      "numberOfCommits": 16
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "262c58349e05e1e011c439be3e7d857aa6e6b033",
+        "9ee131569e5dacd3da17501a208f11beb7c3f767",
+        "edc27486f6e48451a5ffeba2f4481bd4fc3896e5",
+        "b87267be40775b9ffff46e04681b637c84f80590",
+        "705e97ef0db2411e15662a86931d7220486fdf49",
+        "134c3024f0ce0cbeb42800e74855aa3c17dc3ebe",
+        "1ed502f59b5f024206312a1409a8767d9c33da0c"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "73310fd1d419579030101192ea89bc17d4723b0f",
+        "01f0d10370eb3ff604839d414343de7d8312c55e"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "99169cc5952e6394ded773d265798fbd5187bddc",
+        "81754e9d0114b38a26e05588f9087bcf992571e7"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

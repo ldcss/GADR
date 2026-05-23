@@ -1,0 +1,115 @@
+{
+  "repositoryUrl": "https://github.com/jshingler/ODT_OnlineBank.git",
+  "crawlDateTime": "2022-01-18T23:02:00.930911",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "ARD-0001.md",
+      "template": "Nygard",
+      "status": "*A decision may be \"proposed\" if the project stakeholders haven't agreed with it yet, or \"accepted\" once it is agreed. If a later ADR changes or reverses a decision, it may be marked as \"deprecated\" or \"superseded\" with a reference to its replacement.* - Proposed - 11/2016 - Accepted - 12/2016",
+      "firstCommit": "2016-12-26T02:16:46Z",
+      "lastCommit": "2016-12-26T02:33:23Z",
+      "numberOfCommits": 10,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "75638be28af55105bcebf0003d6f15b9edcffdea",
+            "f39c5125e0a556b468f05a2cde163ca6b57c7bb8",
+            "2c350ddb18c5a6085464699c0f0be5b01ad6bad6",
+            "d506ac6a446a105ed46a5267416bc9b5c21bfc73",
+            "db186c31f87c54871b70d5afec37843c490729eb",
+            "cafc684757e10dd739d857ae9ee821e8fe6de248",
+            "a358d3929204978d1121211c9683f38ae46d0d80",
+            "b3d013ce34bede3e2db009a1943bdb083593420d",
+            "6acbe2c1bbb45fdd9b7e71d79f1a2646ee0a8d66",
+            "6cefdf671d11bf016268eebf64f728dca56ce3b8"
+          ],
+          "numberOfCommits": 10
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "ARD-0002.md",
+      "template": "Nygard",
+      "status": "*A decision may be \"proposed\" if the project stakeholders haven't agreed with it yet, or \"accepted\" once it is agreed. If a later ADR changes or reverses a decision, it may be marked as \"deprecated\" or \"superseded\" with a reference to its replacement.* - Proposed - 11/2016 - Accepted - 12/2016",
+      "firstCommit": "2016-12-26T02:44:30Z",
+      "lastCommit": "2016-12-26T02:51:33Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1d83dd070b421da9872c44871f62a257b98ced8b",
+            "c693fb8b8593b262041e8e33811725ef0892e10f",
+            "f576355a3c87bd7906d83b7bc4627e81942191c4"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "ARD-000.md",
+      "template": "Nygard",
+      "status": "*A decision may be \"proposed\" if the project stakeholders haven't agreed with it yet, or \"accepted\" once it is agreed. If a later ADR changes or reverses a decision, it may be marked as \"deprecated\" or \"superseded\" with a reference to its replacement.*",
+      "firstCommit": "2016-12-26T01:59:49Z",
+      "lastCommit": "2016-12-26T02:28:59Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc382852b2db21cec5ecd50db5418395bd7fdee8",
+            "1d2470d04e6acc5afece19081937b752fc1e2578",
+            "dff88e53208f7bf8f9de87b126be778b27560256",
+            "e04a5e8c18d2332c6c560506651953b0fd57f692",
+            "eebd996713cba8a70362242417ef605a170a6f24"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-12-26T01:59:49Z",
+  "lastAdrCommit": "2016-12-26T02:51:33Z",
+  "firstCommit": "2016-12-26T01:55:29Z",
+  "lastCommit": "2016-12-26T02:53:19Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "75638be28af55105bcebf0003d6f15b9edcffdea",
+        "1d83dd070b421da9872c44871f62a257b98ced8b",
+        "2c350ddb18c5a6085464699c0f0be5b01ad6bad6",
+        "d506ac6a446a105ed46a5267416bc9b5c21bfc73",
+        "f576355a3c87bd7906d83b7bc4627e81942191c4",
+        "bc382852b2db21cec5ecd50db5418395bd7fdee8",
+        "e04a5e8c18d2332c6c560506651953b0fd57f692",
+        "eebd996713cba8a70362242417ef605a170a6f24",
+        "f39c5125e0a556b468f05a2cde163ca6b57c7bb8",
+        "c693fb8b8593b262041e8e33811725ef0892e10f",
+        "db186c31f87c54871b70d5afec37843c490729eb",
+        "cafc684757e10dd739d857ae9ee821e8fe6de248",
+        "a358d3929204978d1121211c9683f38ae46d0d80",
+        "1d2470d04e6acc5afece19081937b752fc1e2578",
+        "b3d013ce34bede3e2db009a1943bdb083593420d",
+        "dff88e53208f7bf8f9de87b126be778b27560256",
+        "6acbe2c1bbb45fdd9b7e71d79f1a2646ee0a8d66",
+        "6cefdf671d11bf016268eebf64f728dca56ce3b8"
+      ],
+      "numberOfCommits": 18
+    }
+  ]
+}

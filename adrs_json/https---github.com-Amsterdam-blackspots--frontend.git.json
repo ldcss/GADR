@@ -1,0 +1,93 @@
+{
+  "repositoryUrl": "https://github.com/Amsterdam/blackspots-frontend.git",
+  "crawlDateTime": "2022-01-18T20:07:23.064009",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-create-react-app-as-template.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-29T09:04:29Z",
+      "lastCommit": "2019-08-29T09:04:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1a1be846af5eb371d9cd767f2a42e36c8027d46"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-amaps-as-map-core.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-29T09:04:29Z",
+      "lastCommit": "2019-08-29T09:04:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1a1be846af5eb371d9cd767f2a42e36c8027d46"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-react-hook-form.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-03T13:09:50Z",
+      "lastCommit": "2019-12-04T09:32:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "86af8acdbab7f38c7d3e07c3bea70c08001de6de",
+            "ec09f07240193ffed96e0ac85727f924cff65e5e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-29T09:04:29Z",
+  "lastAdrCommit": "2019-12-04T09:32:16Z",
+  "firstCommit": "2019-02-28T11:29:10Z",
+  "lastCommit": "2022-01-17T18:15:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "86af8acdbab7f38c7d3e07c3bea70c08001de6de",
+        "ec09f07240193ffed96e0ac85727f924cff65e5e"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b1a1be846af5eb371d9cd767f2a42e36c8027d46"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

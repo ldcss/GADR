@@ -1,0 +1,125 @@
+{
+  "repositoryUrl": "https://github.com/GingerTommy/adr-cli.git",
+  "crawlDateTime": "2022-01-18T18:34:19.918004",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-docs-adr-as-folder.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-27T12:21:59Z",
+      "lastCommit": "2017-10-27T12:21:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f89055b74adb5ae7340bbecb2d764ad3f69771e3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-iso-8601-date-format.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-03T22:09:55Z",
+      "lastCommit": "2017-10-27T11:49:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6b86b72414265503dee63bf5558db0ad9d82a09d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f101456b0854925eed45ac8b1a0e6c2c34161450"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-03T22:09:55Z",
+      "lastCommit": "2017-12-19T15:40:49Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6b86b72414265503dee63bf5558db0ad9d82a09d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f101456b0854925eed45ac8b1a0e6c2c34161450",
+            "f89055b74adb5ae7340bbecb2d764ad3f69771e3"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "04f4755c2aea0c2204bee7d77d051127d40a8a3d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-03T22:09:55Z",
+  "lastAdrCommit": "2017-12-19T15:40:49Z",
+  "firstCommit": "2017-06-28T12:43:27Z",
+  "lastCommit": "2017-12-19T15:40:49Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6b86b72414265503dee63bf5558db0ad9d82a09d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f101456b0854925eed45ac8b1a0e6c2c34161450",
+        "f89055b74adb5ae7340bbecb2d764ad3f69771e3"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "04f4755c2aea0c2204bee7d77d051127d40a8a3d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

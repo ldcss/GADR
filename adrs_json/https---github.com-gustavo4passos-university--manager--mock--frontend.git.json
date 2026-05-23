@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/gustavo4passos/university-manager-mock-frontend.git",
+  "crawlDateTime": "2022-01-18T20:57:11.319269",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-002.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-17T00:18:24Z",
+      "lastCommit": "2020-12-17T00:18:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91fd05f1b875ddcc48455c34d5f8da04d025d757"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-17T00:18:24Z",
+      "lastCommit": "2020-12-17T00:18:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91fd05f1b875ddcc48455c34d5f8da04d025d757"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-17T00:18:24Z",
+  "lastAdrCommit": "2020-12-17T00:18:24Z",
+  "firstCommit": "2020-12-12T02:00:27Z",
+  "lastCommit": "2020-12-17T00:18:24Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "91fd05f1b875ddcc48455c34d5f8da04d025d757"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

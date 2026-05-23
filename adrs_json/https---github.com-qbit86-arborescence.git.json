@@ -1,0 +1,133 @@
+{
+  "repositoryUrl": "https://github.com/qbit86/arborescence.git",
+  "crawlDateTime": "2022-01-18T18:24:26.634309",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-restrict-language-version-to-csharp-8.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-06-19T18:55:11Z",
+      "lastCommit": "2021-06-19T18:55:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc2eb55a041967cf3d60f839f4e5005e4e4b1c42"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-place-using-directives-inside-namespace.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-06T17:25:35Z",
+      "lastCommit": "2020-10-06T17:25:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bbfe10abb3860ccf44d06d2999eaeba543e66559"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-configure-line-endings-in-gitattributes.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-11T18:56:59Z",
+      "lastCommit": "2020-10-11T18:56:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c74383322bb34e8fd20c7078142572c47fd88fe9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-keep-editorconfig-sorted.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-11T18:56:59Z",
+      "lastCommit": "2020-10-11T18:56:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c74383322bb34e8fd20c7078142572c47fd88fe9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-02T01:03:50Z",
+      "lastCommit": "2020-10-06T17:25:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5ffdfd192c4eb0a97693f5826e023c96b59a727c",
+            "e409b4dcba6e257bbfb369c97c6d5a60951999c4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-02T01:03:50Z",
+  "lastAdrCommit": "2021-06-19T18:55:11Z",
+  "firstCommit": "2017-08-04T22:00:40Z",
+  "lastCommit": "2021-12-31T21:31:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dc2eb55a041967cf3d60f839f4e5005e4e4b1c42",
+        "c74383322bb34e8fd20c7078142572c47fd88fe9"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5ffdfd192c4eb0a97693f5826e023c96b59a727c",
+        "bbfe10abb3860ccf44d06d2999eaeba543e66559",
+        "e409b4dcba6e257bbfb369c97c6d5a60951999c4"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

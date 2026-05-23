@@ -1,0 +1,101 @@
+{
+  "repositoryUrl": "https://github.com/Flexiana/framework.git",
+  "crawlDateTime": "2022-01-18T18:37:43.108701",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0003-controller-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-27T12:51:39Z",
+      "lastCommit": "2021-01-27T12:51:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adee427138cf7a42de144f95de347011ed76297c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0002-database-basic-architecture.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-01-14T15:09:28Z",
+      "lastCommit": "2021-01-14T15:09:28Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a53f01cc01d327ed5124aac7f4ef982093de08d3",
+            "25ca35f4fa45c0157a429f56f91b9c998e1ff479"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-12T17:48:50Z",
+      "lastCommit": "2021-01-12T17:48:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48ef158f75fa5bacab2982d3e188e3c7072dd3e8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-12T17:48:50Z",
+  "lastAdrCommit": "2021-01-27T12:51:39Z",
+  "firstCommit": "2021-01-12T10:24:07Z",
+  "lastCommit": "2022-01-17T08:28:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a53f01cc01d327ed5124aac7f4ef982093de08d3",
+        "25ca35f4fa45c0157a429f56f91b9c998e1ff479"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "adee427138cf7a42de144f95de347011ed76297c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "48ef158f75fa5bacab2982d3e188e3c7072dd3e8"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/UST-QuAntiL/nisq-analyzer.git",
+  "crawlDateTime": "2022-01-18T21:04:27.426861",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-05-04T15:48:02Z",
+      "lastCommit": "2020-05-04T15:48:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "15393d8b058880bca1079790ea02c6d673bcbca8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-URI-for-entities.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-05-04T15:48:02Z",
+      "lastCommit": "2020-05-04T15:48:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "15393d8b058880bca1079790ea02c6d673bcbca8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-monorepo.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-05-04T15:48:02Z",
+      "lastCommit": "2020-05-04T15:48:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "15393d8b058880bca1079790ea02c6d673bcbca8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-04T15:48:02Z",
+  "lastAdrCommit": "2020-05-04T15:48:02Z",
+  "firstCommit": "2020-05-04T13:07:02Z",
+  "lastCommit": "2021-12-10T13:40:26Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "15393d8b058880bca1079790ea02c6d673bcbca8"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

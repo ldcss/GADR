@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/mateuspiresl/libquality.git",
+  "crawlDateTime": "2022-01-18T21:31:25.574497",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "fetch-repository-worker.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-29T00:39:29Z",
+      "lastCommit": "2020-10-29T00:39:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "609f2e53fe32f9ab7f119c216c700d5a1ad2ca56"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-29T00:39:29Z",
+  "lastAdrCommit": "2020-10-29T00:39:29Z",
+  "firstCommit": "2020-10-25T14:49:50Z",
+  "lastCommit": "2020-10-29T02:13:22Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "609f2e53fe32f9ab7f119c216c700d5a1ad2ca56"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

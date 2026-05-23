@@ -1,0 +1,1080 @@
+{
+  "repositoryUrl": "https://github.com/shopware/platform.git",
+  "crawlDateTime": "2022-01-18T18:51:32.609711",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 41,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "2020-06-25-Implement-architecture-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-26T12:30:37Z",
+      "lastCommit": "2021-11-09T06:53:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee6839e548db94ae14680d1550cd683172542bc9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c01e27a38a5faa9b9a1ed5a3d545f47f358c99cc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-03-24-nested-line-items.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-31T09:00:49Z",
+      "lastCommit": "2021-03-31T09:00:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0f776d6a61b689e059e356b35ad29c86a610403"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-11-02-preparing-data-for-rule-evaluation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-08T12:03:08Z",
+      "lastCommit": "2021-11-08T12:03:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "352b598c08d73655ab16de981434b2442aeacf07"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-07-22-move-storefront-scripts-to-head.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-28T07:05:03Z",
+      "lastCommit": "2021-07-28T07:05:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6b76f37ec3fb2e0c717a8c800791b41baccf10c1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-10-21-app-scripting.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-03T15:18:51Z",
+      "lastCommit": "2022-01-17T09:09:29Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e680c3cbde23079ed3d8412bf8f2ed28937a56f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3e9d19e52a8f72649409f52368cee82e948d649",
+            "d156f1ade735d8ca2fa354ed0b629da30f3611d8",
+            "77130e3959b3ae8715edb66a4bc0f17f771d13ac",
+            "c34a75015b7d4b280609d8c9fb56e812e9f6aa25",
+            "e06a2878bb44fc7b44e870c8ea6144f5a9ce4d4f",
+            "1983b693b1e590719948b5d83688bc2bf751ebd8"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-12-03-The-best-practice-to-always-re-fetch-the-data-after-saving.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-03T13:32:51Z",
+      "lastCommit": "2020-12-03T13:32:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5fcc7ecd7c4b99fd4fcc30ebf42076f0c8bce17"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-05-14-when-to-use-plain-sql-or-dal.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-18T06:14:01Z",
+      "lastCommit": "2021-05-18T06:14:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f77911ff0371755a755f6d5ad60a24b29d17cc1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-05-28-introduce-eslint-on-vue-admin.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-01T06:39:30Z",
+      "lastCommit": "2021-06-16T11:20:19Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45fdf8d0b8fb897188afc90ba9ac627e82f303ea",
+            "811cae82e5d0d4ccbddf9620734c3d0d27facc3b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-11-20-add-login-required-annotation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-20T13:23:16Z",
+      "lastCommit": "2020-11-20T13:23:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "440219945b2b9854acb2072984411c666386d4ba"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-08-12-Implement-app-system-inside-platform.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-17T13:58:26Z",
+      "lastCommit": "2020-08-17T13:58:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aa607ed3306b23e144a555d1eb01d8732a3c4188"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-11-09-increment-pattern.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-18T12:35:05Z",
+      "lastCommit": "2021-11-18T12:35:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aaabdac315ff446aa44a3e6fbdd09bfd36eef000"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-07-02-control-clone-behavior.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-02T10:30:47Z",
+      "lastCommit": "2020-07-02T11:53:59Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e3140ad3ab5d2d1df3e4f0fd11b82c197229e04",
+            "a30bbc168836f5a880402ab4c97ae1a645ff0afc",
+            "16b9fc873e9d73c7da05de90462fe67edda9bc1c"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-08-19-handling-feature-flags.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-29T09:36:00Z",
+      "lastCommit": "2020-09-29T09:36:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d03d137faed5c99527b8b1cf17c8a7e3192b6b3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-11-05-adjust-ADR-approval-rules.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-09T06:53:53Z",
+      "lastCommit": "2021-11-09T06:53:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c01e27a38a5faa9b9a1ed5a3d545f47f358c99cc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-11-25-decoration-pattern.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-21T08:00:38Z",
+      "lastCommit": "2021-01-21T08:00:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "95992acd80fe85bd2e890e5fc26dc28e75cbc3fb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-07-02-Implement-sales-channel-context-token-requirement.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-09T11:08:42Z",
+      "lastCommit": "2020-07-09T11:08:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3ecaa3cea58c48921332bf53e55b9943bb181c79",
+            "b203f787439f4c6b9576605e9b213f255e8e76a9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-08-10-storefront-coding-standards.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-20T07:07:24Z",
+      "lastCommit": "2021-08-20T07:07:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4f68e36ba4bbb8704eb60f7752c3ea24a07341f1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-09-08-CustomField-label-loading-in-storefront.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-10T08:35:24Z",
+      "lastCommit": "2020-09-10T08:35:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "da8e57c845fa8a806ab9aecccee1816b48b5f9c0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-08-11-make-platform-stand-alone.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-12T08:24:40Z",
+      "lastCommit": "2021-08-12T08:24:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a9b659ae33ec493aca7cab111eaf1b90c2502e7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-11-06-creating-events.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-06T15:33:39Z",
+      "lastCommit": "2020-11-06T15:33:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51ad7f8e600c85a87cac31991bc1818b58041649"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-08-14-implement-individual-sorting.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-01T11:51:01Z",
+      "lastCommit": "2021-03-04T12:12:26Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "620d0eb46f5fa83ce7d5b89ad5ace424b448f831",
+            "fc17f872d282229da0358af629f5daf3b678fe11",
+            "0fd707991a379fe9e2e0ae524137c2fb26ff499a"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-01-21-deprecation-strategy.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-11T16:04:03Z",
+      "lastCommit": "2021-03-11T16:04:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9250e60179c70fcdb76236541d06cb81a373930"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-08-28-import-acl-privileges-from-other-roles.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-28T13:21:14Z",
+      "lastCommit": "2020-08-28T13:21:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2c1b63cc3a466848d5b01c2b93d617573d8ab1e4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-10-01-payment-flow.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-01T11:17:30Z",
+      "lastCommit": "2021-10-01T13:12:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0a7b46bd25dcfec0a838f71133b2a301b043cf03"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f1664b609edeaba1ca831c0ea6929563a91f27f2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-11-23-add-possibility-for-plugin-to-add-a-html-file.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-23T08:49:09Z",
+      "lastCommit": "2021-11-23T08:49:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3ce341029e46f52b150bfedf5b607a33da6c75b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-06-14-introduce-jest-fail-on-console.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-21T06:18:11Z",
+      "lastCommit": "2021-06-21T06:18:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b2e050a31261285b21db17d673a2b5433ff9559"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-08-12-document-template-refactoring.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-14T06:52:07Z",
+      "lastCommit": "2020-08-14T06:52:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c041e0dd72cd62ff33b78542583d1e67075cddf7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2022-01-05-add-feature-flag-support-for-storefront-scss.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2022-01-07T10:17:30Z",
+      "lastCommit": "2022-01-07T10:17:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1b297d256d879f548d12747d141f06f8d4e4e92"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-07-20-unified-notification-titles.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-24T14:01:59Z",
+      "lastCommit": "2020-09-24T14:01:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "989debf0a836ab70a028c207d31ecc61c93a33cc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-08-14-merchant-registration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-20T06:26:59Z",
+      "lastCommit": "2020-08-20T06:26:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dec0b2272f26219ecad36f7887b4c977d97224fd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-10-13-refund-handling.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-20T11:23:30Z",
+      "lastCommit": "2021-10-20T11:23:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a2644846eeff195621d0e981e7d5fc9a087f38c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-08-10-Feature-flag-system.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-25T06:46:57Z",
+      "lastCommit": "2021-11-23T07:32:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7eb1fa6f984aad9ed11f99966f7999ad5552b5cc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "593e27a8ac6cfbd9b85cf226f92ea9b58cdea2df"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-08-03-Implement-New-Changelog.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-02T12:29:40Z",
+      "lastCommit": "2021-05-05T12:19:52Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "42865bcce2ef5dc75e4b1493c0817d7a26b8f54e",
+            "f25b89c1501cb56daf0579e80bcadf9613b3fbd3"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "18686741e6501387a71a00ec1a1568c3addff74a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03a3a1b37c8210b82204de9125a0162417716c26"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-09-14-technical-concept-custom-entities.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-12T12:33:17Z",
+      "lastCommit": "2021-10-12T12:33:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20bb18050389826fedb81b88c90f0bcf1f6f7bdd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-09-22-refactor-theme-inheritance.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-23T07:49:25Z",
+      "lastCommit": "2021-11-23T07:51:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d975b0e44d1f8cec709d3158b8e64635662fd691",
+            "4ea4033079ec0fe7cb36194775e02d01809e1953"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-12-07-admin-extension-api-standards.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-12-29T12:57:40Z",
+      "lastCommit": "2021-12-29T12:57:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "994b6e546254adac6250e3cef8d3b057f661314c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-09-06-make-core-mail-templates-independent-from-storefront-urls.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-08T09:46:29Z",
+      "lastCommit": "2021-10-08T09:46:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8223a8af1c1b1a56155cf1d9b53c6aa8c0ecdfbc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-11-19-dal-join-filter.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-18T12:21:28Z",
+      "lastCommit": "2020-12-18T12:21:28Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dad960dfa9bd7b79f4ebdd0b73af94b4a77936a9",
+            "7ad2ddabad41c3bceec8e526be67eb800198cbc1"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020-12-02-removing-api-version.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-02T12:44:55Z",
+      "lastCommit": "2020-12-02T12:44:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c9bf44095156e1099a8ce1ee0035bcc8a7af0811"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-08-31-refactor-admin-build-process-to-webpack-multi-compiler-mode.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-09-01T11:31:20Z",
+      "lastCommit": "2021-09-01T11:31:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3425bc8e0b04c26ff629170a12593d10d4829f0c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021-11-22-merge-e2e-projects-into-a-single-project.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-30T08:43:29Z",
+      "lastCommit": "2021-11-30T08:43:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25bcd7404b47facdcfada271552659589694d990"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-26T12:30:37Z",
+  "lastAdrCommit": "2022-01-17T09:09:29Z",
+  "firstCommit": "2018-04-19T13:36:33Z",
+  "lastCommit": "2022-01-18T18:14:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "aaabdac315ff446aa44a3e6fbdd09bfd36eef000"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c9bf44095156e1099a8ce1ee0035bcc8a7af0811",
+        "0a7b46bd25dcfec0a838f71133b2a301b043cf03",
+        "1e680c3cbde23079ed3d8412bf8f2ed28937a56f",
+        "dec0b2272f26219ecad36f7887b4c977d97224fd"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5b2e050a31261285b21db17d673a2b5433ff9559"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "620d0eb46f5fa83ce7d5b89ad5ace424b448f831",
+        "fc17f872d282229da0358af629f5daf3b678fe11",
+        "0fd707991a379fe9e2e0ae524137c2fb26ff499a"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f3e9d19e52a8f72649409f52368cee82e948d649",
+        "d156f1ade735d8ca2fa354ed0b629da30f3611d8",
+        "77130e3959b3ae8715edb66a4bc0f17f771d13ac",
+        "c34a75015b7d4b280609d8c9fb56e812e9f6aa25",
+        "c01e27a38a5faa9b9a1ed5a3d545f47f358c99cc",
+        "8223a8af1c1b1a56155cf1d9b53c6aa8c0ecdfbc",
+        "e06a2878bb44fc7b44e870c8ea6144f5a9ce4d4f",
+        "1983b693b1e590719948b5d83688bc2bf751ebd8",
+        "aa607ed3306b23e144a555d1eb01d8732a3c4188"
+      ],
+      "numberOfCommits": 9
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "51ad7f8e600c85a87cac31991bc1818b58041649"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "25bcd7404b47facdcfada271552659589694d990",
+        "7a9b659ae33ec493aca7cab111eaf1b90c2502e7"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "da8e57c845fa8a806ab9aecccee1816b48b5f9c0",
+        "c0f776d6a61b689e059e356b35ad29c86a610403"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6b76f37ec3fb2e0c717a8c800791b41baccf10c1",
+        "a1b297d256d879f548d12747d141f06f8d4e4e92"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d975b0e44d1f8cec709d3158b8e64635662fd691",
+        "4ea4033079ec0fe7cb36194775e02d01809e1953",
+        "7eb1fa6f984aad9ed11f99966f7999ad5552b5cc",
+        "4f68e36ba4bbb8704eb60f7752c3ea24a07341f1"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dad960dfa9bd7b79f4ebdd0b73af94b4a77936a9",
+        "5f77911ff0371755a755f6d5ad60a24b29d17cc1",
+        "95992acd80fe85bd2e890e5fc26dc28e75cbc3fb",
+        "7ad2ddabad41c3bceec8e526be67eb800198cbc1"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3a2644846eeff195621d0e981e7d5fc9a087f38c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2d03d137faed5c99527b8b1cf17c8a7e3192b6b3",
+        "3ecaa3cea58c48921332bf53e55b9943bb181c79",
+        "f9250e60179c70fcdb76236541d06cb81a373930",
+        "b203f787439f4c6b9576605e9b213f255e8e76a9",
+        "593e27a8ac6cfbd9b85cf226f92ea9b58cdea2df"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "45fdf8d0b8fb897188afc90ba9ac627e82f303ea",
+        "811cae82e5d0d4ccbddf9620734c3d0d27facc3b"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f5fcc7ecd7c4b99fd4fcc30ebf42076f0c8bce17"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0e3140ad3ab5d2d1df3e4f0fd11b82c197229e04",
+        "20bb18050389826fedb81b88c90f0bcf1f6f7bdd",
+        "c041e0dd72cd62ff33b78542583d1e67075cddf7",
+        "a30bbc168836f5a880402ab4c97ae1a645ff0afc",
+        "16b9fc873e9d73c7da05de90462fe67edda9bc1c",
+        "03a3a1b37c8210b82204de9125a0162417716c26"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ee6839e548db94ae14680d1550cd683172542bc9",
+        "42865bcce2ef5dc75e4b1493c0817d7a26b8f54e",
+        "f25b89c1501cb56daf0579e80bcadf9613b3fbd3"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3425bc8e0b04c26ff629170a12593d10d4829f0c",
+        "994b6e546254adac6250e3cef8d3b057f661314c",
+        "2c1b63cc3a466848d5b01c2b93d617573d8ab1e4",
+        "c3ce341029e46f52b150bfedf5b607a33da6c75b"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "352b598c08d73655ab16de981434b2442aeacf07"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f1664b609edeaba1ca831c0ea6929563a91f27f2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "18686741e6501387a71a00ec1a1568c3addff74a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "440219945b2b9854acb2072984411c666386d4ba"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "989debf0a836ab70a028c207d31ecc61c93a33cc"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

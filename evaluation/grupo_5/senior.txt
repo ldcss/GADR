@@ -1,0 +1,10 @@
+Senior 4: 7 anos de experiência. Conhecia, mas utilizou duas vezes.
+
+- Decisão sobre banco de dados com a estratégia online e offline para requisito de segurança => (ADD)
+- Cadastro online e autenticacao offline via gov br => (ADD)
+- arquitetura mistaMicroserviço => ADD, microserviço => SUGESTAO
+- Integrações, RNDS, projeto da FATEC E NP => ADD
+-  CNEs, CNS para identificacao de dados => ADD
+- Cross platform web/mobile cache local=> ADD
+
+

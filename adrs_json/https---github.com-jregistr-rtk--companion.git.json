@@ -1,0 +1,91 @@
+{
+  "repositoryUrl": "https://github.com/jregistr/rtk-companion.git",
+  "crawlDateTime": "2022-01-18T17:33:00.526689",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decision-log"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decision-log",
+      "path": "0001-create-an-anki-addon.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-06T23:34:21Z",
+      "lastCommit": "2020-09-06T23:34:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c9030ca41ba39faf0cad15ace2c25ea52f0b8828"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision-log",
+      "path": "0002-define-goal-for-an-mvp.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-07T00:07:49Z",
+      "lastCommit": "2020-10-07T23:49:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1b12093258c095d71c4ba138a9f34d662d3b92a",
+            "b18506719c0a83ebead996c4c8302856701645f2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision-log",
+      "path": "0003-mvp-functionality-in-add-card-window.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-07T23:49:59Z",
+      "lastCommit": "2020-10-09T03:38:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1b12093258c095d71c4ba138a9f34d662d3b92a",
+            "276eccab22740269c3715ee705fec3bf6d88c4b3"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-06T23:34:21Z",
+  "lastAdrCommit": "2020-10-09T03:38:44Z",
+  "firstCommit": "2020-08-18T03:33:53Z",
+  "lastCommit": "2020-11-20T06:56:29Z",
+  "adrDirFile": {
+    "fileContent": "docs/decision-log\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c9030ca41ba39faf0cad15ace2c25ea52f0b8828",
+        "d1b12093258c095d71c4ba138a9f34d662d3b92a",
+        "b18506719c0a83ebead996c4c8302856701645f2",
+        "276eccab22740269c3715ee705fec3bf6d88c4b3"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

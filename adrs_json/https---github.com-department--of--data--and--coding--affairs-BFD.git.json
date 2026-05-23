@@ -1,0 +1,140 @@
+{
+  "repositoryUrl": "https://github.com/department-of-data-and-coding-affairs/BFD.git",
+  "crawlDateTime": "2022-01-18T18:34:20.47799",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "parser.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-24T17:56:59Z",
+      "lastCommit": "2020-11-24T17:56:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0682a39d0a54a6dbfbf7a0334b882b6c89c27d2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "web_framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-24T17:56:59Z",
+      "lastCommit": "2020-11-24T17:56:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0682a39d0a54a6dbfbf7a0334b882b6c89c27d2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "tag_values.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-24T17:56:59Z",
+      "lastCommit": "2020-11-24T17:56:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0682a39d0a54a6dbfbf7a0334b882b6c89c27d2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "database.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-24T17:56:59Z",
+      "lastCommit": "2020-11-24T17:56:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0682a39d0a54a6dbfbf7a0334b882b6c89c27d2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "naming_constraints.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-24T17:56:59Z",
+      "lastCommit": "2020-11-24T17:56:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0682a39d0a54a6dbfbf7a0334b882b6c89c27d2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "language.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-24T17:56:59Z",
+      "lastCommit": "2020-11-24T17:56:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0682a39d0a54a6dbfbf7a0334b882b6c89c27d2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-24T17:56:59Z",
+  "lastAdrCommit": "2020-11-24T17:56:59Z",
+  "firstCommit": "2020-05-13T15:14:56Z",
+  "lastCommit": "2021-09-21T10:21:38Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c0682a39d0a54a6dbfbf7a0334b882b6c89c27d2"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

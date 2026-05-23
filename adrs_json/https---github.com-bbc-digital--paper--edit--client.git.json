@@ -1,0 +1,248 @@
+{
+  "repositoryUrl": "https://github.com/bbc/digital-paper-edit-client.git",
+  "crawlDateTime": "2022-01-18T21:12:11.927274",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/ADR"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-09-28-time-estimation-for-links.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-10-02T16:25:32Z",
+      "lastCommit": "2019-10-02T16:25:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc95b8a2d9b7ae02213a3acbe40434e30e13f0f0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-06-20-environment-injection.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-06-21T12:01:13Z",
+      "lastCommit": "2019-06-21T12:01:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "939db0c639625d33a123bc7ac39df1540ade2fae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-05-20-previewing-papercuts.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-05-21T09:40:05Z",
+      "lastCommit": "2019-05-21T09:40:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6900c5bd641e650268a27edaaee828a62216f895"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-09-28-exporting-placeholder-media.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-10-02T16:25:32Z",
+      "lastCommit": "2019-10-02T16:25:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc95b8a2d9b7ae02213a3acbe40434e30e13f0f0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-05-09-modular-architecture.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-05-10T15:11:11Z",
+      "lastCommit": "2019-06-24T08:07:02Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "663225f57b19e10eb6c1cbccf1e8340205fb5c7a",
+            "651544cf187ec2541d2758b68d9546f35802ffe4",
+            "331fae0382bf38ded2a29c943792aee6b225c3a7"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "716f9e4249cd14a7f8c7a21c41022f1b5c902bd1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-05-22-exporting-video-preview.md",
+      "template": "Madr",
+      "status": "in progress",
+      "firstCommit": "2019-05-22T10:33:41Z",
+      "lastCommit": "2019-05-22T10:33:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "66da9c3510fec1c6c42c017723c48c0361a59d00"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-05-01-security.md",
+      "template": "Madr",
+      "status": "pending",
+      "firstCommit": "2019-05-09T09:41:05Z",
+      "lastCommit": "2019-05-09T16:23:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a714853fcc7ec86b923a0f13f9e117329b6fc5f5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "35d4e54f3e6b96ff20b81e4fb9b023826535bbf8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-04-29-SQL-database-schema.md",
+      "template": "Madr",
+      "status": "In progress <!-- optional -->",
+      "firstCommit": "2019-05-03T11:12:18Z",
+      "lastCommit": "2019-05-03T11:12:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "70ae4fc3e23490487d7008e2f7925b390e966204"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-03T11:12:18Z",
+  "lastAdrCommit": "2019-10-02T16:25:32Z",
+  "firstCommit": "2019-03-22T20:07:08Z",
+  "lastCommit": "2022-01-13T23:41:04Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "70ae4fc3e23490487d7008e2f7925b390e966204"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "66da9c3510fec1c6c42c017723c48c0361a59d00"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "939db0c639625d33a123bc7ac39df1540ade2fae"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "663225f57b19e10eb6c1cbccf1e8340205fb5c7a",
+        "651544cf187ec2541d2758b68d9546f35802ffe4",
+        "331fae0382bf38ded2a29c943792aee6b225c3a7",
+        "a714853fcc7ec86b923a0f13f9e117329b6fc5f5",
+        "bc95b8a2d9b7ae02213a3acbe40434e30e13f0f0"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "35d4e54f3e6b96ff20b81e4fb9b023826535bbf8"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "716f9e4249cd14a7f8c7a21c41022f1b5c902bd1"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6900c5bd641e650268a27edaaee828a62216f895"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

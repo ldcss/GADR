@@ -1,0 +1,262 @@
+{
+  "repositoryUrl": "https://github.com/learnitmyway/my-notes.git",
+  "crawlDateTime": "2022-01-18T20:21:59.826987",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "create-react-app.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-13T09:21:32Z",
+      "lastCommit": "2019-04-13T09:21:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5788786512f9e2ec9168ff1df888f39d94c76705"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "sentry.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-04T09:16:35Z",
+      "lastCommit": "2019-04-09T10:41:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "68163baf156f0234d23d7d85ecd1214225cf81b7",
+            "3eec9bc88ac2f9ec3de42a569a38a25bfe2bb617"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "css-modules.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-04T09:07:41Z",
+      "lastCommit": "2019-04-09T10:41:21Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ac407ebe6758befa99182470886d10009ff5e988",
+            "68163baf156f0234d23d7d85ecd1214225cf81b7",
+            "162fcdb2b4ae6693b2831d0f35c2d3e24c561c71"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "typescript.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-03T15:11:47Z",
+      "lastCommit": "2019-04-09T10:41:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "68163baf156f0234d23d7d85ecd1214225cf81b7",
+            "c0802c779821e037a824378068959f4e29184777"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "classnames.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-05T17:19:08Z",
+      "lastCommit": "2019-04-09T10:41:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "68163baf156f0234d23d7d85ecd1214225cf81b7",
+            "fe14be05cda900b4c7b8073b95ea05896f0b08cc"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "prettier.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-03T15:15:33Z",
+      "lastCommit": "2019-04-09T10:41:21Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3b2d1a8ceda262473f5d30863225012a6a5f2c6",
+            "68163baf156f0234d23d7d85ecd1214225cf81b7",
+            "71c439303a5b13914e4d9f7551733863c768176a"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "stylelint.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-04T11:45:48Z",
+      "lastCommit": "2019-04-09T10:41:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "68163baf156f0234d23d7d85ecd1214225cf81b7",
+            "0b8da00f27851a8e5d2f658e55c53b731dc0e757"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "cypress.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-04T09:18:44Z",
+      "lastCommit": "2019-04-09T10:41:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f479bcf5d4ed02016043096cc8b0060be8608d2d",
+            "68163baf156f0234d23d7d85ecd1214225cf81b7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "styled-components.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-04T09:07:36Z",
+      "lastCommit": "2019-04-13T09:22:25Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8111b93d1865e82d18c60d088ec16275b2d3af48",
+            "8290b0df120cf8065d2bd53d74ffcc4d200b48a4",
+            "68163baf156f0234d23d7d85ecd1214225cf81b7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "react-hooks.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-04T09:11:03Z",
+      "lastCommit": "2019-04-09T10:41:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "68163baf156f0234d23d7d85ecd1214225cf81b7",
+            "728baf0aa9f075de40a6d0413ae64154d72934a7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "react-testing-library.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-03T15:11:40Z",
+      "lastCommit": "2019-04-09T10:41:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "68163baf156f0234d23d7d85ecd1214225cf81b7",
+            "8bca90da056a7309c2352d53b0bff781998d7473"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-04-03T15:11:40Z",
+  "lastAdrCommit": "2019-04-13T09:22:25Z",
+  "firstCommit": "2018-08-11T08:56:06Z",
+  "lastCommit": "2019-09-20T07:50:22Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c3b2d1a8ceda262473f5d30863225012a6a5f2c6",
+        "8111b93d1865e82d18c60d088ec16275b2d3af48",
+        "162fcdb2b4ae6693b2831d0f35c2d3e24c561c71",
+        "c0802c779821e037a824378068959f4e29184777",
+        "5788786512f9e2ec9168ff1df888f39d94c76705",
+        "fe14be05cda900b4c7b8073b95ea05896f0b08cc",
+        "8bca90da056a7309c2352d53b0bff781998d7473",
+        "ac407ebe6758befa99182470886d10009ff5e988",
+        "f479bcf5d4ed02016043096cc8b0060be8608d2d",
+        "68163baf156f0234d23d7d85ecd1214225cf81b7",
+        "0b8da00f27851a8e5d2f658e55c53b731dc0e757",
+        "8290b0df120cf8065d2bd53d74ffcc4d200b48a4",
+        "3eec9bc88ac2f9ec3de42a569a38a25bfe2bb617",
+        "728baf0aa9f075de40a6d0413ae64154d72934a7",
+        "71c439303a5b13914e4d9f7551733863c768176a"
+      ],
+      "numberOfCommits": 15
+    }
+  ]
+}

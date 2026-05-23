@@ -1,0 +1,121 @@
+{
+  "repositoryUrl": "https://github.com/mlibrary/imageclass-uplift.git",
+  "crawlDateTime": "2022-01-18T18:16:32.639928",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-develop-locally.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-28T22:59:01Z",
+      "lastCommit": "2021-01-28T22:59:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29e3198f2de3a62acce6e7ae1787948b9c759f15"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-the-design-system.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-28T22:59:01Z",
+      "lastCommit": "2021-01-28T22:59:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29e3198f2de3a62acce6e7ae1787948b9c759f15"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-configuring-dlxs.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-01-28T22:59:01Z",
+      "lastCommit": "2021-01-28T22:59:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29e3198f2de3a62acce6e7ae1787948b9c759f15"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-transformation-pipeline.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-28T22:59:01Z",
+      "lastCommit": "2021-01-28T22:59:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29e3198f2de3a62acce6e7ae1787948b9c759f15"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-28T22:59:01Z",
+      "lastCommit": "2021-01-28T22:59:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29e3198f2de3a62acce6e7ae1787948b9c759f15"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-28T22:59:01Z",
+  "lastAdrCommit": "2021-01-28T22:59:01Z",
+  "firstCommit": "2020-10-06T13:47:45Z",
+  "lastCommit": "2021-03-08T22:02:57Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "29e3198f2de3a62acce6e7ae1787948b9c759f15"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

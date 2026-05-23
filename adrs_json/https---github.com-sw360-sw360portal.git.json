@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/sw360/sw360portal.git",
+  "crawlDateTime": "2022-01-18T23:17:58.541743",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-18T08:46:21Z",
+      "lastCommit": "2017-07-18T08:46:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f74693c48c5582a0e92fbcf33e8cdf68bd8339e1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-18T08:46:21Z",
+  "lastAdrCommit": "2017-07-18T08:46:21Z",
+  "firstCommit": "2015-09-28T20:56:14Z",
+  "lastCommit": "2018-07-25T12:09:19Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f74693c48c5582a0e92fbcf33e8cdf68bd8339e1"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

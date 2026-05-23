@@ -1,0 +1,299 @@
+{
+  "repositoryUrl": "https://github.com/Alfresco/SearchServices.git",
+  "crawlDateTime": "2022-01-18T19:36:17.258475",
+  "numAdrDirectories": 2,
+  "adrDirectories": [
+    "search-services/alfresco-search/doc/architecture/decisions",
+    "search-services/alfresco-search/doc/architecture/event-trackers"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "search-services/alfresco-search/doc/architecture/decisions",
+      "path": "0003-combined-codebase.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2019-04-09T10:59:01Z",
+      "lastCommit": "2019-04-09T10:59:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "16bd8c02dcd18ab8c6c926da966a23cd55dffd08"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "search-services/alfresco-search/doc/architecture/decisions",
+      "path": "0002-search-morelikethis-adr.md",
+      "template": "Nygard",
+      "status": "Investigation Complete",
+      "firstCommit": "2019-01-10T08:42:27Z",
+      "lastCommit": "2019-01-10T08:58:09Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f3a464ff661387b30cfae14509ef08b6f7e94ed",
+            "a2fc685c638c8e85093abf0e299ba719e39c5d17",
+            "bbb11f30590624bc6a3cc29879f6b3d590a13b08",
+            "275a43a6d913481769dbd3859ffcba96cabb31a9"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "search-services/alfresco-search/doc/architecture/decisions",
+      "path": "0009-message-driven-content-tracker-next-gen.md",
+      "template": "Nygard",
+      "status": "WIP",
+      "firstCommit": "2020-02-05T14:35:32Z",
+      "lastCommit": "2020-02-05T14:35:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d3c7924f998f8e3954987dab0a6827de25e1b51"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "search-services/alfresco-search/doc/architecture/decisions",
+      "path": "0006-release-synchronisation.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2019-04-24T15:00:56Z",
+      "lastCommit": "2019-04-25T08:58:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc125917234e3305a6526a5b61b73dec32b2fc88",
+            "0cc7b55cc7a67f40a64304492fe00c65ef595e5c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "search-services/alfresco-search/doc/architecture/decisions",
+      "path": "0008-content-store-replication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-24T01:37:03Z",
+      "lastCommit": "2019-09-25T14:30:53Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7d309fd83abfb9be42b1dd5e65c05ecaf07ee887",
+            "2cd7484da96b091a123ba3c09036b2be7df340df",
+            "d5e645d3090c816987ed0fab09db62d233d05c25"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "search-services/alfresco-search/doc/architecture/decisions",
+      "path": "0007-message-driven-content-tracker.md",
+      "template": "Nygard",
+      "status": "~~Approved~~ Postponed, see [version 2](0009-message-driven-content-tracker-next-gen.md)",
+      "firstCommit": "2019-07-11T12:17:10Z",
+      "lastCommit": "2020-02-05T14:35:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7123e5ab6e8f503a159dde51beef8db31f2d482"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d3c7924f998f8e3954987dab0a6827de25e1b51"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "search-services/alfresco-search/doc/architecture/decisions",
+      "path": "0005-merge-tests-and-production-code.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2019-04-09T10:59:01Z",
+      "lastCommit": "2019-04-24T15:00:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd2504c895a0bceadaae193829dbdb416822ff70",
+            "16bd8c02dcd18ab8c6c926da966a23cd55dffd08"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "search-services/alfresco-search/doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-09T21:29:27Z",
+      "lastCommit": "2019-01-09T21:29:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0b85d1661aabb81aa8d370ceb4e9040efcc63e05"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "search-services/alfresco-search/doc/architecture/decisions",
+      "path": "0004-community-mirror.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2019-04-09T10:59:01Z",
+      "lastCommit": "2019-04-24T15:00:12Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd2504c895a0bceadaae193829dbdb416822ff70",
+            "212dbea68bfdf6937d2416709ae7fb364ef08948",
+            "16bd8c02dcd18ab8c6c926da966a23cd55dffd08"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "search-services/alfresco-search/doc/architecture/event-trackers",
+      "path": "0007-event-content-tracker.md",
+      "template": "Nygard",
+      "status": "In progress",
+      "firstCommit": "2019-07-10T13:16:08Z",
+      "lastCommit": "2019-07-11T12:17:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7123e5ab6e8f503a159dde51beef8db31f2d482"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ddfb65fa4e9b7172a192572138c71ee3650de883"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-01-09T21:29:27Z",
+  "lastAdrCommit": "2020-02-05T14:35:32Z",
+  "firstCommit": "2014-02-20T14:11:14Z",
+  "lastCommit": "2022-01-13T12:32:45Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7d309fd83abfb9be42b1dd5e65c05ecaf07ee887",
+        "2cd7484da96b091a123ba3c09036b2be7df340df",
+        "d5e645d3090c816987ed0fab09db62d233d05c25"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a7123e5ab6e8f503a159dde51beef8db31f2d482"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bc125917234e3305a6526a5b61b73dec32b2fc88",
+        "0cc7b55cc7a67f40a64304492fe00c65ef595e5c",
+        "dd2504c895a0bceadaae193829dbdb416822ff70",
+        "212dbea68bfdf6937d2416709ae7fb364ef08948",
+        "16bd8c02dcd18ab8c6c926da966a23cd55dffd08"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7f3a464ff661387b30cfae14509ef08b6f7e94ed",
+        "a2fc685c638c8e85093abf0e299ba719e39c5d17",
+        "bbb11f30590624bc6a3cc29879f6b3d590a13b08",
+        "275a43a6d913481769dbd3859ffcba96cabb31a9"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ddfb65fa4e9b7172a192572138c71ee3650de883"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3d3c7924f998f8e3954987dab0a6827de25e1b51"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0b85d1661aabb81aa8d370ceb4e9040efcc63e05"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

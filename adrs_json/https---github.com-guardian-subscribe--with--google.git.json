@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/guardian/subscribe-with-google.git",
+  "crawlDateTime": "2022-01-18T23:09:18.613746",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-google-play-developer-account.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-04T14:54:38Z",
+      "lastCommit": "2019-02-04T14:54:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0f74b36095953f8a0899f56adf990c8906c9d12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-04T14:54:38Z",
+  "lastAdrCommit": "2019-02-04T14:54:38Z",
+  "firstCommit": "2019-01-04T11:35:08Z",
+  "lastCommit": "2019-11-13T10:30:48Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c0f74b36095953f8a0899f56adf990c8906c9d12"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

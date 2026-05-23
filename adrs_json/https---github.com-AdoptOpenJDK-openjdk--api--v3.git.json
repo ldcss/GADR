@@ -1,0 +1,75 @@
+{
+  "repositoryUrl": "https://github.com/AdoptOpenJDK/openjdk-api-v3.git",
+  "crawlDateTime": "2022-01-18T21:10:44.331561",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-branching-and-release-strategy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-02T20:30:48Z",
+      "lastCommit": "2020-09-02T20:30:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ea527ebdf442db29d96fbac74e4f2c3061167d8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-22T13:27:24Z",
+      "lastCommit": "2020-08-22T13:27:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e9e15c8a7a578afd767d859ea20ad8bf6689246c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-22T13:27:24Z",
+  "lastAdrCommit": "2020-09-02T20:30:48Z",
+  "firstCommit": "2019-07-11T09:01:50Z",
+  "lastCommit": "2021-10-14T15:31:59Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e9e15c8a7a578afd767d859ea20ad8bf6689246c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4ea527ebdf442db29d96fbac74e4f2c3061167d8"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

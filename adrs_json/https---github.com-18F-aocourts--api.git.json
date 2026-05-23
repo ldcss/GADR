@@ -1,0 +1,86 @@
+{
+  "repositoryUrl": "https://github.com/18F/aocourts-api.git",
+  "crawlDateTime": "2022-01-18T19:06:58.12901",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-cloud-dot-gov.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-09T19:00:54Z",
+      "lastCommit": "2021-08-09T21:20:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b741e7ab9fa1ed70a986460e3ea6f5aa0b56d57c",
+            "54ba5431e89e8c0dbd0f80d33c412fcb26c61294"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-python.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-09T21:59:39Z",
+      "lastCommit": "2021-08-09T21:59:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "36f1a945f6ca6e0ea0e8b6ef8f381baef6d0f250"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-graphql.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-09T21:20:38Z",
+      "lastCommit": "2021-08-09T21:20:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "54ba5431e89e8c0dbd0f80d33c412fcb26c61294"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-08-09T19:00:54Z",
+  "lastAdrCommit": "2021-08-09T21:59:39Z",
+  "firstCommit": "2021-07-22T21:08:39Z",
+  "lastCommit": "2021-08-18T00:05:51Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b741e7ab9fa1ed70a986460e3ea6f5aa0b56d57c",
+        "54ba5431e89e8c0dbd0f80d33c412fcb26c61294",
+        "36f1a945f6ca6e0ea0e8b6ef8f381baef6d0f250"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

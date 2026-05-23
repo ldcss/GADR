@@ -1,0 +1,292 @@
+{
+  "repositoryUrl": "https://github.com/alexanderbird/texas-holdem-code-challenge.git",
+  "crawlDateTime": "2022-01-18T20:31:59.984836",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/decisions"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0009-use-typescript-3-4-5.md",
+      "template": "Nygard",
+      "status": "Accepted Expands on [8. Use TypeScript](0008-use-typescript.md)",
+      "firstCommit": "2019-05-30T12:50:40Z",
+      "lastCommit": "2019-05-30T12:50:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bff635eba8aa95b943d3e6c80cdcff1cfd1b4de5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0008-use-typescript.md",
+      "template": "Nygard",
+      "status": "Accepted Guided by [3. Use familiar tools](0003-use-familiar-tools.md) Detailed in [9. Use TypeScript 3.4.5](0009-use-typescript-3-4-5.md)",
+      "firstCommit": "2019-05-30T12:50:40Z",
+      "lastCommit": "2019-05-30T12:50:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bff635eba8aa95b943d3e6c80cdcff1cfd1b4de5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0004-use-jasmine-for-unit-testing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-05-29T15:51:08Z",
+      "lastCommit": "2019-05-29T15:51:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "992a2ffe0869d161d622b8466da46b37988c221d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0012-treat-this-as-a-programming-puzzle-not-a-client-deliverable.md",
+      "template": "Nygard",
+      "status": "Accepted Extended by [13. Show no kickers for ties](0013-show-no-kickers-for-ties.md)",
+      "firstCommit": "2019-06-03T23:53:59Z",
+      "lastCommit": "2019-06-04T01:44:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a8812417399372f901abee948ace299d8b2de2c",
+            "483e9cc2d64326c8f561e59c2a90eca1ef7dc376"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0007-optimize-for-testability-and-readability-rather-than-performance.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-29T23:24:26Z",
+      "lastCommit": "2019-05-29T23:24:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "10b6c875815473246d5c5abb1b3b4c3e9d38ad17"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0003-use-familiar-tools.md",
+      "template": "Nygard",
+      "status": "Accepted Relates to [2. Use Node.js](0002-use-node-js.md) Leads to [4. Use Jasmine for unit testing](0004-use-jasmine-for-unit-testing.md) Leads to [6. Use ESLint for linting](0006-use-eslint-for-linting.md) Guides [8. Use TypeScript](0008-use-typescript.md)",
+      "firstCommit": "2019-05-29T15:51:08Z",
+      "lastCommit": "2019-05-30T12:50:40Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "992a2ffe0869d161d622b8466da46b37988c221d",
+            "bff635eba8aa95b943d3e6c80cdcff1cfd1b4de5",
+            "aa1d32e657cf3fc86dc28bccaaaac2248328c72a"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0002-use-node-js.md",
+      "template": "Nygard",
+      "status": "Accepted Relates to [3. Use familiar tools](0003-use-familiar-tools.md)",
+      "firstCommit": "2019-05-29T12:41:12Z",
+      "lastCommit": "2019-05-29T15:51:08Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84005005faed5bae4f3f2e27d55b88d6902c597a",
+            "992a2ffe0869d161d622b8466da46b37988c221d",
+            "8f504eb1895810815a15f0cbeea6523eb503fcac"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0005-use-a-linter.md",
+      "template": "Nygard",
+      "status": "Accepted Leads to [6. Use ESLint for linting](0006-use-eslint-for-linting.md)",
+      "firstCommit": "2019-05-29T23:24:15Z",
+      "lastCommit": "2019-05-29T23:24:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aa1d32e657cf3fc86dc28bccaaaac2248328c72a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0006-use-eslint-for-linting.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-05-29T23:24:15Z",
+      "lastCommit": "2019-05-29T23:24:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aa1d32e657cf3fc86dc28bccaaaac2248328c72a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0010-use-an-open-source-permutation-library-js-combinatorics.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-31T00:54:40Z",
+      "lastCommit": "2019-05-31T00:54:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0efef13097832846308be70d40ec014e8caf38d1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0011-sort-hands-with-a-single-hexadecimal-string.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-02T04:23:53Z",
+      "lastCommit": "2019-06-02T04:23:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "61e9c2654f333b225b5c4d9dda8bbec7734b748d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0013-show-no-kickers-for-ties.md",
+      "template": "Nygard",
+      "status": "Accepted Extends [12. Treat this as a programming puzzle not a client deliverable](0012-treat-this-as-a-programming-puzzle-not-a-client-deliverable.md)",
+      "firstCommit": "2019-06-04T01:44:14Z",
+      "lastCommit": "2019-06-04T01:44:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a8812417399372f901abee948ace299d8b2de2c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-29T12:36:27Z",
+      "lastCommit": "2019-05-29T12:42:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f504eb1895810815a15f0cbeea6523eb503fcac",
+            "fb5589bbfcccb93191ee2d698f7ab05589630e50"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-29T12:36:27Z",
+  "lastAdrCommit": "2019-06-04T01:44:14Z",
+  "firstCommit": "2019-05-29T12:31:32Z",
+  "lastCommit": "2019-10-24T04:20:52Z",
+  "adrDirFile": {
+    "fileContent": "doc/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "84005005faed5bae4f3f2e27d55b88d6902c597a",
+        "992a2ffe0869d161d622b8466da46b37988c221d",
+        "bff635eba8aa95b943d3e6c80cdcff1cfd1b4de5",
+        "aa1d32e657cf3fc86dc28bccaaaac2248328c72a",
+        "8f504eb1895810815a15f0cbeea6523eb503fcac",
+        "fb5589bbfcccb93191ee2d698f7ab05589630e50",
+        "4a8812417399372f901abee948ace299d8b2de2c",
+        "0efef13097832846308be70d40ec014e8caf38d1",
+        "483e9cc2d64326c8f561e59c2a90eca1ef7dc376",
+        "10b6c875815473246d5c5abb1b3b4c3e9d38ad17",
+        "61e9c2654f333b225b5c4d9dda8bbec7734b748d"
+      ],
+      "numberOfCommits": 11
+    }
+  ]
+}

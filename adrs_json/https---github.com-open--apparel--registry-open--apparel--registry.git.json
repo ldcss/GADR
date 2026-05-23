@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/open-apparel-registry/open-apparel-registry.git",
+  "crawlDateTime": "2022-01-18T23:13:44.290119",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001-determine-auth-system.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-10T18:58:39Z",
+      "lastCommit": "2019-01-10T18:58:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c021359ceefed85dab2fb751910328b82b295282"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-002-decide-how-to-display-more-facilities.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-08-12T15:04:59Z",
+      "lastCommit": "2019-08-12T15:04:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7c31b21365ca939721ec3db60744f54e4f1aee61"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-01-10T18:58:39Z",
+  "lastAdrCommit": "2019-08-12T15:04:59Z",
+  "firstCommit": "2018-12-10T18:04:14Z",
+  "lastCommit": "2022-01-18T20:44:47Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c021359ceefed85dab2fb751910328b82b295282",
+        "7c31b21365ca939721ec3db60744f54e4f1aee61"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

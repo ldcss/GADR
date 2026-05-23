@@ -1,0 +1,156 @@
+{
+  "repositoryUrl": "https://github.com/crypto-com/thaler.git",
+  "crawlDateTime": "2022-01-18T17:58:12.509131",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-docs"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-docs",
+      "path": "adr-002.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-11T10:07:18Z",
+      "lastCommit": "2020-11-09T04:06:38Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "986b0a54b3d7e3d5a2dd9bd90d0233b9fa5d28e1",
+            "3e9f14a7035c7157fd8201be26567a7eb4faa096"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d14a5cb474510df0947d7c9bd37f9b112e011bf4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cb9015e09fa0dd77dca717c7bfacaae94d9b9fb1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-docs",
+      "path": "adr-003.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-02T08:54:29Z",
+      "lastCommit": "2020-04-14T02:48:05Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0df7743520b1bf7e90c9e0094cb9274ccb90b728",
+            "9798ea14574a0bb1c944ff4eddc6c1218f138e81"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "872fd865e21eb7d92694ffc59c8b04104562149c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6fc2b485fab253184b2f4c8e89fe99e6b6ee974a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-docs",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-11T09:53:44Z",
+      "lastCommit": "2020-11-09T04:06:38Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e3485c5bf3f9b83565878af314d8858213f88c7",
+            "2c041822189940e1d54310ab3c5db251d2c116d2"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d14a5cb474510df0947d7c9bd37f9b112e011bf4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-12-11T09:53:44Z",
+  "lastAdrCommit": "2020-11-09T04:06:38Z",
+  "firstCommit": "2019-02-12T09:47:14Z",
+  "lastCommit": "2021-02-25T04:02:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0df7743520b1bf7e90c9e0094cb9274ccb90b728",
+        "1e3485c5bf3f9b83565878af314d8858213f88c7",
+        "986b0a54b3d7e3d5a2dd9bd90d0233b9fa5d28e1",
+        "3e9f14a7035c7157fd8201be26567a7eb4faa096",
+        "2c041822189940e1d54310ab3c5db251d2c116d2",
+        "9798ea14574a0bb1c944ff4eddc6c1218f138e81"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d14a5cb474510df0947d7c9bd37f9b112e011bf4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "872fd865e21eb7d92694ffc59c8b04104562149c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6fc2b485fab253184b2f4c8e89fe99e6b6ee974a",
+        "cb9015e09fa0dd77dca717c7bfacaae94d9b9fb1"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

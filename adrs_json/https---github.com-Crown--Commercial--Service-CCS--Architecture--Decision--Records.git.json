@@ -1,0 +1,493 @@
+{
+  "repositoryUrl": "https://github.com/Crown-Commercial-Service/CCS-Architecture-Decision-Records.git",
+  "crawlDateTime": "2022-01-18T18:20:01.814933",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 15,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-language-choices-for-new-development.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-10T14:01:12Z",
+      "lastCommit": "2018-07-10T14:33:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3a0a302f3edb0c8c369109e819777bea130a1a7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f20dbe2801daaeb2029a073d4a3eb21e7d3da81e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-cmp-use-shared-store-for-capturing-buyer-needs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-10T14:01:12Z",
+      "lastCommit": "2018-07-10T15:07:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3a0a302f3edb0c8c369109e819777bea130a1a7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "acea526f295e9ee8ff4f30b8eb0379db6ccdd50b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-a-consistent-user-experience.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-10T14:01:12Z",
+      "lastCommit": "2018-07-10T14:27:28Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3a0a302f3edb0c8c369109e819777bea130a1a7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d00a37f646972a48b78e51b93be7f4f31bcc35c0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-use-a-common-cloud-provider.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2018-07-10T14:01:12Z",
+      "lastCommit": "2018-07-10T14:22:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3a0a302f3edb0c8c369109e819777bea130a1a7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "652ba88e422f6fe7cc502fedaf6829c54a4ac6c3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-use-the-same-cloud-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-08-15T13:39:05Z",
+      "lastCommit": "2018-09-25T16:58:14Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8dc76cbae29a70bd0e28b347a9a6ceac1781b1db",
+            "95cd65d3c56c7a0d5cfedf251cdbcb3a08dd254c"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f8fc0a3268399ed2ed0a451057ca64e76b91a05"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a863bca2a49fcd480c3325570f41e1e9f3dba07",
+            "d4d9b33d65fc2e97f2542a396f9b0a941100e316"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "12cff7e3a64e35bfc1338e11077410d4c574fdb9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-use-shared-definition-of-cmp-agreement-when-building-all-cmp-services.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-10T14:01:12Z",
+      "lastCommit": "2018-07-17T14:40:43Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3a0a302f3edb0c8c369109e819777bea130a1a7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9060a907b4e5c30d314b8333335a12f315316835",
+            "2b6e53e813794443c58e4776bfc66b95a589d22a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-common-records-layer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-10T14:01:12Z",
+      "lastCommit": "2018-11-27T14:33:00Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "465a8ef0b30b48809cf9ba329a54b392ccbc8433",
+            "c3a0a302f3edb0c8c369109e819777bea130a1a7"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d464a01cd0becfeb834330422a272e9f1e51ce2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0013-redirect-old-services-and-content.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-29T11:36:20Z",
+      "lastCommit": "2018-11-29T11:36:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f744bef39ffaa282bbd3aa91460d2c4d40a53059"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0012-use-govuk-notify-for-bulk-communication-with-users.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-28T13:10:14Z",
+      "lastCommit": "2020-08-06T10:09:01Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2ef3ccaa3127f0335ccd5b67ba583824202b959f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eabde3325bf9eaa46610e642ee1884cde782b05f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0014-use-new-Salesforce-organisation-for-CRM.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2019-02-19T09:53:06Z",
+      "lastCommit": "2019-02-19T09:53:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84e147c15d9f06f6dccec41893bd35ecbb378a7d",
+            "803156c0793d71269e99e63387c0747e7f09fa00"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-all-new-services-should-use-the-same-front-end-toolkit.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2018-07-10T14:01:12Z",
+      "lastCommit": "2018-07-10T14:43:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3a0a302f3edb0c8c369109e819777bea130a1a7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fec7607ea429d61a9816c556d8c44f42028d58e4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0015-Security-Architecture-Principles.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-05-10T14:43:11Z",
+      "lastCommit": "2020-08-06T09:46:04Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9d6f95cf100c581ae475f6bd414f99478802ebc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c2c4c0bb0435b5d7a08fa95ab6e3e9ef2552f093",
+            "ea92c8ec39cbd433389fe38899d82637969361ef"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-use-version-control-trunk-based-development-and-continuous-integration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-17T14:40:43Z",
+      "lastCommit": "2018-07-18T10:32:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4fbbc4b737af74d16582d124297580a283dd49cb",
+            "2b6e53e813794443c58e4776bfc66b95a589d22a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-use-common-CMp-component-model.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-15T13:39:05Z",
+      "lastCommit": "2018-08-20T16:39:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7de0a689d76701d1e6a54fb24ead118abfbe46b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d4d9b33d65fc2e97f2542a396f9b0a941100e316"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-use-common-api-for-agreements-parties-and-documents.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-10T14:01:12Z",
+      "lastCommit": "2018-07-17T14:38:09Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3a0a302f3edb0c8c369109e819777bea130a1a7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e73b97a78866be26f8a6caaa69aa586f4df0e351",
+            "bb9bb13d8152fbea20530bc355aae110410fb4fa"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-10T14:01:12Z",
+  "lastAdrCommit": "2020-08-06T10:09:01Z",
+  "firstCommit": "2018-07-05T16:39:41Z",
+  "lastCommit": "2021-08-10T20:40:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f9d6f95cf100c581ae475f6bd414f99478802ebc",
+        "eabde3325bf9eaa46610e642ee1884cde782b05f"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f744bef39ffaa282bbd3aa91460d2c4d40a53059",
+        "8dc76cbae29a70bd0e28b347a9a6ceac1781b1db",
+        "2ef3ccaa3127f0335ccd5b67ba583824202b959f",
+        "95cd65d3c56c7a0d5cfedf251cdbcb3a08dd254c",
+        "7de0a689d76701d1e6a54fb24ead118abfbe46b0"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c3a0a302f3edb0c8c369109e819777bea130a1a7",
+        "465a8ef0b30b48809cf9ba329a54b392ccbc8433",
+        "3f8fc0a3268399ed2ed0a451057ca64e76b91a05"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "84e147c15d9f06f6dccec41893bd35ecbb378a7d",
+        "c2c4c0bb0435b5d7a08fa95ab6e3e9ef2552f093",
+        "803156c0793d71269e99e63387c0747e7f09fa00",
+        "ea92c8ec39cbd433389fe38899d82637969361ef"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d00a37f646972a48b78e51b93be7f4f31bcc35c0",
+        "f20dbe2801daaeb2029a073d4a3eb21e7d3da81e",
+        "4fbbc4b737af74d16582d124297580a283dd49cb",
+        "3a863bca2a49fcd480c3325570f41e1e9f3dba07",
+        "d4d9b33d65fc2e97f2542a396f9b0a941100e316",
+        "652ba88e422f6fe7cc502fedaf6829c54a4ac6c3",
+        "acea526f295e9ee8ff4f30b8eb0379db6ccdd50b",
+        "9060a907b4e5c30d314b8333335a12f315316835",
+        "3d464a01cd0becfeb834330422a272e9f1e51ce2",
+        "2b6e53e813794443c58e4776bfc66b95a589d22a",
+        "e73b97a78866be26f8a6caaa69aa586f4df0e351",
+        "bb9bb13d8152fbea20530bc355aae110410fb4fa",
+        "fec7607ea429d61a9816c556d8c44f42028d58e4"
+      ],
+      "numberOfCommits": 13
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "12cff7e3a64e35bfc1338e11077410d4c574fdb9"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

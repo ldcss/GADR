@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/excellaco/va-cedar-backend.git",
+  "crawlDateTime": "2022-01-18T23:03:57.462824",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "arch-decision-records"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "arch-decision-records",
+      "path": "02_Jetty.md",
+      "template": "Nygard",
+      "status": "> Accepted",
+      "firstCommit": "2020-12-14T18:03:39Z",
+      "lastCommit": "2020-12-14T18:03:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a6f4c9c472ddc7069dd900f35d63976bc7479533"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "arch-decision-records",
+      "path": "01_Spring_Boot.md",
+      "template": "Nygard",
+      "status": "> Accepted",
+      "firstCommit": "2020-12-14T18:03:39Z",
+      "lastCommit": "2020-12-14T18:03:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a6f4c9c472ddc7069dd900f35d63976bc7479533"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-14T18:03:39Z",
+  "lastAdrCommit": "2020-12-14T18:03:39Z",
+  "firstCommit": "2020-12-14T18:03:39Z",
+  "lastCommit": "2020-12-29T21:58:24Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a6f4c9c472ddc7069dd900f35d63976bc7479533"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

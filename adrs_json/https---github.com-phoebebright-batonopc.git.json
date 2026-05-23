@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/phoebebright/batonopc.git",
+  "crawlDateTime": "2022-01-18T22:55:35.432101",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decisions"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0001_one_device_or_many.md",
+      "template": "Nygard",
+      "status": "Made",
+      "firstCommit": "2020-12-09T12:12:17Z",
+      "lastCommit": "2020-12-09T12:12:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38eaafa77dc9e63f1cd601578d7696855b2c4101"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-09T12:12:17Z",
+  "lastAdrCommit": "2020-12-09T12:12:17Z",
+  "firstCommit": "2020-10-19T10:14:30Z",
+  "lastCommit": "2021-09-20T13:15:17Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "38eaafa77dc9e63f1cd601578d7696855b2c4101"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

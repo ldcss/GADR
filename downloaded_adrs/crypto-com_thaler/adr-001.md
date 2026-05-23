@@ -1,0 +1,113 @@
+# ADR 001: Storage Consolidation
+
+## Changelog
+* 10-12-2019: Initial Draft
+* 11-12-2019: Extra comments
+* 03-01-2020: Refinement of the decision based on early experiments + discussion on Slack
+
+## Context
+Currently (not counting Tendermint's internal storage or wallets), two processes maintain their internal storage:
+
+* chain-abci: stores the node state, Merkle trie of staking states, transaction metadata (whether spent or not),
+validator tracking, etc.
+* tx-validation enclave (TVE): sealed transaction data (of valid obfuscated transactions that have outputs)
+
+The reason for having two processes is that SGX SDK compilation is different and needs Intel SGX SDK tooling
+(and the subsequent process execution requires Intel SGX PSW tooling, such as AESM service),
+so for the development convenience, the transaction validation code that needs to execute in an enclave
+is isolated. (For example, one can build and run chain-abci on any platform (e.g. macOS), 
+and run the enclave parts inside a docker container or on a remote Linux host.)
+The inter-process communication is over a simple REQ-REP 0MQ socket.
+
+*Problem 1: These two storage locations need to be "in sync"*:
+
+when an obfuscated transaction arrives that spends some transaction outputs, chain-abci will do a basic validation and check if they are unspent and forward it to TVE (assuming its storage contains
+sealed transaction data of respective outputs). There is currently a naive check that TVE
+stores the latest app hash provided by chain-abci; and upon a startup, chain-abci cross-checks if TVE is in sync with it. This leads to various errors and annoyances that are usually resolved by removing all storage and syncing from scratch (in certain cases, there may be a better mechanism, but wasn't implemented).
+
+*Problem 2: Transaction querying*:
+
+As wallet / client-* may be lightweight client and not have access to TEE directly, it will connect to one remotely.
+For this purpose, there is transaction query enclave (TQE). See [this document](https://github.com/crypto-com/thaler-docs/blob/master/plan.md#transaction-query-enclave-tqe-optional--for-client-infrastructure) for more details.
+
+There are two flows (over an attested secure channel):
+
+1. retrieving transactions: client submits transaction identifiers signed by its view key, and TQE replies with matching transaction data. For this workflow, TQE contacts TVE over REQ-REP 0MQ socket to retrieve data.
+
+2. submitting new transactions: client submits a new transaction, TQE forwards it to TVE that checks it (so that it doesn't obfuscate random / invalid data) and if it's valid, it encrypts it with the obfuscation key (currently compile-time mock, but planned to be periodically regenerated
+by another type of enclave) and returns the obfuscated transaction to TQE that forwards it to the client.
+
+In the first flow, TQE only talks to the TVE's application wrapper that handles the persistence -- it can unseal
+the transaction data, because the key policy is MRSIGNER. 
+
+In the second flow, TVE holds the obfuscation key inside the enclave memory, so the payload goes to TVE.
+Currently, TVE cannot check everything, e.g. staked state or if a transaction output was spent or not
+-- in the future, it may internally have app hash components and at least require some lightweight proofs
+for these things.
+
+For the first flow, it's unnecessary for TQE to talk to TVE. For the second flow, it'll be desirable
+to do a more complete verification (currently there are a few hacks and workarounds).
+
+## Decision
+This will be a bit big change, so it can be done in several steps:
+
+* separate out the storage functionality from chain-abci into chain-storage crate
+https://github.com/crypto-com/chain/issues/753
+  * This should decouple the existing storage functionality from state machine logic
+  * The result should be more high-level APIs that can then be used or extended by the embedded tx-validation enclave app wrapper
+    (getSealedTx, insertSealedTx...) to encapsulate some of the low-level storage choices
+
+* embed tx-validation enclave app wrapper in chain-abci
+Based on early experiments in: https://github.com/crypto-com/chain/pull/738
+It will include several changes (in several sub-PRs):
+  * make more general SGX library loader (currently, it's been fixed to enclave.signed.so)
+  * extract out enclave-only tx-validation core functionality into a separate crate that would allow *optional* mock version (replacing the enclave-bridge)
+  * build process modifications: consolidating common functionality, making chain-abci's build process to expose URTS to tx-validation enclave
+  * chain-abci starting up tx-validation's zMQ server for the sole purpose of preserving current tx-query workflows (tx-query changes are out of scope of this ADR,
+e.g. having "insecure" test-only connection)
+  * replace the "embedded" tx-validation's sled storage with chain-storage (*addressing Problem 1*):
+    * store sealed transaction payloads in `COL_BODIES` (or a dedicated column if desired)
+    * for serving tx-query requests, just use chain-abci's latest committed state (for last block's time etc.)
+  * remove the redundant enclave-protocol variants of zMQ inter-communication message payloads (unused by tx-query):
+    * CheckChain: no need for the latest app hash checking (only one storage), can do the sanity check (the mainnet/testnet *.signed.so will be different) with direct call
+    * VerifyTx: can call directly (IntraEnclave)
+    * EndBlock: can call directly 
+    * CommitBlock: no need (both information stored / handled during normal chain-abci execution)
+  * modifications in tx-query protocol and client to allow complete verification verification of encryption requests (*addressing Problem 2*):
+    * `EncryptionRequest::WithdrawStake` doesn't need to include the StakedState information:
+      * tx-query will obtain the address from the signature payload and pass that to chain-abci / embedded tx-validation
+      * chain-abci (before calling the tx-validation ecall) should look up the staked state (if it doesn't exist, it'll return an error)
+  * move `SGX_TEST` tx-validation's SGX unit test (unfortunately the normal Rust unit tests don't work in Apache SGX SDK) under an optional flag in chain-abci
+  * along the way, update documentation, integration tests and integration test environment set ups
+  
+## Status
+
+Accepted
+
+## Consequences
+
+### Positive
+
+* Only one place to store transaction data -- no need to keep storage of two processes in sync
+* Decoupling state machine logic (chain-abci) from the storage
+* Full validation of (existing) TQE requests
+* As TQE (and other non-yet-implemented enclave logic) evolves, it'll be beneficial to have one canonical Chain storage place (chain-storage / chain-abci)
+which TQE etc. can rely on
+
+### Negative
+* More complex chain-abci building process 
+
+### Neutral
+* A few more crates (storage crate + some of the enclave functionality may be extracted and abstracted out into existing or new crates)
+* Coupling TQE process to chain-abci
+* Storage space shared between chain-abci and "sub-abci" enclave applications: perhaps an extra column in RocksDB-like storage
+* Depending on how the tx-validation embedding into chain-abci and mocking is done, it may be a source of "silent" enclave only errors
+a developer would discover only after the full integration test, or worse at longer runs in SGX env (as it's not every edge case is covered by integration test and there's no fuzzing yet)
+* many documentation and script changes (as tx-validation wrapper app has been there for quite some time)
+
+## References
+
+* moving app wrapers to chain-abci: https://github.com/crypto-com/chain/pull/665#discussion_r356377869
+* https://github.com/libra/libra/tree/master/storage/storage-service
+* more discussion pointing out other concerns in tx-query: https://github.com/crypto-com/chain/pull/741
+* early embedding tx-validation into chain-abci experiment: https://github.com/crypto-com/chain/pull/738

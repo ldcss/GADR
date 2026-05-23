@@ -1,0 +1,439 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/content-data-api.git",
+  "crawlDateTime": "2022-01-18T18:34:25.782784",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 15,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-009-track-metrics-by-basepath.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-011-new-app-for-ui-management.md",
+      "template": "Nygard",
+      "status": "Accepted. [1]: https://content-performance-api.publishing.service.gov.uk/[2]: https://github.com/alphagov/content-performance-manager/pull/798#discussion_r203503129",
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-006-track-metrics-via-time-dimension.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-008-focus-on-english-content.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-014-track-attribute-changes-per-basepath.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-007-etl-publishing-api-content-store.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-010-track-content-items-in-all-languages.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-016-rename-content-performance-manager.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-005-split-audit-tool-cpm.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-000-document-architectural-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-015-convention-for-data-warehouse-unique-id.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-003-use-google-tag-manager.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-009-consume-from-publishing-api.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-013-store-json-from-events-that-carry-content-changes.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-012-use-sidekiq-for-proessing-rabbitmq-messages.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2021-03-25T09:10:12Z",
+      "lastCommit": "2021-03-25T09:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a14b7e95c083bf45ecc098760985f02e023da2ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-03-25T09:10:12Z",
+  "lastAdrCommit": "2021-03-25T09:16:46Z",
+  "firstCommit": "2016-11-16T16:09:39Z",
+  "lastCommit": "2021-12-20T11:43:45Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a14b7e95c083bf45ecc098760985f02e023da2ea"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cc6ba0c3e49f3ca67cf2620914446a93a7c48c81"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

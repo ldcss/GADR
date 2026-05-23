@@ -1,0 +1,155 @@
+{
+  "repositoryUrl": "https://github.com/hathitrust/holdings-backend.git",
+  "crawlDateTime": "2022-01-18T20:15:20.171356",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0002-mongodb.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-05T20:25:47Z",
+      "lastCommit": "2020-05-11T20:42:46Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "13e8ba0666964e9e21664d825a66bf76227990b7",
+            "9deb11f21b2295c6e4be3dd6eef5ff49e47530ef",
+            "c141dfae71393bc8a8c9bab52dc874b2dac8df37"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0005-concurrency.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-12-18T14:25:35Z",
+      "lastCommit": "2021-01-04T22:33:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "916e84e2988ee548ba30e3896783d91ebba4565c",
+            "3bd954500d4d432dbf79ed59f095cc015c1cb595"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0004-order-independence.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-05T20:25:47Z",
+      "lastCommit": "2020-05-11T20:42:46Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9deb11f21b2295c6e4be3dd6eef5ff49e47530ef",
+            "af88f81bc3d21271a1e1d82fee5b2cbeec13834d",
+            "c7253c946d3785d478dd6c1c8ec8e482de91f81e"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-separate-validation-load.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-05T20:25:47Z",
+      "lastCommit": "2020-05-11T20:42:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9deb11f21b2295c6e4be3dd6eef5ff49e47530ef",
+            "cde007ec381238049ceb377d74ac3a9360c6474e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-incremental-building.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-05T20:25:47Z",
+      "lastCommit": "2020-05-11T20:42:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9deb11f21b2295c6e4be3dd6eef5ff49e47530ef",
+            "c141dfae71393bc8a8c9bab52dc874b2dac8df37"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0006-batch-loading.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-12-18T14:25:35Z",
+      "lastCommit": "2021-01-04T22:33:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "916e84e2988ee548ba30e3896783d91ebba4565c",
+            "3bd954500d4d432dbf79ed59f095cc015c1cb595"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-05T20:25:47Z",
+  "lastAdrCommit": "2021-01-04T22:33:20Z",
+  "firstCommit": "2020-02-06T21:45:20Z",
+  "lastCommit": "2022-01-18T15:46:51Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "13e8ba0666964e9e21664d825a66bf76227990b7",
+        "9deb11f21b2295c6e4be3dd6eef5ff49e47530ef",
+        "916e84e2988ee548ba30e3896783d91ebba4565c",
+        "c141dfae71393bc8a8c9bab52dc874b2dac8df37",
+        "af88f81bc3d21271a1e1d82fee5b2cbeec13834d",
+        "c7253c946d3785d478dd6c1c8ec8e482de91f81e",
+        "3bd954500d4d432dbf79ed59f095cc015c1cb595",
+        "cde007ec381238049ceb377d74ac3a9360c6474e"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

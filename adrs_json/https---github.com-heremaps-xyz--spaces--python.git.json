@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/heremaps/xyz-spaces-python.git",
+  "crawlDateTime": "2022-01-18T19:01:23.004559",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-modern-project-tooling.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-27T09:59:19Z",
+      "lastCommit": "2020-09-27T09:59:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f4ee6df593a9c90079929de113825bfacd6f622b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-27T09:59:19Z",
+      "lastCommit": "2020-09-27T09:59:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f4ee6df593a9c90079929de113825bfacd6f622b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-27T09:59:19Z",
+  "lastAdrCommit": "2020-09-27T09:59:19Z",
+  "firstCommit": "2020-07-23T11:41:40Z",
+  "lastCommit": "2021-09-03T06:31:39Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f4ee6df593a9c90079929de113825bfacd6f622b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

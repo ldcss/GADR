@@ -1,0 +1,91 @@
+{
+  "repositoryUrl": "https://github.com/GenerousLabs/share.git",
+  "crawlDateTime": "2022-01-18T18:37:50.69808",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adrs"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "adrs",
+      "path": "2020-11-01_adrs.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-11-26T15:00:54Z",
+      "lastCommit": "2020-11-26T15:02:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2ac0f5a5e4e3d78717c380dd2a11d5f07acd0d3f",
+            "7a984ea4834f0d96cc726f717d6bc2953695087a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "2020-11-26_redux-saga.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-11-26T15:05:41Z",
+      "lastCommit": "2020-11-26T15:05:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "471c878de570d724e4ef5561067a821f472afd40"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "2020-12-07_saga-composition.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-12-07T10:57:20Z",
+      "lastCommit": "2020-12-07T12:44:04Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8bee82e76d35c04796a51790026b9ffbd4ca173c",
+            "373011683064c2f6de4ae698d29f5c6fc6dae6f6",
+            "6729f0bd6e983809a4aa1294ecef04ffc71b49bc"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-26T15:00:54Z",
+  "lastAdrCommit": "2020-12-07T12:44:04Z",
+  "firstCommit": "2020-11-17T13:30:41Z",
+  "lastCommit": "2021-05-14T11:44:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8bee82e76d35c04796a51790026b9ffbd4ca173c",
+        "373011683064c2f6de4ae698d29f5c6fc6dae6f6",
+        "2ac0f5a5e4e3d78717c380dd2a11d5f07acd0d3f",
+        "6729f0bd6e983809a4aa1294ecef04ffc71b49bc",
+        "471c878de570d724e4ef5561067a821f472afd40",
+        "7a984ea4834f0d96cc726f717d6bc2953695087a"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

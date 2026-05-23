@@ -1,0 +1,161 @@
+{
+  "repositoryUrl": "https://github.com/FoodStandardsAgency/register-a-food-business-front-end.git",
+  "crawlDateTime": "2022-01-18T18:54:03.834169",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/LADR/decisions"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/LADR/decisions",
+      "path": "0002-implement-open-source-govuk-react-components-library.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T19:20:52Z",
+      "lastCommit": "2018-05-16T19:20:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "10dedd0e3244bf6b107e2a8d3f75edf02fe95dae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/LADR/decisions",
+      "path": "0006-implement-eslint-with-default-create-react-app-and-prettier-rules-and-scope-for-additional-rules.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T19:20:52Z",
+      "lastCommit": "2018-05-16T19:20:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "10dedd0e3244bf6b107e2a8d3f75edf02fe95dae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/LADR/decisions",
+      "path": "0007-switch-from-create-react-app-to-next-js.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-17T12:48:33Z",
+      "lastCommit": "2018-05-17T12:48:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ecaadfa6861486e770154c5ae4aaece0a4fbe5d1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/LADR/decisions",
+      "path": "0005-implement-yarn-as-a-cli-for-node-package-management.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T19:20:52Z",
+      "lastCommit": "2018-05-16T19:20:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "10dedd0e3244bf6b107e2a8d3f75edf02fe95dae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/LADR/decisions",
+      "path": "0003-implement-cssinjs-as-default-approach-to-styling.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T19:20:52Z",
+      "lastCommit": "2018-05-17T12:48:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ecaadfa6861486e770154c5ae4aaece0a4fbe5d1",
+            "10dedd0e3244bf6b107e2a8d3f75edf02fe95dae"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/LADR/decisions",
+      "path": "0004-use-create-react-app-and-npm-eject-to-create-the-basis-of-the-project-structure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T19:20:52Z",
+      "lastCommit": "2018-05-16T19:20:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "10dedd0e3244bf6b107e2a8d3f75edf02fe95dae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/LADR/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T19:20:52Z",
+      "lastCommit": "2018-05-16T19:20:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "10dedd0e3244bf6b107e2a8d3f75edf02fe95dae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-16T19:20:52Z",
+  "lastAdrCommit": "2018-05-17T12:48:33Z",
+  "firstCommit": "2018-05-16T19:20:52Z",
+  "lastCommit": "2022-01-13T14:22:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ecaadfa6861486e770154c5ae4aaece0a4fbe5d1",
+        "10dedd0e3244bf6b107e2a8d3f75edf02fe95dae"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/court-case-service.git",
+  "crawlDateTime": "2022-01-18T23:05:27.172731",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-adopt-kotlin.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-10-29T09:41:52Z",
+      "lastCommit": "2021-10-29T09:41:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b59dc414e5ea95c06467e399298af52efa4c8610"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-cpu-resource-limit-and-request.md",
+      "template": "Nygard",
+      "status": "Under review",
+      "firstCommit": "2021-04-12T08:58:27Z",
+      "lastCommit": "2021-04-12T08:58:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ee204e054e01bf72c34b7c945fecd9cb06193ac"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-guiding-principles.md",
+      "template": "Nygard",
+      "status": "Under review",
+      "firstCommit": "2021-07-21T10:40:59Z",
+      "lastCommit": "2021-07-21T10:40:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "19164b1e6e5f6bff47a4f03a0bd8f96085d3d036"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-nginx-caching.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-06-07T14:16:36Z",
+      "lastCommit": "2021-06-07T14:16:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a496ec3910662ea826018cd8cd814defc786448"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-collect-offender-mgr-detail.md",
+      "template": "Nygard",
+      "status": "Under review",
+      "firstCommit": "2021-04-15T13:01:59Z",
+      "lastCommit": "2021-04-15T13:01:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fae58d24ec4cf7173f308a9952f97c921ba4d1ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-handling-concurrent-db-updates.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-12-06T17:35:00Z",
+      "lastCommit": "2021-12-06T17:35:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d52e41938209a3ef2d15f452d4644c9ba01fdf9e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-fetch-noms-number-on-demand.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-22T08:17:33Z",
+      "lastCommit": "2021-07-22T08:17:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "98e4a261db7f252688581d0964badb45670fcb8b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-decoupling-pact-tests-from-test-data.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2022-01-18T14:47:16Z",
+      "lastCommit": "2022-01-18T14:47:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "434e1a9a191d1e5abaf834e4759763eae47edb89"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-split-out-offender-values-to-new-table.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-11-25T15:30:37Z",
+      "lastCommit": "2021-11-25T15:30:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5dd2bef380be7c3af37f79fff5661565014813a2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-15T13:01:59Z",
+      "lastCommit": "2021-04-15T13:01:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fae58d24ec4cf7173f308a9952f97c921ba4d1ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-04-12T08:58:27Z",
+  "lastAdrCommit": "2022-01-18T14:47:16Z",
+  "firstCommit": "2019-05-24T08:28:57Z",
+  "lastCommit": "2022-01-18T17:57:40Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "98e4a261db7f252688581d0964badb45670fcb8b",
+        "d52e41938209a3ef2d15f452d4644c9ba01fdf9e",
+        "434e1a9a191d1e5abaf834e4759763eae47edb89",
+        "19164b1e6e5f6bff47a4f03a0bd8f96085d3d036",
+        "4a496ec3910662ea826018cd8cd814defc786448",
+        "b59dc414e5ea95c06467e399298af52efa4c8610",
+        "1ee204e054e01bf72c34b7c945fecd9cb06193ac"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fae58d24ec4cf7173f308a9952f97c921ba4d1ca",
+        "5dd2bef380be7c3af37f79fff5661565014813a2"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

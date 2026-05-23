@@ -1,0 +1,392 @@
+{
+  "repositoryUrl": "https://github.com/agnesei/clone_difitalcitizenship.git",
+  "crawlDateTime": "2022-01-18T20:42:52.374843",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture/decisions"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0002-use-openapi-to-defined-the-api-specs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-17T13:30:53Z",
+      "lastCommit": "2017-11-16T17:45:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "62419be563f4292f6c7b0c65dd56bc8521d044b8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e42e5c6bdbf5330106b0122c15ee41c9799c037"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0008-choice-of-backend-language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-27T06:42:56Z",
+      "lastCommit": "2017-11-16T17:45:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e42e5c6bdbf5330106b0122c15ee41c9799c037"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3fe856c37f6bdd5ce39d5383a887777b0452c546"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0011-we-chose-a-different-cosmosdb-api.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [9. We choose a CosmosDB API](0009-we-choose-a-cosmosdb-api.md)",
+      "firstCommit": "2017-11-28T16:10:44Z",
+      "lastCommit": "2017-11-28T16:10:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b61cdafa01190734ff595e753d569c0f6afc0fce"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0006-choice-of-primary-key-for-citizen-data.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-26T14:01:05Z",
+      "lastCommit": "2017-11-16T17:45:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e42e5c6bdbf5330106b0122c15ee41c9799c037"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "033848562756cd6a4287779cae0eab98a8d64409"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0003-follow-a-cloud-native-design-principle.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-17T14:19:47Z",
+      "lastCommit": "2017-11-16T17:45:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e42e5c6bdbf5330106b0122c15ee41c9799c037"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5ddbb967a12dea235202cd3b474e26fc727ac50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0004-minimize-cloud-lock-in.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-17T16:56:47Z",
+      "lastCommit": "2017-11-16T17:45:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e42e5c6bdbf5330106b0122c15ee41c9799c037"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d3896b456d8d8c1cd07e49f56baa6aac2978abbf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0013-we-decide-how-to-expose-the-app-backend-to-the-internet.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-15T16:55:27Z",
+      "lastCommit": "2018-02-15T16:55:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd596e907d21bf3284ddb4ae5532c63757e4c9b4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0007-choice-of-azure-region.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-26T14:16:31Z",
+      "lastCommit": "2017-11-16T17:45:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e42e5c6bdbf5330106b0122c15ee41c9799c037"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "abefa8a9b0f956045859036ee868598eabc3667c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0005-we-chose-our-primary-cloud-provider.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-26T13:55:13Z",
+      "lastCommit": "2017-11-16T17:45:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e42e5c6bdbf5330106b0122c15ee41c9799c037"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f27a1c6462492667c9197d5e76fc6e1303ae4fc7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0010-we-select-an-azure-app-hosting-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-28T15:36:08Z",
+      "lastCommit": "2017-11-28T15:36:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6be5e59655a910746c1c8dee97856cd240d5e033"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0009-we-choose-a-cosmosdb-api.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [11. We chose a different CosmosDB API](0011-we-chose-a-different-cosmosdb-api.md)",
+      "firstCommit": "2017-08-02T14:00:37Z",
+      "lastCommit": "2017-11-28T16:10:44Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e42e5c6bdbf5330106b0122c15ee41c9799c037"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b61cdafa01190734ff595e753d569c0f6afc0fce"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b383b45c5ae215a241c24717e192229d4b5ab5c0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0012-we-chose-a-retry-strategy.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-07T09:51:33Z",
+      "lastCommit": "2018-04-04T16:00:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "961c8e38eae76898eeefca5469642dce350f40c0",
+            "a4225e2e76902abae36445210640f63138fcf394"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-17T12:28:34Z",
+      "lastCommit": "2017-11-16T17:45:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4d7619bf0fe3fc413c2821f0039fc0f7032bbfdf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e42e5c6bdbf5330106b0122c15ee41c9799c037"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-17T12:28:34Z",
+  "lastAdrCommit": "2018-04-04T16:00:20Z",
+  "firstCommit": "2017-05-26T09:36:17Z",
+  "lastCommit": "2021-08-11T23:57:48Z",
+  "adrDirFile": {
+    "fileContent": "architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4d7619bf0fe3fc413c2821f0039fc0f7032bbfdf",
+        "62419be563f4292f6c7b0c65dd56bc8521d044b8"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "961c8e38eae76898eeefca5469642dce350f40c0",
+        "a4225e2e76902abae36445210640f63138fcf394",
+        "2e42e5c6bdbf5330106b0122c15ee41c9799c037"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fd596e907d21bf3284ddb4ae5532c63757e4c9b4",
+        "6be5e59655a910746c1c8dee97856cd240d5e033",
+        "b61cdafa01190734ff595e753d569c0f6afc0fce"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b383b45c5ae215a241c24717e192229d4b5ab5c0",
+        "f27a1c6462492667c9197d5e76fc6e1303ae4fc7",
+        "3fe856c37f6bdd5ce39d5383a887777b0452c546",
+        "d3896b456d8d8c1cd07e49f56baa6aac2978abbf",
+        "c5ddbb967a12dea235202cd3b474e26fc727ac50",
+        "033848562756cd6a4287779cae0eab98a8d64409",
+        "abefa8a9b0f956045859036ee868598eabc3667c"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "repositoryUrl": "https://github.com/cloudfoundry-attic/copilot.git",
+  "crawlDateTime": "2022-01-18T19:28:32.31778",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decisions"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0002-use-event-streaming-model-for-diego-actuallrp-syncing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-25T21:12:32Z",
+      "lastCommit": "2018-07-25T21:12:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "63b63b29ea9a5e9fc55d5548c2c8ae17f83d6cae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0004-check-in-copilot-dependencies-that-were-already-vendored.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-07T18:36:51Z",
+      "lastCommit": "2018-11-07T18:36:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "932abc60a1e9c3e87a6d629de05e02d8cbd959b6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0003-use-mcp-api-for-pilot-config.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-14T22:33:55Z",
+      "lastCommit": "2018-09-14T22:33:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a6e7e0cb0fea26cfd5eadce80549c42bd7112c55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0005-enable-grpc-gzip-compression-between-copilot-and-route-syncer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-08T01:13:29Z",
+      "lastCommit": "2018-11-16T00:26:00Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "958dbff6941e44b751a6dd7c86e4ed717fec7590"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "708b5fa671406a915c67291c71e0e78b9a8c5515",
+            "e35031841d98c4c7d124b9a3909f4982a36f76da"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ffcb8ff26bfa5f7d17bd67aa1b6b8c40911df2f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0006-do-something-for-one-way-tls.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-16T00:26:00Z",
+      "lastCommit": "2018-11-16T00:26:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48a9c4e073a5a25ceee2184bb058965dfa637d54"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-25T21:12:32Z",
+      "lastCommit": "2018-07-25T21:12:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "63b63b29ea9a5e9fc55d5548c2c8ae17f83d6cae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-25T21:12:32Z",
+  "lastAdrCommit": "2018-11-16T00:26:00Z",
+  "firstCommit": "2017-11-10T00:08:07Z",
+  "lastCommit": "2019-09-20T20:40:14Z",
+  "adrDirFile": {
+    "fileContent": "docs/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a6e7e0cb0fea26cfd5eadce80549c42bd7112c55"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "958dbff6941e44b751a6dd7c86e4ed717fec7590"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "708b5fa671406a915c67291c71e0e78b9a8c5515",
+        "48a9c4e073a5a25ceee2184bb058965dfa637d54",
+        "e35031841d98c4c7d124b9a3909f4982a36f76da"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7ffcb8ff26bfa5f7d17bd67aa1b6b8c40911df2f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "63b63b29ea9a5e9fc55d5548c2c8ae17f83d6cae",
+        "932abc60a1e9c3e87a6d629de05e02d8cbd959b6"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

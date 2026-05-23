@@ -1,0 +1,21 @@
+Senior 2: 15 anos de experiência. Um ano e meio utilizando ADRs profissionalmente.
+
+1. Arquitetura orientada a eventos (Event-Driven Architecture)
+Decisão: utilizar arquitetura orientada a eventos com mensageria.
+Motivo: permitir comunicação assíncrona entre múltiplos agentes especializados (tráfego, clima, custo etc).
+Trade-off: maior escalabilidade e desacoplamento vs aumento da complexidade de coordenação e debugging.
+
+2. Uso de Message Broker para comunicação entre agentes
+Decisão: introduzir um broker central para distribuir eventos aos agentes consumidores.
+Motivo: desacoplar produtores e consumidores de eventos e facilitar processamento paralelo.
+Trade-off: melhora escalabilidade e resiliência vs necessidade de gerenciar filas, tópicos e consistência eventual.
+
+3. Processamento assíncrono com workers/agentes
+Decisão: agentes funcionam como workers independentes consumindo eventos.
+Motivo: permitir processamento concorrente e especializado.
+Trade-off: sistema mais modular e escalável vs maior dificuldade de rastrear fluxo completo da decisão.
+
+4. Simulação de dados ao invés de APIs reais
+Decisão: usar scripts Python gerando dados aleatórios para clima, trânsito e acidentes.
+Motivo: APIs reais são caras, limitadas ou difíceis de integrar no contexto acadêmico.
+Trade-off: simplicidade e viabilidade do projeto vs perda de realismo dos dados.

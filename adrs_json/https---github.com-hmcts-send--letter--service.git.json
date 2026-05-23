@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/hmcts/send-letter-service.git",
+  "crawlDateTime": "2022-01-18T19:26:48.407094",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch/adr",
+      "path": "0001-increase-pod-memory-for-oom-error.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-11T09:06:35Z",
+      "lastCommit": "2021-01-11T09:06:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bce9646a42865683a697a750cc81b0d8edb71a18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-11T09:06:35Z",
+  "lastAdrCommit": "2021-01-11T09:06:35Z",
+  "firstCommit": "2018-01-11T11:33:19Z",
+  "lastCommit": "2022-01-18T16:12:40Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bce9646a42865683a697a750cc81b0d8edb71a18"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/verify-stub-idp.git",
+  "crawlDateTime": "2022-01-18T22:21:00.235739",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-deploying-metadata-to-paas.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-09T16:35:22Z",
+      "lastCommit": "2018-04-09T16:35:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "237953884902c543dd15b97edd174747feafa682"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-persisting-test-data-in-sql-rdbms.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-09T16:35:20Z",
+      "lastCommit": "2018-04-09T16:35:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b4e5b72229650d7d048a70207a511120ef14f4e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-09T16:35:20Z",
+      "lastCommit": "2018-04-09T16:35:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b4e5b72229650d7d048a70207a511120ef14f4e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-04-09T16:35:20Z",
+  "lastAdrCommit": "2018-04-09T16:35:22Z",
+  "firstCommit": "2017-08-17T12:50:21Z",
+  "lastCommit": "2021-10-04T11:29:38Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "237953884902c543dd15b97edd174747feafa682"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5b4e5b72229650d7d048a70207a511120ef14f4e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

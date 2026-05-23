@@ -1,0 +1,115 @@
+{
+  "repositoryUrl": "https://github.com/clubcapra/capra_web_ui.git",
+  "crawlDateTime": "2022-01-18T18:18:03.288176",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture_decision_record"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture_decision_record",
+      "path": "2020-05-14-Electron.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T03:37:14Z",
+      "lastCommit": "2020-09-26T02:51:39Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f30acdb5f19b782f048ae281a407676394a3b6d",
+            "cb73b1b6f3d709fbcee850c32c5bb286092b366f",
+            "b3b6980a6727fe49351b9ddcb9aa88098dcde57f"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture_decision_record",
+      "path": "2020-09-25-parcel-bundler.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-26T02:51:39Z",
+      "lastCommit": "2020-09-26T02:51:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cb73b1b6f3d709fbcee850c32c5bb286092b366f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture_decision_record",
+      "path": "2021-03-09-snowpack.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-10T02:59:25Z",
+      "lastCommit": "2021-03-10T02:59:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cdadfc30bff6a791e13d174dfbd3db1c4d173c29"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture_decision_record",
+      "path": "2020-05-14-switch-to-react.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T03:37:14Z",
+      "lastCommit": "2020-09-26T02:51:39Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f30acdb5f19b782f048ae281a407676394a3b6d",
+            "cb73b1b6f3d709fbcee850c32c5bb286092b366f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-15T03:37:14Z",
+  "lastAdrCommit": "2021-03-10T02:59:25Z",
+  "firstCommit": "2018-07-15T14:40:03Z",
+  "lastCommit": "2022-01-12T02:12:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1f30acdb5f19b782f048ae281a407676394a3b6d",
+        "cb73b1b6f3d709fbcee850c32c5bb286092b366f",
+        "b3b6980a6727fe49351b9ddcb9aa88098dcde57f"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cdadfc30bff6a791e13d174dfbd3db1c4d173c29"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

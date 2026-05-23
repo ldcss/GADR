@@ -1,0 +1,657 @@
+{
+  "repositoryUrl": "https://github.com/home-assistant/architecture.git",
+  "crawlDateTime": "2022-01-18T22:16:28.119208",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 19,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0010-integration-configuration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-14T18:43:44Z",
+      "lastCommit": "2020-04-14T18:43:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4caf38c4246c832a873fd89ad22d46b77aab7832"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0009-translations-2.0.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-10T09:09:04Z",
+      "lastCommit": "2021-12-04T08:15:35Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58aca5320d91173161b7d8c763c40b776f45d82d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d073fe34591e7388aba21db7151b257f6e37634"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0017-hardware-screening-os.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-04T14:13:00Z",
+      "lastCommit": "2021-08-04T14:13:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dca73b25652e903a0ac2fe1099d43a7b138ed05b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-monitor-condition-and-data-selectors.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-29T21:47:52Z",
+      "lastCommit": "2021-02-11T19:50:14Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "92291d569ae65ed9df81d1d8811c52e0bcfd2e79"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a1c6490d8b0f3a1f6ddf8f7193992eac1bf1755"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "23e0344260e328ad2b631550f6879b3c388d2692"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0007-integration-config-yaml-structure.md",
+      "template": "Nygard",
+      "status": "Accepted ---",
+      "firstCommit": "2020-04-06T16:54:01Z",
+      "lastCommit": "2020-08-14T16:24:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e60d3b40cb1e15fabf1a05ab9bf939e3fb90dbc6",
+            "506c13f2a15bc4d70aa2454ad596736c53b64be4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0012-define-supported-installation-method.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-18T00:26:17Z",
+      "lastCommit": "2020-06-18T00:26:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "98cd83b898012f970fc9c4cae6f451836ae2ed52"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0008-code-owners.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-20T11:37:15Z",
+      "lastCommit": "2019-09-20T11:37:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9cc72586ffdaad65ebfbc3d4aeca68a92f178d70"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-minimum-supported-python-version.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-15T12:04:44Z",
+      "lastCommit": "2019-09-02T04:48:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fba9f25d0e3cecf2c0eb511fbf451499b07108f3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7bbdb835407de6bbe565d87616bedd1aecef239b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0006-docker-images.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-30T10:34:30Z",
+      "lastCommit": "2019-07-30T10:34:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6eac2963d86a94642103e4524c8ff5e00645aa7b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0015-home-assistant-os.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-22T05:10:37Z",
+      "lastCommit": "2021-06-16T16:52:08Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f9b21156200caff90e6179fc95d4bcee90fbdee"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c09430fa43702f69df3ba222a0164b7b8deef4a6"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91ecbe4af814de6c06f3f98afc0920b2491a334c",
+            "b3a6469c3c4b33fc59d6b158f6cfa6ce86a6ba38"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0005-code-formatting.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-07-30T10:25:30Z",
+      "lastCommit": "2019-12-12T16:26:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "563c9d407db1fb57cc4d46aded7cfb322700a1d5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e75bc1e86ae9b033c89c590c13afdb450d672a27"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0013-home-assistant-container.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-18T00:26:40Z",
+      "lastCommit": "2020-08-19T06:34:26Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ebd0f59692d48280e2dbe60a204e7d749c2ced3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a280053dbd12c80776ba271155a95c9ebb666b2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad3fe9c155902dfa963dd739a760697d6b8828de",
+            "c8b11ac40ea8d1974fc3334666acc014e971dd32"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0019-GPIO.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-12-20T10:47:28Z",
+      "lastCommit": "2021-12-20T12:33:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a9d35db060391e7b539d45a8e0b21bc5eeec35d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "780ea1b180263fce7b08805c019dd580f3db6fe2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0014-home-assistant-supervised.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-18T00:20:39Z",
+      "lastCommit": "2021-08-25T07:49:30Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "413e3cb248cf8dca766c0280997f3b516e23fb6d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "63af3de6c8e623ec796b868ebbabb8b9c2c4b4fe",
+            "7f6e6471137ad980d76815bba8e292f010ec3aa8"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6da4482d171f2ef04de9320d313526653b5818b4",
+            "52d5b13a14dae2b943fe5be4649566c7057d5df1"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "928da7db6f9cc5676362bc6e27ee92848860d007"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0016-home-assistant-core.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-07T16:11:05Z",
+      "lastCommit": "2020-07-07T16:11:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4049161a540c3af87921f92e6bb30c369f74eebf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0018-supported-databases.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-10-26T11:16:59Z",
+      "lastCommit": "2021-11-04T15:34:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "713f61010b11edf52e543d28be2fc7c47b5dc072",
+            "3331ea0255844a46d2830f3d780672b37b5793ff"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0011-discovery-requires-unique-id.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-28T06:21:58Z",
+      "lastCommit": "2020-04-28T06:21:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eeb2b93527ccf868745c11ff3e321e21b1bb90cd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0004-webscraping.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-06-28T05:29:21Z",
+      "lastCommit": "2021-02-10T09:42:37Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "68f3b33b517121030aa6e5e0c471e4b966ac7105"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7c50d87838aa705a37074c7eaf2777e8e3c45f74"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-15T12:04:44Z",
+      "lastCommit": "2019-05-15T12:04:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fba9f25d0e3cecf2c0eb511fbf451499b07108f3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-15T12:04:44Z",
+  "lastAdrCommit": "2021-12-20T12:33:53Z",
+  "firstCommit": "2018-02-04T20:11:45Z",
+  "lastCommit": "2021-12-20T12:33:53Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "563c9d407db1fb57cc4d46aded7cfb322700a1d5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fba9f25d0e3cecf2c0eb511fbf451499b07108f3"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "58aca5320d91173161b7d8c763c40b776f45d82d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e75bc1e86ae9b033c89c590c13afdb450d672a27",
+        "4caf38c4246c832a873fd89ad22d46b77aab7832",
+        "63af3de6c8e623ec796b868ebbabb8b9c2c4b4fe",
+        "9f9b21156200caff90e6179fc95d4bcee90fbdee",
+        "7f6e6471137ad980d76815bba8e292f010ec3aa8",
+        "8a9d35db060391e7b539d45a8e0b21bc5eeec35d"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3a280053dbd12c80776ba271155a95c9ebb666b2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7bbdb835407de6bbe565d87616bedd1aecef239b"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "92291d569ae65ed9df81d1d8811c52e0bcfd2e79"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9cc72586ffdaad65ebfbc3d4aeca68a92f178d70"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "780ea1b180263fce7b08805c019dd580f3db6fe2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "91ecbe4af814de6c06f3f98afc0920b2491a334c",
+        "b3a6469c3c4b33fc59d6b158f6cfa6ce86a6ba38"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "413e3cb248cf8dca766c0280997f3b516e23fb6d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "eeb2b93527ccf868745c11ff3e321e21b1bb90cd"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6da4482d171f2ef04de9320d313526653b5818b4",
+        "68f3b33b517121030aa6e5e0c471e4b966ac7105",
+        "52d5b13a14dae2b943fe5be4649566c7057d5df1",
+        "dca73b25652e903a0ac2fe1099d43a7b138ed05b",
+        "6eac2963d86a94642103e4524c8ff5e00645aa7b",
+        "4ebd0f59692d48280e2dbe60a204e7d749c2ced3"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "713f61010b11edf52e543d28be2fc7c47b5dc072",
+        "3331ea0255844a46d2830f3d780672b37b5793ff"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e60d3b40cb1e15fabf1a05ab9bf939e3fb90dbc6",
+        "506c13f2a15bc4d70aa2454ad596736c53b64be4"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "98cd83b898012f970fc9c4cae6f451836ae2ed52",
+        "ad3fe9c155902dfa963dd739a760697d6b8828de",
+        "928da7db6f9cc5676362bc6e27ee92848860d007",
+        "7c50d87838aa705a37074c7eaf2777e8e3c45f74",
+        "3d073fe34591e7388aba21db7151b257f6e37634",
+        "c09430fa43702f69df3ba222a0164b7b8deef4a6",
+        "c8b11ac40ea8d1974fc3334666acc014e971dd32",
+        "4049161a540c3af87921f92e6bb30c369f74eebf",
+        "1a1c6490d8b0f3a1f6ddf8f7193992eac1bf1755"
+      ],
+      "numberOfCommits": 9
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "23e0344260e328ad2b631550f6879b3c388d2692"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

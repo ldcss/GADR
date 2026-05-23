@@ -1,0 +1,69 @@
+{
+  "repositoryUrl": "https://github.com/ONSdigital/sdc.git",
+  "crawlDateTime": "2022-01-18T17:29:29.023826",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "godaddy-structured-json-logging-java.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-08-17T10:06:59Z",
+      "lastCommit": "2018-08-20T10:04:38Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de06aefc7c666aacc1cdecc88dbfedfcdbf6565b",
+            "585f955b922acd58c6ee9576bdfd4c20861e6ba0",
+            "a2cc9db5426e361b30bbcdfda3aaf11283a711be"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "replace-CTPException-with-runtime-exceptions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-10-23T10:50:18Z",
+      "lastCommit": "2018-10-23T10:50:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b60aade626d31f6e5923ecb659b89f001f39b126"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-17T10:06:59Z",
+  "lastAdrCommit": "2018-10-23T10:50:18Z",
+  "firstCommit": "2017-08-23T08:19:51Z",
+  "lastCommit": "2019-09-23T09:08:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "de06aefc7c666aacc1cdecc88dbfedfcdbf6565b",
+        "585f955b922acd58c6ee9576bdfd4c20861e6ba0",
+        "a2cc9db5426e361b30bbcdfda3aaf11283a711be",
+        "b60aade626d31f6e5923ecb659b89f001f39b126"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

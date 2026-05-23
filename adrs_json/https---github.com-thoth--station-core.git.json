@@ -1,0 +1,169 @@
+{
+  "repositoryUrl": "https://github.com/thoth-station/core.git",
+  "crawlDateTime": "2022-01-18T22:57:15.850861",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-decommision-qeb-hwt.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2021-05-06T07:40:36Z",
+      "lastCommit": "2021-05-06T07:40:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed5e640f6c840d55b415721e8d3579bf866b4269"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-release-policy.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2020-11-05T12:33:37Z",
+      "lastCommit": "2021-04-16T17:21:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "88ef4cb23d5d020b60968a35789146d2dd078d7d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "00f6ac50384b47f9cb1de3c8983d332631f6079c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-naming-convention-images.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2021-06-17T10:38:35Z",
+      "lastCommit": "2021-06-22T07:09:38Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "413a63fde72b7838c6791b87406ee260a1bb0704",
+            "ca16ec0c6a12371598dd98a62bba9d2039713697",
+            "91dcefdec4870e4a3e400dbdbe38073204d5cd2c",
+            "103a0ff524d62511c5d6723da96835c90216484c",
+            "54739136b9ee686a6e17ffb95efba4b2025159f6",
+            "611e751e10ed52b58183a9da5a72f12686d89e16",
+            "454806894931c1bb0be0249f8d2503d1591b8922",
+            "62654af38d02e71f3dc0a3b22e213ea48aad6fdc"
+          ],
+          "numberOfCommits": 8
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-gpl3-as-license.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-30T11:38:28Z",
+      "lastCommit": "2021-04-16T17:21:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de2ad9f4587d76fb2de6de0da0992f36a0a5c71f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "00f6ac50384b47f9cb1de3c8983d332631f6079c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-30T11:38:28Z",
+      "lastCommit": "2020-10-30T11:38:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de2ad9f4587d76fb2de6de0da0992f36a0a5c71f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-30T11:38:28Z",
+  "lastAdrCommit": "2021-06-22T07:09:38Z",
+  "firstCommit": "2018-01-22T05:36:41Z",
+  "lastCommit": "2022-01-18T19:44:48Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "de2ad9f4587d76fb2de6de0da0992f36a0a5c71f",
+        "88ef4cb23d5d020b60968a35789146d2dd078d7d",
+        "ed5e640f6c840d55b415721e8d3579bf866b4269"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "413a63fde72b7838c6791b87406ee260a1bb0704",
+        "ca16ec0c6a12371598dd98a62bba9d2039713697",
+        "91dcefdec4870e4a3e400dbdbe38073204d5cd2c",
+        "103a0ff524d62511c5d6723da96835c90216484c",
+        "54739136b9ee686a6e17ffb95efba4b2025159f6",
+        "611e751e10ed52b58183a9da5a72f12686d89e16",
+        "454806894931c1bb0be0249f8d2503d1591b8922",
+        "62654af38d02e71f3dc0a3b22e213ea48aad6fdc"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "00f6ac50384b47f9cb1de3c8983d332631f6079c"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

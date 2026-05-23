@@ -1,0 +1,201 @@
+{
+  "repositoryUrl": "https://github.com/trestini/delayer-aws.git",
+  "crawlDateTime": "2022-01-18T19:55:52.997379",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-of-dynamodb-streams-for-enqueuer.md",
+      "template": "Madr",
+      "status": "accepted - partially superseeds [ADR-0003]",
+      "firstCommit": "2018-05-19T01:42:22Z",
+      "lastCommit": "2018-06-02T04:45:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "df32e2515c80c1dc4dcc8269963e4a7bd5f63a4d",
+            "352be218b9c72cfc545766791af8de7776c6c9f0"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-dymamodb-update-strategy.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2018-04-28T19:48:06Z",
+      "lastCommit": "2018-05-10T02:29:17Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a33b25bec3bbb6b28f69d01eae31e0922209108f",
+            "4b87ef936427aa073fd63e0d463db2560520de09",
+            "664780020119bbfb2b86f3bcd6a70b9b5d9c2393"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-select-proper-name-for-the-project.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2018-04-28T12:40:26Z",
+      "lastCommit": "2018-05-02T03:06:03Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3c6975fa7224d33ddf0397bc157fc1f597286a3",
+            "06a1a39132da48bcf132f70e7fe5c6d9d0d0771e",
+            "3948d18f46b2437d2644c8bec683ac3ef5018ba9",
+            "16cb748a52cc734c43bb1618ebb175a4eb6f32d0"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-schedule-internal-data-structure.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-10T19:58:49Z",
+      "lastCommit": "2018-06-10T20:09:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29142f53a4f938a220085abbf42ac9b0a8313c34",
+            "720c36d34a24fd8f4791434243d9611bc8b1ef05"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-Recursive-lambda-or-triggered-lambda.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2018-04-28T18:57:38Z",
+      "lastCommit": "2018-05-10T01:59:40Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ef90f55117c4caed97aeba0a167b415e057ff2a",
+            "3948d18f46b2437d2644c8bec683ac3ef5018ba9",
+            "7bb345e02458f49273b72d9e1b89f523dff2ec96"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-log-framework-for-logging.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2018-05-05T15:30:12Z",
+      "lastCommit": "2018-05-05T15:30:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d5d3ac615211666310e459204d649d579088f00"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-use-build-and-code-coverage-tools.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2018-06-04T04:14:04Z",
+      "lastCommit": "2018-06-04T04:14:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5268aa6c73df6b2a9b966c47a1b2fa206267ad4d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2018-04-28T12:40:26Z",
+      "lastCommit": "2018-04-28T12:40:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3c6975fa7224d33ddf0397bc157fc1f597286a3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-04-28T12:40:26Z",
+  "lastAdrCommit": "2018-06-10T20:09:30Z",
+  "firstCommit": "2018-04-14T20:55:25Z",
+  "lastCommit": "2018-07-08T16:07:53Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a33b25bec3bbb6b28f69d01eae31e0922209108f",
+        "8ef90f55117c4caed97aeba0a167b415e057ff2a",
+        "29142f53a4f938a220085abbf42ac9b0a8313c34",
+        "df32e2515c80c1dc4dcc8269963e4a7bd5f63a4d",
+        "16cb748a52cc734c43bb1618ebb175a4eb6f32d0",
+        "7bb345e02458f49273b72d9e1b89f523dff2ec96",
+        "664780020119bbfb2b86f3bcd6a70b9b5d9c2393",
+        "a3c6975fa7224d33ddf0397bc157fc1f597286a3",
+        "06a1a39132da48bcf132f70e7fe5c6d9d0d0771e",
+        "3d5d3ac615211666310e459204d649d579088f00",
+        "352be218b9c72cfc545766791af8de7776c6c9f0",
+        "3948d18f46b2437d2644c8bec683ac3ef5018ba9",
+        "4b87ef936427aa073fd63e0d463db2560520de09",
+        "5268aa6c73df6b2a9b966c47a1b2fa206267ad4d",
+        "720c36d34a24fd8f4791434243d9611bc8b1ef05"
+      ],
+      "numberOfCommits": 15
+    }
+  ]
+}

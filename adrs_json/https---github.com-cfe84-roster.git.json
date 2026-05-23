@@ -1,0 +1,206 @@
+{
+  "repositoryUrl": "https://github.com/cfe84/roster.git",
+  "crawlDateTime": "2022-01-18T19:55:42.821591",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "frontend-002.code-in-typescript.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-06T06:28:26Z",
+      "lastCommit": "2019-12-06T06:28:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e25c78de6250470c582247a948fcf3d1815fe856"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "general-004.password-derivation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-17T06:48:31Z",
+      "lastCommit": "2019-12-17T06:48:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d212e1cf7e0b336821260ee9a4e22319085163d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "general-002.event-driven.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-06T06:28:26Z",
+      "lastCommit": "2019-12-06T06:28:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e25c78de6250470c582247a948fcf3d1815fe856"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "general-001.local-first.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-06T06:28:26Z",
+      "lastCommit": "2019-12-06T06:28:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e25c78de6250470c582247a948fcf3d1815fe856"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "general-003.event-based-synchronization.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-06T06:28:26Z",
+      "lastCommit": "2019-12-13T20:02:49Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb02d368fc69eb32509f313b63fe5a3d995112d8",
+            "4bc75bcfe3feebb7988c3ec3509e1633bedc00af",
+            "be232bbefba7201decc19b538ea998e6773420c6",
+            "e25c78de6250470c582247a948fcf3d1815fe856"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "frontend-001.custom-framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-06T06:28:26Z",
+      "lastCommit": "2019-12-06T06:28:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e25c78de6250470c582247a948fcf3d1815fe856"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "backend-001.socketsio.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-12T23:45:52Z",
+      "lastCommit": "2019-12-12T23:45:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1bc17f7927bf6a8c9c0a62e4b55f0180da01150"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "electron-001.fs-event-store.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-19T05:29:15Z",
+      "lastCommit": "2019-12-19T05:29:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "521df31f4497d02b5a4d54284b51cbd63373c653"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "frontend-003.use-electron.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-19T05:29:15Z",
+      "lastCommit": "2019-12-19T05:29:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "521df31f4497d02b5a4d54284b51cbd63373c653"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-12-06T06:28:26Z",
+  "lastAdrCommit": "2019-12-19T05:29:15Z",
+  "firstCommit": "2019-11-27T03:56:29Z",
+  "lastCommit": "2022-01-15T02:07:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bb02d368fc69eb32509f313b63fe5a3d995112d8",
+        "4bc75bcfe3feebb7988c3ec3509e1633bedc00af",
+        "b1bc17f7927bf6a8c9c0a62e4b55f0180da01150",
+        "be232bbefba7201decc19b538ea998e6773420c6",
+        "3d212e1cf7e0b336821260ee9a4e22319085163d",
+        "521df31f4497d02b5a4d54284b51cbd63373c653",
+        "e25c78de6250470c582247a948fcf3d1815fe856"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

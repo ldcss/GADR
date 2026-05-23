@@ -1,0 +1,222 @@
+{
+  "repositoryUrl": "https://github.com/opentransportmanager/otm-docs.git",
+  "crawlDateTime": "2022-01-18T21:18:48.675166",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "api_architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T15:37:54Z",
+      "lastCommit": "2020-05-14T15:37:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d79767bd14251db7016205ae2f5865408018d422"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "api_language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T11:25:04Z",
+      "lastCommit": "2020-05-14T13:36:25Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "60eca0d7febf23be46eb6ff7917aea33f2075719",
+            "a2ca2f05100c168341df2a7865395b947df8add4",
+            "be1631f491e2df955951e99862b3a649cf5a34f1",
+            "3b243e8b4dbfec90c6ca6141dad5769ba4b15a17"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "simulator_language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T14:15:22Z",
+      "lastCommit": "2020-05-14T14:15:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ee43946303363c7c89ce62d89389f1b94025bae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "simulator_description.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T15:37:54Z",
+      "lastCommit": "2020-05-14T15:37:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d79767bd14251db7016205ae2f5865408018d422"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "containerization.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T14:47:40Z",
+      "lastCommit": "2020-05-14T14:47:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "647c689709ca4a0f75b241046022a575872c8ed8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "map.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T14:15:22Z",
+      "lastCommit": "2020-05-14T14:15:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ee43946303363c7c89ce62d89389f1b94025bae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "database.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T13:36:25Z",
+      "lastCommit": "2020-05-14T13:36:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2ca2f05100c168341df2a7865395b947df8add4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "api_framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T13:36:25Z",
+      "lastCommit": "2020-05-14T14:03:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2ca2f05100c168341df2a7865395b947df8add4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e13bf88640f504327d95d9e0fc859ec52c41a78c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "api_description.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T15:37:54Z",
+      "lastCommit": "2020-05-14T15:37:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d79767bd14251db7016205ae2f5865408018d422"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-14T11:25:04Z",
+  "lastAdrCommit": "2020-05-14T15:37:54Z",
+  "firstCommit": "2020-05-12T08:42:28Z",
+  "lastCommit": "2022-01-14T09:32:04Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "60eca0d7febf23be46eb6ff7917aea33f2075719",
+        "7ee43946303363c7c89ce62d89389f1b94025bae",
+        "d79767bd14251db7016205ae2f5865408018d422",
+        "647c689709ca4a0f75b241046022a575872c8ed8",
+        "a2ca2f05100c168341df2a7865395b947df8add4",
+        "be1631f491e2df955951e99862b3a649cf5a34f1",
+        "3b243e8b4dbfec90c6ca6141dad5769ba4b15a17"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e13bf88640f504327d95d9e0fc859ec52c41a78c"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

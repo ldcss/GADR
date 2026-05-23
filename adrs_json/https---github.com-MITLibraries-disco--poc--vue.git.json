@@ -1,0 +1,115 @@
+{
+  "repositoryUrl": "https://github.com/MITLibraries/disco-poc-vue.git",
+  "crawlDateTime": "2022-01-18T21:23:28.069847",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture-decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0004-use-yarn.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-21T15:59:38Z",
+      "lastCommit": "2020-10-21T15:59:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c83062a75ebd1b60f3250817c21c3a61321eef0f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0002-use-heroku-static-buildpack.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-15T20:59:50Z",
+      "lastCommit": "2020-09-15T20:59:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b9ae0a41932161117c72ab834ef29f258539f2c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0003-use-vuejs-3.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-17T15:31:12Z",
+      "lastCommit": "2020-09-17T15:31:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "715a9d54b0c547a0c0da48186d6e4a2203cabacc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-15T20:02:11Z",
+      "lastCommit": "2020-09-15T20:02:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bfe052458b9426de1bfc5fcea2124b1dfb3a4670"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-15T20:02:11Z",
+  "lastAdrCommit": "2020-10-21T15:59:38Z",
+  "firstCommit": "2020-09-08T17:55:16Z",
+  "lastCommit": "2022-01-14T23:15:28Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture-decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c83062a75ebd1b60f3250817c21c3a61321eef0f",
+        "bfe052458b9426de1bfc5fcea2124b1dfb3a4670",
+        "715a9d54b0c547a0c0da48186d6e4a2203cabacc"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5b9ae0a41932161117c72ab834ef29f258539f2c"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

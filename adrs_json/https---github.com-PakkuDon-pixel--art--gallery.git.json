@@ -1,0 +1,173 @@
+{
+  "repositoryUrl": "https://github.com/PakkuDon/pixel-art-gallery.git",
+  "crawlDateTime": "2022-01-18T21:17:28.465944",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-record-aliases-for-pixel-art-entries.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-24T13:53:31Z",
+      "lastCommit": "2021-05-24T13:53:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89edeb8a2dd47b45d5127589cd08cbb6de04b2ae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-relatively-modern-tech-stack.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-16T10:21:58Z",
+      "lastCommit": "2020-11-16T13:07:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "655b6004367b2738b83722bb1e1ed4346474bb46",
+            "c5e6728200938cd2050f92cf67099faaa9fa5acc"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-client-side-routing-using-history-api-and-redirects.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [5. Replace redirects with HTML pages](0005-replace-redirects-with-html-pages.md)",
+      "firstCommit": "2020-11-16T12:12:24Z",
+      "lastCommit": "2021-02-25T12:15:47Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7b242ffa86b22b6b6dbb4d669d7d7542e2f85cb",
+            "82e84f8bb3570eff3f39400b030d722c1a4ffa73",
+            "655b6004367b2738b83722bb1e1ed4346474bb46"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-use-typescript-for-static-typing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-29T12:52:03Z",
+      "lastCommit": "2021-09-04T13:24:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a09930da431f1c3ac4c034d96c54165464322d4b",
+            "13b44a61adbf05860fed47212dcf0acfaab77071"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-replace-redirects-with-html-pages.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [4. Client-side routing using history API and redirects](0004-client-side-routing-using-history-api-and-redirects.md)",
+      "firstCommit": "2021-02-25T12:15:47Z",
+      "lastCommit": "2021-02-25T12:15:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "82e84f8bb3570eff3f39400b030d722c1a4ffa73"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-05T13:40:14Z",
+      "lastCommit": "2020-11-05T13:40:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c79a72f1a01023ae4361989d680b5cba5d021952"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-store-pixel-art-in-github-repository.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-07T12:56:22Z",
+      "lastCommit": "2020-11-16T10:06:17Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bd44f329ee433f0976b14364396954bea294005f",
+            "1cd18db6958e13729b4e5b5123b31d1d9e74d87a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-05T13:40:14Z",
+  "lastAdrCommit": "2021-09-04T13:24:57Z",
+  "firstCommit": "2020-10-10T07:28:03Z",
+  "lastCommit": "2022-01-17T11:12:53Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a09930da431f1c3ac4c034d96c54165464322d4b",
+        "c79a72f1a01023ae4361989d680b5cba5d021952",
+        "89edeb8a2dd47b45d5127589cd08cbb6de04b2ae",
+        "bd44f329ee433f0976b14364396954bea294005f",
+        "a7b242ffa86b22b6b6dbb4d669d7d7542e2f85cb",
+        "13b44a61adbf05860fed47212dcf0acfaab77071",
+        "82e84f8bb3570eff3f39400b030d722c1a4ffa73",
+        "655b6004367b2738b83722bb1e1ed4346474bb46",
+        "c5e6728200938cd2050f92cf67099faaa9fa5acc",
+        "1cd18db6958e13729b4e5b5123b31d1d9e74d87a"
+      ],
+      "numberOfCommits": 10
+    }
+  ]
+}

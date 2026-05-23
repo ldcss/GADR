@@ -1,0 +1,68 @@
+{
+  "repositoryUrl": "https://github.com/elifesciences/profiles.git",
+  "crawlDateTime": "2022-01-18T22:20:43.68165",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0001-proxy-orcids-oauth2-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-05T13:47:22Z",
+      "lastCommit": "2017-09-05T13:47:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f524b63ae6c26f6a4f81874a9debe94fd0f15950"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-store-oauth2-clients-in-json.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-13T14:23:58Z",
+      "lastCommit": "2017-09-13T14:23:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "43332cfe77cb982321437b37222b7632babf61b6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-09-05T13:47:22Z",
+  "lastAdrCommit": "2017-09-13T14:23:58Z",
+  "firstCommit": "2017-06-21T10:43:52Z",
+  "lastCommit": "2021-12-14T05:26:37Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "43332cfe77cb982321437b37222b7632babf61b6",
+        "f524b63ae6c26f6a4f81874a9debe94fd0f15950"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

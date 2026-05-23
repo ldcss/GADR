@@ -1,0 +1,325 @@
+{
+  "repositoryUrl": "https://github.com/bbc/digital-paper-edit-firebase.git",
+  "crawlDateTime": "2022-01-18T20:45:51.668157",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/ADR"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-09-28-time-estimation-for-links.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-11-22T10:40:41Z",
+      "lastCommit": "2019-11-22T10:40:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edbd9b4c447f32a68fc6ba56c0eb9486aee3bf12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-06-20-environment-injection.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-11-22T10:40:41Z",
+      "lastCommit": "2019-11-22T10:40:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edbd9b4c447f32a68fc6ba56c0eb9486aee3bf12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-05-20-previewing-papercuts.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-11-22T10:40:41Z",
+      "lastCommit": "2019-11-22T10:40:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edbd9b4c447f32a68fc6ba56c0eb9486aee3bf12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-09-28-exporting-placeholder-media.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-11-22T10:40:41Z",
+      "lastCommit": "2019-11-22T10:40:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edbd9b4c447f32a68fc6ba56c0eb9486aee3bf12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-05-09-modular-architecture.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-11-22T10:40:41Z",
+      "lastCommit": "2019-11-22T10:40:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edbd9b4c447f32a68fc6ba56c0eb9486aee3bf12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-05-22-exporting-video-preview.md",
+      "template": "Madr",
+      "status": "in progress",
+      "firstCommit": "2019-11-22T10:40:41Z",
+      "lastCommit": "2019-11-22T10:40:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edbd9b4c447f32a68fc6ba56c0eb9486aee3bf12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2020-03-12-integrating-with-new-pstt-module.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-26T06:23:52Z",
+      "lastCommit": "2020-03-30T11:51:18Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3677c1dd429194df23fcbca26fa1a3716331063c",
+            "f64d78498c631a4f2a9d17275fa4a5f8c0968249"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb08d0e7b693b25a9cbf5ce61580c37a0a7ade4b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-11-05-firebase.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-11-22T10:40:41Z",
+      "lastCommit": "2020-03-17T10:55:08Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c77de5083155b4e59f9e7425cb909a143127b655",
+            "fcda1005253e5ee102145332bd55641f607f7218",
+            "edbd9b4c447f32a68fc6ba56c0eb9486aee3bf12"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-05-01-security.md",
+      "template": "Madr",
+      "status": "pending",
+      "firstCommit": "2019-11-22T10:40:41Z",
+      "lastCommit": "2019-11-22T10:40:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edbd9b4c447f32a68fc6ba56c0eb9486aee3bf12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-12-02-nosql-schema-security.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-12-02T17:12:33Z",
+      "lastCommit": "2020-03-23T17:19:37Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45dd84a164785ab532df79d0a8e01077d7bbfac8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c08e86c97b5d0cfcec57a2b5f4bd41b6864689fe",
+            "896bebd62fa5301b7c9b71ae75276a7f66531bfa",
+            "73de2e8ee644f9de3bc3a557eed62201eb98f478",
+            "3c4a916b1d31d797562a6feb4835690382128b07"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-04-29-SQL-database-schema.md",
+      "template": "Madr",
+      "status": "In progress <!-- optional -->",
+      "firstCommit": "2019-11-22T10:40:41Z",
+      "lastCommit": "2019-11-22T10:40:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edbd9b4c447f32a68fc6ba56c0eb9486aee3bf12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-11-27-firestore-saving-timed-transcripts.md",
+      "template": "Madr",
+      "status": "in progress <!-- optional -->",
+      "firstCommit": "2019-12-05T12:22:30Z",
+      "lastCommit": "2020-05-12T11:13:37Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "554290aac38c377945cf957e149b7ec498c9cce8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb08d0e7b693b25a9cbf5ce61580c37a0a7ade4b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3b600d6a9fde9b57dadde19dcf5e33ccdc92e81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-22T10:40:41Z",
+  "lastAdrCommit": "2020-05-12T11:13:37Z",
+  "firstCommit": "2019-11-22T10:40:41Z",
+  "lastCommit": "2022-01-14T09:56:38Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "554290aac38c377945cf957e149b7ec498c9cce8"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c77de5083155b4e59f9e7425cb909a143127b655",
+        "3677c1dd429194df23fcbca26fa1a3716331063c",
+        "45dd84a164785ab532df79d0a8e01077d7bbfac8",
+        "f64d78498c631a4f2a9d17275fa4a5f8c0968249",
+        "fcda1005253e5ee102145332bd55641f607f7218",
+        "edbd9b4c447f32a68fc6ba56c0eb9486aee3bf12"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c08e86c97b5d0cfcec57a2b5f4bd41b6864689fe",
+        "fb08d0e7b693b25a9cbf5ce61580c37a0a7ade4b",
+        "896bebd62fa5301b7c9b71ae75276a7f66531bfa",
+        "73de2e8ee644f9de3bc3a557eed62201eb98f478",
+        "3c4a916b1d31d797562a6feb4835690382128b07"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f3b600d6a9fde9b57dadde19dcf5e33ccdc92e81"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

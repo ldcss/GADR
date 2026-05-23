@@ -1,0 +1,356 @@
+{
+  "repositoryUrl": "https://github.com/status-im/status-react.git",
+  "crawlDateTime": "2022-01-18T21:18:56.355495",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/decisions"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0008-feature-toggles-development.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-05-28T15:16:20Z",
+      "lastCommit": "2018-05-28T15:16:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b5a5f72ec9127aded794a591e07bbbe24f8487f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0005-discovery-protocol.md",
+      "template": "Nygard",
+      "status": "proposed",
+      "firstCommit": "2018-05-14T12:53:42Z",
+      "lastCommit": "2018-05-14T12:53:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "750b32d10bb609f2eda3fd3ee64a40ca7723ecb0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0010-remove-jail-and-status-api.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2018-08-16T10:59:35Z",
+      "lastCommit": "2018-08-16T10:59:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "854acebb70fde038a3e02dd0c236c2748e8f7fee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0006-wallet-compatibility.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-05-15T15:57:09Z",
+      "lastCommit": "2018-05-15T15:57:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f49de27e0429aa00bb60d0b1d03ef58cda2c1ca8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0004-disable-group-chats.md",
+      "template": "Nygard",
+      "status": "proposed",
+      "firstCommit": "2018-05-14T12:54:25Z",
+      "lastCommit": "2018-05-14T12:54:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "df794c724d7dc0a18ff0d8b3abde41ebdedea356"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0013-tribute-to-talk.md",
+      "template": "Nygard",
+      "status": "proposed",
+      "firstCommit": "2019-05-08T14:41:28Z",
+      "lastCommit": "2019-06-03T13:31:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "55fd6cefa74249eb06d0094183aaa0b7c9fc08a8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "04ccd0e7d8ad9bf07afcd53e846a64da65b490c9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0003-geth-node.md",
+      "template": "Nygard",
+      "status": "proposed",
+      "firstCommit": "2018-05-16T02:57:20Z",
+      "lastCommit": "2018-05-16T02:57:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aa108cda127709924c763b164e6d233c752bf323"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0002-extension-uri.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-04-27T07:29:00Z",
+      "lastCommit": "2018-04-27T07:29:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1f629283324fed2c700e94ff6cf7b2a9cbe7afc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0011-tweak-pr-process.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2019-02-28T15:38:53Z",
+      "lastCommit": "2019-02-28T15:38:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e02b89660f26a79a7665a6a8117bc409e83d3f59"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0012-using-pivotal-tracker.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-08T17:25:44Z",
+      "lastCommit": "2019-04-08T17:25:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b28e27947a0450972b9196ab0e4b795de128bcf5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0007-masking-sensitive-data.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-05-28T09:56:16Z",
+      "lastCommit": "2018-05-28T09:56:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "789ee6121224abd5877709d7aa9e872136cd75be"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0001-record-decisions.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-04-27T07:29:00Z",
+      "lastCommit": "2018-04-27T07:29:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1f629283324fed2c700e94ff6cf7b2a9cbe7afc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0009-release-process-mobile.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-07-25T06:52:55Z",
+      "lastCommit": "2018-07-25T06:52:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "10a0ab1df2c1472e72eb4abaa6a24289ef1fc69b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-04-27T07:29:00Z",
+  "lastAdrCommit": "2019-06-03T13:31:30Z",
+  "firstCommit": "2016-02-22T22:04:42Z",
+  "lastCommit": "2022-01-18T20:16:04Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e1f629283324fed2c700e94ff6cf7b2a9cbe7afc"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "55fd6cefa74249eb06d0094183aaa0b7c9fc08a8"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5b5a5f72ec9127aded794a591e07bbbe24f8487f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "854acebb70fde038a3e02dd0c236c2748e8f7fee"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f49de27e0429aa00bb60d0b1d03ef58cda2c1ca8"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "aa108cda127709924c763b164e6d233c752bf323",
+        "e02b89660f26a79a7665a6a8117bc409e83d3f59"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "10a0ab1df2c1472e72eb4abaa6a24289ef1fc69b",
+        "789ee6121224abd5877709d7aa9e872136cd75be"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b28e27947a0450972b9196ab0e4b795de128bcf5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "04ccd0e7d8ad9bf07afcd53e846a64da65b490c9"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "df794c724d7dc0a18ff0d8b3abde41ebdedea356",
+        "750b32d10bb609f2eda3fd3ee64a40ca7723ecb0"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

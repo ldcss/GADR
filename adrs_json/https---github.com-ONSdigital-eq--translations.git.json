@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/ONSdigital/eq-translations.git",
+  "crawlDateTime": "2022-01-18T20:00:23.053158",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/decisions"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0001-context-in-translations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-21T14:50:13Z",
+      "lastCommit": "2020-04-21T14:50:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "757edbb0c4fd989b9621753f420aefba1dc431ab"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-21T14:50:13Z",
+  "lastAdrCommit": "2020-04-21T14:50:13Z",
+  "firstCommit": "2016-12-20T11:14:46Z",
+  "lastCommit": "2021-09-07T09:24:28Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "757edbb0c4fd989b9621753f420aefba1dc431ab"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

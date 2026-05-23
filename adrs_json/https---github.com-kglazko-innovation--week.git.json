@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/kglazko/innovation-week.git",
+  "crawlDateTime": "2022-01-18T19:28:14.846928",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "fftv-categories/docs/architecture"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "fftv-categories/docs/architecture",
+      "path": "adr-0002-robot-pattern.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-27T23:05:13Z",
+      "lastCommit": "2019-03-27T23:05:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "78f2ab23b583478c5d8cb0e414bd40cc4b33f005"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "fftv-categories/docs/architecture",
+      "path": "adr-0001-dependency-injection.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-27T23:05:13Z",
+      "lastCommit": "2019-03-27T23:05:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "78f2ab23b583478c5d8cb0e414bd40cc4b33f005"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "fftv-categories/docs/architecture",
+      "path": "adr-0003-mvvm-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-27T23:05:13Z",
+      "lastCommit": "2019-03-27T23:05:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "78f2ab23b583478c5d8cb0e414bd40cc4b33f005"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-27T23:05:13Z",
+  "lastAdrCommit": "2019-03-27T23:05:13Z",
+  "firstCommit": "2019-03-25T18:53:42Z",
+  "lastCommit": "2019-03-28T22:32:00Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "78f2ab23b583478c5d8cb0e414bd40cc4b33f005"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

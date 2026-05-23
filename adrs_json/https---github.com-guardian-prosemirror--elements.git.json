@@ -1,0 +1,70 @@
+{
+  "repositoryUrl": "https://github.com/guardian/prosemirror-elements.git",
+  "crawlDateTime": "2022-01-18T22:57:53.745773",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decision-records"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decision-records",
+      "path": "000-element-fields-model.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-07T11:12:21Z",
+      "lastCommit": "2021-09-24T11:11:42Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e959a69d307cefa4fa5e5416a55098300039da3",
+            "742d2b421e4ac1e559cfce4186b2b67511dac6c7",
+            "cb13d906768c8761fd8ed46473e8b0887e0f7d38",
+            "0916f79d6d56408ef4b8fabc66ea098c7c21c8c7"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision-records",
+      "path": "001-transformers.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-09-24T11:11:42Z",
+      "lastCommit": "2021-09-24T11:11:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e959a69d307cefa4fa5e5416a55098300039da3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-06-07T11:12:21Z",
+  "lastAdrCommit": "2021-09-24T11:11:42Z",
+  "firstCommit": "2018-07-24T11:05:33Z",
+  "lastCommit": "2022-01-18T16:54:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2e959a69d307cefa4fa5e5416a55098300039da3",
+        "742d2b421e4ac1e559cfce4186b2b67511dac6c7",
+        "cb13d906768c8761fd8ed46473e8b0887e0f7d38",
+        "0916f79d6d56408ef4b8fabc66ea098c7c21c8c7"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

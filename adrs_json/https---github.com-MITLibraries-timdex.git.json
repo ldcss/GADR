@@ -1,0 +1,107 @@
+{
+  "repositoryUrl": "https://github.com/MITLibraries/timdex.git",
+  "crawlDateTime": "2022-01-18T18:46:03.201746",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture-decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0004-use-openapi-specification.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-16T20:22:09Z",
+      "lastCommit": "2018-10-16T20:22:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc481c8e4c3998b8167882787f16f49965f2b5a8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0002-use-jwt-for-api-authorization.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-16T19:22:36Z",
+      "lastCommit": "2018-10-16T19:22:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "22ea54a1045c140bc01a36511e9ce269c896b40d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0003-follow-twelve-factor-methodology.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-16T20:22:09Z",
+      "lastCommit": "2018-10-16T20:22:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc481c8e4c3998b8167882787f16f49965f2b5a8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-10T19:45:01Z",
+      "lastCommit": "2018-10-10T19:45:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e71953a39e7e5f0bf947245aad68fd49a908e16"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-10-10T19:45:01Z",
+  "lastAdrCommit": "2018-10-16T20:22:09Z",
+  "firstCommit": "2018-10-10T17:28:55Z",
+  "lastCommit": "2021-10-12T18:14:30Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture-decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "22ea54a1045c140bc01a36511e9ce269c896b40d",
+        "1e71953a39e7e5f0bf947245aad68fd49a908e16",
+        "bc481c8e4c3998b8167882787f16f49965f2b5a8"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

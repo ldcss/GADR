@@ -1,0 +1,149 @@
+{
+  "repositoryUrl": "https://github.com/guardian/cdk.git",
+  "crawlDateTime": "2022-01-18T20:23:31.333725",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture-decision-records"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture-decision-records",
+      "path": "001-constructs-and-patterns.md",
+      "template": "Nygard",
+      "status": "<!--- What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.? --> proposed",
+      "firstCommit": "2020-12-11T17:03:21Z",
+      "lastCommit": "2020-12-16T10:13:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bae6b3557e67fc9da1d5c381a5910f71c57c5c7",
+            "6c10db6719b06e239fdcef26b5b256dfce27246e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-records",
+      "path": "005-package-structure.md",
+      "template": "Nygard",
+      "status": "<!--- What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.? --> proposed",
+      "firstCommit": "2020-12-11T17:03:21Z",
+      "lastCommit": "2020-12-17T11:08:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5ad6610b687b02311e1b73c51fdafaee529e2c2d",
+            "6c10db6719b06e239fdcef26b5b256dfce27246e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-records",
+      "path": "002-component-constuctors.md",
+      "template": "Nygard",
+      "status": "<!--- What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.? --> proposed",
+      "firstCommit": "2020-12-11T17:03:21Z",
+      "lastCommit": "2021-03-29T13:06:55Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5488958d072598bf1beaed1de4502cdab0981e96"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eae35b0a7befab3bb67c279c39deb2f6fdbf04ad",
+            "6c10db6719b06e239fdcef26b5b256dfce27246e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-records",
+      "path": "004-testing.md",
+      "template": "Nygard",
+      "status": "proposed",
+      "firstCommit": "2020-12-11T17:03:21Z",
+      "lastCommit": "2020-12-16T12:56:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "810d9e631d32339fcf6bccdb2042c689ec6e1b21",
+            "6c10db6719b06e239fdcef26b5b256dfce27246e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-records",
+      "path": "003-package-manager.md",
+      "template": "Nygard",
+      "status": "<!--- What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.? --> proposed",
+      "firstCommit": "2020-12-11T17:03:21Z",
+      "lastCommit": "2020-12-18T11:58:20Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ccac76c443d47862a7b5fb7d9e84943abc3d3de3",
+            "061c08687a77467da16f24c431d447d6d230347a",
+            "6c10db6719b06e239fdcef26b5b256dfce27246e"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-11T17:03:21Z",
+  "lastAdrCommit": "2021-03-29T13:06:55Z",
+  "firstCommit": "2020-11-19T09:42:19Z",
+  "lastCommit": "2022-01-18T16:11:57Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5488958d072598bf1beaed1de4502cdab0981e96"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "eae35b0a7befab3bb67c279c39deb2f6fdbf04ad",
+        "ccac76c443d47862a7b5fb7d9e84943abc3d3de3",
+        "5ad6610b687b02311e1b73c51fdafaee529e2c2d",
+        "3bae6b3557e67fc9da1d5c381a5910f71c57c5c7",
+        "810d9e631d32339fcf6bccdb2042c689ec6e1b21",
+        "061c08687a77467da16f24c431d447d6d230347a",
+        "6c10db6719b06e239fdcef26b5b256dfce27246e"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

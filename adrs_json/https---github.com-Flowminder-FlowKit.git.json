@@ -1,0 +1,261 @@
+{
+  "repositoryUrl": "https://github.com/Flowminder/FlowKit.git",
+  "crawlDateTime": "2022-01-18T22:21:16.37827",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/source/developer/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/source/developer/adr",
+      "path": "0003-http-api.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2019-05-15T09:51:31Z",
+      "lastCommit": "2019-05-15T09:51:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9df19a0f7f220c3c977d13da53054198520cedc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/developer/adr",
+      "path": "0005-IPC-methods.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2019-05-15T09:51:31Z",
+      "lastCommit": "2019-05-15T09:51:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9df19a0f7f220c3c977d13da53054198520cedc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/developer/adr",
+      "path": "0007-mapbox-for-worked-examples.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-15T15:02:03Z",
+      "lastCommit": "2019-05-15T15:02:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b22154197548de59021681e385da1636093518ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/developer/adr",
+      "path": "0011-redaction-strategy-for-labelled-aggregates.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-12-08T23:21:54Z",
+      "lastCommit": "2021-12-08T23:21:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0958ea1595d8fc3e318eca3bdfb3c97bbbb960ef"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/developer/adr",
+      "path": "0006-JWTs.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2019-05-15T09:51:31Z",
+      "lastCommit": "2019-05-15T09:51:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9df19a0f7f220c3c977d13da53054198520cedc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/developer/adr",
+      "path": "0001-pipenv-for-package-and-dependency-management.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2019-05-15T09:51:31Z",
+      "lastCommit": "2019-05-20T12:37:28Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9df19a0f7f220c3c977d13da53054198520cedc0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3db5007481fc226e64a9ad6f2172f37a63bfc38"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/developer/adr",
+      "path": "0008-jupyter-notebooks-for-autoflow.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2019-11-22T16:45:56Z",
+      "lastCommit": "2019-11-22T16:45:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a47ef631e3f5c998fce6721da5f16feca49cfefa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/developer/adr",
+      "path": "0010-prefect-for-autoflow.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2019-11-22T16:45:56Z",
+      "lastCommit": "2019-11-22T16:45:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a47ef631e3f5c998fce6721da5f16feca49cfefa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/developer/adr",
+      "path": "0004-http-framework.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2019-05-15T09:51:31Z",
+      "lastCommit": "2019-05-15T09:51:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9df19a0f7f220c3c977d13da53054198520cedc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/developer/adr",
+      "path": "0002-pytest-for-testing.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2019-05-15T09:51:31Z",
+      "lastCommit": "2019-05-15T09:51:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9df19a0f7f220c3c977d13da53054198520cedc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/developer/adr",
+      "path": "0009-asciidoctor-pdf-for-notebook-conversion.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2019-11-22T16:45:56Z",
+      "lastCommit": "2019-11-22T16:45:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a47ef631e3f5c998fce6721da5f16feca49cfefa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-15T09:51:31Z",
+  "lastAdrCommit": "2021-12-08T23:21:54Z",
+  "firstCommit": "2018-10-31T23:50:16Z",
+  "lastCommit": "2022-01-18T04:09:37Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0958ea1595d8fc3e318eca3bdfb3c97bbbb960ef"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a47ef631e3f5c998fce6721da5f16feca49cfefa",
+        "c3db5007481fc226e64a9ad6f2172f37a63bfc38",
+        "b22154197548de59021681e385da1636093518ca"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9df19a0f7f220c3c977d13da53054198520cedc0"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

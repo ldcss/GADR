@@ -1,0 +1,11 @@
+# [ADR-001] Container Orchestration and Compute Infrastructure
+- **Status**: Accepted
+- **Context**: The gym management platform requires high availability and horizontal scalability to support hundreds of active smart equipments simultaneously. The system cannot experience downtime during gym operating hours. We need a robust compute layer that supports automated scaling, load balancing, and high redundancy to prevent single points of failure.
+- **Decision**: Adopt AWS EKS (Elastic Kubernetes Service) for container orchestration, coupled with AWS Application Load Balancers for horizontal scaling.
+- **Considered Options**:
+  - *Option 1: AWS Lambda (Serverless architecture).* Rejected because while it offers excellent on-demand scaling, the sheer volume of continuous sensor data during peak hours would result in prohibitively high compute costs compared to provisioned container instances.
+  - *Option 2: AWS ECS (Elastic Container Service).* Rejected primarily due to team skill sets. The engineering team has deep, proven experience operating Kubernetes (EKS), making ECS a higher operational risk despite being AWS-native. 
+  - *Option 3: Vertical Scaling (Provisioning larger EC2 instances).* Rejected because it does not provide fault tolerance; a single instance failure would disrupt the network, and it is less cost-effective than dynamically scaling smaller instances horizontally.
+- **Consequences**:
+  - *Pros:* Guarantees high availability through multi-AZ horizontal scaling. Leverages existing team expertise in Kubernetes, reducing time-to-market and operational friction. 
+  - *Cons:* Introduces baseline control plane costs associated with EKS and requires maintaining Kubernetes manifests and node pools, which adds infrastructure overhead compared to a fully managed serverless approach.

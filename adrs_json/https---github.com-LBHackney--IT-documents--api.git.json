@@ -1,0 +1,79 @@
+{
+  "repositoryUrl": "https://github.com/LBHackney-IT/documents-api.git",
+  "crawlDateTime": "2022-01-18T23:12:58.447201",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-04T18:17:38Z",
+      "lastCommit": "2021-01-04T18:17:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c594fe70e84cce481a83b458a62a47aa2bdd0f17"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-base64-content-for-file-uploading.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-06-21T16:46:18Z",
+      "lastCommit": "2021-06-24T10:17:39Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d62cd41a72c2e593447978605acdb68d2510f18",
+            "8be66b83d97ee3bb5e17082881254f330b20abbd",
+            "64742a08b4d1d22485efb6a45bf7abb49f9e6d34"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-04T18:17:38Z",
+  "lastAdrCommit": "2021-06-24T10:17:39Z",
+  "firstCommit": "2020-11-19T10:37:28Z",
+  "lastCommit": "2021-11-26T10:30:32Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3d62cd41a72c2e593447978605acdb68d2510f18",
+        "8be66b83d97ee3bb5e17082881254f330b20abbd",
+        "64742a08b4d1d22485efb6a45bf7abb49f9e6d34"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c594fe70e84cce481a83b458a62a47aa2bdd0f17"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

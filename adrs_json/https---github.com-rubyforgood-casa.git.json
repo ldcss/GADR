@@ -1,0 +1,224 @@
+{
+  "repositoryUrl": "https://github.com/rubyforgood/casa.git",
+  "crawlDateTime": "2022-01-18T18:46:59.609737",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture-decisions"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0007-inline-css-for-email-views.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-18T15:05:50Z",
+      "lastCommit": "2021-08-18T15:05:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "54ed0fc05c37c78811b9fb3ad4aaaaa49029c99f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0006-few-controller-tests.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-15T02:45:24Z",
+      "lastCommit": "2021-07-15T02:48:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "faa839751c2091962483f0baf5c2b3b4f37ce75f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f59dddd6d35b620329893de067fd3f18b851b4ab"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0002-disallow-ui-sign-ups.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-04T18:54:38Z",
+      "lastCommit": "2020-04-05T19:00:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "08bc8fd3d5f7590d794c26f9d9498456abd4edf5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7fec95d7a825e8bdab71bfc85d0c18f3784e98e4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0003-multiple-user-tables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-05T19:00:57Z",
+      "lastCommit": "2020-04-05T19:14:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4fa3214a37a6c6bcf1315939cfc32c91ae8a0022",
+            "7fec95d7a825e8bdab71bfc85d0c18f3784e98e4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0005-android-app-as-a-pwa.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-08T02:44:06Z",
+      "lastCommit": "2021-07-08T02:49:47Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "63215d6a9213f7b84d7895cf555092b1cf83d98f",
+            "82e1b82c5ba591c80b71f9020c9093685abec5fc",
+            "ae959700154eb4cb90fd77c0b04d7caa3aba11c7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-04T18:54:38Z",
+      "lastCommit": "2020-04-04T18:54:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "08bc8fd3d5f7590d794c26f9d9498456abd4edf5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0004-use-bootstrap.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-04-05T19:20:57Z",
+      "lastCommit": "2021-07-08T02:35:39Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0151907641e4eb355663623423d210428f3c0ca9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a19c5f51caaa099c774200f511c9bed860ca09a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-04T18:54:38Z",
+  "lastAdrCommit": "2021-08-18T15:05:50Z",
+  "firstCommit": "2020-03-19T04:09:18Z",
+  "lastCommit": "2022-01-18T11:04:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "08bc8fd3d5f7590d794c26f9d9498456abd4edf5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "faa839751c2091962483f0baf5c2b3b4f37ce75f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0151907641e4eb355663623423d210428f3c0ca9"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4fa3214a37a6c6bcf1315939cfc32c91ae8a0022",
+        "7fec95d7a825e8bdab71bfc85d0c18f3784e98e4"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "54ed0fc05c37c78811b9fb3ad4aaaaa49029c99f",
+        "63215d6a9213f7b84d7895cf555092b1cf83d98f",
+        "7a19c5f51caaa099c774200f511c9bed860ca09a",
+        "82e1b82c5ba591c80b71f9020c9093685abec5fc",
+        "ae959700154eb4cb90fd77c0b04d7caa3aba11c7",
+        "f59dddd6d35b620329893de067fd3f18b851b4ab"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

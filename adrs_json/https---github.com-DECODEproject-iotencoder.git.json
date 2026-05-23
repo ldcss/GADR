@@ -1,0 +1,96 @@
+{
+  "repositoryUrl": "https://github.com/DECODEproject/iotencoder.git",
+  "crawlDateTime": "2022-01-18T20:00:20.418049",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr001-twirp.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-05-25T13:01:07Z",
+      "lastCommit": "2018-05-30T11:44:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1840fd87fb8d694244db8575f8954d9018046ce4",
+            "205cd7e512e56aecb124b751a5208b1c90239ccf"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr002-output_format.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-11-01T15:31:52Z",
+      "lastCommit": "2018-11-22T23:27:46Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "256bf4ba620e7c8893cf9b0827bb63976ab78f9b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f1270110636a732a3d807d54778646fced8d3bd",
+            "fcec41e05dda939d6de62c4a3f02996cee87a96b",
+            "94acef1027a60c63ac6b5ca505faf29b9c68a829",
+            "7cb914e3c25517ec4eaad240eb98553e809030f2"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-25T13:01:07Z",
+  "lastAdrCommit": "2018-11-22T23:27:46Z",
+  "firstCommit": "2018-05-25T11:38:58Z",
+  "lastCommit": "2019-07-04T16:43:14Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "256bf4ba620e7c8893cf9b0827bb63976ab78f9b"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1840fd87fb8d694244db8575f8954d9018046ce4",
+        "205cd7e512e56aecb124b751a5208b1c90239ccf"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7f1270110636a732a3d807d54778646fced8d3bd",
+        "fcec41e05dda939d6de62c4a3f02996cee87a96b",
+        "94acef1027a60c63ac6b5ca505faf29b9c68a829",
+        "7cb914e3c25517ec4eaad240eb98553e809030f2"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

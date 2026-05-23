@@ -1,0 +1,141 @@
+{
+  "repositoryUrl": "https://github.com/ahitrin/SiebenApp.git",
+  "crawlDateTime": "2022-01-18T21:08:38.550087",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-create-adaptive-goal-tree-enumeration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-03-11T08:10:40Z",
+      "lastCommit": "2020-08-16T05:16:48Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f715c2a1b2f938e119183e19b9a2875152927fc9",
+            "24646429c01b99427fe0518a0cda95d372f45336",
+            "87ea75fc48b439c30ba28b57cae1a21f8bb29e1b",
+            "55a060e7b855f48c65266502a3ace20a2caccbac"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-dsl-for-creation-and-representation-of-goal-trees.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-09T09:29:26Z",
+      "lastCommit": "2020-08-16T05:23:25Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f715c2a1b2f938e119183e19b9a2875152927fc9",
+            "24646429c01b99427fe0518a0cda95d372f45336",
+            "d16860fa26ce182b31e42a66cc4822937f93cc68",
+            "55a060e7b855f48c65266502a3ace20a2caccbac",
+            "5cf58aaee43d7e2905b685d6768c343117a33838"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-document-old-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted Implemented in [5. Forever alpha version](0005-forever-alpha-version.md)",
+      "firstCommit": "2020-08-16T07:38:36Z",
+      "lastCommit": "2020-08-16T07:38:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0ba791e4d7a2d811298dff85cdf1994cde701fd8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-03-11T08:10:40Z",
+      "lastCommit": "2020-08-16T05:16:48Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f715c2a1b2f938e119183e19b9a2875152927fc9",
+            "24646429c01b99427fe0518a0cda95d372f45336",
+            "55a060e7b855f48c65266502a3ace20a2caccbac",
+            "a57bf744a4a0bdf23ced646e851183acded00dcb"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-forever-alpha-version.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Document old decisions](0004-document-old-decisions.md)",
+      "firstCommit": "2020-08-16T07:38:36Z",
+      "lastCommit": "2020-08-16T07:38:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0ba791e4d7a2d811298dff85cdf1994cde701fd8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-03-11T08:10:40Z",
+  "lastAdrCommit": "2020-08-16T07:38:36Z",
+  "firstCommit": "2016-11-10T13:30:20Z",
+  "lastCommit": "2022-01-17T11:20:12Z",
+  "adrDirFile": {
+    "fileContent": "doc/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f715c2a1b2f938e119183e19b9a2875152927fc9",
+        "24646429c01b99427fe0518a0cda95d372f45336",
+        "87ea75fc48b439c30ba28b57cae1a21f8bb29e1b",
+        "d16860fa26ce182b31e42a66cc4822937f93cc68",
+        "55a060e7b855f48c65266502a3ace20a2caccbac",
+        "a57bf744a4a0bdf23ced646e851183acded00dcb",
+        "5cf58aaee43d7e2905b685d6768c343117a33838",
+        "0ba791e4d7a2d811298dff85cdf1994cde701fd8"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

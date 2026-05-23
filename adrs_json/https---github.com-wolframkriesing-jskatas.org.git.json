@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/wolframkriesing/jskatas.org.git",
+  "crawlDateTime": "2022-01-18T21:11:56.830346",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-server-side-rendering.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-03T13:05:05Z",
+      "lastCommit": "2019-08-03T13:05:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1520a1377f21a804fa2a5f6b2b5a3731ef6e6edb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "000-use-adrs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-03T13:05:05Z",
+      "lastCommit": "2019-08-03T13:05:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1520a1377f21a804fa2a5f6b2b5a3731ef6e6edb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "002-use-lit-html.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-03T13:05:05Z",
+      "lastCommit": "2019-08-03T13:05:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1520a1377f21a804fa2a5f6b2b5a3731ef6e6edb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-03T13:05:05Z",
+  "lastAdrCommit": "2019-08-03T13:05:05Z",
+  "firstCommit": "2015-03-30T08:07:02Z",
+  "lastCommit": "2021-07-20T19:11:45Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1520a1377f21a804fa2a5f6b2b5a3731ef6e6edb"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

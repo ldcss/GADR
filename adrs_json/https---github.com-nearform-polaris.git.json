@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/nearform/polaris.git",
+  "crawlDateTime": "2022-01-18T19:43:38.824235",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/ADRs"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "developmentLanguage.md",
+      "template": "Nygard",
+      "status": "Accepted June 2020",
+      "firstCommit": "2020-11-12T08:33:56Z",
+      "lastCommit": "2020-11-12T08:33:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2ca6d40ae814a9a8e2f229428bfe807373c330a8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-12T08:33:56Z",
+  "lastAdrCommit": "2020-11-12T08:33:56Z",
+  "firstCommit": "2020-06-26T16:51:06Z",
+  "lastCommit": "2021-06-30T17:20:28Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2ca6d40ae814a9a8e2f229428bfe807373c330a8"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

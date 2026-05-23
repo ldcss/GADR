@@ -1,0 +1,47 @@
+{
+  "repositoryUrl": "https://github.com/smartboxgroup/core-bundle.git",
+  "crawlDateTime": "2022-01-18T22:58:04.542073",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "Docs/architecture/decisions"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "Docs/architecture/decisions",
+      "path": "001-support-deserialization-plain-text.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-07T14:59:20Z",
+      "lastCommit": "2020-05-07T15:13:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d816ffea3b26313fbb00923a3306d610714a2562",
+            "5d6d7c39d48e373def1c00e870a2f4785cee0bb8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-07T14:59:20Z",
+  "lastAdrCommit": "2020-05-07T15:13:02Z",
+  "firstCommit": "2015-08-26T10:51:45Z",
+  "lastCommit": "2020-05-11T07:39:31Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d816ffea3b26313fbb00923a3306d610714a2562",
+        "5d6d7c39d48e373def1c00e870a2f4785cee0bb8"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

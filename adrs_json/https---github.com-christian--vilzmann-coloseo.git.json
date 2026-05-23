@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/christian-vilzmann/coloseo.git",
+  "crawlDateTime": "2022-01-18T17:32:47.976898",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-docker-compose.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-02T21:34:37Z",
+      "lastCommit": "2020-11-02T21:34:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5887761e22df572055adb5b3ec759cc6e06e18f8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-02T21:34:37Z",
+      "lastCommit": "2020-11-02T21:34:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5887761e22df572055adb5b3ec759cc6e06e18f8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-mern-stack.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-02T21:34:37Z",
+      "lastCommit": "2020-11-02T21:34:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5887761e22df572055adb5b3ec759cc6e06e18f8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-02T21:34:37Z",
+  "lastAdrCommit": "2020-11-02T21:34:37Z",
+  "firstCommit": "2020-10-28T20:49:26Z",
+  "lastCommit": "2020-11-02T21:34:37Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5887761e22df572055adb5b3ec759cc6e06e18f8"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

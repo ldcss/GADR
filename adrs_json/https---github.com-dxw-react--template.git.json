@@ -1,0 +1,307 @@
+{
+  "repositoryUrl": "https://github.com/dxw/react-template.git",
+  "crawlDateTime": "2022-01-18T17:29:29.990053",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 14,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-prettier-to-format-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-10T12:35:08Z",
+      "lastCommit": "2019-10-10T12:35:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e6aeb5d581701d782775826dff7973749a5bea3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-support-cucumber-feature-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-23T12:37:49Z",
+      "lastCommit": "2019-10-23T12:37:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "958cdde4e6b02d4b0a97d26a2b81295f537fc7df"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0014-use-dependabot-to-keep-dependencies-up-to-date.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-26T15:29:00Z",
+      "lastCommit": "2019-10-26T15:29:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ccf81bc9cbf0a703f62b2af686405c69201eca51"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-next-js.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-08T16:12:35Z",
+      "lastCommit": "2019-10-08T16:12:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f6924f450366f7c6ec1d82e1c59bbb42a8eda54c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-use-styled-jsx.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T09:27:51Z",
+      "lastCommit": "2019-10-20T09:27:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "baeb9bf8a916a2da74f0e7d55d6cd28fcb0046cc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-typescript.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-10T12:35:12Z",
+      "lastCommit": "2019-10-10T12:35:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8795b8d4489fe1f0f53259d19176bb0dc1ca899"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-use-eslint.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T09:27:49Z",
+      "lastCommit": "2019-10-20T09:27:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0699efecb43ece534c097e4b94fd0b980e297c3c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0012-use-docker-to-deploy-and-run-the-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-23T20:48:05Z",
+      "lastCommit": "2019-10-23T20:48:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2cb723d23a6d7049f92be943fae6b3ea464323e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-use-snapshot-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-20T09:27:47Z",
+      "lastCommit": "2019-10-20T09:27:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b73cdc1f30c7238a5d5d2bc0b2e844108e7996e2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-use-axe-for-automated-accessibility-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-23T12:37:56Z",
+      "lastCommit": "2019-10-23T12:37:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b220b6fcfa9c674a024a710c420103b31a1463e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-use-selenium-for-feature-and-end-to-end-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-23T12:37:48Z",
+      "lastCommit": "2019-10-23T12:37:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "918277b6ebbb77a25790a90b35f6172819086e8d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-jest.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-20T09:27:47Z",
+      "lastCommit": "2019-10-20T09:27:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b73cdc1f30c7238a5d5d2bc0b2e844108e7996e2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-08T16:11:59Z",
+      "lastCommit": "2019-10-08T16:11:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab9b57e373b01437efc23661905ac3d9813331b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0013-use-normalize-css-to-normalize-styles-across-browsers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-23T20:48:18Z",
+      "lastCommit": "2019-10-23T20:48:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "15a60c328e13676024be0796e3403b24cf1faf58"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-08T16:11:59Z",
+  "lastAdrCommit": "2019-10-26T15:29:00Z",
+  "firstCommit": "2019-10-08T16:11:59Z",
+  "lastCommit": "2020-10-27T04:48:07Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0699efecb43ece534c097e4b94fd0b980e297c3c",
+        "e6aeb5d581701d782775826dff7973749a5bea3b",
+        "b73cdc1f30c7238a5d5d2bc0b2e844108e7996e2",
+        "918277b6ebbb77a25790a90b35f6172819086e8d",
+        "baeb9bf8a916a2da74f0e7d55d6cd28fcb0046cc",
+        "ab9b57e373b01437efc23661905ac3d9813331b0",
+        "b220b6fcfa9c674a024a710c420103b31a1463e5",
+        "958cdde4e6b02d4b0a97d26a2b81295f537fc7df",
+        "a2cb723d23a6d7049f92be943fae6b3ea464323e",
+        "ccf81bc9cbf0a703f62b2af686405c69201eca51",
+        "15a60c328e13676024be0796e3403b24cf1faf58",
+        "f8795b8d4489fe1f0f53259d19176bb0dc1ca899",
+        "f6924f450366f7c6ec1d82e1c59bbb42a8eda54c"
+      ],
+      "numberOfCommits": 13
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/rhurkes/sware-server.git",
+  "crawlDateTime": "2022-01-18T22:55:34.861156",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-general-arch.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-04-18T01:34:52Z",
+      "lastCommit": "2020-04-18T01:34:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c0062e2a05cabc1acf5afd1bd6e98bb89b0a03d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-misc.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-18T01:34:52Z",
+      "lastCommit": "2020-04-18T01:34:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c0062e2a05cabc1acf5afd1bd6e98bb89b0a03d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-18T01:34:52Z",
+  "lastAdrCommit": "2020-04-18T01:34:52Z",
+  "firstCommit": "2020-04-18T01:32:46Z",
+  "lastCommit": "2020-04-21T01:46:44Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9c0062e2a05cabc1acf5afd1bd6e98bb89b0a03d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

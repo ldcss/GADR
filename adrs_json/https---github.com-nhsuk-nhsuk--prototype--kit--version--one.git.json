@@ -1,0 +1,201 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/nhsuk-prototype-kit-version-one.git",
+  "crawlDateTime": "2022-01-18T20:33:15.698621",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/technical-decisions"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/technical-decisions",
+      "path": "0001-use-node-and-express.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-08-29T11:40:34Z",
+      "lastCommit": "2017-10-20T12:10:49Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cfc57ff87b98ca2b09eca7d4ac291cbf17bcbd67",
+            "38da99271b7ffe8ddf373601cb24b2443dac2756"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c1ae7db1a92cfcef8cf3abbbe21602726e82df15"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/technical-decisions",
+      "path": "0005-use-handlebars-as-default-templating-solution.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-10-19T13:36:27Z",
+      "lastCommit": "2017-10-20T12:10:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3d1bb4e1538f57bc4449a9f8aba8ed5f0fa3617"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c1ae7db1a92cfcef8cf3abbbe21602726e82df15"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/technical-decisions",
+      "path": "0002-use-npm-for-package-management.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-08-29T11:40:34Z",
+      "lastCommit": "2017-10-20T12:10:49Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cfc57ff87b98ca2b09eca7d4ac291cbf17bcbd67",
+            "38da99271b7ffe8ddf373601cb24b2443dac2756"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c1ae7db1a92cfcef8cf3abbbe21602726e82df15"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/technical-decisions",
+      "path": "0006-integrate-frontend-library-as-a-dependency.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-10-20T12:10:49Z",
+      "lastCommit": "2017-10-20T12:10:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c1ae7db1a92cfcef8cf3abbbe21602726e82df15"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/technical-decisions",
+      "path": "0004-use-basic-auth-to-secure-published-prototypes.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-08-29T11:40:34Z",
+      "lastCommit": "2017-10-20T12:10:49Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cfc57ff87b98ca2b09eca7d4ac291cbf17bcbd67",
+            "38da99271b7ffe8ddf373601cb24b2443dac2756"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c1ae7db1a92cfcef8cf3abbbe21602726e82df15"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/technical-decisions",
+      "path": "0003-use-npm-scripts-and-gulp-for-running-tasks.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-08-29T11:40:34Z",
+      "lastCommit": "2017-10-20T12:10:49Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cfc57ff87b98ca2b09eca7d4ac291cbf17bcbd67",
+            "38da99271b7ffe8ddf373601cb24b2443dac2756"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c1ae7db1a92cfcef8cf3abbbe21602726e82df15"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-08-29T11:40:34Z",
+  "lastAdrCommit": "2017-10-20T12:10:49Z",
+  "firstCommit": "2017-08-16T11:24:32Z",
+  "lastCommit": "2018-12-05T15:25:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a3d1bb4e1538f57bc4449a9f8aba8ed5f0fa3617"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cfc57ff87b98ca2b09eca7d4ac291cbf17bcbd67",
+        "38da99271b7ffe8ddf373601cb24b2443dac2756"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c1ae7db1a92cfcef8cf3abbbe21602726e82df15"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

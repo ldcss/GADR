@@ -1,0 +1,68 @@
+{
+  "repositoryUrl": "https://github.com/russelltsherman/zsh.git",
+  "crawlDateTime": "2022-01-18T20:21:59.080062",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-drop-in-pattern-for-extensibility.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-07T02:21:46Z",
+      "lastCommit": "2020-12-07T02:21:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0ba9a16db2f0366f9fe4ea391fe0775bd86984e2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-05T19:23:09Z",
+      "lastCommit": "2020-12-05T19:23:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c036ab66c9463f473ef16e5e4023f3fee0159c61"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-05T19:23:09Z",
+  "lastAdrCommit": "2020-12-07T02:21:46Z",
+  "firstCommit": "2020-12-05T19:22:58Z",
+  "lastCommit": "2021-10-21T21:10:00Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0ba9a16db2f0366f9fe4ea391fe0775bd86984e2",
+        "c036ab66c9463f473ef16e5e4023f3fee0159c61"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

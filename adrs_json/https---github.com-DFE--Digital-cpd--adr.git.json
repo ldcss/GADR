@@ -1,0 +1,70 @@
+{
+  "repositoryUrl": "https://github.com/DFE-Digital/cpd-adr.git",
+  "crawlDateTime": "2022-01-18T22:58:05.34349",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0002-use-cucumber-for-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-18T15:49:55Z",
+      "lastCommit": "2021-03-18T16:05:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2c59dfe19670ac77df301f9c2c34189cd713a789",
+            "c32f8c24b6d82bfb4602e3fa2116c3a2c11eff23"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-18T15:13:39Z",
+      "lastCommit": "2021-03-18T15:13:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "66d895d907a762a019435615f08c3a9a98a78d60"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-03-18T15:13:39Z",
+  "lastAdrCommit": "2021-03-18T16:05:57Z",
+  "firstCommit": "2021-03-18T15:04:27Z",
+  "lastCommit": "2021-03-31T14:19:38Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2c59dfe19670ac77df301f9c2c34189cd713a789",
+        "c32f8c24b6d82bfb4602e3fa2116c3a2c11eff23",
+        "66d895d907a762a019435615f08c3a9a98a78d60"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "repositoryUrl": "https://github.com/mrwilson/adr-viewer.git",
+  "crawlDateTime": "2022-01-18T21:18:55.68214",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-expose-command-line-interface.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-02T15:17:02Z",
+      "lastCommit": "2018-09-02T15:17:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "35b59ace3ef20052c21f388dce61eec8025f4a84"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-distinguish-amendments-to-records-with-colour.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [4. Distinguish superseded records with colour](0004-distinguish-superseded-records-with-colour.md)",
+      "firstCommit": "2018-09-09T21:49:06Z",
+      "lastCommit": "2021-09-12T16:01:19Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cad6fac8965a39f97167e68a3c2f083460b1f80a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7cd814a102f21549f782d7547de4f65257807034"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-same-colour-for-all-headers.md",
+      "template": "Nygard",
+      "status": "Superseded by [4. Distinguish superseded records with colour](0004-distinguish-superseded-records-with-colour.md)",
+      "firstCommit": "2018-09-09T19:55:07Z",
+      "lastCommit": "2021-09-12T16:01:19Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ac73e6ce3aa719be68cfa4110f68af185a1ecbf6"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7cd814a102f21549f782d7547de4f65257807034"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-distinguish-superseded-records-with-colour.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [3. Use same colour for all headers](0003-use-same-colour-for-all-headers.md) Amended by [5. Distinguish amendments to records with colour](0005-distinguish-amendments-to-records-with-colour.md)",
+      "firstCommit": "2018-09-09T19:55:07Z",
+      "lastCommit": "2021-09-12T16:01:19Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cad6fac8965a39f97167e68a3c2f083460b1f80a",
+            "ac73e6ce3aa719be68cfa4110f68af185a1ecbf6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7cd814a102f21549f782d7547de4f65257807034"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-accessibility-as-a-first-class-concern.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-10T20:20:23Z",
+      "lastCommit": "2018-09-10T20:20:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2488748e0a245dfcbb4d755c34246dfabd6a155c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-02T14:13:28Z",
+      "lastCommit": "2018-09-02T14:13:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "328f75aab87a476e1c8535ff932e4977ba4a2157"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-02T14:13:28Z",
+  "lastAdrCommit": "2021-09-12T16:01:19Z",
+  "firstCommit": "2018-09-02T14:11:07Z",
+  "lastCommit": "2022-01-10T22:26:45Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "328f75aab87a476e1c8535ff932e4977ba4a2157",
+        "35b59ace3ef20052c21f388dce61eec8025f4a84",
+        "cad6fac8965a39f97167e68a3c2f083460b1f80a",
+        "2488748e0a245dfcbb4d755c34246dfabd6a155c",
+        "ac73e6ce3aa719be68cfa4110f68af185a1ecbf6"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7cd814a102f21549f782d7547de4f65257807034"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

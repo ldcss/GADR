@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/DocNow/docnow-infra.git",
+  "crawlDateTime": "2022-01-18T21:00:03.330856",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-terraform-enterprise-for-backend.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-12T21:42:08Z",
+      "lastCommit": "2019-11-12T21:42:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb02a76a94c9b9bb0f8a73fe32a7178fac9dc185"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-terraform-workspaces-for-environments.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-12T21:18:54Z",
+      "lastCommit": "2019-11-12T21:18:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d10a686bfd076e762b8853d3662e7c79792d3306"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-12T21:12:34Z",
+      "lastCommit": "2019-11-12T21:12:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e450e14e9a825ddaccc893ad190707b2172cc55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-12T21:12:34Z",
+  "lastAdrCommit": "2019-11-12T21:42:08Z",
+  "firstCommit": "2019-11-12T21:05:58Z",
+  "lastCommit": "2019-11-24T01:14:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bb02a76a94c9b9bb0f8a73fe32a7178fac9dc185",
+        "1e450e14e9a825ddaccc893ad190707b2172cc55",
+        "d10a686bfd076e762b8853d3662e7c79792d3306"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

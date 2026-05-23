@@ -1,0 +1,485 @@
+{
+  "repositoryUrl": "https://github.com/cljdoc/cljdoc.git",
+  "crawlDateTime": "2022-01-18T21:17:24.889336",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 20,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-utilize-grimoire-for-storage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-12T11:42:39Z",
+      "lastCommit": "2018-01-12T11:42:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ac880aad4b8a6b6e8a9a361a26fd9b9fea9dfcf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-implement-minimal-api-abstracting-grimoire.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-14T16:22:20Z",
+      "lastCommit": "2018-01-14T18:19:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "beba2738a67d85b142cabd23f9e6e6826be3d749",
+            "fc3c6b225bfbac3ff36565c66aec2427344e70cd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-introduce-server-component.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-30T11:04:50Z",
+      "lastCommit": "2018-01-30T11:06:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c987d105ec34fb904a4fb131a9ec635f2c6ae35a",
+            "c3d872646faabb4ea185852409234ca37a39e13a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-don-t-build-on-top-of-codox.md",
+      "template": "Nygard",
+      "status": "Superceded by [4. Utilize codox to read Clojure/Script sources](0004-utilize-codox-to-read-clojure-script-sources.md)",
+      "firstCommit": "2018-01-11T18:45:21Z",
+      "lastCommit": "2018-01-14T11:41:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "47e836a6acc6bb0cd22c4ba796bde16fce4bedec",
+            "1749c226ec002e563b8c1c7d4522af4efb47c62f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0018-caching-layer.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-01-13T19:53:11Z",
+      "lastCommit": "2019-01-13T19:53:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0b6a23ee8b1701151e773cc226a10b4d895635d0",
+            "47f0e854a2ec6606c3c3a7b2d1d48c255b72e363"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-use-terraform-to-create-document-infrastructure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-31T15:52:27Z",
+      "lastCommit": "2018-01-31T15:52:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ac0e8f6dabd40bd6663f20cef1727d771a796247"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-utilize-codox-to-read-clojure-script-sources.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [2. Don't build on top of Codox](0002-don-t-build-on-top-of-codox.md)",
+      "firstCommit": "2018-01-14T11:41:14Z",
+      "lastCommit": "2018-01-14T16:25:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4908c8d0a44159782e54a925b2d041224f79bf6c",
+            "1749c226ec002e563b8c1c7d4522af4efb47c62f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0016-prefer-polling-over-webhooks.md",
+      "template": "Nygard",
+      "status": "Accepted (related to [ADR #0008](0008-use-circleci-as-analysis-sandbox.md))",
+      "firstCommit": "2018-11-22T15:11:35Z",
+      "lastCommit": "2018-11-22T15:11:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b16a4aa2350e946a0fddf67256f70735cd695ac"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-use-tachyons-as-css-foundation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-03T19:26:30Z",
+      "lastCommit": "2018-12-07T21:32:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a8c7148e15592d2051bea2b99178a8218b6cc0b9",
+            "26079409a092b638926a6ee965c45f9949fb62d7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0013-move-to-sqlite-for-storage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-18T11:31:44Z",
+      "lastCommit": "2018-08-18T11:31:46Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d29b7510fb946dc38fb46ffc35f28e1ae3ce7120",
+            "f3e64a21b63b6d0da6725dd5ff62e26706551395",
+            "caad7f3862ed04e244a1912e83a62883bfdaab5b"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0019-use-custom-search.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-06-05T07:46:06Z",
+      "lastCommit": "2019-06-05T07:46:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c41346550af32f2d3823f4bbe493b1bc7bb3f3c1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0017-use-nomad-for-deployment.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-10T12:08:28Z",
+      "lastCommit": "2018-12-10T12:08:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbae0a585e3eeeff2be73633771ba4d76f8e5478"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0014-add-support-for-examples.md",
+      "template": "Nygard",
+      "status": "Superseded by [ADR #0015](0015-cancel-work-on-examples.md)",
+      "firstCommit": "2018-11-03T13:16:35Z",
+      "lastCommit": "2018-11-03T13:37:56Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "27e7ad3d2261348cb7acc4a41c1ce66866700af7",
+            "70f33ce2dd41a21ea2f83a87cf4c773b139fa002"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0012-move-away-from-static-site-approach.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-01T08:39:27Z",
+      "lastCommit": "2018-06-01T10:21:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de1bbb6b4af61c6c8aeb2f9225928268f7f3ee5d",
+            "688e33525b3d32308eb38673a2c343a15bae9c76"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0020-support-links-from-docs-to-SCM-when-testing-locally.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-30T21:04:07Z",
+      "lastCommit": "2020-09-30T21:08:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e15ab04cc5b6524e8001b1e51520542898e540e1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "155f3b6dc97c28bef835fd5e6bc8ed0c16d20eca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-use-circleci-as-analysis-sandbox.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-29T19:03:28Z",
+      "lastCommit": "2018-01-29T19:03:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f683f66b99b1196f9a391b57dfe0908ed4416fb1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-introduce-doctrees-to-describe-non-api-docs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-24T14:28:36Z",
+      "lastCommit": "2018-01-24T14:31:01Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b3c437fbd41152ac6e54778f97ee5dabadc6349",
+            "3d8f44974e285a04f59aba6ff7486571a0d4d35a",
+            "0ab2f8bd0ad641052b5af3b54a98048cd165d79a",
+            "eb1b70e3d91a0e1b9f5a97daa1abcd435d614110"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0015-cancel-work-on-examples.md",
+      "template": "Nygard",
+      "status": "Accepted (supersedes [ADR #0014](0014-add-support-for-examples.md))",
+      "firstCommit": "2018-11-03T13:37:56Z",
+      "lastCommit": "2018-11-03T13:37:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "27e7ad3d2261348cb7acc4a41c1ce66866700af7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-don-t-implement-caches-for-indexes-artifacts-versions-etc.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-16T08:58:28Z",
+      "lastCommit": "2018-01-16T08:58:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e47a74239ae821ea1cfeb3a6c0aa1fa1539e93bf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-11T18:45:21Z",
+      "lastCommit": "2018-01-11T18:45:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "47e836a6acc6bb0cd22c4ba796bde16fce4bedec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-01-11T18:45:21Z",
+  "lastAdrCommit": "2020-09-30T21:08:25Z",
+  "firstCommit": "2018-01-01T13:51:20Z",
+  "lastCommit": "2021-12-17T08:17:17Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "27e7ad3d2261348cb7acc4a41c1ce66866700af7",
+        "beba2738a67d85b142cabd23f9e6e6826be3d749",
+        "f683f66b99b1196f9a391b57dfe0908ed4416fb1",
+        "ac0e8f6dabd40bd6663f20cef1727d771a796247",
+        "4908c8d0a44159782e54a925b2d041224f79bf6c",
+        "6ac880aad4b8a6b6e8a9a361a26fd9b9fea9dfcf",
+        "c3d872646faabb4ea185852409234ca37a39e13a",
+        "4b3c437fbd41152ac6e54778f97ee5dabadc6349",
+        "f3e64a21b63b6d0da6725dd5ff62e26706551395",
+        "3d8f44974e285a04f59aba6ff7486571a0d4d35a",
+        "70f33ce2dd41a21ea2f83a87cf4c773b139fa002",
+        "c987d105ec34fb904a4fb131a9ec635f2c6ae35a",
+        "fbae0a585e3eeeff2be73633771ba4d76f8e5478",
+        "de1bbb6b4af61c6c8aeb2f9225928268f7f3ee5d",
+        "fc3c6b225bfbac3ff36565c66aec2427344e70cd",
+        "0ab2f8bd0ad641052b5af3b54a98048cd165d79a",
+        "eb1b70e3d91a0e1b9f5a97daa1abcd435d614110",
+        "d29b7510fb946dc38fb46ffc35f28e1ae3ce7120",
+        "a8c7148e15592d2051bea2b99178a8218b6cc0b9",
+        "688e33525b3d32308eb38673a2c343a15bae9c76",
+        "47e836a6acc6bb0cd22c4ba796bde16fce4bedec",
+        "26079409a092b638926a6ee965c45f9949fb62d7",
+        "e47a74239ae821ea1cfeb3a6c0aa1fa1539e93bf",
+        "1749c226ec002e563b8c1c7d4522af4efb47c62f",
+        "5b16a4aa2350e946a0fddf67256f70735cd695ac",
+        "caad7f3862ed04e244a1912e83a62883bfdaab5b"
+      ],
+      "numberOfCommits": 26
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e15ab04cc5b6524e8001b1e51520542898e540e1"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0b6a23ee8b1701151e773cc226a10b4d895635d0",
+        "47f0e854a2ec6606c3c3a7b2d1d48c255b72e363"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c41346550af32f2d3823f4bbe493b1bc7bb3f3c1"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "155f3b6dc97c28bef835fd5e6bc8ed0c16d20eca"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/frontend-library.git",
+  "crawlDateTime": "2022-01-18T20:00:38.980858",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-yarn-rather-than-npm.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-19T14:26:53Z",
+      "lastCommit": "2017-06-19T14:26:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "830ea97ee459d560d1251ae8aa16e44d817e5283"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-brunch.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-30T13:46:07Z",
+      "lastCommit": "2017-06-30T13:46:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8b6c821b9d90394d87ca4869fa118b5f2d305b66"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-19T09:59:32Z",
+      "lastCommit": "2017-06-19T09:59:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "19dd70e35ffac122ec30cbd56cbde90ff8599f78"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-06-19T09:59:32Z",
+  "lastAdrCommit": "2017-06-30T13:46:07Z",
+  "firstCommit": "2017-06-06T09:12:38Z",
+  "lastCommit": "2019-06-14T13:29:57Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8b6c821b9d90394d87ca4869fa118b5f2d305b66",
+        "19dd70e35ffac122ec30cbd56cbde90ff8599f78",
+        "830ea97ee459d560d1251ae8aa16e44d817e5283"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

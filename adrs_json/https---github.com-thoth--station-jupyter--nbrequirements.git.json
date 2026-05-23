@@ -1,0 +1,47 @@
+{
+  "repositoryUrl": "https://github.com/thoth-station/jupyter-nbrequirements.git",
+  "crawlDateTime": "2022-01-18T17:58:47.293755",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs",
+      "path": "0000-dependencies-management-jupyter-notebooks.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-11-12T14:12:48Z",
+      "lastCommit": "2021-03-02T08:18:22Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d61e2a04d3d2bcb978ec8ff55453eb4c8171f005",
+            "a588482438262617e7686b2308cb7ef654ebdf29"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-12T14:12:48Z",
+  "lastAdrCommit": "2021-03-02T08:18:22Z",
+  "firstCommit": "2019-06-25T06:48:07Z",
+  "lastCommit": "2021-12-13T20:43:18Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d61e2a04d3d2bcb978ec8ff55453eb4c8171f005",
+        "a588482438262617e7686b2308cb7ef654ebdf29"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

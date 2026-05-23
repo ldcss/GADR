@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/wikimedia/mediawiki-extensions-WikibaseLexeme.git",
+  "crawlDateTime": "2022-01-18T20:59:53.990839",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-adr-with-all-team-members.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2018-07-09T13:58:17Z",
+      "lastCommit": "2018-07-09T13:58:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb1546cafa2b42c22082c5794508a42914fd4fa4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-vuex-store-instead-of-model.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2018-07-03T12:26:00Z",
+      "lastCommit": "2018-07-03T12:26:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d7150b52cb25cdea3e311cb5369830d9416b656"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2018-06-29T11:22:23Z",
+      "lastCommit": "2018-06-29T11:22:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a63a6d09047e7c3e7b644d2874ae0b4c05d86c6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-29T11:22:23Z",
+  "lastAdrCommit": "2018-07-09T13:58:17Z",
+  "firstCommit": "2016-10-19T09:41:08Z",
+  "lastCommit": "2022-01-18T18:32:22Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3d7150b52cb25cdea3e311cb5369830d9416b656",
+        "bb1546cafa2b42c22082c5794508a42914fd4fa4",
+        "5a63a6d09047e7c3e7b644d2874ae0b4c05d86c6"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "repositoryUrl": "https://github.com/bcgov/PIMS.git",
+  "crawlDateTime": "2022-01-18T23:05:03.535724",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "geocoder.md",
+      "template": "Nygard",
+      "status": "> Accepted > June 18, 2020",
+      "firstCommit": "2020-06-22T17:01:35Z",
+      "lastCommit": "2020-07-23T22:24:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d779ed3e4f948819023031bd2fb0fa36d5daf17"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e5b6114e0ea2a24b157ca530a5f82001fecb82cb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "map-source-boundaries.md",
+      "template": "Nygard",
+      "status": "> Accepted > May 1, 2020",
+      "firstCommit": "2020-06-18T17:12:05Z",
+      "lastCommit": "2020-06-18T17:12:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0687cbf676440e9d28813eda96c44bd47aa2f0fc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "ches.md",
+      "template": "Nygard",
+      "status": "> Accepted > June 16, 2020",
+      "firstCommit": "2020-06-10T22:25:25Z",
+      "lastCommit": "2020-07-23T22:24:30Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0687cbf676440e9d28813eda96c44bd47aa2f0fc",
+            "77a4693f78e87b6cce335ca0528eb0abe788c5b2"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e5b6114e0ea2a24b157ca530a5f82001fecb82cb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "database.md",
+      "template": "Nygard",
+      "status": "> Accepted > January 1, 2020",
+      "firstCommit": "2020-04-20T12:29:45Z",
+      "lastCommit": "2020-07-23T22:24:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a66ebd896c95668af91865ae78d53c991ed18489"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e5b6114e0ea2a24b157ca530a5f82001fecb82cb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "programming-languages.md",
+      "template": "Nygard",
+      "status": "> Accepted > January 1, 2020",
+      "firstCommit": "2020-04-20T12:29:45Z",
+      "lastCommit": "2020-04-20T12:29:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a66ebd896c95668af91865ae78d53c991ed18489"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "monorepo.md",
+      "template": "Nygard",
+      "status": "> Accepted > January 1, 2020",
+      "firstCommit": "2020-04-20T12:29:45Z",
+      "lastCommit": "2020-07-23T22:24:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a66ebd896c95668af91865ae78d53c991ed18489"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e5b6114e0ea2a24b157ca530a5f82001fecb82cb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "leaflet.md",
+      "template": "Nygard",
+      "status": "> Accepted > January 1, 2020",
+      "firstCommit": "2020-04-20T12:29:45Z",
+      "lastCommit": "2020-04-20T12:29:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a66ebd896c95668af91865ae78d53c991ed18489"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "model-mapping.md",
+      "template": "Nygard",
+      "status": "> Accepted > April 15, 2020",
+      "firstCommit": "2020-04-20T12:29:45Z",
+      "lastCommit": "2020-04-20T12:29:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a66ebd896c95668af91865ae78d53c991ed18489"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-20T12:29:45Z",
+  "lastAdrCommit": "2020-07-23T22:24:30Z",
+  "firstCommit": "2019-11-15T21:59:36Z",
+  "lastCommit": "2022-01-17T17:04:15Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a66ebd896c95668af91865ae78d53c991ed18489",
+        "0687cbf676440e9d28813eda96c44bd47aa2f0fc",
+        "3d779ed3e4f948819023031bd2fb0fa36d5daf17",
+        "77a4693f78e87b6cce335ca0528eb0abe788c5b2"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e5b6114e0ea2a24b157ca530a5f82001fecb82cb"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

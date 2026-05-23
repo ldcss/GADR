@@ -1,0 +1,102 @@
+{
+  "repositoryUrl": "https://github.com/MITLibraries/hoard.git",
+  "crawlDateTime": "2022-01-18T21:04:46.00355",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-type-hinting.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-08T15:28:41Z",
+      "lastCommit": "2020-06-08T15:28:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "364e364b07033a5aa722d529e9a587155a4a7f6e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-airflow-and-fargate.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-08T15:28:41Z",
+      "lastCommit": "2020-06-08T15:28:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "364e364b07033a5aa722d529e9a587155a4a7f6e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-python.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-08T15:28:41Z",
+      "lastCommit": "2020-06-08T15:28:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "364e364b07033a5aa722d529e9a587155a4a7f6e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-08T15:28:41Z",
+      "lastCommit": "2020-06-08T15:28:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "364e364b07033a5aa722d529e9a587155a4a7f6e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-08T15:28:41Z",
+  "lastAdrCommit": "2020-06-08T15:28:41Z",
+  "firstCommit": "2020-05-29T17:01:02Z",
+  "lastCommit": "2021-12-13T20:52:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "364e364b07033a5aa722d529e9a587155a4a7f6e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

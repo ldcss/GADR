@@ -1,0 +1,127 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/publisher.git",
+  "crawlDateTime": "2022-01-18T23:15:21.995374",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-001-service-sign-in-pages-not-linked-to-with-content-id.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-29T08:53:58Z",
+      "lastCommit": "2021-03-29T12:21:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d950ddfbd22c87f2954dc46eadec3feab0d63967",
+            "b0090a57cb93a0c42868a7e91421cdc84f9cd399"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-005-forking-frontend-components-from-govuk-frontend.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-29T08:53:58Z",
+      "lastCommit": "2021-03-29T12:21:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d950ddfbd22c87f2954dc46eadec3feab0d63967",
+            "b0090a57cb93a0c42868a7e91421cdc84f9cd399"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-003-using-rake-to-create-service-sign-in-pages.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-29T08:53:58Z",
+      "lastCommit": "2021-03-29T12:21:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d950ddfbd22c87f2954dc46eadec3feab0d63967",
+            "b0090a57cb93a0c42868a7e91421cdc84f9cd399"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-002-service-sign-in-new-format.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-29T08:53:58Z",
+      "lastCommit": "2021-03-29T12:21:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d950ddfbd22c87f2954dc46eadec3feab0d63967",
+            "b0090a57cb93a0c42868a7e91421cdc84f9cd399"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-004-rendering-service-sign-in-from-government-frontend.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-29T08:53:58Z",
+      "lastCommit": "2021-03-29T12:21:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d950ddfbd22c87f2954dc46eadec3feab0d63967",
+            "b0090a57cb93a0c42868a7e91421cdc84f9cd399"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-03-29T08:53:58Z",
+  "lastAdrCommit": "2021-03-29T12:21:45Z",
+  "firstCommit": "2011-07-04T15:39:03Z",
+  "lastCommit": "2022-01-17T13:11:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d950ddfbd22c87f2954dc46eadec3feab0d63967",
+        "b0090a57cb93a0c42868a7e91421cdc84f9cd399"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

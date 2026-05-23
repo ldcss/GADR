@@ -1,0 +1,178 @@
+{
+  "repositoryUrl": "https://github.com/geeksforsocialchange/PlaceCal.git",
+  "crawlDateTime": "2022-01-18T18:33:36.137737",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-create-secretary-permissions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-09T12:45:49Z",
+      "lastCommit": "2019-12-10T11:31:37Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "634e5488e8f5726b8cb42d3f416e2a0048c6fc6b",
+            "de7986852c09d458b24b33b703766ae8a1dcabb4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-combine-places-and-partners.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-08-16T14:56:31Z",
+      "lastCommit": "2018-08-22T12:02:22Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "542860ab83690d9240f41f3e0e0c7ec9c8de9eaa"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3b27772448aeda514d60e0194a4cc66ff4feaba7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-page-title-rules.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-03T16:03:45Z",
+      "lastCommit": "2019-12-09T12:45:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "634e5488e8f5726b8cb42d3f416e2a0048c6fc6b",
+            "4e1d7744ce5b6bb3c49e9c0629ffbd3f5782cebe"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-adding-extra-neighbourhood-info.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-03T16:30:44Z",
+      "lastCommit": "2020-01-03T16:30:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1164ea009c6c074216bfdff75887648479fe7087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-restructuring-application.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-08-16T14:56:31Z",
+      "lastCommit": "2018-08-22T12:02:22Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "542860ab83690d9240f41f3e0e0c7ec9c8de9eaa"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3b27772448aeda514d60e0194a4cc66ff4feaba7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-reanalysis-in-terms-of-ux-issues.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-08-16T14:56:31Z",
+      "lastCommit": "2018-08-22T12:02:22Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "542860ab83690d9240f41f3e0e0c7ec9c8de9eaa"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3b27772448aeda514d60e0194a4cc66ff4feaba7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-16T14:56:31Z",
+  "lastAdrCommit": "2020-01-03T16:30:44Z",
+  "firstCommit": "2017-07-24T17:07:54Z",
+  "lastCommit": "2022-01-18T12:04:37Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "542860ab83690d9240f41f3e0e0c7ec9c8de9eaa"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "634e5488e8f5726b8cb42d3f416e2a0048c6fc6b",
+        "4e1d7744ce5b6bb3c49e9c0629ffbd3f5782cebe",
+        "3b27772448aeda514d60e0194a4cc66ff4feaba7",
+        "1164ea009c6c074216bfdff75887648479fe7087",
+        "de7986852c09d458b24b33b703766ae8a1dcabb4"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

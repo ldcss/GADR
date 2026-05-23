@@ -1,0 +1,117 @@
+{
+  "repositoryUrl": "https://github.com/celestiaorg/celestia-node.git",
+  "crawlDateTime": "2022-01-18T21:03:39.204446",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-002-predevnet-core-to-full-communication.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-09-10T10:56:29Z",
+      "lastCommit": "2021-09-28T10:11:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dc5a293af7d3e350386bfc73d7febf7fbf2a17a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d95d2719fe3175441726e850f91b36f9f4f7a790"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-003-march2022-testnet.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-12-07T16:32:23Z",
+      "lastCommit": "2021-12-07T16:32:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8e42e6a41e237d4f109680afb4545cff47a55013"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-001-predevnet-celestia-node.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-08-27T09:35:56Z",
+      "lastCommit": "2021-09-28T10:11:32Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dc5a293af7d3e350386bfc73d7febf7fbf2a17a",
+            "15e9c9e6933aedfe39f89d65c498ff385c17af70"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d48ed4a78cddfe9e3ebaf7b02713c15e67c5c85e",
+            "616420b9f50a4aca8fec1d558b952dd741470523",
+            "d07cfaef7b610ff9ec506c93ef23e499d1b045f3",
+            "9ba37414b71a3f0fd417e961a393d6bf5aff83ca"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-08-27T09:35:56Z",
+  "lastAdrCommit": "2021-12-07T16:32:23Z",
+  "firstCommit": "2021-08-16T12:15:32Z",
+  "lastCommit": "2022-01-18T15:49:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0dc5a293af7d3e350386bfc73d7febf7fbf2a17a",
+        "15e9c9e6933aedfe39f89d65c498ff385c17af70"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d95d2719fe3175441726e850f91b36f9f4f7a790",
+        "d48ed4a78cddfe9e3ebaf7b02713c15e67c5c85e",
+        "616420b9f50a4aca8fec1d558b952dd741470523",
+        "d07cfaef7b610ff9ec506c93ef23e499d1b045f3",
+        "9ba37414b71a3f0fd417e961a393d6bf5aff83ca",
+        "8e42e6a41e237d4f109680afb4545cff47a55013"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

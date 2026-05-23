@@ -1,0 +1,232 @@
+{
+  "repositoryUrl": "https://github.com/chef/automate.git",
+  "crawlDateTime": "2022-01-18T22:15:16.952597",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "dev-docs/adr"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "dev-docs/adr",
+      "path": "adr-2018-10-08.md",
+      "template": "Nygard",
+      "status": "* Accepted (2018-10-09)",
+      "firstCommit": "2019-04-10T11:56:29Z",
+      "lastCommit": "2019-04-10T11:56:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ca3deb611fa1ab5bbf28cfb55179011e16d4a3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dev-docs/adr",
+      "path": "adr-2018-09-19.md",
+      "template": "Nygard",
+      "status": "* Accepted (2018-09-19)",
+      "firstCommit": "2019-04-10T11:56:29Z",
+      "lastCommit": "2021-05-25T20:53:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb24af54d273b254edb70a504f1657348d13db96"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ca3deb611fa1ab5bbf28cfb55179011e16d4a3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dev-docs/adr",
+      "path": "adr-2018-10-05.md",
+      "template": "Nygard",
+      "status": "* APPROVED (2018-10-24) * PROPOSED (2018-10-05)",
+      "firstCommit": "2019-04-10T11:56:29Z",
+      "lastCommit": "2019-04-10T11:56:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ca3deb611fa1ab5bbf28cfb55179011e16d4a3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dev-docs/adr",
+      "path": "adr-2018-08-15.md",
+      "template": "Nygard",
+      "status": "* ACCEPTED (2018-10-04)",
+      "firstCommit": "2019-04-10T11:56:29Z",
+      "lastCommit": "2019-04-10T11:56:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ca3deb611fa1ab5bbf28cfb55179011e16d4a3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dev-docs/adr",
+      "path": "adr-2018-11-28.md",
+      "template": "Nygard",
+      "status": "* Proposed and Accepted (2018-11-28)",
+      "firstCommit": "2019-04-10T11:56:29Z",
+      "lastCommit": "2019-04-10T11:56:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ca3deb611fa1ab5bbf28cfb55179011e16d4a3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dev-docs/adr",
+      "path": "adr-2019-01-15.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-10T11:56:29Z",
+      "lastCommit": "2019-04-10T11:56:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ca3deb611fa1ab5bbf28cfb55179011e16d4a3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dev-docs/adr",
+      "path": "adr-2019-01-23.md",
+      "template": "Nygard",
+      "status": "* PENDING (2019-01-23)",
+      "firstCommit": "2019-04-10T11:56:29Z",
+      "lastCommit": "2019-04-10T11:56:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ca3deb611fa1ab5bbf28cfb55179011e16d4a3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dev-docs/adr",
+      "path": "adr-2019-01-14.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-10T11:56:29Z",
+      "lastCommit": "2019-04-10T11:56:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ca3deb611fa1ab5bbf28cfb55179011e16d4a3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dev-docs/adr",
+      "path": "adr-2018-10-04.md",
+      "template": "Nygard",
+      "status": "* ACCEPTED (2018-10-24) * PROPOSED (2018-10-04)",
+      "firstCommit": "2019-04-10T11:56:29Z",
+      "lastCommit": "2019-04-10T11:56:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ca3deb611fa1ab5bbf28cfb55179011e16d4a3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dev-docs/adr",
+      "path": "adr-2018-11-07.md",
+      "template": "Nygard",
+      "status": "* PROPOSED (2018-11-07)",
+      "firstCommit": "2019-04-10T11:56:29Z",
+      "lastCommit": "2019-04-10T11:56:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ca3deb611fa1ab5bbf28cfb55179011e16d4a3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-04-10T11:56:29Z",
+  "lastAdrCommit": "2021-05-25T20:53:11Z",
+  "firstCommit": "2019-04-10T11:56:29Z",
+  "lastCommit": "2022-01-18T20:29:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "eb24af54d273b254edb70a504f1657348d13db96"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1ca3deb611fa1ab5bbf28cfb55179011e16d4a3e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

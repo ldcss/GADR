@@ -1,0 +1,128 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/elasticsearch-updater.git",
+  "crawlDateTime": "2022-01-18T18:33:53.827798",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-remove-snyk.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-26T13:12:57Z",
+      "lastCommit": "2018-03-26T13:12:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3d67bdb0ac416937d8a1c9a4290a2c87a42686d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-remove-unwanted-indexes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-19T15:37:49Z",
+      "lastCommit": "2018-01-19T15:37:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89da1268b7e8ec87e819f7c5def692a220fd38da"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-store-configurations-in-repository.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-03T15:29:34Z",
+      "lastCommit": "2017-07-12T09:05:48Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4551300716f259c0179c5ce207f5413a1b266d09"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "95b907a64fa26efe6f7b46698636788a317b1df5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-03T15:29:34Z",
+      "lastCommit": "2017-07-12T09:05:48Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4551300716f259c0179c5ce207f5413a1b266d09"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "95b907a64fa26efe6f7b46698636788a317b1df5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-03T15:29:34Z",
+  "lastAdrCommit": "2018-03-26T13:12:57Z",
+  "firstCommit": "2017-06-26T09:30:04Z",
+  "lastCommit": "2020-01-15T11:50:07Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c3d67bdb0ac416937d8a1c9a4290a2c87a42686d",
+        "89da1268b7e8ec87e819f7c5def692a220fd38da",
+        "4551300716f259c0179c5ce207f5413a1b266d09"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "95b907a64fa26efe6f7b46698636788a317b1df5"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

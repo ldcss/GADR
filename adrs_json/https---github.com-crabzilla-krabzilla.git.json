@@ -1,0 +1,161 @@
+{
+  "repositoryUrl": "https://github.com/crabzilla/krabzilla.git",
+  "crawlDateTime": "2022-01-18T17:28:57.666812",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-replace-jooq-with-jdbi3-for-decoupled-read-model.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-08-08T00:18:11Z",
+      "lastCommit": "2017-08-14T07:59:50Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "94df646591417a0fcc331795a1093dbb26c3c7a8",
+            "668f83c071bb561c00f2cdf94450285f5c2d5630",
+            "424a2a22754841d05b78ba6226aa833334064bd7",
+            "c1b6c593d775057f0c07a42ddd597cf27a737049",
+            "d6448dfd939dd69301b07d7ce1ac9eb17da2fe78"
+          ],
+          "numberOfCommits": 5
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a958e0838b9b48030b633deefacecd2cbdd41ad"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-replace-caffeine-cache-lib-with-expiringmap.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-08-05T21:42:06Z",
+      "lastCommit": "2017-08-08T00:18:11Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a2d6f2b3d866eca4f0065664ebac294dcb2ecf3",
+            "d6448dfd939dd69301b07d7ce1ac9eb17da2fe78",
+            "bf31d3c3c8fa8033687fc7854daabb3e1dbd5fb8",
+            "6951e9eaba7ad97422bda550bba1f9e2709c1c46",
+            "72dc569c8266eea022462bb6a6e2ae189ea7f467"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-move-dependencies-bom-pom-xml-into-main-project.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-08-06T01:37:23Z",
+      "lastCommit": "2017-08-06T23:33:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab474c5c3339eaaf6d3a14764fc828bab85ef6bc",
+            "0ae45927efc6da0fc4a683794665d32d1edbb4d8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-move-crabzilla-vertx-example1-to-crabzilla-example1-as-a-sub-project.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-08-06T01:59:33Z",
+      "lastCommit": "2017-08-06T01:59:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2223ac5f601cf5e55c0d4b31ac9cfc9c839bbc53"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-23T19:34:51Z",
+      "lastCommit": "2017-07-23T19:34:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1db0526d58bcc2cd5fc78e97ef1bacfbc4a5f17f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-23T19:34:51Z",
+  "lastAdrCommit": "2017-08-14T07:59:50Z",
+  "firstCommit": "2017-05-19T05:31:45Z",
+  "lastCommit": "2017-08-26T00:06:00Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1db0526d58bcc2cd5fc78e97ef1bacfbc4a5f17f",
+        "424a2a22754841d05b78ba6226aa833334064bd7",
+        "bf31d3c3c8fa8033687fc7854daabb3e1dbd5fb8",
+        "6951e9eaba7ad97422bda550bba1f9e2709c1c46",
+        "72dc569c8266eea022462bb6a6e2ae189ea7f467",
+        "2223ac5f601cf5e55c0d4b31ac9cfc9c839bbc53",
+        "94df646591417a0fcc331795a1093dbb26c3c7a8",
+        "8a2d6f2b3d866eca4f0065664ebac294dcb2ecf3",
+        "668f83c071bb561c00f2cdf94450285f5c2d5630",
+        "ab474c5c3339eaaf6d3a14764fc828bab85ef6bc",
+        "c1b6c593d775057f0c07a42ddd597cf27a737049",
+        "d6448dfd939dd69301b07d7ce1ac9eb17da2fe78",
+        "0ae45927efc6da0fc4a683794665d32d1edbb4d8"
+      ],
+      "numberOfCommits": 13
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5a958e0838b9b48030b633deefacecd2cbdd41ad"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

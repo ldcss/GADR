@@ -1,0 +1,69 @@
+{
+  "repositoryUrl": "https://github.com/bbc/digital-paper-edit-electron.git",
+  "crawlDateTime": "2022-01-18T18:21:39.28179",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/ADR"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "13-12-2019-deepspeech-stt-electron-integration-adr.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-13T23:55:53Z",
+      "lastCommit": "2020-01-27T18:50:37Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e50fe3152c4b5307ea3a017e5825936417f9a8fd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8ab10e733e3f5ca56d6a25f1a01d488b5add907",
+            "284651930aaaac77e4c4b680ce5ac37e6ac69e42",
+            "cb2e4c3d8c4d221726527580374b66f21718bd68",
+            "ae50b9ae88ae781c6a18e083fee5d4d004889dea",
+            "0d61597fd7d80da4994cec50a653629923f3ec47"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-12-13T23:55:53Z",
+  "lastAdrCommit": "2020-01-27T18:50:37Z",
+  "firstCommit": "2019-05-20T10:53:15Z",
+  "lastCommit": "2022-01-14T00:48:04Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e50fe3152c4b5307ea3a017e5825936417f9a8fd"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f8ab10e733e3f5ca56d6a25f1a01d488b5add907",
+        "284651930aaaac77e4c4b680ce5ac37e6ac69e42",
+        "cb2e4c3d8c4d221726527580374b66f21718bd68",
+        "ae50b9ae88ae781c6a18e083fee5d4d004889dea",
+        "0d61597fd7d80da4994cec50a653629923f3ec47"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

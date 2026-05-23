@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/GeotrekCE/Geotrek-rando-v3.git",
+  "crawlDateTime": "2022-01-18T20:40:21.815959",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "deployment_solution.md",
+      "template": "Madr",
+      "status": "\ud83d\udfe2accepted",
+      "firstCommit": "2020-12-18T18:04:35Z",
+      "lastCommit": "2020-12-18T18:04:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e00e56822a745e44f6bd104ba6c4ac4e3fdd69d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "main_framework.md",
+      "template": "Madr",
+      "status": "\ud83d\udfe2accepted",
+      "firstCommit": "2020-12-18T18:04:07Z",
+      "lastCommit": "2020-12-18T18:04:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2c02dcd420e30e0b2ba99bc2bef2eb00f508419d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-18T18:04:07Z",
+  "lastAdrCommit": "2020-12-18T18:04:35Z",
+  "firstCommit": "2020-12-18T18:04:07Z",
+  "lastCommit": "2021-12-21T11:58:15Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2c02dcd420e30e0b2ba99bc2bef2eb00f508419d",
+        "e00e56822a745e44f6bd104ba6c4ac4e3fdd69d6"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

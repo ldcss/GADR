@@ -1,0 +1,88 @@
+{
+  "repositoryUrl": "https://github.com/adamAllaround/CardsApp.git",
+  "crawlDateTime": "2022-01-18T18:33:57.441518",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "src/main/java/com/allaroundjava/architecture/decisionrecord"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "src/main/java/com/allaroundjava/architecture/decisionrecord",
+      "path": "testing-framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-07T10:03:45Z",
+      "lastCommit": "2020-06-07T10:03:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4dc08b997bf23521e4e4bcb676fb54777ab522cc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/main/java/com/allaroundjava/architecture/decisionrecord",
+      "path": "cardops-module-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-08T15:07:14Z",
+      "lastCommit": "2020-07-11T06:45:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b18ac72b1f20b50e6b0d987e722ef72b2ac2b6c3",
+            "191034eb00b56ce5cbc36a942b47c7256ed84590"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/main/java/com/allaroundjava/architecture/decisionrecord",
+      "path": "card-operations-database-choice.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-07T08:25:09Z",
+      "lastCommit": "2020-06-07T10:03:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4dc08b997bf23521e4e4bcb676fb54777ab522cc",
+            "78dcbbe973dc257cfb717ce1f83758099cd4f6e8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-07T08:25:09Z",
+  "lastAdrCommit": "2020-07-11T06:45:45Z",
+  "firstCommit": "2020-06-07T08:25:09Z",
+  "lastCommit": "2020-10-18T09:55:39Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4dc08b997bf23521e4e4bcb676fb54777ab522cc",
+        "b18ac72b1f20b50e6b0d987e722ef72b2ac2b6c3",
+        "78dcbbe973dc257cfb717ce1f83758099cd4f6e8",
+        "191034eb00b56ce5cbc36a942b47c7256ed84590"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

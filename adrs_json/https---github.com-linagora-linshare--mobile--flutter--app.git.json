@@ -1,0 +1,332 @@
+{
+  "repositoryUrl": "https://github.com/linagora/linshare-mobile-flutter-app.git",
+  "crawlDateTime": "2022-01-18T17:36:45.04598",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-enhancement-retry-authen-interceptor.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-15T10:14:13Z",
+      "lastCommit": "2021-09-15T10:14:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26a6c6fd5c4735bc04ae511811ddbae8ef22f4e7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0013-enhancement-biometric-authentication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-28T07:46:27Z",
+      "lastCommit": "2021-09-28T07:46:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8cb67e5caf537852c61fd51f84fafee5ec857d5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-upgrade-android-target-sdk-29.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-17T11:19:32Z",
+      "lastCommit": "2021-03-17T11:19:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38c47e53c1f8899094435bfdaf6624ca647b85b5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-upgrade-file-picker-library-version.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-03T05:02:47Z",
+      "lastCommit": "2020-11-03T05:02:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "160b7aec1849964ff07f2432c8fa3b1bde7b9dfa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-i18n-with-dynamic-string.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-12T04:03:27Z",
+      "lastCommit": "2020-11-12T04:03:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc7da66426e7263827d21515f72d1a1c0cf297b7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-download-file-manager.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-25T04:06:06Z",
+      "lastCommit": "2020-11-25T04:06:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5388bfe1f32de9bcd6efa459d5f49fd0b2e3b9b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-make-offline-mode-file.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-15T10:14:13Z",
+      "lastCommit": "2021-09-15T10:14:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0440f2641b2fec90c3c65095c647e2c03e49b465",
+            "88ff86eab57f99e99edd0373c8ea38362d6da073"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-upload-file-manager.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-03T05:02:47Z",
+      "lastCommit": "2020-11-03T05:02:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "160b7aec1849964ff07f2432c8fa3b1bde7b9dfa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0012-upgrade-android-target-sdk-30.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-15T10:14:13Z",
+      "lastCommit": "2021-09-15T10:14:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1867058e16229403ce9e19777571b11dbf567251"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-receive-shared-file-from-other-app.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-27T07:44:34Z",
+      "lastCommit": "2021-09-21T08:43:38Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "390f3ee41041291169bf3e722a3895bfcedfb2c0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "160b7aec1849964ff07f2432c8fa3b1bde7b9dfa",
+            "3a3688c71db3f2694c282b4d2eccda18159da61b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-migrate-to-null-safety-support.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-15T10:14:13Z",
+      "lastCommit": "2021-09-21T08:43:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "390f3ee41041291169bf3e722a3895bfcedfb2c0",
+            "26a6c6fd5c4735bc04ae511811ddbae8ef22f4e7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-path-provider-library.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-11-25T04:06:06Z",
+      "lastCommit": "2020-11-25T04:06:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5388bfe1f32de9bcd6efa459d5f49fd0b2e3b9b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-27T07:44:34Z",
+      "lastCommit": "2020-10-27T07:44:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a3688c71db3f2694c282b4d2eccda18159da61b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-27T07:44:34Z",
+  "lastAdrCommit": "2021-09-28T07:46:27Z",
+  "firstCommit": "2020-09-24T11:39:03Z",
+  "lastCommit": "2022-01-17T03:55:02Z",
+  "adrDirFile": {
+    "fileContent": "doc/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bc7da66426e7263827d21515f72d1a1c0cf297b7"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1867058e16229403ce9e19777571b11dbf567251",
+        "390f3ee41041291169bf3e722a3895bfcedfb2c0",
+        "26a6c6fd5c4735bc04ae511811ddbae8ef22f4e7",
+        "b8cb67e5caf537852c61fd51f84fafee5ec857d5"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0440f2641b2fec90c3c65095c647e2c03e49b465",
+        "88ff86eab57f99e99edd0373c8ea38362d6da073"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "160b7aec1849964ff07f2432c8fa3b1bde7b9dfa",
+        "3a3688c71db3f2694c282b4d2eccda18159da61b"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "38c47e53c1f8899094435bfdaf6624ca647b85b5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c5388bfe1f32de9bcd6efa459d5f49fd0b2e3b9b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

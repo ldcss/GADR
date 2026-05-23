@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/OpenTOSCA/container.git",
+  "crawlDateTime": "2022-01-18T22:20:26.332107",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-spring-dependency-incjection.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-06-18T14:49:08Z",
+      "lastCommit": "2020-06-18T14:49:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b29cb6c46855e967cbdc3b958ede03290db2f722"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-06-18T14:49:08Z",
+      "lastCommit": "2020-06-18T14:49:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b29cb6c46855e967cbdc3b958ede03290db2f722"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-maven.md",
+      "template": "Madr",
+      "status": "implemented",
+      "firstCommit": "2020-06-18T14:49:08Z",
+      "lastCommit": "2020-06-18T14:49:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b29cb6c46855e967cbdc3b958ede03290db2f722"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-18T14:49:08Z",
+  "lastAdrCommit": "2020-06-18T14:49:08Z",
+  "firstCommit": "2014-09-02T12:36:02Z",
+  "lastCommit": "2022-01-15T10:49:33Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b29cb6c46855e967cbdc3b958ede03290db2f722"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

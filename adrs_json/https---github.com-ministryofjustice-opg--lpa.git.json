@@ -1,0 +1,192 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/opg-lpa.git",
+  "crawlDateTime": "2022-01-18T20:46:12.895837",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0005-database-access-layer-refactoring.md",
+      "template": "Nygard",
+      "status": "* Accepted (2021-09-06)",
+      "firstCommit": "2021-09-10T07:18:47Z",
+      "lastCommit": "2021-09-10T07:18:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7af31016249e5f432529dfaca65d19ee44721d4c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0004-implement-load-testing.md",
+      "template": "Nygard",
+      "status": "* Accepted (2021-09-01)",
+      "firstCommit": "2021-09-10T07:18:47Z",
+      "lastCommit": "2021-09-10T07:18:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7af31016249e5f432529dfaca65d19ee44721d4c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0002-custom-save-handler-in-service-front.md",
+      "template": "Nygard",
+      "status": "* Proposed (2021-09-02)",
+      "firstCommit": "2021-09-10T07:18:47Z",
+      "lastCommit": "2021-09-10T07:18:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7af31016249e5f432529dfaca65d19ee44721d4c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0006-modernise-the-code-base.md",
+      "template": "Nygard",
+      "status": "* Accepted (2021-09-06)",
+      "firstCommit": "2021-09-10T07:18:47Z",
+      "lastCommit": "2021-09-10T07:18:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7af31016249e5f432529dfaca65d19ee44721d4c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0008-flask-site-security.md",
+      "template": "Nygard",
+      "status": "* Proposed (2021-10-11)",
+      "firstCommit": "2021-10-20T13:48:10Z",
+      "lastCommit": "2021-11-01T16:30:45Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "08f83ff936d7981c23e14ce443817cc97b707a71",
+            "ce7a03e0c0e5a4f410d151ad7064accd5658be67",
+            "b3246975076631db83184442abd4ce8c5e6fd172",
+            "327ca12909d5ffc38b33e74299a217cef091c6d8"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0003-linting-and-scanning.md",
+      "template": "Nygard",
+      "status": "* Proposed (2021-09-03)",
+      "firstCommit": "2021-09-10T07:18:47Z",
+      "lastCommit": "2021-09-10T07:18:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7af31016249e5f432529dfaca65d19ee44721d4c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0007-performance-data-platform.md",
+      "template": "Nygard",
+      "status": "* Proposed (2021-06-16) Note: this decision was recorded retrospectively after we added ADRs. The original process was recorded in a private wiki, but the gist of those discussions is collected here for reference.",
+      "firstCommit": "2021-09-10T07:18:47Z",
+      "lastCommit": "2021-09-10T07:18:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7af31016249e5f432529dfaca65d19ee44721d4c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "* Proposed (2021-09-02)",
+      "firstCommit": "2021-09-10T07:18:47Z",
+      "lastCommit": "2021-09-10T07:18:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7af31016249e5f432529dfaca65d19ee44721d4c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-09-10T07:18:47Z",
+  "lastAdrCommit": "2021-11-01T16:30:45Z",
+  "firstCommit": "2014-10-31T09:51:38Z",
+  "lastCommit": "2022-01-18T16:33:52Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7af31016249e5f432529dfaca65d19ee44721d4c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "08f83ff936d7981c23e14ce443817cc97b707a71",
+        "ce7a03e0c0e5a4f410d151ad7064accd5658be67",
+        "b3246975076631db83184442abd4ce8c5e6fd172",
+        "327ca12909d5ffc38b33e74299a217cef091c6d8"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "repositoryUrl": "https://github.com/open-education-polito/fare-platform.git",
+  "crawlDateTime": "2022-01-18T21:08:52.70471",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-delete-of-a-record-database-tables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-30T14:40:33Z",
+      "lastCommit": "2020-03-30T14:40:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "924d8367f9fe9e1645ea0a64675f769b11306d9a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-log-messages.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-09T16:46:42Z",
+      "lastCommit": "2020-03-09T16:46:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3928caaf2072e6160b06f3aa0642ab1b31d00fcd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-permission-crud-operations-on-records-config.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-07T17:08:30Z",
+      "lastCommit": "2020-03-07T17:08:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72d8807a4e0d4d355b5403e5c81bab8edb22e571"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-deploy-strategy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-13T19:21:42Z",
+      "lastCommit": "2020-10-13T19:21:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f95b3fec6cc2003eee8c52ba6e94f6b79321d806"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-21T19:54:41Z",
+      "lastCommit": "2019-11-21T19:54:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c9f11801cbc1249ecf5f602de6b532cc5e1a20a9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-21T19:54:41Z",
+  "lastAdrCommit": "2020-10-13T19:21:42Z",
+  "firstCommit": "2019-08-15T19:49:54Z",
+  "lastCommit": "2022-01-16T17:14:59Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3928caaf2072e6160b06f3aa0642ab1b31d00fcd",
+        "72d8807a4e0d4d355b5403e5c81bab8edb22e571",
+        "924d8367f9fe9e1645ea0a64675f769b11306d9a"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f95b3fec6cc2003eee8c52ba6e94f6b79321d806",
+        "c9f11801cbc1249ecf5f602de6b532cc5e1a20a9"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

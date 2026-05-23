@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/stemlaur/anki.git",
+  "crawlDateTime": "2022-01-18T19:06:06.062961",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "adr-001-use-adrs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-28T13:26:55Z",
+      "lastCommit": "2021-01-28T13:26:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8cbb191fa76cc5548a4e65c21339c8754fde182a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "adr-002-domain-layer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-28T13:26:55Z",
+      "lastCommit": "2021-01-28T13:26:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8cbb191fa76cc5548a4e65c21339c8754fde182a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-28T13:26:55Z",
+  "lastAdrCommit": "2021-01-28T13:26:55Z",
+  "firstCommit": "2019-11-09T16:49:00Z",
+  "lastCommit": "2022-01-18T16:33:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8cbb191fa76cc5548a4e65c21339c8754fde182a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

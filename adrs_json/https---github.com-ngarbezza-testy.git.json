@@ -1,0 +1,207 @@
+{
+  "repositoryUrl": "https://github.com/ngarbezza/testy.git",
+  "crawlDateTime": "2022-01-18T20:26:26.71156",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/decisions"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0007-support-node-versions-with-at-least-security-updates.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-10-09T01:55:01Z",
+      "lastCommit": "2021-10-09T01:55:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cb21d3e5a077884f148fb3bac995a9dd819c2418"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0004-console-ui-and-formatter.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-29T11:10:05Z",
+      "lastCommit": "2020-10-29T11:10:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ab5c55fd4738054effef1e1aab15824a62c6750"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0003-zero-dependencies.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-13T11:09:02Z",
+      "lastCommit": "2020-10-13T11:09:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "518f304c2edfd011bb504bd8bd44fae2a8c90e41"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0009-asynchronous-code-support.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-12-22T06:13:35Z",
+      "lastCommit": "2021-12-22T06:13:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1b6683e72c9d83e98c3522f5aaa1b9fdf386b36"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0008-code-style-guide-definition.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-11-21T17:47:12Z",
+      "lastCommit": "2021-11-21T17:47:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1599525b0d05c2beedc1c1cc3bbf5bd020f61931"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0002-place-utilities-in-utils-module.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-13T11:09:02Z",
+      "lastCommit": "2020-10-13T11:09:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "518f304c2edfd011bb504bd8bd44fae2a8c90e41"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0005-avoiding-test-doubles.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-16T01:31:00Z",
+      "lastCommit": "2020-12-16T01:31:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a65fbc6e6e58b1f03f996c381240d4a1b8c3875"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-13T11:08:34Z",
+      "lastCommit": "2020-10-13T11:08:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a36c82f54d1e2e9f10fa8cdf4e42fe6748f26920"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0006-avoid-offensive-vocabulary.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-14T23:38:40Z",
+      "lastCommit": "2021-01-14T23:38:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f25ee7ced11993a733f33d74d7f8633c3e22620"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-13T11:08:34Z",
+  "lastAdrCommit": "2021-12-22T06:13:35Z",
+  "firstCommit": "2018-10-15T05:22:12Z",
+  "lastCommit": "2021-12-22T06:17:12Z",
+  "adrDirFile": {
+    "fileContent": "doc/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9ab5c55fd4738054effef1e1aab15824a62c6750",
+        "1599525b0d05c2beedc1c1cc3bbf5bd020f61931",
+        "a36c82f54d1e2e9f10fa8cdf4e42fe6748f26920",
+        "518f304c2edfd011bb504bd8bd44fae2a8c90e41",
+        "cb21d3e5a077884f148fb3bac995a9dd819c2418",
+        "5a65fbc6e6e58b1f03f996c381240d4a1b8c3875",
+        "9f25ee7ced11993a733f33d74d7f8633c3e22620",
+        "a1b6683e72c9d83e98c3522f5aaa1b9fdf386b36"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

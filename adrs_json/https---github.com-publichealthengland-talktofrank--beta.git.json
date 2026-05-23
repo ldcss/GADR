@@ -1,0 +1,94 @@
+{
+  "repositoryUrl": "https://github.com/publichealthengland/talktofrank-beta.git",
+  "crawlDateTime": "2022-01-18T17:36:51.409006",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-site-wide-cms-configuration.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-03-08T15:42:59Z",
+      "lastCommit": "2019-03-11T12:19:23Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ade7778d80445578df9fd542b3c288c895dbfecd",
+            "3e8e389940f4bfd8966869e7ee946e822c549011",
+            "1784e6639da64f18920ba1958076b897a9d1d3ef",
+            "6446e7bb9bcc44166167da59c736388eae689076"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-content-syndication.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-03-08T11:50:14Z",
+      "lastCommit": "2019-03-08T11:53:46Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "22bf696598339fe4d8b02627d509d3874f17140d",
+            "1f84f0ae3edc1d9855273c85eccfdb049185f99c",
+            "d5896485033ae8348411986e8c83384a26eeef3e"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-08T11:50:14Z",
+      "lastCommit": "2019-03-08T11:50:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d5896485033ae8348411986e8c83384a26eeef3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-08T11:50:14Z",
+  "lastAdrCommit": "2019-03-11T12:19:23Z",
+  "firstCommit": "2018-08-01T12:40:09Z",
+  "lastCommit": "2022-01-15T03:29:15Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ade7778d80445578df9fd542b3c288c895dbfecd",
+        "22bf696598339fe4d8b02627d509d3874f17140d",
+        "3e8e389940f4bfd8966869e7ee946e822c549011",
+        "1784e6639da64f18920ba1958076b897a9d1d3ef",
+        "6446e7bb9bcc44166167da59c736388eae689076",
+        "1f84f0ae3edc1d9855273c85eccfdb049185f99c",
+        "d5896485033ae8348411986e8c83384a26eeef3e"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

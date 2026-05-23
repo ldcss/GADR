@@ -1,0 +1,68 @@
+{
+  "repositoryUrl": "https://github.com/astarte-platform/astarte.git",
+  "crawlDateTime": "2022-01-18T20:30:22.723806",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-astarte-channels-are-not-meant-to-be-reliable.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-03T14:40:52Z",
+      "lastCommit": "2018-04-03T14:40:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52a9648169d4641af9daea7b7a011a944b3a32e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-03T13:52:07Z",
+      "lastCommit": "2018-04-03T13:52:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "250124dafc49ea16150b5423cc39422bb375f9ef"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-04-03T13:52:07Z",
+  "lastAdrCommit": "2018-04-03T14:40:52Z",
+  "firstCommit": "2017-06-09T13:15:10Z",
+  "lastCommit": "2022-01-18T09:09:01Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "250124dafc49ea16150b5423cc39422bb375f9ef",
+        "52a9648169d4641af9daea7b7a011a944b3a32e5"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

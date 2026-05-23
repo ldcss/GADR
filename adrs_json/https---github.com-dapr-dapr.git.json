@@ -1,0 +1,762 @@
+{
+  "repositoryUrl": "https://github.com/dapr/dapr.git",
+  "crawlDateTime": "2022-01-18T20:06:43.092823",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decision_records"
+  ],
+  "numAdrFiles": 24,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "architecture/ARC-002-multitenancy.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-07-22T18:35:34Z",
+      "lastCommit": "2019-10-02T23:36:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f18ccd21c9d29c0dd91295ded12908e8d4378022"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1f80005d777dee82689e73286c6a6ab5eff003e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "architecture/ARC-003-grpc-protobuf-coding-convention.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-13T01:29:50Z",
+      "lastCommit": "2020-05-13T01:29:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d3250878c67fac7fa876b41a6f09a3dd6e00a85f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "architecture/ARC-001-refactor-for-modularity-and-testability.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-07-22T18:35:34Z",
+      "lastCommit": "2021-05-20T06:25:43Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f4cc6b8766299f46cf0a8f2cb2d7190a9d06daca"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f18ccd21c9d29c0dd91295ded12908e8d4378022"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1f80005d777dee82689e73286c6a6ab5eff003e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f6a8936f2d06173ebcaf1096bff6241bccf97ff2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "architecture/ARC-004-http-server.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-16T20:44:54Z",
+      "lastCommit": "2020-06-16T20:44:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f6e42898c70f308f495eb5bc3f72c2073ba6bea"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "cli/CLI-001-cli-and-runtime-versioning.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-07-31T22:11:47Z",
+      "lastCommit": "2019-10-02T23:36:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "166e86bacaef0f951dcd79acc97aa5e596e5c31d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1f80005d777dee82689e73286c6a6ab5eff003e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "cli/CLI-002-self-hosted-init-and-uninstall-behaviors.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-14T21:17:18Z",
+      "lastCommit": "2020-07-22T18:53:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f4356ce75e565ceec9693670d950bf6e5d4bae5",
+            "71086c47888ce860a6c53f49cbc793063051a437"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "api/API-005-state-store-behavior.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-08-27T21:05:02Z",
+      "lastCommit": "2019-10-20T12:33:28Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38a90053a43012a52cc9dd0a1bdb9e0c3dd3c831",
+            "85e67e2f8cafebcfbb82392bf5257a3ca66683a8"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1f80005d777dee82689e73286c6a6ab5eff003e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f6a8936f2d06173ebcaf1096bff6241bccf97ff2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "api/API-001-state-store-api-design.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-07-22T18:35:34Z",
+      "lastCommit": "2019-07-22T18:35:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f18ccd21c9d29c0dd91295ded12908e8d4378022"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "api/API-012-content-type.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-18T19:17:19Z",
+      "lastCommit": "2021-06-02T02:43:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "856d8cd2b2c75a8e765daa32b90842b5585fff76"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6299e15a294f8162ebf005dd9e2bcf24248c260f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "api/API-002-actor-api-design.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-07-22T18:35:34Z",
+      "lastCommit": "2019-10-02T23:36:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f18ccd21c9d29c0dd91295ded12908e8d4378022"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1f80005d777dee82689e73286c6a6ab5eff003e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "api/API-011-state-store-api-parity.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-03T22:55:56Z",
+      "lastCommit": "2020-09-03T22:55:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f34ff07c48dcd7cca2b4c1decfe677e27bf2b19"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "api/API-006-universal-namespace.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-08-30T17:19:58Z",
+      "lastCommit": "2019-12-21T03:39:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a0dc5f38c679f528354d4ca060f56267aacfa2a",
+            "85e67e2f8cafebcfbb82392bf5257a3ca66683a8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "api/API-004-binding-manifests.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-07-22T18:35:34Z",
+      "lastCommit": "2019-10-02T23:36:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f18ccd21c9d29c0dd91295ded12908e8d4378022"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1f80005d777dee82689e73286c6a6ab5eff003e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "api/API-010-appcallback-versioning.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-30T22:26:43Z",
+      "lastCommit": "2020-06-30T22:26:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "39335d81c416fb415b99fb78e313a1ede7220a27"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "api/API-008-multi-state-store-api-design.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-09T01:26:28Z",
+      "lastCommit": "2021-08-24T04:46:54Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3ab259101046559fe3e54c1479681c8a8a00d351"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "47b8651cf6b14a0d5a466c457f6dfb57932a6316"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6299e15a294f8162ebf005dd9e2bcf24248c260f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "243dad4f7b949967732cd39dc53bbebd73b129f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "api/API-009-bidirectional-bindings.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-24T15:40:20Z",
+      "lastCommit": "2020-04-28T15:32:37Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5295e0af3ae3fc0d642fa8f2c5e27f3fc56f2551",
+            "50988acb44154d2ea0ffe38f8acbfdf5a0e7438b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "api/API-003-messaging-api-names.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-07-22T18:35:34Z",
+      "lastCommit": "2019-10-02T23:36:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f18ccd21c9d29c0dd91295ded12908e8d4378022"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1f80005d777dee82689e73286c6a6ab5eff003e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "api/API-007-tracing-endpoint.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-08-30T17:19:58Z",
+      "lastCommit": "2019-10-02T23:36:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "85e67e2f8cafebcfbb82392bf5257a3ca66683a8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1f80005d777dee82689e73286c6a6ab5eff003e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "sdk/SDK-002-java-jdk-versions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-24T16:25:20Z",
+      "lastCommit": "2021-08-24T18:24:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "855f09c45b480bdb293c36f1eb548d43cd7defa9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c5299ce745f7fb23d274a304743507871ecf8cf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "sdk/SDK-001-releases.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-24T16:25:20Z",
+      "lastCommit": "2021-08-24T18:24:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "855f09c45b480bdb293c36f1eb548d43cd7defa9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c5299ce745f7fb23d274a304743507871ecf8cf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "engineering/ENG-001-tagging.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-24T16:25:20Z",
+      "lastCommit": "2021-08-24T18:24:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "855f09c45b480bdb293c36f1eb548d43cd7defa9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c5299ce745f7fb23d274a304743507871ecf8cf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "engineering/ENG-002-Dapr-Release.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-24T16:25:20Z",
+      "lastCommit": "2021-08-24T18:24:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "855f09c45b480bdb293c36f1eb548d43cd7defa9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c5299ce745f7fb23d274a304743507871ecf8cf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "engineering/ENG-004-signing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-24T16:25:20Z",
+      "lastCommit": "2021-08-24T18:24:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "855f09c45b480bdb293c36f1eb548d43cd7defa9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c5299ce745f7fb23d274a304743507871ecf8cf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision_records",
+      "path": "engineering/ENG-003-test-infrastructure.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-13T03:26:31Z",
+      "lastCommit": "2019-10-20T12:33:28Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1f80005d777dee82689e73286c6a6ab5eff003e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "47e57ee9afa422a40b69b5ee9e6674f0dd6db400"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f6a8936f2d06173ebcaf1096bff6241bccf97ff2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-07-22T18:35:34Z",
+  "lastAdrCommit": "2021-08-24T18:24:04Z",
+  "firstCommit": "2019-06-20T22:18:26Z",
+  "lastCommit": "2022-01-18T19:33:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3ab259101046559fe3e54c1479681c8a8a00d351"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "39335d81c416fb415b99fb78e313a1ede7220a27"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "856d8cd2b2c75a8e765daa32b90842b5585fff76"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "855f09c45b480bdb293c36f1eb548d43cd7defa9"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "47b8651cf6b14a0d5a466c457f6dfb57932a6316"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f4cc6b8766299f46cf0a8f2cb2d7190a9d06daca",
+        "6299e15a294f8162ebf005dd9e2bcf24248c260f"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9f4356ce75e565ceec9693670d950bf6e5d4bae5",
+        "71086c47888ce860a6c53f49cbc793063051a437"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5c5299ce745f7fb23d274a304743507871ecf8cf",
+        "5295e0af3ae3fc0d642fa8f2c5e27f3fc56f2551",
+        "50988acb44154d2ea0ffe38f8acbfdf5a0e7438b",
+        "e1f80005d777dee82689e73286c6a6ab5eff003e"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1a0dc5f38c679f528354d4ca060f56267aacfa2a",
+        "166e86bacaef0f951dcd79acc97aa5e596e5c31d",
+        "38a90053a43012a52cc9dd0a1bdb9e0c3dd3c831",
+        "f18ccd21c9d29c0dd91295ded12908e8d4378022",
+        "85e67e2f8cafebcfbb82392bf5257a3ca66683a8"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "243dad4f7b949967732cd39dc53bbebd73b129f6",
+        "8f34ff07c48dcd7cca2b4c1decfe677e27bf2b19"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f6a8936f2d06173ebcaf1096bff6241bccf97ff2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "47e57ee9afa422a40b69b5ee9e6674f0dd6db400",
+        "5f6e42898c70f308f495eb5bc3f72c2073ba6bea",
+        "d3250878c67fac7fa876b41a6f09a3dd6e00a85f"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

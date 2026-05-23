@@ -1,0 +1,90 @@
+{
+  "repositoryUrl": "https://github.com/phpactor/amp-fswatch.git",
+  "crawlDateTime": "2022-01-18T18:17:56.255195",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0002-do-not-use-callback.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-27T20:18:53Z",
+      "lastCommit": "2020-03-29T08:31:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2294b196c7fb5e1fa70127ba5172e47ceb6b0fd9",
+            "f53ad975fdb02162b2699b34ac6b43f00240d9a2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-do-not-use-amp-file.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-13T12:40:21Z",
+      "lastCommit": "2020-04-13T12:42:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7c607c7b2f224d5c3dfbc69b643bcaa076203bb6",
+            "8d7dbc5229110db60e740176de93ac7a0f483e65"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-use-callback.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-22T17:15:01Z",
+      "lastCommit": "2020-03-29T08:31:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f53ad975fdb02162b2699b34ac6b43f00240d9a2",
+            "c8397ac24f48859075d9b4f18102dcbfa1db9ecb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-22T17:15:01Z",
+  "lastAdrCommit": "2020-04-13T12:42:57Z",
+  "firstCommit": "2020-03-19T21:16:54Z",
+  "lastCommit": "2021-02-06T15:02:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7c607c7b2f224d5c3dfbc69b643bcaa076203bb6",
+        "2294b196c7fb5e1fa70127ba5172e47ceb6b0fd9",
+        "f53ad975fdb02162b2699b34ac6b43f00240d9a2",
+        "8d7dbc5229110db60e740176de93ac7a0f483e65",
+        "c8397ac24f48859075d9b4f18102dcbfa1db9ecb"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/bbc/digital-paper-edit-api.git",
+  "crawlDateTime": "2022-01-18T18:33:24.158817",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/ADR"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "2019-07-16-database-stack.md",
+      "template": "Madr",
+      "status": "In progress <!-- optional -->",
+      "firstCommit": "2019-07-16T12:39:44Z",
+      "lastCommit": "2019-07-16T12:39:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "07060a73d005ce7f30488ecaa3c8b2012320aac6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-07-16T12:39:44Z",
+  "lastAdrCommit": "2019-07-16T12:39:44Z",
+  "firstCommit": "2019-05-20T10:55:42Z",
+  "lastCommit": "2021-11-16T21:53:55Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "07060a73d005ce7f30488ecaa3c8b2012320aac6"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

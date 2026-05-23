@@ -1,0 +1,63 @@
+{
+  "repositoryUrl": "https://github.com/uvic-auvic/polaris.git",
+  "crawlDateTime": "2022-01-18T18:46:07.893412",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "ADR"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "ADR",
+      "path": "vision_node_python_refactor.md",
+      "template": "Nygard",
+      "status": "Undecided",
+      "firstCommit": "2019-12-05T18:44:14Z",
+      "lastCommit": "2020-01-24T05:28:08Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1c2901b8caa01a28265bdbc5c2ffc5e934903d0e",
+            "514a0300166f7ae03c8a6ef81261ebb6eb2964e8"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e502764750ea1ec4365bc4cca11d2ebaba33ed0c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-12-05T18:44:14Z",
+  "lastAdrCommit": "2020-01-24T05:28:08Z",
+  "firstCommit": "2017-10-13T20:45:50Z",
+  "lastCommit": "2020-03-15T10:31:47Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1c2901b8caa01a28265bdbc5c2ffc5e934903d0e",
+        "514a0300166f7ae03c8a6ef81261ebb6eb2964e8"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e502764750ea1ec4365bc4cca11d2ebaba33ed0c"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

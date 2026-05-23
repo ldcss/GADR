@@ -1,0 +1,89 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/opg-refunds.git",
+  "crawlDateTime": "2022-01-18T23:00:50.278465",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-default-service-key-for-dynamo-db-sessions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-28T16:44:48Z",
+      "lastCommit": "2019-03-01T09:51:36Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5afb9f7974b63c2b3e3b886be67701630972e299",
+            "4aff9b601b1c298b93d44681e43099df22e3a681",
+            "efef0bd9df6394eac01fb0ded533c3fffa58d46f",
+            "09edd857e30f3130d27aae50d23413fe9774d679"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a78591af7050bbeede3d03ff0a9a56d952f616d0",
+            "528274ba8b007530cf1ac5580a405db8e341316d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-28T16:44:48Z",
+      "lastCommit": "2019-02-28T17:05:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a78591af7050bbeede3d03ff0a9a56d952f616d0",
+            "528274ba8b007530cf1ac5580a405db8e341316d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-28T16:44:48Z",
+  "lastAdrCommit": "2019-03-01T09:51:36Z",
+  "firstCommit": "2017-05-10T13:44:15Z",
+  "lastCommit": "2021-06-23T14:50:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5afb9f7974b63c2b3e3b886be67701630972e299",
+        "4aff9b601b1c298b93d44681e43099df22e3a681",
+        "efef0bd9df6394eac01fb0ded533c3fffa58d46f",
+        "09edd857e30f3130d27aae50d23413fe9774d679"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a78591af7050bbeede3d03ff0a9a56d952f616d0",
+        "528274ba8b007530cf1ac5580a405db8e341316d"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

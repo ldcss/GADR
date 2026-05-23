@@ -1,0 +1,203 @@
+{
+  "repositoryUrl": "https://github.com/virtualidentityag/spring-boot-boilerplate.git",
+  "crawlDateTime": "2022-01-18T19:16:08.504041",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-openapi-for-contract-first-rest-api-definition.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-12-03T11:43:34Z",
+      "lastCommit": "2021-03-30T05:47:33Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25504ef1aa1ee9df2c9909830b9a9ddfe0cc5188"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "80a5b7230815d028eaf022079cc66a0cb3680be5",
+            "70fd777f3b9ca7aadcb197cf35c2a3cc4d7e3d02",
+            "0a3f0e7a7c373e4ed7ad0473164e059d0f613a95"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-use-gradle-as-build-tool.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-01-21T22:10:56Z",
+      "lastCommit": "2020-02-01T07:03:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "16404c818782bc172d27452b0e56d451bb58aeee",
+            "80a5b7230815d028eaf022079cc66a0cb3680be5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-moduliths-library.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-03-10T07:07:43Z",
+      "lastCommit": "2021-03-10T07:07:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0980e940975630806d84817e2a5f4eef5a49669"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-use-spring-sleuth-for-tracing.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-04-13T08:29:36Z",
+      "lastCommit": "2021-04-13T08:29:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9b18b957177f9a25c68d03f7aafbc02bd1b59c74"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-spring-boot-as-application-framework.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-12-03T11:43:34Z",
+      "lastCommit": "2021-03-30T05:47:33Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25504ef1aa1ee9df2c9909830b9a9ddfe0cc5188"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "80a5b7230815d028eaf022079cc66a0cb3680be5",
+            "70fd777f3b9ca7aadcb197cf35c2a3cc4d7e3d02",
+            "0a3f0e7a7c373e4ed7ad0473164e059d0f613a95"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-hateoas-and-hal-as-rest-api-convention.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-12-03T11:43:34Z",
+      "lastCommit": "2021-03-30T05:47:33Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25504ef1aa1ee9df2c9909830b9a9ddfe0cc5188"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "80a5b7230815d028eaf022079cc66a0cb3680be5",
+            "70fd777f3b9ca7aadcb197cf35c2a3cc4d7e3d02",
+            "0a3f0e7a7c373e4ed7ad0473164e059d0f613a95"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-java-version-15.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-03-30T05:47:33Z",
+      "lastCommit": "2021-03-30T05:47:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25504ef1aa1ee9df2c9909830b9a9ddfe0cc5188"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-12-03T11:43:34Z",
+  "lastAdrCommit": "2021-04-13T08:29:36Z",
+  "firstCommit": "2019-12-03T11:43:34Z",
+  "lastCommit": "2022-01-18T13:04:36Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "25504ef1aa1ee9df2c9909830b9a9ddfe0cc5188"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b0980e940975630806d84817e2a5f4eef5a49669",
+        "16404c818782bc172d27452b0e56d451bb58aeee",
+        "80a5b7230815d028eaf022079cc66a0cb3680be5",
+        "70fd777f3b9ca7aadcb197cf35c2a3cc4d7e3d02",
+        "0a3f0e7a7c373e4ed7ad0473164e059d0f613a95",
+        "9b18b957177f9a25c68d03f7aafbc02bd1b59c74"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

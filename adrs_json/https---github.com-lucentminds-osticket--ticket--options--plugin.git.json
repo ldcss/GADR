@@ -1,0 +1,148 @@
+{
+  "repositoryUrl": "https://github.com/lucentminds/osticket-ticket-options-plugin.git",
+  "crawlDateTime": "2022-01-18T21:28:04.588617",
+  "numAdrDirectories": 6,
+  "adrDirectories": [
+    "widgets/ui-error-banner/docs/adrs",
+    "widgets/ui-show-agent-remove/docs/adrs",
+    "widgets/ui-show-agent-add/docs/adrs",
+    "widgets/ui-agent-search/docs/adrs",
+    "widgets/ui-dialog-confirm/docs/adrs",
+    "widgets/ui-user-list/docs/adrs"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "widgets/ui-error-banner/docs/adrs",
+      "path": "001-required-properties.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-26T00:21:55Z",
+      "lastCommit": "2019-01-26T00:21:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79acd31bbadc1600f4f3f4ab170610e45f080dac"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "widgets/ui-show-agent-remove/docs/adrs",
+      "path": "001-required-properties.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-29T03:29:08Z",
+      "lastCommit": "2019-01-29T03:29:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9698da6f10a470bda40e87d8f2496c35782bac3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "widgets/ui-show-agent-add/docs/adrs",
+      "path": "001-required-properties.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-29T01:22:15Z",
+      "lastCommit": "2019-01-29T01:22:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aa9ee910ebefbc6f785486598b18f2d3b6e440de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "widgets/ui-agent-search/docs/adrs",
+      "path": "001-required-properties.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-26T00:21:55Z",
+      "lastCommit": "2019-01-26T00:21:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79acd31bbadc1600f4f3f4ab170610e45f080dac"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "widgets/ui-dialog-confirm/docs/adrs",
+      "path": "001-required-properties.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-29T03:29:08Z",
+      "lastCommit": "2019-01-29T03:29:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9698da6f10a470bda40e87d8f2496c35782bac3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "widgets/ui-user-list/docs/adrs",
+      "path": "001-required-properties.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-25T02:36:03Z",
+      "lastCommit": "2019-01-25T02:36:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d9b6fa510a77693bee00e8ae9834c27b8d14dea3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-01-25T02:36:03Z",
+  "lastAdrCommit": "2019-01-29T03:29:08Z",
+  "firstCommit": "2019-01-24T03:29:50Z",
+  "lastCommit": "2021-08-10T23:58:42Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9698da6f10a470bda40e87d8f2496c35782bac3e",
+        "d9b6fa510a77693bee00e8ae9834c27b8d14dea3",
+        "aa9ee910ebefbc6f785486598b18f2d3b6e440de",
+        "79acd31bbadc1600f4f3f4ab170610e45f080dac"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

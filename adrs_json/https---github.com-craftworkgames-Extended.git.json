@@ -1,0 +1,51 @@
+{
+  "repositoryUrl": "https://github.com/craftworkgames/Extended.git",
+  "crawlDateTime": "2022-01-18T18:21:37.198862",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/backlog"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/backlog",
+      "path": "adr-0001-geometry-shaders.md",
+      "template": "Madr",
+      "status": "TBD",
+      "firstCommit": "2020-08-04T17:07:30Z",
+      "lastCommit": "2020-08-16T03:33:30Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7c8ad32876fb18c8fec9c6b05b2e0441c653d553",
+            "5913297fa95ab4d9fad38ccd9bd0071ea4ce21c3",
+            "4946dec750ceea63d3a244429cd49b07483aff16",
+            "5c2ca8bb58f70c8aad943e82498fe166f3f8247a"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-04T17:07:30Z",
+  "lastAdrCommit": "2020-08-16T03:33:30Z",
+  "firstCommit": "2020-07-05T22:34:37Z",
+  "lastCommit": "2020-09-11T00:36:00Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7c8ad32876fb18c8fec9c6b05b2e0441c653d553",
+        "5913297fa95ab4d9fad38ccd9bd0071ea4ce21c3",
+        "4946dec750ceea63d3a244429cd49b07483aff16",
+        "5c2ca8bb58f70c8aad943e82498fe166f3f8247a"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

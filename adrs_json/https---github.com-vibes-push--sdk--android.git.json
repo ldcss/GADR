@@ -1,0 +1,105 @@
+{
+  "repositoryUrl": "https://github.com/vibes/push-sdk-android.git",
+  "crawlDateTime": "2022-01-18T21:30:58.33354",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-divorce-the-sdk-from-firebase.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-27T15:29:13Z",
+      "lastCommit": "2021-08-27T15:29:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46eb98c7c49f18f249c2f1e1b491a1604fc1ad6f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-fcm-over-gcm.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-27T15:29:13Z",
+      "lastCommit": "2021-08-27T15:29:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46eb98c7c49f18f249c2f1e1b491a1604fc1ad6f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-avoid-runtime-dependencies.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-27T15:29:13Z",
+      "lastCommit": "2021-08-27T15:29:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46eb98c7c49f18f249c2f1e1b491a1604fc1ad6f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-27T15:29:13Z",
+      "lastCommit": "2021-08-27T15:29:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46eb98c7c49f18f249c2f1e1b491a1604fc1ad6f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-08-27T15:29:13Z",
+  "lastAdrCommit": "2021-08-27T15:29:13Z",
+  "firstCommit": "2021-08-27T15:29:13Z",
+  "lastCommit": "2021-08-27T15:29:13Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "46eb98c7c49f18f249c2f1e1b491a1604fc1ad6f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

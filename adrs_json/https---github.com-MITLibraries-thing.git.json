@@ -1,0 +1,106 @@
+{
+  "repositoryUrl": "https://github.com/MITLibraries/thing.git",
+  "crawlDateTime": "2022-01-18T17:46:02.09409",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture_decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture_decisions",
+      "path": "0003-deploy-via-heroku-pipelines.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-04T17:25:39Z",
+      "lastCommit": "2017-12-04T17:25:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "54ffb3b6efa7447c40d1cc339d6c99362e66c2c7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decisions",
+      "path": "0002-authentication-via-touchstone-saml.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-04T17:25:39Z",
+      "lastCommit": "2017-12-04T17:25:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "54ffb3b6efa7447c40d1cc339d6c99362e66c2c7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decisions",
+      "path": "0004-activestorage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-15T15:30:39Z",
+      "lastCommit": "2018-02-15T15:30:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8187fc0f8af8afb7d538a062b14003689325a0a7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-04T17:25:39Z",
+      "lastCommit": "2017-12-04T17:25:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "54ffb3b6efa7447c40d1cc339d6c99362e66c2c7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-12-04T17:25:39Z",
+  "lastAdrCommit": "2018-02-15T15:30:39Z",
+  "firstCommit": "2017-07-10T14:47:54Z",
+  "lastCommit": "2022-01-18T10:47:25Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture_decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "54ffb3b6efa7447c40d1cc339d6c99362e66c2c7",
+        "8187fc0f8af8afb7d538a062b14003689325a0a7"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

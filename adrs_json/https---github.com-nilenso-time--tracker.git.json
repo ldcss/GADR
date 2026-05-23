@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/nilenso/time-tracker.git",
+  "crawlDateTime": "2022-01-18T23:01:21.767269",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch/decisions"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch/decisions",
+      "path": "002-use-cljs-for-web-ui.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-08-07T13:09:08Z",
+      "lastCommit": "2020-08-07T13:09:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8720247842ba58378e99fcac19b4e9654322911f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-07T13:09:08Z",
+  "lastAdrCommit": "2020-08-07T13:09:08Z",
+  "firstCommit": "2016-09-29T11:26:05Z",
+  "lastCommit": "2021-08-12T20:30:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8720247842ba58378e99fcac19b4e9654322911f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

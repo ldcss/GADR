@@ -1,0 +1,274 @@
+{
+  "repositoryUrl": "https://github.com/eclipse/ditto.git",
+  "crawlDateTime": "2022-01-18T20:25:44.069375",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "documentation/src/main/resources/architecture"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "documentation/src/main/resources/architecture",
+      "path": "DADR-0006-merge-payload.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2021-01-18T15:51:54Z",
+      "lastCommit": "2021-01-18T15:51:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b34bc7eb4de3f2a4c4a4729261cc2028ebd8a7c2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/src/main/resources/architecture",
+      "path": "DADR-0002-replace-akka-pubsub-for-event-publishing.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2019-08-23T13:59:28Z",
+      "lastCommit": "2019-08-26T10:58:17Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f0fdbb9d0963c7dc23a7f4da517b35416c99546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "23eeea560564971ad69f381ca6c31290c3707264"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/src/main/resources/architecture",
+      "path": "DADR-0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2019-08-14T13:20:42Z",
+      "lastCommit": "2019-08-14T13:46:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6aad082b0569f61fd004aa169703739941dc2fac",
+            "3a85e44e10905a2c746aebc90e338dbb65c58c3c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/src/main/resources/architecture",
+      "path": "DADR-0004-signal-enrichment.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-01-20T10:27:16Z",
+      "lastCommit": "2021-10-25T09:51:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b579a137e00a130ed6705af6b2373f2c6fade6d",
+            "87b6a51cf07ee5618e01530c5a285ef9d6e6df0e"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6bbfaa8ef4733d9cab7222db146a8d6fc3f604ff"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81277c1af0d3f3e79057297b2d2e375597e31309"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "daf079f8bf5a18a8c5597ebb66ddf573b56eeed4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/src/main/resources/architecture",
+      "path": "DADR-0005-semantic-versioning.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-01-27T16:16:57Z",
+      "lastCommit": "2021-05-04T08:08:16Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "06d0a61ee06436155a54c7e7f3597bda24c73d11"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f4f2726578adf37f53a5aa7ab5fab8d87fc2951d",
+            "f90b03e27d51b3f298a66c6ffc2abf793df29054"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ff11d4f15445f2b2f8af87ea79e4e09f8295005",
+            "f2576bbef88da4b6c19a2e03dbcab581b88d6b75"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9b2c16b881e91e94af3d5a6a03657fc2926c10fd",
+            "6635daa0b112c9cdcca1f3f7e596b740a49de97c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/src/main/resources/architecture",
+      "path": "DADR-0003-do-not-interrupt-threads.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2019-08-29T14:07:07Z",
+      "lastCommit": "2019-08-29T14:07:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e9dcee827ededbccf01239d4705968b4cead905e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-14T13:20:42Z",
+  "lastAdrCommit": "2021-10-25T09:51:24Z",
+  "firstCommit": "2017-04-10T19:29:57Z",
+  "lastCommit": "2022-01-18T13:42:50Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5b579a137e00a130ed6705af6b2373f2c6fade6d",
+        "87b6a51cf07ee5618e01530c5a285ef9d6e6df0e",
+        "9f0fdbb9d0963c7dc23a7f4da517b35416c99546"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6bbfaa8ef4733d9cab7222db146a8d6fc3f604ff"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "06d0a61ee06436155a54c7e7f3597bda24c73d11",
+        "81277c1af0d3f3e79057297b2d2e375597e31309"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f4f2726578adf37f53a5aa7ab5fab8d87fc2951d",
+        "f90b03e27d51b3f298a66c6ffc2abf793df29054",
+        "daf079f8bf5a18a8c5597ebb66ddf573b56eeed4"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e9dcee827ededbccf01239d4705968b4cead905e",
+        "23eeea560564971ad69f381ca6c31290c3707264"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1ff11d4f15445f2b2f8af87ea79e4e09f8295005",
+        "f2576bbef88da4b6c19a2e03dbcab581b88d6b75"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b34bc7eb4de3f2a4c4a4729261cc2028ebd8a7c2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9b2c16b881e91e94af3d5a6a03657fc2926c10fd",
+        "6635daa0b112c9cdcca1f3f7e596b740a49de97c"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6aad082b0569f61fd004aa169703739941dc2fac",
+        "3a85e44e10905a2c746aebc90e338dbb65c58c3c"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

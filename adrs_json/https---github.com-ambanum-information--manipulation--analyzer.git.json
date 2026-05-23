@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/ambanum/information-manipulation-analyzer.git",
+  "crawlDateTime": "2022-01-18T20:11:33.755691",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decision-records"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "decision-records",
+      "path": "0001-folder-structure.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-08T06:54:27Z",
+      "lastCommit": "2021-03-08T06:54:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "728a0991c3ea2a400aa79c5d13419907b1019706"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-03-08T06:54:27Z",
+  "lastAdrCommit": "2021-03-08T06:54:27Z",
+  "firstCommit": "2021-03-01T13:06:08Z",
+  "lastCommit": "2022-01-18T16:35:33Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "728a0991c3ea2a400aa79c5d13419907b1019706"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

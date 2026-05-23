@@ -1,0 +1,91 @@
+{
+  "repositoryUrl": "https://github.com/lnetrebskii/protraffic.git",
+  "crawlDateTime": "2022-01-18T18:04:45.984391",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture/important-decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture/important-decisions",
+      "path": "itd-002.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-23T17:31:28Z",
+      "lastCommit": "2020-10-23T17:31:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a279c4d531d7b3033b3c231fb2a0dabc2267c39"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/important-decisions",
+      "path": "itd-001-1.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-23T16:41:50Z",
+      "lastCommit": "2020-10-23T16:41:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "db9ceb4ace8239b377450562ef6c42bb281b686b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/important-decisions",
+      "path": "itd-001.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-16T13:19:35Z",
+      "lastCommit": "2020-10-23T17:12:06Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3294ae4bb7d4cdee9f5abd7d495b27faedc5dc2f",
+            "13a39ecd671888b52013f2f8e5b8e84b6f38a0a7",
+            "139800a8a3818e8890f0d90d0682db8a56c74fbd",
+            "506bf6cbdceb7240e286e4fd02d6972b2dad8333"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-16T13:19:35Z",
+  "lastAdrCommit": "2020-10-23T17:31:28Z",
+  "firstCommit": "2020-10-16T10:40:12Z",
+  "lastCommit": "2020-10-23T17:57:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3294ae4bb7d4cdee9f5abd7d495b27faedc5dc2f",
+        "8a279c4d531d7b3033b3c231fb2a0dabc2267c39",
+        "13a39ecd671888b52013f2f8e5b8e84b6f38a0a7",
+        "139800a8a3818e8890f0d90d0682db8a56c74fbd",
+        "db9ceb4ace8239b377450562ef6c42bb281b686b",
+        "506bf6cbdceb7240e286e4fd02d6972b2dad8333"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

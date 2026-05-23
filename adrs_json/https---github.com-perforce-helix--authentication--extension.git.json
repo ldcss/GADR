@@ -1,0 +1,87 @@
+{
+  "repositoryUrl": "https://github.com/perforce/helix-authentication-extension.git",
+  "crawlDateTime": "2022-01-18T21:12:09.866454",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-helix-extensions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-21T21:28:34Z",
+      "lastCommit": "2021-11-10T17:33:29Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dedcd14a59e52686c1c0c6e5840589dd5e6db34a",
+            "44cc573f83979631121453c6a96f02c7a28f1437",
+            "98d0939a0c07aee8787a485ec47e5d69699a91ec"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-use-libcurl-library.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-21T21:28:34Z",
+      "lastCommit": "2020-08-21T21:28:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dedcd14a59e52686c1c0c6e5840589dd5e6db34a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-21T21:28:34Z",
+      "lastCommit": "2020-08-21T21:28:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dedcd14a59e52686c1c0c6e5840589dd5e6db34a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-21T21:28:34Z",
+  "lastAdrCommit": "2021-11-10T17:33:29Z",
+  "firstCommit": "2019-02-07T23:45:03Z",
+  "lastCommit": "2022-01-11T21:15:46Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dedcd14a59e52686c1c0c6e5840589dd5e6db34a",
+        "44cc573f83979631121453c6a96f02c7a28f1437",
+        "98d0939a0c07aee8787a485ec47e5d69699a91ec"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

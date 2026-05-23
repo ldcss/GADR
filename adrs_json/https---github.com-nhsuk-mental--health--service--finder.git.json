@@ -1,0 +1,258 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/mental-health-service-finder.git",
+  "crawlDateTime": "2022-01-18T19:09:41.583844",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decision-records.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-18T15:15:13Z",
+      "lastCommit": "2018-06-18T15:15:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1ca2a5c83179160281708e9bd1de4df119bb682"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-local-data-for-west-hampshire-ccg.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-18T14:07:13Z",
+      "lastCommit": "2019-09-18T14:07:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2540dff1357c672ded4f8d660549c2eab219dd63"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-local-data-for-redbridge-and-north-cumbria-ccgs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-21T14:46:35Z",
+      "lastCommit": "2018-08-21T14:46:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8816c13ed7e9cbf50f139fe1581af0359df0aeae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-use-nhsuk-frontend-library.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-11T15:53:08Z",
+      "lastCommit": "2019-11-11T15:53:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26856fb5c81fb1a7625672211376315e78e31656"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-use-local-data-for-tower-hamlets-ccg.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-02T14:10:40Z",
+      "lastCommit": "2018-10-02T14:10:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a0acc1224e7206c91a26ca35dd51879d038d2b21"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-use-service-specific-contact-details.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-30T11:58:04Z",
+      "lastCommit": "2019-10-30T11:58:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f4583713e504e376e90d43c9aaf6e6f95197bdf2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-use-nhsuk-header-and-footer-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-09T09:49:09Z",
+      "lastCommit": "2020-09-09T09:49:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c4ddfcbee155c05376639f76041d39e4b1b5589"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-express-web-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-18T15:15:13Z",
+      "lastCommit": "2018-06-18T15:15:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1ca2a5c83179160281708e9bd1de4df119bb682"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-do-not-use-azure-search-service-highlighting.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-16T08:23:48Z",
+      "lastCommit": "2018-08-16T08:23:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "879bd9dd3c7dd91aa75e5c6218d2ccde229fdb9a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-do-not-use-local-data-for-ccgs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-30T12:00:00Z",
+      "lastCommit": "2019-10-30T12:00:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c2f6114f806bcd4a9f7f5a89a2c4008c1b233e35"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-add-service-search-to-site-root.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-08T19:58:04Z",
+      "lastCommit": "2019-11-08T19:58:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1617201afb8f2ef368586c717ff566c08ed29d76"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-18T15:15:13Z",
+  "lastAdrCommit": "2020-09-09T09:49:09Z",
+  "firstCommit": "2018-06-18T15:15:13Z",
+  "lastCommit": "2021-10-07T08:59:34Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "26856fb5c81fb1a7625672211376315e78e31656",
+        "9c4ddfcbee155c05376639f76041d39e4b1b5589",
+        "1617201afb8f2ef368586c717ff566c08ed29d76"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2540dff1357c672ded4f8d660549c2eab219dd63",
+        "8816c13ed7e9cbf50f139fe1581af0359df0aeae",
+        "a0acc1224e7206c91a26ca35dd51879d038d2b21",
+        "879bd9dd3c7dd91aa75e5c6218d2ccde229fdb9a",
+        "b1ca2a5c83179160281708e9bd1de4df119bb682"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f4583713e504e376e90d43c9aaf6e6f95197bdf2",
+        "c2f6114f806bcd4a9f7f5a89a2c4008c1b233e35"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

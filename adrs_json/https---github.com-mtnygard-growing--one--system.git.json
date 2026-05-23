@@ -1,0 +1,109 @@
+{
+  "repositoryUrl": "https://github.com/mtnygard/growing-one-system.git",
+  "crawlDateTime": "2022-01-18T18:47:35.87155",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-rich-front-end-with-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-22T15:04:02Z",
+      "lastCommit": "2019-03-22T19:31:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f69e9ccfec7b6195e6703d96ebf4601e66d08c6b",
+            "5ff02dfec1c9c1947e189a74cbfedf1ebff5a96e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-clojure-and-clojurescript.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-22T15:04:16Z",
+      "lastCommit": "2019-03-22T19:31:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f69e9ccfec7b6195e6703d96ebf4601e66d08c6b",
+            "466737ec628d3ee533092025ab5547bb64e0c4a9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-aws.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-22T14:46:39Z",
+      "lastCommit": "2019-03-22T19:31:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f69e9ccfec7b6195e6703d96ebf4601e66d08c6b",
+            "17257e3535944aa81269aa138e046ebc0e67a5a8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-22T14:05:42Z",
+      "lastCommit": "2019-02-22T14:05:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f72eaf91dbfd1c99479a579d0e5182dfb8c862c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-22T14:05:42Z",
+  "lastAdrCommit": "2019-03-22T19:31:11Z",
+  "firstCommit": "2019-02-22T14:05:24Z",
+  "lastCommit": "2020-08-23T03:33:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f69e9ccfec7b6195e6703d96ebf4601e66d08c6b",
+        "2f72eaf91dbfd1c99479a579d0e5182dfb8c862c",
+        "5ff02dfec1c9c1947e189a74cbfedf1ebff5a96e",
+        "17257e3535944aa81269aa138e046ebc0e67a5a8",
+        "466737ec628d3ee533092025ab5547bb64e0c4a9"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

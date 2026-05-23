@@ -1,0 +1,112 @@
+{
+  "repositoryUrl": "https://github.com/inovex/elements.git",
+  "crawlDateTime": "2022-01-18T21:24:00.210858",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "releases-in-gitlab.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-14T15:37:10Z",
+      "lastCommit": "2021-01-26T13:35:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9683f5aea614ac8bb2c37e7dc3faa078bb27028d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f87fad2143452dbac628cd37586b1bfcafbd48c4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "cancel_shadow-dom.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-22T12:14:35Z",
+      "lastCommit": "2021-01-26T13:35:38Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9683f5aea614ac8bb2c37e7dc3faa078bb27028d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "92708ec88ea90205516ff53f4625ce7916f4919d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f2276d0ed5ba23a77395618cdb94ccc37ef0876"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-22T12:14:35Z",
+  "lastAdrCommit": "2021-01-26T13:35:38Z",
+  "firstCommit": "2018-03-19T05:52:36Z",
+  "lastCommit": "2022-01-18T16:39:53Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9683f5aea614ac8bb2c37e7dc3faa078bb27028d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "92708ec88ea90205516ff53f4625ce7916f4919d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f87fad2143452dbac628cd37586b1bfcafbd48c4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5f2276d0ed5ba23a77395618cdb94ccc37ef0876"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

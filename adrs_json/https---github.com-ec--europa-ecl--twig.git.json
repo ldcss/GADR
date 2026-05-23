@@ -1,0 +1,109 @@
+{
+  "repositoryUrl": "https://github.com/ec-europa/ecl-twig.git",
+  "crawlDateTime": "2022-01-18T23:08:58.924692",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "003-ecl-compliance.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-01T05:28:39Z",
+      "lastCommit": "2020-07-01T05:28:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "247b7ce84757b52994318c79c29c9a13a7f3430a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "002-stories.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-01T05:28:39Z",
+      "lastCommit": "2020-07-01T05:28:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "247b7ce84757b52994318c79c29c9a13a7f3430a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "001-strip-whitespaces.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-06T13:36:55Z",
+      "lastCommit": "2019-03-07T11:07:22Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f065191e8dba4aeaae3a712c811ca1d36897b3d",
+            "2a8091ebf2cf9cea76721bdf2fe2d88da3cf78cd"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41326ac80e7abd0db3cde1aeed49f4899db6b9b9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-06T13:36:55Z",
+  "lastAdrCommit": "2020-07-01T05:28:39Z",
+  "firstCommit": "2018-12-18T13:51:08Z",
+  "lastCommit": "2022-01-15T22:18:40Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1f065191e8dba4aeaae3a712c811ca1d36897b3d",
+        "2a8091ebf2cf9cea76721bdf2fe2d88da3cf78cd"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "41326ac80e7abd0db3cde1aeed49f4899db6b9b9"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "247b7ce84757b52994318c79c29c9a13a7f3430a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

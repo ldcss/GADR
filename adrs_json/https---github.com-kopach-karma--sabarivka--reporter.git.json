@@ -1,0 +1,114 @@
+{
+  "repositoryUrl": "https://github.com/kopach/karma-sabarivka-reporter.git",
+  "crawlDateTime": "2022-01-18T21:30:52.50135",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-documenting-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Status: Accepted on 2020-04-05",
+      "firstCommit": "2020-04-09T21:01:56Z",
+      "lastCommit": "2020-04-10T06:46:19Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "842735e845a406cc8c26ca9e67a60c7683874f39",
+            "422878c7c90e59e3270bb7e77d8a07266002325c",
+            "5334238633f097f6baab5e65d5b64a2a0223af03"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-conventional-commits-format-for-commits.md",
+      "template": "Nygard",
+      "status": "Status: Accepted on 2020-06-25",
+      "firstCommit": "2020-06-25T20:14:05Z",
+      "lastCommit": "2020-06-25T20:14:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "afcadb7402bd5375f6722711a5281a2481b5c463"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-high-test-coverage-thresholds.md",
+      "template": "Nygard",
+      "status": "Status: Accepted on 2020-04-09",
+      "firstCommit": "2020-04-09T21:02:00Z",
+      "lastCommit": "2020-04-09T21:02:00Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8aeb110a723b1ce2d6705dfb501f778b69351389",
+            "5334238633f097f6baab5e65d5b64a2a0223af03"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-typescript-as-project-language.md",
+      "template": "Nygard",
+      "status": "Status: Accepted on 2020-04-09",
+      "firstCommit": "2020-04-09T21:02:00Z",
+      "lastCommit": "2020-04-09T21:02:00Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "608cd0c59b451b0268855e483d6385066984d5e0",
+            "5334238633f097f6baab5e65d5b64a2a0223af03"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-09T21:01:56Z",
+  "lastAdrCommit": "2020-06-25T20:14:05Z",
+  "firstCommit": "2019-11-23T18:04:48Z",
+  "lastCommit": "2022-01-18T20:00:18Z",
+  "adrDirFile": {
+    "fileContent": "doc/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "842735e845a406cc8c26ca9e67a60c7683874f39",
+        "422878c7c90e59e3270bb7e77d8a07266002325c",
+        "608cd0c59b451b0268855e483d6385066984d5e0",
+        "afcadb7402bd5375f6722711a5281a2481b5c463",
+        "8aeb110a723b1ce2d6705dfb501f778b69351389",
+        "5334238633f097f6baab5e65d5b64a2a0223af03"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

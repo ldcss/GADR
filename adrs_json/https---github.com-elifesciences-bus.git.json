@@ -1,0 +1,105 @@
+{
+  "repositoryUrl": "https://github.com/elifesciences/bus.git",
+  "crawlDateTime": "2022-01-18T19:42:07.037854",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0004-ownership.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-03-19T11:20:20Z",
+      "lastCommit": "2021-03-19T11:20:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "310208f3efd5b2f9e47b9bd14f57694439d54d10"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-raw-message-delivery.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-03-19T11:20:20Z",
+      "lastCommit": "2021-03-19T11:20:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "310208f3efd5b2f9e47b9bd14f57694439d54d10"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-sns-sqs.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-03-19T11:20:20Z",
+      "lastCommit": "2021-03-19T11:20:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "310208f3efd5b2f9e47b9bd14f57694439d54d10"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-use-sdks.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-03-19T11:20:20Z",
+      "lastCommit": "2021-03-19T11:20:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "310208f3efd5b2f9e47b9bd14f57694439d54d10"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-03-19T11:20:20Z",
+  "lastAdrCommit": "2021-03-19T11:20:20Z",
+  "firstCommit": "2016-09-16T15:42:02Z",
+  "lastCommit": "2021-03-19T11:20:20Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "310208f3efd5b2f9e47b9bd14f57694439d54d10"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "repositoryUrl": "https://github.com/audramatar/gladiator_v2.git",
+  "crawlDateTime": "2022-01-18T20:00:19.701339",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adrs"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "adrs",
+      "path": "12-12-2017_useable_items.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-12T15:51:30Z",
+      "lastCommit": "2017-12-13T21:22:40Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "06dbb1bf67a610caeab54e09d5cbe24c89fa5039",
+            "4b5dee29a3164b29a8200dfde3e89cea13493c1a",
+            "ae786077dd6c9690dd132e50083850151c8c9491"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "12-6-2017_combat_class.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-06T17:13:01Z",
+      "lastCommit": "2017-12-09T15:35:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9589091cfe2435c76c91dacabedc453dc7700a4a",
+            "66aa2b8019eca91e4a9a66f2c6f2fac847de8d86"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "12-9-2017_player_interface.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-09T15:35:04Z",
+      "lastCommit": "2017-12-12T15:51:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b5dee29a3164b29a8200dfde3e89cea13493c1a",
+            "9589091cfe2435c76c91dacabedc453dc7700a4a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "12-12-2017_random_character_generation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-27T16:34:08Z",
+      "lastCommit": "2017-12-27T16:34:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1f236e6b3c02d2e3648a642a3993e3cd9252b61"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "12-12-2017_character_creation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-12T15:51:30Z",
+      "lastCommit": "2018-01-31T15:53:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "11ea72155174dae1387240794d2179c131dfba44",
+            "4b5dee29a3164b29a8200dfde3e89cea13493c1a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "12-12-2017_castable_spells.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-12T15:51:30Z",
+      "lastCommit": "2017-12-27T14:48:54Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ec54ef98a832b84a8a4d3da628163777382f0b69",
+            "6731cc6303030b53a9a3c1b3a823a981f4f7d92f",
+            "4b5dee29a3164b29a8200dfde3e89cea13493c1a",
+            "35b2557d335db94869e27f7d9d6794da2f9ca7e1",
+            "ae786077dd6c9690dd132e50083850151c8c9491"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-12-06T17:13:01Z",
+  "lastAdrCommit": "2018-01-31T15:53:07Z",
+  "firstCommit": "2017-12-06T17:00:28Z",
+  "lastCommit": "2018-01-31T15:53:07Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ec54ef98a832b84a8a4d3da628163777382f0b69",
+        "06dbb1bf67a610caeab54e09d5cbe24c89fa5039",
+        "11ea72155174dae1387240794d2179c131dfba44",
+        "4b5dee29a3164b29a8200dfde3e89cea13493c1a",
+        "9589091cfe2435c76c91dacabedc453dc7700a4a",
+        "6731cc6303030b53a9a3c1b3a823a981f4f7d92f",
+        "a1f236e6b3c02d2e3648a642a3993e3cd9252b61",
+        "35b2557d335db94869e27f7d9d6794da2f9ca7e1",
+        "66aa2b8019eca91e4a9a66f2c6f2fac847de8d86",
+        "ae786077dd6c9690dd132e50083850151c8c9491"
+      ],
+      "numberOfCommits": 10
+    }
+  ]
+}

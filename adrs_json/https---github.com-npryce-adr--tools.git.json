@@ -1,0 +1,242 @@
+{
+  "repositoryUrl": "https://github.com/npryce/adr-tools.git",
+  "crawlDateTime": "2022-01-18T19:38:15.612231",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-invoke-adr-config-executable-to-get-configuration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-13T20:47:46Z",
+      "lastCommit": "2017-12-07T13:40:19Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bd5c858c8bf33dde90d41d30d2e36528881d2762",
+            "edb71755461b45ae3f02a150f517f33c5d350b65"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-markdown-format.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-14T14:12:35Z",
+      "lastCommit": "2017-12-07T13:40:19Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "39b9e424865264e474e37081378f84d79aca525a",
+            "edb71755461b45ae3f02a150f517f33c5d350b65",
+            "1ac683c8f52bd3ff37e0bf7ae253837bcd6b8bd4"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-use-iso-8601-format-for-dates.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-21T13:02:55Z",
+      "lastCommit": "2017-12-07T13:40:19Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edb71755461b45ae3f02a150f517f33c5d350b65",
+            "16c495e8ce53c8a58fbe14a481fc685bb5a2a21a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-implement-as-shell-scripts.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-14T14:12:35Z",
+      "lastCommit": "2017-12-07T13:40:19Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edb71755461b45ae3f02a150f517f33c5d350b65",
+            "147b54a2d527a834e0aefc1dfd17f04606d63d4a",
+            "1ac683c8f52bd3ff37e0bf7ae253837bcd6b8bd4",
+            "5696df22fad8fde7461eb09943b430e48731060b"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-help-scripts.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [5. Help comments](0005-help-comments.md)",
+      "firstCommit": "2018-06-26T12:18:57Z",
+      "lastCommit": "2018-06-26T12:32:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "60723840082de5b67cbea6f35578178909d25506",
+            "8f70a3f86a2f2047c54699a3b8c27961b7844686"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-help-comments.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [9. Help scripts](0009-help-scripts.md)",
+      "firstCommit": "2016-02-14T20:15:23Z",
+      "lastCommit": "2018-06-26T12:32:59Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0662096c577c9d7da60f07cdb32c411f6511c56b",
+            "edb71755461b45ae3f02a150f517f33c5d350b65",
+            "147b54a2d527a834e0aefc1dfd17f04606d63d4a",
+            "8f70a3f86a2f2047c54699a3b8c27961b7844686",
+            "5696df22fad8fde7461eb09943b430e48731060b"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-packaging-and-distribution-in-other-version-control-repositories.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-16T11:18:42Z",
+      "lastCommit": "2017-12-07T13:40:19Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "19f8f15b8fda5c1a79607ab1110d3cf3c380fc4f",
+            "edb71755461b45ae3f02a150f517f33c5d350b65",
+            "5f13907f5abcbf7add29062846bede27e5eb1016"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f7f300ee476dd6b4566a6b41fd13e2592924c7f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-single-command-with-subcommands.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-14T14:12:35Z",
+      "lastCommit": "2017-12-07T13:40:19Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edb71755461b45ae3f02a150f517f33c5d350b65",
+            "147b54a2d527a834e0aefc1dfd17f04606d63d4a",
+            "1ac683c8f52bd3ff37e0bf7ae253837bcd6b8bd4"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-14T14:12:35Z",
+      "lastCommit": "2017-12-07T13:40:19Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edb71755461b45ae3f02a150f517f33c5d350b65",
+            "147b54a2d527a834e0aefc1dfd17f04606d63d4a",
+            "1ac683c8f52bd3ff37e0bf7ae253837bcd6b8bd4"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-02-14T14:12:35Z",
+  "lastAdrCommit": "2018-06-26T12:32:59Z",
+  "firstCommit": "2016-02-04T15:50:21Z",
+  "lastCommit": "2020-03-30T09:39:50Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bd5c858c8bf33dde90d41d30d2e36528881d2762",
+        "60723840082de5b67cbea6f35578178909d25506",
+        "19f8f15b8fda5c1a79607ab1110d3cf3c380fc4f",
+        "39b9e424865264e474e37081378f84d79aca525a",
+        "0662096c577c9d7da60f07cdb32c411f6511c56b",
+        "edb71755461b45ae3f02a150f517f33c5d350b65",
+        "147b54a2d527a834e0aefc1dfd17f04606d63d4a",
+        "16c495e8ce53c8a58fbe14a481fc685bb5a2a21a",
+        "8f70a3f86a2f2047c54699a3b8c27961b7844686",
+        "1ac683c8f52bd3ff37e0bf7ae253837bcd6b8bd4",
+        "5f13907f5abcbf7add29062846bede27e5eb1016",
+        "5696df22fad8fde7461eb09943b430e48731060b"
+      ],
+      "numberOfCommits": 12
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2f7f300ee476dd6b4566a6b41fd13e2592924c7f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "repositoryUrl": "https://github.com/Financial-Times/dotcom-page-kit.git",
+  "crawlDateTime": "2022-01-18T19:55:48.305701",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/design-decisions"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/design-decisions",
+      "path": "about-dot-json.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-08-05T12:57:10Z",
+      "lastCommit": "2019-08-05T12:57:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "002fe1e66ee3daa917bb0f3568fa9c1fce7a6a05"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design-decisions",
+      "path": "many-small-packages.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-06-12T10:46:29Z",
+      "lastCommit": "2019-07-03T14:54:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "33e9bf5dcffa4b0163d76e0ac639fa62ce295e4d",
+            "cc8312251c8adb614b712c1a977fa02d2eb9e96c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design-decisions",
+      "path": "polyfill-service-integration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-05-09T09:30:39Z",
+      "lastCommit": "2019-07-03T14:54:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b285b4c4a4341c2cb4de2a83262a2b75f3b39ef8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "33e9bf5dcffa4b0163d76e0ac639fa62ce295e4d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design-decisions",
+      "path": "client-side-code-bundling.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-31T16:22:34Z",
+      "lastCommit": "2019-12-31T16:22:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "620e590333c38453dee5e9b7bb6414e553e7be88"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design-decisions",
+      "path": "project-name.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-08-07T16:00:04Z",
+      "lastCommit": "2019-08-07T16:00:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76ff90a0aec6e249c595b327e68e07b81e2bdab6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design-decisions",
+      "path": "client-side-error-logging.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-12T10:26:04Z",
+      "lastCommit": "2019-07-03T14:54:21Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dab047f8b7c6652a026df779cc976f8106a25978"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e7fd2d71301bd44ac4e5f3ecaa5f7535e27f6777",
+            "33e9bf5dcffa4b0163d76e0ac639fa62ce295e4d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design-decisions",
+      "path": "app-context.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-31T12:13:16Z",
+      "lastCommit": "2020-01-31T12:22:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8d95f04b64a8e5be517be0792ddb15daeeb551f3",
+            "83f553513ce73c4d05c3e7c300708c669fcd027d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design-decisions",
+      "path": "html-templating.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-06T16:29:42Z",
+      "lastCommit": "2019-07-03T14:54:21Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b5e2c0d57dbb3c963c36b212068e75950b6a7971",
+            "33e9bf5dcffa4b0163d76e0ac639fa62ce295e4d",
+            "3bc62e4aa92a0c2d47d8e9ed6f9bcd7f7d2b398c"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/design-decisions",
+      "path": "code-splitting-strategy.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-18T11:04:23Z",
+      "lastCommit": "2020-04-01T10:54:19Z",
+      "numberOfCommits": 13,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fee3695b82f2768e1b40b422c9f5227374be9bc5",
+            "9eb3c8847d244b95009dd330a05049ce8c212816"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76e2769d78118f9cdf8b3df5494eea0709c92f86",
+            "212faf863c2d8d7b95b450a416c6de6892a9b435"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a333e5f80ac768ddd41a0bd567f5c289f08e8d1",
+            "effaf5f3abe0c365116ba4d2098e0d3f89d688a6",
+            "f8f0b10c975c08c9af05cc5fe5f4b5e1c4179b76",
+            "a7023d56643fb4290fc7804d7ed9260b41f182ac",
+            "e73aaaf983dc6003f997b4918e5f428ef558231f"
+          ],
+          "numberOfCommits": 5
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01e0c7237e578a729d54372b35f267fdb53bfcf7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a6992edfac661636b561f28a876248278ca64d5f",
+            "33e9bf5dcffa4b0163d76e0ac639fa62ce295e4d"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4434d9365f191f6c9a56ea232c03c842086aa669"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-06T16:29:42Z",
+  "lastAdrCommit": "2020-04-01T10:54:19Z",
+  "firstCommit": "2018-10-02T14:32:32Z",
+  "lastCommit": "2021-12-17T17:09:32Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b285b4c4a4341c2cb4de2a83262a2b75f3b39ef8",
+        "fee3695b82f2768e1b40b422c9f5227374be9bc5",
+        "dab047f8b7c6652a026df779cc976f8106a25978",
+        "9eb3c8847d244b95009dd330a05049ce8c212816",
+        "002fe1e66ee3daa917bb0f3568fa9c1fce7a6a05"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "76e2769d78118f9cdf8b3df5494eea0709c92f86",
+        "212faf863c2d8d7b95b450a416c6de6892a9b435"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5a333e5f80ac768ddd41a0bd567f5c289f08e8d1",
+        "effaf5f3abe0c365116ba4d2098e0d3f89d688a6",
+        "f8f0b10c975c08c9af05cc5fe5f4b5e1c4179b76",
+        "a7023d56643fb4290fc7804d7ed9260b41f182ac",
+        "e73aaaf983dc6003f997b4918e5f428ef558231f"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "01e0c7237e578a729d54372b35f267fdb53bfcf7"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e7fd2d71301bd44ac4e5f3ecaa5f7535e27f6777",
+        "a6992edfac661636b561f28a876248278ca64d5f",
+        "620e590333c38453dee5e9b7bb6414e553e7be88",
+        "b5e2c0d57dbb3c963c36b212068e75950b6a7971",
+        "33e9bf5dcffa4b0163d76e0ac639fa62ce295e4d",
+        "cc8312251c8adb614b712c1a977fa02d2eb9e96c",
+        "76ff90a0aec6e249c595b327e68e07b81e2bdab6",
+        "3bc62e4aa92a0c2d47d8e9ed6f9bcd7f7d2b398c"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8d95f04b64a8e5be517be0792ddb15daeeb551f3",
+        "83f553513ce73c4d05c3e7c300708c669fcd027d"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4434d9365f191f6c9a56ea232c03c842086aa669"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

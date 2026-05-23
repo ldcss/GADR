@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/Ensembl/ols-client.git",
+  "crawlDateTime": "2022-01-18T18:34:11.031846",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-looping-over-list.md",
+      "template": "Nygard",
+      "status": "Done",
+      "firstCommit": "2018-07-26T13:24:31Z",
+      "lastCommit": "2018-07-26T13:24:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cdc16ac21d6df5feed2cf9375efdd093fb47f310"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-api-result-access.md",
+      "template": "Nygard",
+      "status": "Done",
+      "firstCommit": "2018-07-26T13:24:31Z",
+      "lastCommit": "2018-07-26T13:24:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cdc16ac21d6df5feed2cf9375efdd093fb47f310"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-26T13:24:31Z",
+      "lastCommit": "2018-07-26T13:24:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cdc16ac21d6df5feed2cf9375efdd093fb47f310"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-26T13:24:31Z",
+  "lastAdrCommit": "2018-07-26T13:24:31Z",
+  "firstCommit": "2018-06-06T08:56:44Z",
+  "lastCommit": "2022-01-07T17:40:54Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cdc16ac21d6df5feed2cf9375efdd093fb47f310"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

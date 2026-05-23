@@ -1,0 +1,432 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/monitoring-doc.git",
+  "crawlDateTime": "2022-01-18T20:54:09.612806",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "documentation/architecture/decisions"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "documentation/architecture/decisions",
+      "path": "0008-use-of-verify-egress-proxies.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-15T11:04:12Z",
+      "lastCommit": "2018-11-06T16:16:27Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2bc2015a6233ac862f69a47edad8b08c45d45640"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3967783ebf699576686dc9e191437dd0ed68ec0",
+            "c97b751d5ee3a69c1d8448398458a90c8bac164c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/architecture/decisions",
+      "path": "0005-giving-users-prometheus-access.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-08-08T13:18:14Z",
+      "lastCommit": "2018-11-06T16:16:27Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "18665b459d957ccb6268a1167e3fc1cc6252447a",
+            "2bc2015a6233ac862f69a47edad8b08c45d45640",
+            "7eeeebbca177a604ad46a1a00eafc5368ad7c8aa"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8bff95759012b051d418cd3975177ffc538632c8",
+            "0c202ce1d79b68fcec6074f29c025f3325a0e342"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "abf27909fbec04f425f130deca36d0424e5aae08"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/architecture/decisions",
+      "path": "0010-packaging-node-exporter-as-deb-for-verify.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-15T11:04:12Z",
+      "lastCommit": "2018-11-06T16:16:27Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2bc2015a6233ac862f69a47edad8b08c45d45640"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3967783ebf699576686dc9e191437dd0ed68ec0",
+            "c97b751d5ee3a69c1d8448398458a90c8bac164c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/architecture/decisions",
+      "path": "0003-use-ecs-for-initial-beta-buildout.md",
+      "template": "Nygard",
+      "status": "Superseded. We have now migrated prometheus off ECS and on to EC2. The rest is covered in ADR #12.",
+      "firstCommit": "2018-06-21T16:29:16Z",
+      "lastCommit": "2018-11-06T16:29:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bab420e7dd34d3a9a0a6537c171ad5c9940de0a5",
+            "12aae9422a48378f5ca30bc6a8602be4dde41b6d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/architecture/decisions",
+      "path": "0001-environments.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-16T13:54:33Z",
+      "lastCommit": "2018-06-22T09:09:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b914c59eb55070b1c8fd349f6118701c53e97772"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0adebf2d34ecd55b2ae66713554fa0d6cd62eca7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/architecture/decisions",
+      "path": "0012-deploy-alertmanager-to-k8s.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-06T16:29:57Z",
+      "lastCommit": "2018-11-06T16:29:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bab420e7dd34d3a9a0a6537c171ad5c9940de0a5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/architecture/decisions",
+      "path": "0007-use-ubuntu-18-04.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-15T11:04:12Z",
+      "lastCommit": "2018-11-06T16:16:27Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2bc2015a6233ac862f69a47edad8b08c45d45640"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3967783ebf699576686dc9e191437dd0ed68ec0",
+            "c97b751d5ee3a69c1d8448398458a90c8bac164c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/architecture/decisions",
+      "path": "0009-use-cloud-init-to-build-prometheus-server.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-15T11:04:12Z",
+      "lastCommit": "2018-11-06T16:16:27Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2bc2015a6233ac862f69a47edad8b08c45d45640"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3967783ebf699576686dc9e191437dd0ed68ec0",
+            "c97b751d5ee3a69c1d8448398458a90c8bac164c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/architecture/decisions",
+      "path": "0004-cloudwatch-metrics.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-06-28T16:10:29Z",
+      "lastCommit": "2018-06-29T16:39:32Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "578ab302f59e57aac0b4a95aac628619dee424e0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bab4698ddfe54e944916f56606625439ad152f8e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1fa3d85f655c346c803c04b2de16cec435ef971"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/architecture/decisions",
+      "path": "0006-deploying-prometheus-to-private-networks-in-aws.md",
+      "template": "Nygard",
+      "status": "Draft",
+      "firstCommit": "2018-08-13T12:42:25Z",
+      "lastCommit": "2018-08-15T14:26:56Z",
+      "numberOfCommits": 11,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c2a38ec2b46db5bce123c0a7698b79f5546fb29b",
+            "517360673c66574aaff59c65d4d522c6c3542e0d",
+            "f8ab800b9e6928284d800bf18d146e46db8a1ebd",
+            "7461ab3a4f889dab729052187c3f9accc4e27758",
+            "5359aed55c6b8d85439e1070a99e372fa354507e",
+            "696fd5f13627c4e51a02f211a23a6af37cc639c8",
+            "2ae9a19440764c843438005639a9949909022761",
+            "766367da59c00dd782b32ec2c965d803acb1e745",
+            "23b2da44ced445af16f0f083c41c216e25ff4e35",
+            "6c0672e7155846b3172e90021dc1bfc2b5db1ca9"
+          ],
+          "numberOfCommits": 10
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6b6602ad11353f1cec87b192ecde95f57d5ce5f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/architecture/decisions",
+      "path": "0002-configuration-management.md",
+      "template": "Nygard",
+      "status": "No longer relevant. This decision related to the alpha code (in alphagov/prometheus-aws-configuration), which is no longer being actively developed.",
+      "firstCommit": "2018-04-18T12:05:27Z",
+      "lastCommit": "2018-06-21T16:22:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4add38d8ec97de7542152a6f5aba78ab2c1d520c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "017e811dfbfe46e85d83beb6085fa237c92a2025"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/architecture/decisions",
+      "path": "0011-sli-for-how-reliably-do-we-deliver-pages.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-26T10:28:35Z",
+      "lastCommit": "2018-10-26T10:28:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e4ea649957f11103d670078217b89ffdfd229fd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-04-16T13:54:33Z",
+  "lastAdrCommit": "2018-11-06T16:29:57Z",
+  "firstCommit": "2018-01-29T13:15:15Z",
+  "lastCommit": "2018-11-09T08:41:48Z",
+  "adrDirFile": {
+    "fileContent": "documentation/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2e4ea649957f11103d670078217b89ffdfd229fd"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b914c59eb55070b1c8fd349f6118701c53e97772",
+        "4add38d8ec97de7542152a6f5aba78ab2c1d520c"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "578ab302f59e57aac0b4a95aac628619dee424e0",
+        "f8ab800b9e6928284d800bf18d146e46db8a1ebd",
+        "18665b459d957ccb6268a1167e3fc1cc6252447a",
+        "5359aed55c6b8d85439e1070a99e372fa354507e",
+        "2ae9a19440764c843438005639a9949909022761",
+        "23b2da44ced445af16f0f083c41c216e25ff4e35",
+        "bab420e7dd34d3a9a0a6537c171ad5c9940de0a5",
+        "0adebf2d34ecd55b2ae66713554fa0d6cd62eca7",
+        "6c0672e7155846b3172e90021dc1bfc2b5db1ca9",
+        "c2a38ec2b46db5bce123c0a7698b79f5546fb29b",
+        "517360673c66574aaff59c65d4d522c6c3542e0d",
+        "7461ab3a4f889dab729052187c3f9accc4e27758",
+        "2bc2015a6233ac862f69a47edad8b08c45d45640",
+        "696fd5f13627c4e51a02f211a23a6af37cc639c8",
+        "017e811dfbfe46e85d83beb6085fa237c92a2025",
+        "766367da59c00dd782b32ec2c965d803acb1e745",
+        "7eeeebbca177a604ad46a1a00eafc5368ad7c8aa",
+        "12aae9422a48378f5ca30bc6a8602be4dde41b6d"
+      ],
+      "numberOfCommits": 18
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c3967783ebf699576686dc9e191437dd0ed68ec0",
+        "c97b751d5ee3a69c1d8448398458a90c8bac164c",
+        "6b6602ad11353f1cec87b192ecde95f57d5ce5f7"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8bff95759012b051d418cd3975177ffc538632c8",
+        "bab4698ddfe54e944916f56606625439ad152f8e",
+        "0c202ce1d79b68fcec6074f29c025f3325a0e342"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b1fa3d85f655c346c803c04b2de16cec435ef971"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "abf27909fbec04f425f130deca36d0424e5aae08"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

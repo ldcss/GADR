@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/derekmurawsky/dns-resolution.git",
+  "crawlDateTime": "2022-01-18T21:30:57.345444",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Status: Accepted on 2020-08-07",
+      "firstCommit": "2020-08-07T01:18:51Z",
+      "lastCommit": "2020-08-07T01:18:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "27ada39abc9b10cb943227a60ef050028776d965"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-migrate-to-pihole.md",
+      "template": "Nygard",
+      "status": "Status: Accepted on 2020-08-07",
+      "firstCommit": "2020-08-07T01:18:51Z",
+      "lastCommit": "2020-08-07T01:18:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "27ada39abc9b10cb943227a60ef050028776d965"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-07T01:18:51Z",
+  "lastAdrCommit": "2020-08-07T01:18:51Z",
+  "firstCommit": "2020-07-27T15:22:51Z",
+  "lastCommit": "2020-08-07T02:30:47Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "27ada39abc9b10cb943227a60ef050028776d965"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "repositoryUrl": "https://github.com/googleapis/google-cloud-cpp.git",
+  "crawlDateTime": "2022-01-18T20:43:01.178203",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2019-03-26-binary-distributions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-26T00:51:47Z",
+      "lastCommit": "2019-03-26T10:53:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "732a8978edb2914db25a3c9311f81fcb4d003152"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d465918c19d85fb78c5e67b68da802858c088e1b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2019-01-04-error-reporting-with-statusor.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-08T14:23:31Z",
+      "lastCommit": "2021-08-05T16:47:10Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c40e9538623a61507df79cdec5dda4b9af995f86"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de197c7133933010a17a6979746d8260f0873b5e",
+            "510f786e9bf39e62d612f990040936c18a62aa0f"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e483b4dce5f941f43ab2dee51c141be2a8800f04"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2021-03-01-deprecated-functions-do-not-have-examples.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-01T12:52:54Z",
+      "lastCommit": "2021-03-01T12:52:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7730b65dc889fbacabefdb01afead487af527b88"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2018-06-13-storage-always-retries.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-13T20:00:19Z",
+      "lastCommit": "2021-08-05T16:47:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8814ecc52cde897ce051e38394aa226d9ad866ab"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "510f786e9bf39e62d612f990040936c18a62aa0f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2021-05-18-credential-failures-participate-in-retry-loop.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-27T19:44:26Z",
+      "lastCommit": "2021-05-27T19:44:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25138598304169c10aafd4e2da2e57e3c5b1e7ba"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2018-06-19-do-not-duplicate-server-side-validation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-20T03:03:40Z",
+      "lastCommit": "2021-12-03T21:48:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6848128d30cb2d941d85d75a6a5d1bc4e0ae6dd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edbe6642ed90b67a68dc25c046ed8f1709bec040"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2018-06-18-storage-request-parameters-are-function-arguments.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-19T15:41:07Z",
+      "lastCommit": "2019-03-09T01:28:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a295e5ab2fbc92702120e7f3305b25b3601f5f74"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "db6e3c9c8dc3da550320d2af0c60574566795242"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2018-10-30-storage-metadata-fields-and-optional.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-10-31T20:59:21Z",
+      "lastCommit": "2019-03-09T01:28:10Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cd65fcbbdbcd28adc77431b01370ce2bb2c2a171",
+            "c40e9538623a61507df79cdec5dda4b9af995f86"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "db6e3c9c8dc3da550320d2af0c60574566795242"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-13T20:00:19Z",
+  "lastAdrCommit": "2021-12-03T21:48:12Z",
+  "firstCommit": "2017-11-24T16:25:53Z",
+  "lastCommit": "2022-01-18T20:13:43Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7730b65dc889fbacabefdb01afead487af527b88",
+        "25138598304169c10aafd4e2da2e57e3c5b1e7ba",
+        "cd65fcbbdbcd28adc77431b01370ce2bb2c2a171",
+        "c40e9538623a61507df79cdec5dda4b9af995f86",
+        "8814ecc52cde897ce051e38394aa226d9ad866ab",
+        "a295e5ab2fbc92702120e7f3305b25b3601f5f74",
+        "732a8978edb2914db25a3c9311f81fcb4d003152",
+        "b6848128d30cb2d941d85d75a6a5d1bc4e0ae6dd"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d465918c19d85fb78c5e67b68da802858c088e1b",
+        "de197c7133933010a17a6979746d8260f0873b5e",
+        "510f786e9bf39e62d612f990040936c18a62aa0f"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "edbe6642ed90b67a68dc25c046ed8f1709bec040"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "db6e3c9c8dc3da550320d2af0c60574566795242"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e483b4dce5f941f43ab2dee51c141be2a8800f04"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

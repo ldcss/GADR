@@ -1,0 +1,267 @@
+{
+  "repositoryUrl": "https://github.com/benjamminj/portfolio.git",
+  "crawlDateTime": "2022-01-18T19:05:53.873748",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-add-style-guides.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-15T04:51:41Z",
+      "lastCommit": "2020-09-15T04:51:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84e6ab34412b12bae6434252264c0900cb765c56"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0009-migrate-away-from-mdx.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2022-01-15T22:38:49Z",
+      "lastCommit": "2022-01-18T11:01:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd1621af590be7266427da467609e59997a03dcb",
+            "c0a75ac51937f2b5e4568f24e8f314fc170c0e33"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-switch-tests-to-playwright.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-10-07T00:03:50Z",
+      "lastCommit": "2022-01-18T11:01:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd1621af590be7266427da467609e59997a03dcb",
+            "fadd87f2de64575bfb4207926a25bda34c7694a9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-update-file-system-layout.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-15T04:06:42Z",
+      "lastCommit": "2020-09-15T04:06:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4cdbefd3b8931ce84fe1d34d72f5690267d00c4d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-use-typescript.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-04T04:31:03Z",
+      "lastCommit": "2020-09-04T04:31:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6d5d49f6777d420e1d2bbd5885f5f063c8fa8e91"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-use-custom-json-serialization.md",
+      "template": "Nygard",
+      "status": "Superceded by [12. remove custom json serialization](0012-remove-custom-json-serialization.md)",
+      "firstCommit": "2020-10-25T01:09:55Z",
+      "lastCommit": "2022-01-18T11:01:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3ed0e408887bb74504e505118944f5348bcbe299",
+            "fd1621af590be7266427da467609e59997a03dcb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-nextjs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-04T04:31:03Z",
+      "lastCommit": "2020-09-04T04:31:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6d5d49f6777d420e1d2bbd5885f5f063c8fa8e91"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0012-remove-custom-json-serialization.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [6. Use custom JSON serialization](0007-use-custom-json-serialization.md)",
+      "firstCommit": "2022-01-18T11:01:42Z",
+      "lastCommit": "2022-01-18T11:01:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd1621af590be7266427da467609e59997a03dcb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0011-use-preact.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2022-01-18T11:01:42Z",
+      "lastCommit": "2022-01-18T11:01:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd1621af590be7266427da467609e59997a03dcb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-provide-simplified-e2e-testing-options.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-25T00:54:16Z",
+      "lastCommit": "2020-10-25T00:54:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "74ed5f49c19707eb3322f270dbcb6a5400bb7a63"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0010-remove-custom-json-serialization.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [6. Provide simplified e2e testing options](0006-provide-simplified-e2e-testing-options.md)",
+      "firstCommit": "2022-01-18T11:01:42Z",
+      "lastCommit": "2022-01-18T11:01:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd1621af590be7266427da467609e59997a03dcb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-04T04:31:03Z",
+      "lastCommit": "2020-09-04T04:31:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6d5d49f6777d420e1d2bbd5885f5f063c8fa8e91"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-04T04:31:03Z",
+  "lastAdrCommit": "2022-01-18T11:01:42Z",
+  "firstCommit": "2017-12-23T05:03:22Z",
+  "lastCommit": "2022-01-18T11:35:23Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "74ed5f49c19707eb3322f270dbcb6a5400bb7a63",
+        "3ed0e408887bb74504e505118944f5348bcbe299",
+        "fd1621af590be7266427da467609e59997a03dcb",
+        "84e6ab34412b12bae6434252264c0900cb765c56",
+        "c0a75ac51937f2b5e4568f24e8f314fc170c0e33",
+        "4cdbefd3b8931ce84fe1d34d72f5690267d00c4d",
+        "fadd87f2de64575bfb4207926a25bda34c7694a9",
+        "6d5d49f6777d420e1d2bbd5885f5f063c8fa8e91"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

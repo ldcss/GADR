@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/CoastalResilienceNetwork/GeositeFramework.git",
+  "crawlDateTime": "2022-01-18T19:37:57.185926",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001-layer-selector-rewrite.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2016-02-04T21:30:39Z",
+      "lastCommit": "2016-02-04T21:30:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "453fc2db4d2620f90b3204bf880e9c01e3ff7375"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-02-04T21:30:39Z",
+  "lastAdrCommit": "2016-02-04T21:30:39Z",
+  "firstCommit": "2013-01-22T14:07:50Z",
+  "lastCommit": "2021-03-20T00:26:58Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "453fc2db4d2620f90b3204bf880e9c01e3ff7375"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

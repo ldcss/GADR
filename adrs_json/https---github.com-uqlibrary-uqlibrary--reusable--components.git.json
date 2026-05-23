@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/uqlibrary/uqlibrary-reusable-components.git",
+  "crawlDateTime": "2022-01-18T19:56:42.548595",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "applications/primo2/doc"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "applications/primo2/doc",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-15T00:35:29Z",
+      "lastCommit": "2019-08-15T00:35:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4efe7d5705757439524f0200225e5c524f27d400"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-15T00:35:29Z",
+  "lastAdrCommit": "2019-08-15T00:35:29Z",
+  "firstCommit": "2015-08-28T05:36:55Z",
+  "lastCommit": "2021-07-19T23:32:14Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4efe7d5705757439524f0200225e5c524f27d400"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

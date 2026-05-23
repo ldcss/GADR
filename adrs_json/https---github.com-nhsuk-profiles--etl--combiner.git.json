@@ -1,0 +1,115 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/profiles-etl-combiner.git",
+  "crawlDateTime": "2022-01-18T22:55:30.847819",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-update-running-database-from-etl-output.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-11T13:54:08Z",
+      "lastCommit": "2017-07-11T14:02:48Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4e1031907742b4f0d07a83dcf89c82983b86c2bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05d00b37e26f010fe450f071b46727bfd2fbb7be"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-remove-mongodb-update-and-write-to-azure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-11T13:54:08Z",
+      "lastCommit": "2017-07-11T14:02:48Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4e1031907742b4f0d07a83dcf89c82983b86c2bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05d00b37e26f010fe450f071b46727bfd2fbb7be"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-11T13:54:08Z",
+      "lastCommit": "2017-07-11T14:02:48Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4e1031907742b4f0d07a83dcf89c82983b86c2bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05d00b37e26f010fe450f071b46727bfd2fbb7be"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-11T13:54:08Z",
+  "lastAdrCommit": "2017-07-11T14:02:48Z",
+  "firstCommit": "2017-05-04T13:08:47Z",
+  "lastCommit": "2019-03-30T18:52:07Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4e1031907742b4f0d07a83dcf89c82983b86c2bf"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "05d00b37e26f010fe450f071b46727bfd2fbb7be"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

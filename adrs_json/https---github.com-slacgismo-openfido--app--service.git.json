@@ -1,0 +1,91 @@
+{
+  "repositoryUrl": "https://github.com/slacgismo/openfido-app-service.git",
+  "crawlDateTime": "2022-01-18T19:09:29.726491",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-project-structure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-06T16:46:46Z",
+      "lastCommit": "2020-10-07T21:06:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc2ae8ffd8067b17631aa941aef4f2a166652b47",
+            "36131a553444c283421c1b1225b0c2d78a372a7a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-deployment.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-21T14:12:55Z",
+      "lastCommit": "2020-11-23T21:18:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dfc3931ecf9a09d5d9de6a24f41c2f4324d87b40",
+            "1dfb6b6e5981a6b448acdab301e1e7ebba080b30"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-06T16:46:46Z",
+      "lastCommit": "2020-10-06T16:46:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "36131a553444c283421c1b1225b0c2d78a372a7a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-06T16:46:46Z",
+  "lastAdrCommit": "2020-11-23T21:18:11Z",
+  "firstCommit": "2020-09-21T22:52:20Z",
+  "lastCommit": "2021-03-25T03:29:26Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dfc3931ecf9a09d5d9de6a24f41c2f4324d87b40",
+        "1dfb6b6e5981a6b448acdab301e1e7ebba080b30",
+        "cc2ae8ffd8067b17631aa941aef4f2a166652b47",
+        "36131a553444c283421c1b1225b0c2d78a372a7a"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

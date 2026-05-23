@@ -1,0 +1,250 @@
+{
+  "repositoryUrl": "https://github.com/molgenis/molgenis-r-armadillo.git",
+  "crawlDateTime": "2022-01-18T19:39:46.934968",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0004-build-client-in-R.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-08T07:38:59Z",
+      "lastCommit": "2020-07-15T12:58:02Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a5abac88df6e9b18c0399bd125dd5c83cc898d7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1d9684659b6145b8c73a9484c0fadecdd963d1b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a375c2dc9a5b8517e6f4491a41a4ff6458e5a1e8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b8b65ff233b18997ccbe314fb7a67e6c5eaa653"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0006-file-format.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-14T12:07:26Z",
+      "lastCommit": "2020-08-19T07:35:21Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ceaf3934ed66c189ff19ec5be606c75394863bfe",
+            "99d57d1ada712a23298353bc5cd6541571d68310",
+            "5a2a347651897430bce9f4051438bafaea0b6c0d",
+            "174d52b1ece29dd3abb680f92f0bdcd8205af6d4",
+            "c0c26d0c207ca44240d41c210fd64a37fb434796"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0005-how-to-deal-with-workspaces.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-12T11:58:22Z",
+      "lastCommit": "2020-08-19T08:12:48Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c906d3721d2091201dc3a3c4943ad1c7891ef20c",
+            "06da5d4429f4e88ded17bcd741cdf88e3b0dc577",
+            "3e6ef72e0d4eac43a130ee712b28ba902cd39e28",
+            "ca6431a704b865cbea5b7de110faaa8538d256e9"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c7b7c969ead897112ae2afa58f0dee4add073e54"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-use-s3-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-03T18:43:16Z",
+      "lastCommit": "2020-07-15T12:58:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0defaae2dc33be94cf2882f1cbc5c81613a639c2",
+            "b1d9684659b6145b8c73a9484c0fadecdd963d1b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-use-adr-to-describe-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-27T12:16:50Z",
+      "lastCommit": "2020-07-15T12:58:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1d9684659b6145b8c73a9484c0fadecdd963d1b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d0b78eb3a84a512a1588e02e45fcfc17272f7f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-manage-data-in-armadillo-suite.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-27T12:16:50Z",
+      "lastCommit": "2020-07-15T12:58:02Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1d9684659b6145b8c73a9484c0fadecdd963d1b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d4259577526365f93968c6cc9ce746cd0c3f785",
+            "f0d0b78eb3a84a512a1588e02e45fcfc17272f7f"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "884b76f91de5b942097bb67e91e59ae2c64d87ac"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-27T12:16:50Z",
+  "lastAdrCommit": "2020-08-19T08:12:48Z",
+  "firstCommit": "2020-05-06T09:09:50Z",
+  "lastCommit": "2021-10-11T19:40:44Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8a5abac88df6e9b18c0399bd125dd5c83cc898d7"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0defaae2dc33be94cf2882f1cbc5c81613a639c2",
+        "b1d9684659b6145b8c73a9484c0fadecdd963d1b"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a375c2dc9a5b8517e6f4491a41a4ff6458e5a1e8",
+        "9d4259577526365f93968c6cc9ce746cd0c3f785",
+        "ceaf3934ed66c189ff19ec5be606c75394863bfe",
+        "c906d3721d2091201dc3a3c4943ad1c7891ef20c",
+        "99d57d1ada712a23298353bc5cd6541571d68310",
+        "5a2a347651897430bce9f4051438bafaea0b6c0d",
+        "06da5d4429f4e88ded17bcd741cdf88e3b0dc577",
+        "3e6ef72e0d4eac43a130ee712b28ba902cd39e28",
+        "174d52b1ece29dd3abb680f92f0bdcd8205af6d4",
+        "f0d0b78eb3a84a512a1588e02e45fcfc17272f7f",
+        "c0c26d0c207ca44240d41c210fd64a37fb434796",
+        "ca6431a704b865cbea5b7de110faaa8538d256e9"
+      ],
+      "numberOfCommits": 12
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c7b7c969ead897112ae2afa58f0dee4add073e54"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "884b76f91de5b942097bb67e91e59ae2c64d87ac",
+        "4b8b65ff233b18997ccbe314fb7a67e6c5eaa653"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

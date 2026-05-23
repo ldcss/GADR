@@ -1,0 +1,142 @@
+{
+  "repositoryUrl": "https://github.com/anurtayev/aspan_micro_front_ends.git",
+  "crawlDateTime": "2022-01-18T21:20:29.538518",
+  "numAdrDirectories": 2,
+  "adrDirectories": [
+    "doc/adr",
+    "server/doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-using-react-v16-8-0.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-21T13:32:09Z",
+      "lastCommit": "2019-12-21T13:32:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a75b20dff30be9f0c9a96e635f308a379db23559"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-21T13:32:09Z",
+      "lastCommit": "2019-12-21T13:32:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a75b20dff30be9f0c9a96e635f308a379db23559"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "server/doc/adr",
+      "path": "0002-derived-attributes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-15T14:57:04Z",
+      "lastCommit": "2019-12-15T14:57:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2343721fb2bd022264c5599b8d61a1bf195c2f67"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "server/doc/adr",
+      "path": "0003-replacing-ramda-with-lodash.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-15T14:57:04Z",
+      "lastCommit": "2019-12-15T14:57:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2343721fb2bd022264c5599b8d61a1bf195c2f67"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "server/doc/adr",
+      "path": "0004-info-graphql-import.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-15T14:57:04Z",
+      "lastCommit": "2019-12-15T14:57:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2343721fb2bd022264c5599b8d61a1bf195c2f67"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "server/doc/adr",
+      "path": "0001-aspan-will-support-multiple-repositories.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-15T14:57:04Z",
+      "lastCommit": "2019-12-15T14:57:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2343721fb2bd022264c5599b8d61a1bf195c2f67"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-12-15T14:57:04Z",
+  "lastAdrCommit": "2019-12-21T13:32:09Z",
+  "firstCommit": "2019-12-15T14:57:04Z",
+  "lastCommit": "2021-11-08T18:34:17Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2343721fb2bd022264c5599b8d61a1bf195c2f67",
+        "a75b20dff30be9f0c9a96e635f308a379db23559"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

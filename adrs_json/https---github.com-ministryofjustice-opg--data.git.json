@@ -1,0 +1,313 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/opg-data.git",
+  "crawlDateTime": "2022-01-18T20:59:41.988972",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 14,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-content-negotiation.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-03-03T10:46:10Z",
+      "lastCommit": "2020-03-03T12:56:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b81ac5cd826349d47f0a8ed3ef4a9e1730f220e2",
+            "dc4fcd8f3da679ea0366953ce472c9fa677a76a6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0014-shared-services.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-22T14:27:11Z",
+      "lastCommit": "2020-05-22T14:27:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f27dceb95966968cba043059dbb9d7bf71ca7578"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-hateoas.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-03-03T10:46:10Z",
+      "lastCommit": "2020-03-03T10:46:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc4fcd8f3da679ea0366953ce472c9fa677a76a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0013-pact-broker.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-04-09T11:06:00Z",
+      "lastCommit": "2020-04-09T11:06:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e6f52bbd00fdf85d2e9d218693046128d8a1597f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0011-resources-and-endpoints.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-03T10:46:10Z",
+      "lastCommit": "2020-03-03T10:46:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc4fcd8f3da679ea0366953ce472c9fa677a76a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0012-python-coding-standards.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-03-03T10:46:10Z",
+      "lastCommit": "2020-03-03T10:57:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81a160e09bf0ee3b8387348acb1ba1c53e7af2bd",
+            "dc4fcd8f3da679ea0366953ce472c9fa677a76a6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-api-versioning-strategy.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-03T10:46:10Z",
+      "lastCommit": "2020-03-03T10:46:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc4fcd8f3da679ea0366953ce472c9fa677a76a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-content-structure.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-03-03T10:46:10Z",
+      "lastCommit": "2020-03-03T10:46:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc4fcd8f3da679ea0366953ce472c9fa677a76a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-field-formats-and-naming-conventions.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-03-03T10:46:10Z",
+      "lastCommit": "2020-03-03T12:56:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b81ac5cd826349d47f0a8ed3ef4a9e1730f220e2",
+            "dc4fcd8f3da679ea0366953ce472c9fa677a76a6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-error-handling-and-status-codes.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-03-03T10:46:10Z",
+      "lastCommit": "2020-03-03T13:12:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "173b1c32a1c921e6c449de1ed291e5794cb21414",
+            "dc4fcd8f3da679ea0366953ce472c9fa677a76a6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-opg-data-api-specification.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-03-03T10:46:10Z",
+      "lastCommit": "2020-03-03T10:46:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc4fcd8f3da679ea0366953ce472c9fa677a76a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0010-api-repo-structure.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-03-03T10:46:10Z",
+      "lastCommit": "2020-03-03T12:56:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b81ac5cd826349d47f0a8ed3ef4a9e1730f220e2",
+            "dc4fcd8f3da679ea0366953ce472c9fa677a76a6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0009-api-domain-structure.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-03-03T10:46:10Z",
+      "lastCommit": "2020-03-03T12:56:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b81ac5cd826349d47f0a8ed3ef4a9e1730f220e2",
+            "dc4fcd8f3da679ea0366953ce472c9fa677a76a6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-03T10:46:10Z",
+      "lastCommit": "2020-03-03T10:46:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc4fcd8f3da679ea0366953ce472c9fa677a76a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-03T10:46:10Z",
+  "lastAdrCommit": "2020-05-22T14:27:11Z",
+  "firstCommit": "2020-01-10T10:56:30Z",
+  "lastCommit": "2022-01-17T10:50:29Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "81a160e09bf0ee3b8387348acb1ba1c53e7af2bd",
+        "173b1c32a1c921e6c449de1ed291e5794cb21414",
+        "b81ac5cd826349d47f0a8ed3ef4a9e1730f220e2",
+        "dc4fcd8f3da679ea0366953ce472c9fa677a76a6"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e6f52bbd00fdf85d2e9d218693046128d8a1597f",
+        "f27dceb95966968cba043059dbb9d7bf71ca7578"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

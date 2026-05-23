@@ -1,0 +1,225 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/gp-finder.git",
+  "crawlDateTime": "2022-01-18T23:12:59.150982",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-add-cache-control-headers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-08-04T21:50:51Z",
+      "lastCommit": "2017-08-04T21:50:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "461fd016662787781349eb13f9707b5e17b2a9fc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-prometheus-for-exposing-metrics.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-08T13:44:42Z",
+      "lastCommit": "2017-09-08T13:44:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6e8d54d12dae8572533d6266094c6a8e6f4c7d1c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-add-basic-authentication-to-test-environments.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-26T10:29:05Z",
+      "lastCommit": "2017-10-26T10:29:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "50fd28456550297ff52cfc826a6f64873bfcf5b5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-mongodb-for-search.md",
+      "template": "Nygard",
+      "status": "Superseded ([0004](https://github.com/nhsuk/gp-finder/blob/master/doc/adr/0004-use-elasticsearch-for-search.md))",
+      "firstCommit": "2017-07-28T09:33:49Z",
+      "lastCommit": "2017-09-13T15:11:10Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "59567da6e5d07c7103ea161e5f9781a1667c26c2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0b9381b6ef910b2290d4e9dc1a6a0459570db8c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "96d527a955a58c2d13df6ddea78191d0e6dfd73f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-express-web-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-28T09:33:49Z",
+      "lastCommit": "2017-07-28T12:38:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "59567da6e5d07c7103ea161e5f9781a1667c26c2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0b9381b6ef910b2290d4e9dc1a6a0459570db8c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-elasticsearch-for-search.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-28T09:33:49Z",
+      "lastCommit": "2017-07-28T12:38:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "59567da6e5d07c7103ea161e5f9781a1667c26c2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0b9381b6ef910b2290d4e9dc1a6a0459570db8c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-28T09:33:49Z",
+      "lastCommit": "2017-07-28T12:38:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "59567da6e5d07c7103ea161e5f9781a1667c26c2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0b9381b6ef910b2290d4e9dc1a6a0459570db8c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-28T09:33:49Z",
+  "lastAdrCommit": "2017-10-26T10:29:05Z",
+  "firstCommit": "2017-02-02T09:10:36Z",
+  "lastCommit": "2019-03-30T18:45:35Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6e8d54d12dae8572533d6266094c6a8e6f4c7d1c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "59567da6e5d07c7103ea161e5f9781a1667c26c2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "461fd016662787781349eb13f9707b5e17b2a9fc",
+        "50fd28456550297ff52cfc826a6f64873bfcf5b5",
+        "b0b9381b6ef910b2290d4e9dc1a6a0459570db8c"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "96d527a955a58c2d13df6ddea78191d0e6dfd73f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

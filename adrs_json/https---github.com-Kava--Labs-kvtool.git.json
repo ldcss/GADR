@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/Kava-Labs/kvtool.git",
+  "crawlDateTime": "2022-01-18T17:47:41.222972",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "."
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": ".",
+      "path": "ADR-001-add-testnet-command.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-21T23:29:26Z",
+      "lastCommit": "2020-09-21T23:29:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7e6579ea32de66059aa0e0af5470dde6d7d935a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-21T23:29:26Z",
+  "lastAdrCommit": "2020-09-21T23:29:26Z",
+  "firstCommit": "2020-06-10T00:36:27Z",
+  "lastCommit": "2022-01-18T14:58:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a7e6579ea32de66059aa0e0af5470dde6d7d935a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

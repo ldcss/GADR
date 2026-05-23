@@ -1,0 +1,92 @@
+{
+  "repositoryUrl": "https://github.com/ARMmbed/mbed-tools.git",
+  "crawlDateTime": "2022-01-18T20:33:21.110142",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-move-mbed-config-header-defines-to-cmake.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-23T14:20:17Z",
+      "lastCommit": "2020-07-31T12:36:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "68dd51b70b937e22e01c20cd91ceb464552bdf0a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d95c900ab54d922a46182b9e6d6980cce960b1d4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-23T14:20:17Z",
+      "lastCommit": "2020-07-31T12:36:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c11138001720230f998264c131d0dcf5d3d607b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d95c900ab54d922a46182b9e6d6980cce960b1d4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-23T14:20:17Z",
+  "lastAdrCommit": "2020-07-31T12:36:08Z",
+  "firstCommit": "2020-02-05T17:51:23Z",
+  "lastCommit": "2022-01-18T05:02:10Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "68dd51b70b937e22e01c20cd91ceb464552bdf0a",
+        "c11138001720230f998264c131d0dcf5d3d607b3"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d95c900ab54d922a46182b9e6d6980cce960b1d4"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

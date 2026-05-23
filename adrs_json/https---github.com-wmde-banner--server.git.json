@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/wmde/banner-server.git",
+  "crawlDateTime": "2022-01-18T18:46:50.893699",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-test-names.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-30T14:46:57Z",
+      "lastCommit": "2018-10-30T14:46:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7d7cf1b1e6f9ee1bc156ae410608e7fec210391c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-10-30T14:46:57Z",
+  "lastAdrCommit": "2018-10-30T14:46:57Z",
+  "firstCommit": "2018-10-17T16:50:04Z",
+  "lastCommit": "2022-01-12T16:18:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7d7cf1b1e6f9ee1bc156ae410608e7fec210391c"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "repositoryUrl": "https://github.com/AgentChris/faculty-planner-django.git",
+  "crawlDateTime": "2022-01-18T19:09:49.472009",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture_log"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture_log",
+      "path": "0001-get-current-month-course-date.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-14T19:04:28Z",
+      "lastCommit": "2018-05-14T22:01:32Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcde95904093228a3baad1ceb74481ce4b3901f9",
+            "a8e0c87c3abc316c789eab7d1e66608af6635ed0",
+            "a1c0d8e25fd03f3b7795e81551ee12f0ba71c8a7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-14T19:04:28Z",
+  "lastAdrCommit": "2018-05-14T22:01:32Z",
+  "firstCommit": "2018-04-01T19:03:16Z",
+  "lastCommit": "2018-07-08T14:05:33Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture_log",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bcde95904093228a3baad1ceb74481ce4b3901f9",
+        "a8e0c87c3abc316c789eab7d1e66608af6635ed0",
+        "a1c0d8e25fd03f3b7795e81551ee12f0ba71c8a7"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "repositoryUrl": "https://github.com/mathewtrivett/tfl-graphql.git",
+  "crawlDateTime": "2022-01-18T18:50:04.92572",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/technical_decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/technical_decisions",
+      "path": "0002-using-json-schema-in-specs.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-23T15:49:14Z",
+      "lastCommit": "2020-10-23T15:49:14Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c27aaf3c0286a7da2157e9754ccf7973c3c7f452",
+            "872ade97914829d2fc095e257e059de132222813",
+            "12c0bc2475b9c2e8d7d64b841261040f7311856e"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/technical_decisions",
+      "path": "0001-namespacing-tfl-types.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-20T08:26:33Z",
+      "lastCommit": "2020-10-23T15:49:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c27aaf3c0286a7da2157e9754ccf7973c3c7f452",
+            "63307f0c9e6406b70ac3b19013ac4d7a70f82cc5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-20T08:26:33Z",
+  "lastAdrCommit": "2020-10-23T15:49:14Z",
+  "firstCommit": "2020-10-14T19:44:31Z",
+  "lastCommit": "2022-01-14T22:47:16Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c27aaf3c0286a7da2157e9754ccf7973c3c7f452",
+        "63307f0c9e6406b70ac3b19013ac4d7a70f82cc5",
+        "872ade97914829d2fc095e257e059de132222813",
+        "12c0bc2475b9c2e8d7d64b841261040f7311856e"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

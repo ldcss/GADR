@@ -1,0 +1,440 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/opg-use-an-lpa.git",
+  "crawlDateTime": "2022-01-18T18:33:02.465019",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 19,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0018-session-lifetime-and-session-based-cookies.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-27T16:35:04Z",
+      "lastCommit": "2020-04-27T16:35:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "219cfdff99d6961fbe9ddd20e84bd97ca1fe3ccc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-continuous-delivery.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-28T12:33:07Z",
+      "lastCommit": "2019-03-28T12:33:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "57091670dc68e43cdfb04f9482038f57b52ceb8b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-session-storage-using-an-encrypted-cookie.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [3. Session storage using JWT](0003-session-storage-using-jwt.md)",
+      "firstCommit": "2019-05-01T16:37:57Z",
+      "lastCommit": "2019-05-01T16:37:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9a08151a951b464e4b51afe7f8529be14b781bb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0012-zend-dependency-injection.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-01T17:18:26Z",
+      "lastCommit": "2019-05-01T17:18:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c6e9134e2801bc7e87ea3633fc554d921e5c2ff"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-no-cdn-required.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-28T12:33:07Z",
+      "lastCommit": "2019-03-28T12:33:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "57091670dc68e43cdfb04f9482038f57b52ceb8b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0016-logging-and-tracing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-12T16:45:54Z",
+      "lastCommit": "2020-03-12T16:45:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "73866f43a47f7ffc6e49af7169479fffbd6bc091"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0015-library-for-application-forms.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-09T10:59:18Z",
+      "lastCommit": "2019-05-09T10:59:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "06c7bd7696e38e97b2e59f17358c2377b972483f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-session-storage-using-jwt.md",
+      "template": "Nygard",
+      "status": "Superceded by [8. Session storage using an encrypted cookie](0008-session-storage-using-an-encrypted-cookie.md)",
+      "firstCommit": "2019-03-28T12:33:07Z",
+      "lastCommit": "2019-05-01T16:37:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9a08151a951b464e4b51afe7f8529be14b781bb6"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "57091670dc68e43cdfb04f9482038f57b52ceb8b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0011-the-same-zend-application-will-be-used-for-both-viewer-and-actor-components.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-01T17:10:58Z",
+      "lastCommit": "2019-05-01T17:10:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a6c84e9ae0b7834e98ac3b2672021b251dbf72c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0013-application-layer-naming.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-09T10:41:04Z",
+      "lastCommit": "2019-05-09T10:41:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a52ca7dcf71fc4dfcb051c1a7bb23a5335f77949"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0009-use-aws-kms-to-manage-session-encryption-keys.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-01T16:47:29Z",
+      "lastCommit": "2019-05-01T16:47:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2e34bdf5676920e1abb001dbade1ae3a7c0d3ce"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0019-will-use-symfony-translation-components.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T12:34:01Z",
+      "lastCommit": "2020-08-17T12:34:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "71b8082a5476023c531414b59d74b52f1ce990f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0014-library-for-application-views.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-09T10:59:29Z",
+      "lastCommit": "2019-05-09T10:59:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "752a9cfd2a69984b22faff8f252fa2c1c72e7256"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0010-to-host-the-service-in-eu-west-1.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-01T17:01:40Z",
+      "lastCommit": "2019-05-01T17:01:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "353e28cf9cc587df4396f6781df5233de377d117"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-automated-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-28T12:33:07Z",
+      "lastCommit": "2019-03-28T12:33:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "57091670dc68e43cdfb04f9482038f57b52ceb8b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0017-brute-force-protection-of-application-endpoints.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-27T16:10:59Z",
+      "lastCommit": "2020-04-27T16:10:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a77a76bc21701da222268deb8e7a9b68846439bb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-split-terraform-configuration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-11T12:22:21Z",
+      "lastCommit": "2019-04-11T12:22:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f68c7e0f0851438327b6614f828a6e82c300f7e8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-persistent-storage-uses-dynamodb.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-28T12:33:07Z",
+      "lastCommit": "2019-03-28T12:33:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "57091670dc68e43cdfb04f9482038f57b52ceb8b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-22T17:23:19Z",
+      "lastCommit": "2019-02-22T17:23:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "15e304f54a7a2ac1a55aa806a7c37c830bd2334c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-22T17:23:19Z",
+  "lastAdrCommit": "2020-08-17T12:34:01Z",
+  "firstCommit": "2019-02-22T16:19:19Z",
+  "lastCommit": "2022-01-18T17:02:40Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "353e28cf9cc587df4396f6781df5233de377d117",
+        "8a6c84e9ae0b7834e98ac3b2672021b251dbf72c",
+        "752a9cfd2a69984b22faff8f252fa2c1c72e7256",
+        "06c7bd7696e38e97b2e59f17358c2377b972483f",
+        "9a08151a951b464e4b51afe7f8529be14b781bb6",
+        "b2e34bdf5676920e1abb001dbade1ae3a7c0d3ce",
+        "a52ca7dcf71fc4dfcb051c1a7bb23a5335f77949",
+        "9c6e9134e2801bc7e87ea3633fc554d921e5c2ff"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a77a76bc21701da222268deb8e7a9b68846439bb",
+        "73866f43a47f7ffc6e49af7169479fffbd6bc091",
+        "219cfdff99d6961fbe9ddd20e84bd97ca1fe3ccc",
+        "71b8082a5476023c531414b59d74b52f1ce990f7"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "15e304f54a7a2ac1a55aa806a7c37c830bd2334c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "57091670dc68e43cdfb04f9482038f57b52ceb8b"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f68c7e0f0851438327b6614f828a6e82c300f7e8"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

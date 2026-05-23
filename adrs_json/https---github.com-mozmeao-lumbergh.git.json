@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/mozmeao/lumbergh.git",
+  "crawlDateTime": "2022-01-18T20:41:44.558635",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-convert-to-static.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-13T12:10:14Z",
+      "lastCommit": "2019-02-13T12:10:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "426d38f5aec9f2730f9bb352e7e92f53b6d03a03"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-13T12:10:14Z",
+      "lastCommit": "2019-02-13T12:10:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "426d38f5aec9f2730f9bb352e7e92f53b6d03a03"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-13T12:10:14Z",
+  "lastAdrCommit": "2019-02-13T12:10:14Z",
+  "firstCommit": "2011-11-18T16:38:43Z",
+  "lastCommit": "2022-01-01T09:01:33Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "426d38f5aec9f2730f9bb352e7e92f53b6d03a03"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

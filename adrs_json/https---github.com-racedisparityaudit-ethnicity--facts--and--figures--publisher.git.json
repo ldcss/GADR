@@ -1,0 +1,117 @@
+{
+  "repositoryUrl": "https://github.com/racedisparityaudit/ethnicity-facts-and-figures-publisher.git",
+  "crawlDateTime": "2022-01-18T20:56:09.116",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0003-test-with-factory-boy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-28T12:18:52Z",
+      "lastCommit": "2019-01-28T12:18:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ac17ef58291c93873d97f080edf8e2da9ecd97e0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0003-add-govuk-frontend.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-20T10:01:26Z",
+      "lastCommit": "2019-02-20T10:01:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "042da116adb0abde6247c000fe25cf25294d1e46"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0002-use-heroku-run-detached-for-static-site-build.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-07T21:14:45Z",
+      "lastCommit": "2018-12-07T21:14:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e6fb32b6ea6f0610861f42686bcf6603604b871c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-07T16:45:43Z",
+      "lastCommit": "2018-12-07T16:45:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8727959996bcbe016258e9d2371131340cd739e6",
+            "207c3eb51578ee3ac43a60757295d2d1862e88a2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-12-07T16:45:43Z",
+  "lastAdrCommit": "2019-02-20T10:01:26Z",
+  "firstCommit": "2017-04-12T15:35:02Z",
+  "lastCommit": "2022-01-11T11:09:31Z",
+  "adrDirFile": {
+    "fileContent": "doc/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "042da116adb0abde6247c000fe25cf25294d1e46"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8727959996bcbe016258e9d2371131340cd739e6",
+        "ac17ef58291c93873d97f080edf8e2da9ecd97e0",
+        "e6fb32b6ea6f0610861f42686bcf6603604b871c",
+        "207c3eb51578ee3ac43a60757295d2d1862e88a2"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

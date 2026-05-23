@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/leejw51/mychain.git",
+  "crawlDateTime": "2022-01-18T20:59:13.21513",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-docs"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-docs",
+      "path": "adr-template.md",
+      "template": "Nygard",
+      "status": "> A decision may be \"proposed\" if it hasn't been agreed upon yet, or \"accepted\" once it is agreed upon. If a later ADR changes or reverses a decision, it may be marked as \"deprecated\" or \"superseded\" with a reference to its replacement. {Deprecated|Proposed|Accepted}",
+      "firstCommit": "2019-12-10T06:23:32Z",
+      "lastCommit": "2019-12-10T06:23:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a605dcdb677bcba4baf37c99508b101d0abb5a4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-docs",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-12-12T06:21:04Z",
+      "lastCommit": "2019-12-12T06:21:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ce55d7998992d82f1815e44283ea0691bcf6b879"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-12-10T06:23:32Z",
+  "lastAdrCommit": "2019-12-12T06:21:04Z",
+  "firstCommit": "2019-11-11T08:57:42Z",
+  "lastCommit": "2021-05-10T18:58:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7a605dcdb677bcba4baf37c99508b101d0abb5a4",
+        "ce55d7998992d82f1815e44283ea0691bcf6b879"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

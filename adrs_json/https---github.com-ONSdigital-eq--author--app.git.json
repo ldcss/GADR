@@ -1,0 +1,252 @@
+{
+  "repositoryUrl": "https://github.com/ONSdigital/eq-author-app.git",
+  "crawlDateTime": "2022-01-18T21:02:29.192044",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs_old/architecture"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs_old/architecture",
+      "path": "0005-typescript.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-07-17T09:30:47Z",
+      "lastCommit": "2020-08-19T09:15:59Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7e3730b3b1dee93eab8884a589601094534ce8dc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca1678ed576a5fdff55b933ae56501bec02e7aec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03aafb2c4ec69dee244375dd7d431e1ff5dba484"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs_old/architecture",
+      "path": "0002-routing-mk2.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-09T11:07:16Z",
+      "lastCommit": "2020-08-19T09:15:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "74f94d3d3148c0df7d0591238dcc70fc22b52013"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7e3730b3b1dee93eab8884a589601094534ce8dc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs_old/architecture",
+      "path": "0004-ui-routing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-22T08:49:50Z",
+      "lastCommit": "2020-08-19T09:15:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7e3730b3b1dee93eab8884a589601094534ce8dc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2156ed3debf44773c02d02e750c25036591515f9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs_old/architecture",
+      "path": "0003-author-validation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-12T13:02:57Z",
+      "lastCommit": "2020-08-19T09:15:59Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7e3730b3b1dee93eab8884a589601094534ce8dc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd875f7748ac3485cb596b4e967ea4f0441f2211"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "86048088a405bba7bf2be66461db8ef4537f2e7f",
+            "4031e8e36931d7a79e329048e8d17fc8a5f35484"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs_old/architecture",
+      "path": "0003-replace-rdb-with-json.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-20T09:16:55Z",
+      "lastCommit": "2020-08-19T09:15:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "97a09e70a251180ff82539074c24c17fd7071316"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7e3730b3b1dee93eab8884a589601094534ce8dc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs_old/architecture",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-20T10:43:19Z",
+      "lastCommit": "2020-08-19T09:15:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7e3730b3b1dee93eab8884a589601094534ce8dc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7b0ef7d208dedb11429ebc4ead2ae3ccad012cfd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-12-20T10:43:19Z",
+  "lastAdrCommit": "2020-08-19T09:15:59Z",
+  "firstCommit": "2018-11-12T09:52:21Z",
+  "lastCommit": "2022-01-18T17:15:58Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture\n",
+    "matchesActualAdrDirectory": false
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "74f94d3d3148c0df7d0591238dcc70fc22b52013"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "97a09e70a251180ff82539074c24c17fd7071316"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7e3730b3b1dee93eab8884a589601094534ce8dc"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "03aafb2c4ec69dee244375dd7d431e1ff5dba484"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ca1678ed576a5fdff55b933ae56501bec02e7aec",
+        "7b0ef7d208dedb11429ebc4ead2ae3ccad012cfd",
+        "fd875f7748ac3485cb596b4e967ea4f0441f2211",
+        "2156ed3debf44773c02d02e750c25036591515f9"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "86048088a405bba7bf2be66461db8ef4537f2e7f",
+        "4031e8e36931d7a79e329048e8d17fc8a5f35484"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

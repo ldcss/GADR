@@ -1,0 +1,324 @@
+{
+  "repositoryUrl": "https://github.com/LBHackney-IT/report-a-defect.git",
+  "crawlDateTime": "2022-01-18T20:46:02.074503",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 14,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-use-pingdom-for-uptime-monitoring.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-08T14:06:03Z",
+      "lastCommit": "2019-05-08T14:06:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c6c6c19752472fcc9af1915956bbd8a1ba9b4f0a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-decision-to-use-heroku.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-09T16:26:37Z",
+      "lastCommit": "2019-05-09T16:26:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1b6b66ceac0791fee60964d57c150546d83a626"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0012-use-postgres-hobby-basic.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-23T10:17:37Z",
+      "lastCommit": "2019-07-23T10:17:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "67b0d0cce874af732f6c2790c82a841817f56204"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-new-relic-for-performance-monitoring.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-08T12:40:59Z",
+      "lastCommit": "2019-05-08T12:40:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "351e87fc2194c8eda195a13384c229640c0ddbe6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-use-postgres-search.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-29T14:11:10Z",
+      "lastCommit": "2019-05-29T14:11:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e6ce9fc39f4944f3a5685486b92fc0264492b05f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-communal-defect-abstraction.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-12T12:15:52Z",
+      "lastCommit": "2019-07-12T12:15:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "48989f5e6df62f18bd084126f3075750f774dbfd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-use-docker.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-09T09:11:14Z",
+      "lastCommit": "2019-05-09T09:11:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f41bccbc6e71cbcfb29c13315936ab1f0177342a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-sentry-for-application-monitoring.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-08T12:28:34Z",
+      "lastCommit": "2019-05-08T12:28:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "54b11a10247495b06c7d051eafde9ac881fbe0a5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0011-use-auth0-for-authentication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-18T10:02:00Z",
+      "lastCommit": "2019-07-18T10:02:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29b7dd8a701562f21c052b13124bcaa7660bc2d9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0014-use-heroku-scheduler.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-27T10:39:29Z",
+      "lastCommit": "2019-11-27T10:39:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eaabad60bfce3d05c1be82a949a84fbed6df068d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0013-use-s3.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-21T11:21:43Z",
+      "lastCommit": "2019-11-21T16:11:22Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "359112b0a4aeb22b0c6dfa4a30bf97dffeb731d1",
+            "b6313a150e28c4928c103dfc8850a81f26144434"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-usegovuknotifyforemailing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-06T15:24:22Z",
+      "lastCommit": "2019-06-06T15:24:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4cb36f7a180ef9f0f7a53c7df3b3a96cebbb4911"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-08T11:58:55Z",
+      "lastCommit": "2019-05-08T11:58:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14d63ff76a570c9fd96137f90c383424e527b130"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-use-sidekiq-and-redis-for-asynchronous-tasks.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-24T13:09:35Z",
+      "lastCommit": "2019-06-24T13:09:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dcf13b15a9032caf184727076b0bf5b8e3cc6cc6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-08T11:58:55Z",
+  "lastAdrCommit": "2019-11-27T10:39:29Z",
+  "firstCommit": "2019-02-22T10:08:50Z",
+  "lastCommit": "2021-10-12T19:05:17Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e6ce9fc39f4944f3a5685486b92fc0264492b05f",
+        "f41bccbc6e71cbcfb29c13315936ab1f0177342a",
+        "351e87fc2194c8eda195a13384c229640c0ddbe6",
+        "48989f5e6df62f18bd084126f3075750f774dbfd",
+        "4cb36f7a180ef9f0f7a53c7df3b3a96cebbb4911",
+        "e1b6b66ceac0791fee60964d57c150546d83a626",
+        "29b7dd8a701562f21c052b13124bcaa7660bc2d9",
+        "dcf13b15a9032caf184727076b0bf5b8e3cc6cc6",
+        "c6c6c19752472fcc9af1915956bbd8a1ba9b4f0a",
+        "14d63ff76a570c9fd96137f90c383424e527b130",
+        "54b11a10247495b06c7d051eafde9ac881fbe0a5"
+      ],
+      "numberOfCommits": 11
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "67b0d0cce874af732f6c2790c82a841817f56204"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "359112b0a4aeb22b0c6dfa4a30bf97dffeb731d1",
+        "b6313a150e28c4928c103dfc8850a81f26144434",
+        "eaabad60bfce3d05c1be82a949a84fbed6df068d"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

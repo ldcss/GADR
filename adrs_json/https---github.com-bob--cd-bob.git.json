@@ -1,0 +1,133 @@
+{
+  "repositoryUrl": "https://github.com/bob-cd/bob.git",
+  "crawlDateTime": "2022-01-18T20:05:06.16762",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-introduce-temporal-db.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-27T08:20:07Z",
+      "lastCommit": "2021-09-16T06:51:15Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ba991062bb824cc311ae42b08f042879fc632471",
+            "ce1e8cea09834548b49c1911148fadc0b5aa7665"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-replace-compojure-with-contract-first-solution.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-19T21:37:05Z",
+      "lastCommit": "2020-04-19T21:37:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9a2b91dc452edc712fa91bfb9f58789485897a3d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-introduce-unprivileged-runtime.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-09T19:36:30Z",
+      "lastCommit": "2021-08-09T19:36:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "706f6fc6e1e9ead01e426a5c7aa8a82d7528420f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-introduce-queue.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-27T07:56:44Z",
+      "lastCommit": "2020-09-27T07:56:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46ccaff7f8cd3f455e665df817b6f4b1cef6d8fd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-19T21:37:05Z",
+      "lastCommit": "2020-04-19T21:37:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9a2b91dc452edc712fa91bfb9f58789485897a3d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-19T21:37:05Z",
+  "lastAdrCommit": "2021-09-16T06:51:15Z",
+  "firstCommit": "2017-09-16T11:37:45Z",
+  "lastCommit": "2022-01-17T17:06:40Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9a2b91dc452edc712fa91bfb9f58789485897a3d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ba991062bb824cc311ae42b08f042879fc632471",
+        "ce1e8cea09834548b49c1911148fadc0b5aa7665",
+        "46ccaff7f8cd3f455e665df817b6f4b1cef6d8fd",
+        "706f6fc6e1e9ead01e426a5c7aa8a82d7528420f"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

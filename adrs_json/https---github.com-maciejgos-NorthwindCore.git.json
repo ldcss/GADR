@@ -1,0 +1,86 @@
+{
+  "repositoryUrl": "https://github.com/maciejgos/NorthwindCore.git",
+  "crawlDateTime": "2022-01-18T20:42:37.709528",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "src/docs/architecture-decision-log"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "src/docs/architecture-decision-log",
+      "path": "0002-simplified-monolith.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-16T17:32:52Z",
+      "lastCommit": "2020-08-18T06:35:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1d1aa5c0d0378c72f922dabdea761a88961d3524",
+            "6f83a726e45c7c28ccb5a1e8bfa0bfa975c7017b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/docs/architecture-decision-log",
+      "path": "0003-arm-templates.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-18T06:35:41Z",
+      "lastCommit": "2020-08-18T06:35:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e2e2d81bf214e96a26177856eeaa0f53230b4c3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/docs/architecture-decision-log",
+      "path": "0001-record-architecture-decision.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-16T17:32:52Z",
+      "lastCommit": "2020-05-16T17:32:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1d1aa5c0d0378c72f922dabdea761a88961d3524"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-16T17:32:52Z",
+  "lastAdrCommit": "2020-08-18T06:35:41Z",
+  "firstCommit": "2020-04-28T18:19:19Z",
+  "lastCommit": "2020-08-30T11:26:25Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1d1aa5c0d0378c72f922dabdea761a88961d3524",
+        "6f83a726e45c7c28ccb5a1e8bfa0bfa975c7017b",
+        "1e2e2d81bf214e96a26177856eeaa0f53230b4c3"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

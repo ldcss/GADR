@@ -1,0 +1,91 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/verify-event-store-schema.git",
+  "crawlDateTime": "2022-01-18T23:14:48.640442",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-flyway.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-07T14:32:45Z",
+      "lastCommit": "2018-03-07T14:32:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e4b53805b2d2f79ca4c8a506d1a09d663815ebac"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-database-migrations-should-be-designed-for-zero-downtime.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-23T10:29:07Z",
+      "lastCommit": "2018-03-23T10:29:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee489f428479daf2b5de3a11d883903c7d5fe210"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-database-migrations-are-standalone-releases.md",
+      "template": "Nygard",
+      "status": "Proposed, should be reviewed",
+      "firstCommit": "2018-03-23T10:29:07Z",
+      "lastCommit": "2018-03-23T10:29:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee489f428479daf2b5de3a11d883903c7d5fe210"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-03-07T14:32:45Z",
+  "lastAdrCommit": "2018-03-23T10:29:07Z",
+  "firstCommit": "2018-03-07T11:19:07Z",
+  "lastCommit": "2018-04-25T09:35:36Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e4b53805b2d2f79ca4c8a506d1a09d663815ebac"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ee489f428479daf2b5de3a11d883903c7d5fe210"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

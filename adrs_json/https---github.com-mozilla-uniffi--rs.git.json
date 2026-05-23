@@ -1,0 +1,199 @@
+{
+  "repositoryUrl": "https://github.com/mozilla/uniffi-rs.git",
+  "crawlDateTime": "2022-01-18T21:08:39.973174",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-mvp-webidl.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-08-19T01:48:42Z",
+      "lastCommit": "2020-08-19T01:48:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58f75029b7cb18a5298bfa14583464d77c5b7ebd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-arc-pointers.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2021-05-27T04:34:11Z",
+      "lastCommit": "2021-05-27T04:34:11Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "35a705f26606a293d0af873acb010c1c15797a1f",
+            "9ab02d94f300c6d8ee1eff47e8f7078c2b7186cb"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "041660d62b16b22a130361347432fc9612a26a51",
+            "b17d6db76e5750d23e043be5bb61f25c7fb33fcf"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-threadsafe-interfaces.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-29T09:02:49Z",
+      "lastCommit": "2021-04-12T23:14:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "69babe99704774fe67d43f1c2d78f76e83548976"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "180c7c4bd48ae440b1530b3a616ef4f4d495871c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-wrapping-types.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2021-08-18T15:06:21Z",
+      "lastCommit": "2021-08-18T15:06:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d00a38ea24f52e151c1c7245fa2170113d3ed57d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-serialize-complex-datatypes.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-08-19T01:48:42Z",
+      "lastCommit": "2020-08-19T01:48:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58f75029b7cb18a5298bfa14583464d77c5b7ebd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-only-threadsafe-interfaces.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-04-19T05:28:23Z",
+      "lastCommit": "2021-04-19T05:28:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7ddeed2ab555f684d521dded9d049145901dcee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-whats-the-big-idea.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-08-19T01:48:42Z",
+      "lastCommit": "2020-08-19T01:48:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58f75029b7cb18a5298bfa14583464d77c5b7ebd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-19T01:48:42Z",
+  "lastAdrCommit": "2021-08-18T15:06:21Z",
+  "firstCommit": "2020-06-10T07:37:58Z",
+  "lastCommit": "2022-01-17T02:25:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "69babe99704774fe67d43f1c2d78f76e83548976",
+        "35a705f26606a293d0af873acb010c1c15797a1f",
+        "9ab02d94f300c6d8ee1eff47e8f7078c2b7186cb",
+        "a7ddeed2ab555f684d521dded9d049145901dcee"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d00a38ea24f52e151c1c7245fa2170113d3ed57d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "58f75029b7cb18a5298bfa14583464d77c5b7ebd",
+        "180c7c4bd48ae440b1530b3a616ef4f4d495871c",
+        "041660d62b16b22a130361347432fc9612a26a51",
+        "b17d6db76e5750d23e043be5bb61f25c7fb33fcf"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

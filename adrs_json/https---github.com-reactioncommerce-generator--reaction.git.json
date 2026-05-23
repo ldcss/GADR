@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/reactioncommerce/generator-reaction.git",
+  "crawlDateTime": "2022-01-18T19:10:15.51648",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "generators/docs/templates/docs/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "generators/docs/templates/docs/architecture/decisions",
+      "path": "0002-12factor-config-from-env.md",
+      "template": "Nygard",
+      "status": "STATUS\uff1aaccepted 2018-02-14 accepted",
+      "firstCommit": "2018-02-15T19:01:19Z",
+      "lastCommit": "2018-02-15T19:01:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c25895e850d7565a946a4888829fde463de24202"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "generators/docs/templates/docs/architecture/decisions",
+      "path": "0001-use-adrs.md",
+      "template": "Nygard",
+      "status": "STATUS\uff1aaccepted 2018-02-14 accepted",
+      "firstCommit": "2018-02-15T19:01:19Z",
+      "lastCommit": "2018-02-15T19:01:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c25895e850d7565a946a4888829fde463de24202"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-02-15T19:01:19Z",
+  "lastAdrCommit": "2018-02-15T19:01:19Z",
+  "firstCommit": "2018-02-12T17:29:05Z",
+  "lastCommit": "2021-05-19T04:31:31Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c25895e850d7565a946a4888829fde463de24202"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

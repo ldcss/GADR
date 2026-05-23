@@ -1,0 +1,172 @@
+{
+  "repositoryUrl": "https://github.com/johanhaleby/occurrent.git",
+  "crawlDateTime": "2022-01-18T19:59:53.525795",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-mongodb-datetime-representation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-28T07:08:05Z",
+      "lastCommit": "2020-09-10T09:19:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "21aba4f40ba5d661d955c8cfb0939ab8f1839d83",
+            "8700d57467cfca4214adeac62ea13eda2890dbe4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-mongodb-stream-version.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-15T12:18:51Z",
+      "lastCommit": "2021-02-06T08:48:27Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f960b57de5e8e761eb320e6f821bc40a5c088a96",
+            "ee6f128013730a0d903857857ce89406d66a13b7",
+            "3ddd5af53704da77550891ca008ddd2735e5be9d"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-mongodb-cloudevent-serialization.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-07-12T06:56:33Z",
+      "lastCommit": "2020-07-13T06:34:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5163b2d09013d49e10bcffdf0cafbd0929fb39d",
+            "49887045b49b5af639736d238db77a0e45bf386a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-mongodb-database-structure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-12T06:02:17Z",
+      "lastCommit": "2020-12-01T15:05:26Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d8f5e3b5927d2bf3e4582dac8b7fae5ec8bd7df2",
+            "6edfc2fe1f256527b9d892d3d795d26f870997f9",
+            "5043c15ac9b82f71543351e80b37a9cead634277",
+            "49887045b49b5af639736d238db77a0e45bf386a",
+            "df6308094df38d1c63f0fdf6522c3a729bbd1dcd",
+            "d946e958a405eea32f6600d2ffcac9ef91c564d3",
+            "3ddd5af53704da77550891ca008ddd2735e5be9d",
+            "a9d8afc6c1ccee2a00abb815e19b31605df3abca"
+          ],
+          "numberOfCommits": 8
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-mongodb-subscription-implementation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T07:15:45Z",
+      "lastCommit": "2020-08-21T11:42:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a6c22542cad5a2b1f550333a145ab1b88d799b40",
+            "d946e958a405eea32f6600d2ffcac9ef91c564d3"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-add-streamid-to-cloudevent-when-writing-to-eventstore.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-16T06:58:59Z",
+      "lastCommit": "2020-12-01T16:32:59Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d5798e8155f89e56e9f4e065d22494009e7f2893",
+            "d946e958a405eea32f6600d2ffcac9ef91c564d3",
+            "3ddd5af53704da77550891ca008ddd2735e5be9d",
+            "a9d8afc6c1ccee2a00abb815e19b31605df3abca"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-12T06:02:17Z",
+  "lastAdrCommit": "2021-02-06T08:48:27Z",
+  "firstCommit": "2020-06-05T17:29:37Z",
+  "lastCommit": "2021-12-10T08:01:27Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c5163b2d09013d49e10bcffdf0cafbd0929fb39d",
+        "d5798e8155f89e56e9f4e065d22494009e7f2893",
+        "5043c15ac9b82f71543351e80b37a9cead634277",
+        "21aba4f40ba5d661d955c8cfb0939ab8f1839d83",
+        "ee6f128013730a0d903857857ce89406d66a13b7",
+        "a6c22542cad5a2b1f550333a145ab1b88d799b40",
+        "d946e958a405eea32f6600d2ffcac9ef91c564d3",
+        "a9d8afc6c1ccee2a00abb815e19b31605df3abca",
+        "d8f5e3b5927d2bf3e4582dac8b7fae5ec8bd7df2",
+        "49887045b49b5af639736d238db77a0e45bf386a",
+        "6edfc2fe1f256527b9d892d3d795d26f870997f9",
+        "f960b57de5e8e761eb320e6f821bc40a5c088a96",
+        "df6308094df38d1c63f0fdf6522c3a729bbd1dcd",
+        "3ddd5af53704da77550891ca008ddd2735e5be9d",
+        "8700d57467cfca4214adeac62ea13eda2890dbe4"
+      ],
+      "numberOfCommits": 15
+    }
+  ]
+}

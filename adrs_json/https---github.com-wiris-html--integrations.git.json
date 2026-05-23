@@ -1,0 +1,129 @@
+{
+  "repositoryUrl": "https://github.com/wiris/html-integrations.git",
+  "crawlDateTime": "2022-01-18T17:45:16.881335",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "003--use-shx-wrapper-for-shell-commands.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-22T11:27:31Z",
+      "lastCommit": "2021-07-22T11:27:31Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "983748a1ec0b434854f28fdb8d4765470955327f",
+            "9b4f47a4c105fcb1f8315441cb04a89c76f29f8f",
+            "b61190a59aa0763bf21e0537a430dc43ac380906"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "002-Longevity--senderId--sessionId--Telemetry.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-09T07:28:05Z",
+      "lastCommit": "2020-07-09T07:28:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ec7c3aa991fae5fcb3afe8db2bf23f4b9d96f1d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-Generate--RFC-compliant--UUIDs--Telemetry.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-09T07:28:05Z",
+      "lastCommit": "2020-07-09T07:28:05Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c6ede9eb4e76882fd323991da4586820d6cad9e6",
+            "311c4ae09f087e4b568890a0d11cbff4da4d8360",
+            "8b63b2b6fe387c09152b3b23711f592708e5e7e6",
+            "bbcd6112a3a85ecef92eac964a01e9ec647478dc"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "004-Support-for-Froala editor-major-versions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-09-02T10:26:29Z",
+      "lastCommit": "2021-09-02T10:26:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b1062c65b3d503c6ac12baedbe7caa5030596a1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-09T07:28:05Z",
+  "lastAdrCommit": "2021-09-02T10:26:29Z",
+  "firstCommit": "2008-08-12T08:26:05Z",
+  "lastCommit": "2022-01-17T09:04:57Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4b1062c65b3d503c6ac12baedbe7caa5030596a1"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c6ede9eb4e76882fd323991da4586820d6cad9e6",
+        "983748a1ec0b434854f28fdb8d4765470955327f",
+        "311c4ae09f087e4b568890a0d11cbff4da4d8360",
+        "8b63b2b6fe387c09152b3b23711f592708e5e7e6",
+        "9b4f47a4c105fcb1f8315441cb04a89c76f29f8f",
+        "b61190a59aa0763bf21e0537a430dc43ac380906",
+        "bbcd6112a3a85ecef92eac964a01e9ec647478dc"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ec7c3aa991fae5fcb3afe8db2bf23f4b9d96f1d6"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

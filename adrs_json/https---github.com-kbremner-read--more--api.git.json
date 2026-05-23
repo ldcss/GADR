@@ -1,0 +1,279 @@
+{
+  "repositoryUrl": "https://github.com/kbremner/read-more-api.git",
+  "crawlDateTime": "2022-01-18T17:45:55.926262",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "ReadMoreAPI/doc/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "ReadMoreAPI/doc/adr",
+      "path": "0003-use-postgresql.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-26T11:05:25Z",
+      "lastCommit": "2017-09-26T11:05:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9cbef03e57c775096265992da0ea711e8c02f426"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ReadMoreAPI/doc/adr",
+      "path": "0002-use-asp-net-core.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-26T11:05:25Z",
+      "lastCommit": "2017-09-26T11:05:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9cbef03e57c775096265992da0ea711e8c02f426"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ReadMoreAPI/doc/adr",
+      "path": "0005-use-docker.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-26T11:05:25Z",
+      "lastCommit": "2017-09-26T11:06:48Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "12232cac34fd4c7a042d74e1734222b1fedc653e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9cbef03e57c775096265992da0ea711e8c02f426"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ReadMoreAPI/doc/adr",
+      "path": "0010-feature-toggles.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-22T09:20:17Z",
+      "lastCommit": "2017-10-22T19:17:17Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "49666be6d7621cbcd40539bc93f165386793b730"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2baca1999707ea0a9b41985a583cc3d478ab5c1c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ReadMoreAPI/doc/adr",
+      "path": "0004-use-dapper-for-data-access.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-26T11:05:25Z",
+      "lastCommit": "2017-09-26T11:05:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9cbef03e57c775096265992da0ea711e8c02f426"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ReadMoreAPI/doc/adr",
+      "path": "0009-service-layer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-26T11:05:25Z",
+      "lastCommit": "2017-09-26T11:05:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9cbef03e57c775096265992da0ea711e8c02f426"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ReadMoreAPI/doc/adr",
+      "path": "0008-protect-exposed-ids.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-26T11:05:25Z",
+      "lastCommit": "2017-09-26T11:05:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9cbef03e57c775096265992da0ea711e8c02f426"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ReadMoreAPI/doc/adr",
+      "path": "0011-backlog-email-address.md",
+      "template": "Nygard",
+      "status": "Rejected",
+      "firstCommit": "2017-10-22T10:09:02Z",
+      "lastCommit": "2017-10-24T16:04:36Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26064d5650c871dc47d09238c32ab5a699938cf4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcc9cd4dc1d7fc4071837dd4250fbd7c8554e0e7",
+            "099889ecc6ca94312ac06507073bd123da371629"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ReadMoreAPI/doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-24T10:15:41Z",
+      "lastCommit": "2017-09-24T18:54:41Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ddc32728a9698a5f3cc34636908ac05f6ae7cf5f",
+            "22648e72d2254fe7a35e7e8ba4ffd6525deadcfa"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ReadMoreAPI/doc/adr",
+      "path": "0007-deploy-to-heroku.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-26T11:05:25Z",
+      "lastCommit": "2017-09-26T11:05:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9cbef03e57c775096265992da0ea711e8c02f426"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ReadMoreAPI/doc/adr",
+      "path": "0006-use-circleci.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-26T11:05:25Z",
+      "lastCommit": "2017-09-26T11:05:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9cbef03e57c775096265992da0ea711e8c02f426"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-09-24T10:15:41Z",
+  "lastAdrCommit": "2017-10-24T16:04:36Z",
+  "firstCommit": "2017-09-24T00:19:22Z",
+  "lastCommit": "2017-10-24T16:04:36Z",
+  "adrDirFile": {
+    "fileContent": "ReadMoreAPI/doc/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "12232cac34fd4c7a042d74e1734222b1fedc653e",
+        "26064d5650c871dc47d09238c32ab5a699938cf4",
+        "49666be6d7621cbcd40539bc93f165386793b730"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ddc32728a9698a5f3cc34636908ac05f6ae7cf5f",
+        "9cbef03e57c775096265992da0ea711e8c02f426",
+        "22648e72d2254fe7a35e7e8ba4ffd6525deadcfa",
+        "2baca1999707ea0a9b41985a583cc3d478ab5c1c",
+        "bcc9cd4dc1d7fc4071837dd4250fbd7c8554e0e7",
+        "099889ecc6ca94312ac06507073bd123da371629"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

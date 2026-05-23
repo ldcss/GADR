@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/deshpandetanmay/lightweight-architecture-decision-records.git",
+  "crawlDateTime": "2022-01-18T20:23:30.862481",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-use-elasticsearch-for-search-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-20T12:52:04Z",
+      "lastCommit": "2018-05-20T12:52:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "47115bee3da89d0fc7352982dfadb440ab28ca8a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-20T12:52:04Z",
+  "lastAdrCommit": "2018-05-20T12:52:04Z",
+  "firstCommit": "2018-05-20T12:39:44Z",
+  "lastCommit": "2018-05-20T12:52:04Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "47115bee3da89d0fc7352982dfadb440ab28ca8a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

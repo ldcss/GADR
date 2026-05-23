@@ -1,0 +1,195 @@
+{
+  "repositoryUrl": "https://github.com/mozilla/experimenter.git",
+  "crawlDateTime": "2022-01-18T22:19:41.161339",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "app/experimenter/docs/adrs"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "app/experimenter/docs/adrs",
+      "path": "0003-analysis-visualization-architecture-approach.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-18T16:33:22Z",
+      "lastCommit": "2020-09-18T16:33:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "616f4e95b41528cb0f3f89a923057502198b910e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "app/experimenter/docs/adrs",
+      "path": "0007-doc-hub-url.md",
+      "template": "Madr",
+      "status": "**accepted**",
+      "firstCommit": "2021-04-20T23:36:09Z",
+      "lastCommit": "2021-04-20T23:36:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c43ad5161a8c6394e058249d2dd372059eb6be40"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "app/experimenter/docs/adrs",
+      "path": "0005-doc-hub.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-02-25T21:24:20Z",
+      "lastCommit": "2021-02-25T21:24:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e4983850633281d9d5ab8b9f17c980f975f2c99e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "app/experimenter/docs/adrs",
+      "path": "0002-nimbus-front-end-directory-tree-and-stack.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-10T00:00:17Z",
+      "lastCommit": "2020-09-16T21:14:35Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "31fee15fd12ab1070e70ccf02be3d0be3ed33c6c",
+            "9e147afa70b044b624d5d9ebcbe99ad7aa9f99de"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "app/experimenter/docs/adrs",
+      "path": "0001-build-nimbus-console-in-experimenter.md",
+      "template": "Madr",
+      "status": "decided",
+      "firstCommit": "2020-09-02T16:24:11Z",
+      "lastCommit": "2020-09-02T16:24:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "453b8c805d7d28378cf342775c6e0da6bc363837"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "app/experimenter/docs/adrs",
+      "path": "0004-monitoring-data-import.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2020-12-07T19:02:01Z",
+      "lastCommit": "2020-12-07T19:02:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ea701171f28baf7887b0a533c8d363a6b40775f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "app/experimenter/docs/adrs",
+      "path": "0006-doc-hub-repo.md",
+      "template": "Madr",
+      "status": "**draft**",
+      "firstCommit": "2021-03-16T18:59:45Z",
+      "lastCommit": "2021-03-16T18:59:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "19f57786a56c8696d3bf865e4473c7393777c92d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-02T16:24:11Z",
+  "lastAdrCommit": "2021-04-20T23:36:09Z",
+  "firstCommit": "2016-10-20T18:42:32Z",
+  "lastCommit": "2022-01-18T22:10:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c43ad5161a8c6394e058249d2dd372059eb6be40"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "31fee15fd12ab1070e70ccf02be3d0be3ed33c6c",
+        "9e147afa70b044b624d5d9ebcbe99ad7aa9f99de",
+        "e4983850633281d9d5ab8b9f17c980f975f2c99e"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "453b8c805d7d28378cf342775c6e0da6bc363837"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "616f4e95b41528cb0f3f89a923057502198b910e",
+        "4ea701171f28baf7887b0a533c8d363a6b40775f"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "19f57786a56c8696d3bf865e4473c7393777c92d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

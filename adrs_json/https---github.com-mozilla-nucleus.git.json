@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/mozilla/nucleus.git",
+  "crawlDateTime": "2022-01-18T23:17:20.664707",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-push-data-changes-to-github.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-17T19:05:28Z",
+      "lastCommit": "2020-04-17T19:05:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8b0eb1060ee625f9f458dcdb5d68dc848c3932d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-17T19:05:28Z",
+      "lastCommit": "2020-04-17T19:05:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8b0eb1060ee625f9f458dcdb5d68dc848c3932d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-17T19:05:28Z",
+  "lastAdrCommit": "2020-04-17T19:05:28Z",
+  "firstCommit": "2010-12-15T23:31:13Z",
+  "lastCommit": "2022-01-17T18:00:56Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b8b0eb1060ee625f9f458dcdb5d68dc848c3932d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

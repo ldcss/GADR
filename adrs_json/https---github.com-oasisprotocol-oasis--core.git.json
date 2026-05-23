@@ -1,0 +1,348 @@
+{
+  "repositoryUrl": "https://github.com/oasisprotocol/oasis-core.git",
+  "crawlDateTime": "2022-01-18T19:27:59.181953",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0012-runtime-message-results.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-12-16T08:53:04Z",
+      "lastCommit": "2021-12-16T08:53:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b75dc662cab78afbe1952ed9a317dc41e6b294b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-tm-multi-root-apphash.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-31T10:05:47Z",
+      "lastCommit": "2020-08-10T11:20:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8efaa238c53f62c509f7df05d66a2f8b7bc1e559",
+            "3ebe970b2efeb0a129cb1b91a75478dcc4cb0312"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-architectural-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-02T19:28:17Z",
+      "lastCommit": "2020-07-02T19:28:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5709e86fcbe665a78357bbdb231a1136061a8ed6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-ed25519-semantics.md",
+      "template": "Nygard",
+      "status": "Informative",
+      "firstCommit": "2021-05-11T12:30:19Z",
+      "lastCommit": "2021-05-11T12:30:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "081c200025adc0e571bc92b5f2e198a55ca00e40"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-improved-random-beacon.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-10-23T07:59:19Z",
+      "lastCommit": "2020-10-23T07:59:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5d6e4b7fa800b823d452332583df8a58aca3a9ae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-go-modules-compatible-git-tags.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-09T10:40:25Z",
+      "lastCommit": "2020-09-09T10:40:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c11e568694b051c2afade8c0710f8edeada9ca8f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-consensus-runtime-token-transfer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-13T16:08:19Z",
+      "lastCommit": "2020-10-23T11:45:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "861da8fed89ee8a9e432d56b6892c58ce7a72bf3",
+            "7ac17e69e8ee24212f3e42f21277bcdd612c1189"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-standard-account-key-generation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-11T15:56:55Z",
+      "lastCommit": "2021-05-11T15:56:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9a6756e7bb8c04343dad110b485ee156305fdaa8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-consensus-governance.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-11T09:14:49Z",
+      "lastCommit": "2021-03-30T16:31:09Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "80988735d27f028dd75a739c82fb4e3e026a593f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e2d57aed6970b84509a11b013807a253d2a3aae7",
+            "1b530ad53b758f4dd3bbffd1afc26bbdd24d6fc7"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "70532719d656c38f1ed5ad9b1f282ab5810d1e3a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-runtime-compute-slashing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-28T19:51:05Z",
+      "lastCommit": "2021-02-10T09:57:40Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fec3a5252a310b5db128583e7a344a387ce1099d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c22fef117c872e76f44e4517ef7bd80538b705bb",
+            "253376f8d2942a6c85c4174086d8cffd518ad86e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-vrf-elections.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-12-08T11:55:52Z",
+      "lastCommit": "2021-12-08T11:55:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e2bcb173d5669a7e5ccb89b8cf03e6b6ef94d43e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-runtime-governance.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-22T13:22:30Z",
+      "lastCommit": "2020-10-22T13:22:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "348c15452849196203b1009a0e4d0c03afd08866"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-incoming-runtime-messages.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-12-10T11:37:43Z",
+      "lastCommit": "2021-12-10T11:37:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f35dc8ceab5cd683728f64019541032c3c71335"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-02T19:28:17Z",
+  "lastAdrCommit": "2021-12-16T08:53:04Z",
+  "firstCommit": "2018-04-01T18:22:11Z",
+  "lastCommit": "2022-01-18T13:00:58Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e2bcb173d5669a7e5ccb89b8cf03e6b6ef94d43e",
+        "5d6e4b7fa800b823d452332583df8a58aca3a9ae",
+        "081c200025adc0e571bc92b5f2e198a55ca00e40"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e2d57aed6970b84509a11b013807a253d2a3aae7",
+        "c22fef117c872e76f44e4517ef7bd80538b705bb",
+        "1b530ad53b758f4dd3bbffd1afc26bbdd24d6fc7",
+        "253376f8d2942a6c85c4174086d8cffd518ad86e"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "70532719d656c38f1ed5ad9b1f282ab5810d1e3a",
+        "c11e568694b051c2afade8c0710f8edeada9ca8f",
+        "9a6756e7bb8c04343dad110b485ee156305fdaa8"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "861da8fed89ee8a9e432d56b6892c58ce7a72bf3",
+        "7ac17e69e8ee24212f3e42f21277bcdd612c1189",
+        "5709e86fcbe665a78357bbdb231a1136061a8ed6",
+        "80988735d27f028dd75a739c82fb4e3e026a593f",
+        "8efaa238c53f62c509f7df05d66a2f8b7bc1e559",
+        "fec3a5252a310b5db128583e7a344a387ce1099d",
+        "348c15452849196203b1009a0e4d0c03afd08866",
+        "9f35dc8ceab5cd683728f64019541032c3c71335",
+        "3ebe970b2efeb0a129cb1b91a75478dcc4cb0312"
+      ],
+      "numberOfCommits": 9
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b75dc662cab78afbe1952ed9a317dc41e6b294b0"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

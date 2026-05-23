@@ -1,0 +1,254 @@
+{
+  "repositoryUrl": "https://github.com/guttih/island.is-glosur.git",
+  "crawlDateTime": "2022-01-18T19:07:03.914231",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-nx.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-04T09:55:11Z",
+      "lastCommit": "2020-09-04T09:55:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "410b2f462cbcf165ce787581dfcca378c2e7fe75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-cms.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-04T09:55:11Z",
+      "lastCommit": "2020-09-04T09:55:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "410b2f462cbcf165ce787581dfcca378c2e7fe75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-css.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-04T09:55:11Z",
+      "lastCommit": "2020-09-04T09:55:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "410b2f462cbcf165ce787581dfcca378c2e7fe75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-naming-files-and-directories.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-04T09:55:11Z",
+      "lastCommit": "2020-09-04T09:55:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "410b2f462cbcf165ce787581dfcca378c2e7fe75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-open-source-license.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2020-09-04T09:55:11Z",
+      "lastCommit": "2020-09-04T09:55:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "410b2f462cbcf165ce787581dfcca378c2e7fe75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-continuous-integration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-04T09:55:11Z",
+      "lastCommit": "2020-09-04T09:55:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "410b2f462cbcf165ce787581dfcca378c2e7fe75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-viskuausan-static-site-generator.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-04T09:55:11Z",
+      "lastCommit": "2020-09-04T09:55:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "410b2f462cbcf165ce787581dfcca378c2e7fe75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-use-oauth-and-openid-connect.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-04T09:55:11Z",
+      "lastCommit": "2020-09-04T09:55:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "410b2f462cbcf165ce787581dfcca378c2e7fe75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-branching-and-release-strategy.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-04T09:55:11Z",
+      "lastCommit": "2020-09-04T09:55:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "410b2f462cbcf165ce787581dfcca378c2e7fe75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-04T09:55:11Z",
+      "lastCommit": "2020-09-04T09:55:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "410b2f462cbcf165ce787581dfcca378c2e7fe75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-what-api-management-tool-to-consider.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-04T09:55:11Z",
+      "lastCommit": "2020-09-04T09:55:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "410b2f462cbcf165ce787581dfcca378c2e7fe75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-error-tracking-and-monitoring.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-04T09:55:11Z",
+      "lastCommit": "2020-09-04T09:55:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "410b2f462cbcf165ce787581dfcca378c2e7fe75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-04T09:55:11Z",
+  "lastAdrCommit": "2020-09-04T09:55:11Z",
+  "firstCommit": "2020-09-04T09:37:44Z",
+  "lastCommit": "2020-09-04T09:55:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "410b2f462cbcf165ce787581dfcca378c2e7fe75"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

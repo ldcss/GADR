@@ -1,0 +1,169 @@
+{
+  "repositoryUrl": "https://github.com/kiwicom/the-zoo.git",
+  "crawlDateTime": "2022-01-18T17:44:24.171216",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0004-graphql-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-20T11:42:44Z",
+      "lastCommit": "2018-11-20T11:42:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "877e665fde996db79234db9d28f47eb53164a965"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-save-adrs-into-adr-dir.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-20T11:42:44Z",
+      "lastCommit": "2019-11-19T14:58:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "053d4e0b8810351dcac6112d340c788e5a039f41",
+            "877e665fde996db79234db9d28f47eb53164a965"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0007-conventional-commits.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-08T12:49:07Z",
+      "lastCommit": "2019-11-19T14:58:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91303e6837931d98da2086cf556e2040ffd9d416",
+            "053d4e0b8810351dcac6112d340c788e5a039f41"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0005-semantic-ui.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-20T11:42:44Z",
+      "lastCommit": "2018-11-20T11:42:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "877e665fde996db79234db9d28f47eb53164a965"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0006-fomantic-ui.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-21T08:49:53Z",
+      "lastCommit": "2019-10-21T08:49:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4560332c3df1f4ee40a844f57cc9581cdb6f654e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-use-black-code-formatter.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-20T11:42:44Z",
+      "lastCommit": "2019-11-19T14:58:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "053d4e0b8810351dcac6112d340c788e5a039f41",
+            "877e665fde996db79234db9d28f47eb53164a965"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-20T11:42:44Z",
+      "lastCommit": "2019-11-19T14:58:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "053d4e0b8810351dcac6112d340c788e5a039f41",
+            "877e665fde996db79234db9d28f47eb53164a965"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-11-20T11:42:44Z",
+  "lastAdrCommit": "2019-11-19T14:58:58Z",
+  "firstCommit": "2018-11-20T11:42:44Z",
+  "lastCommit": "2021-11-03T13:45:05Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "91303e6837931d98da2086cf556e2040ffd9d416",
+        "4560332c3df1f4ee40a844f57cc9581cdb6f654e",
+        "877e665fde996db79234db9d28f47eb53164a965",
+        "053d4e0b8810351dcac6112d340c788e5a039f41"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

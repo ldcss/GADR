@@ -1,0 +1,204 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/csw-backend.git",
+  "crawlDateTime": "2022-01-18T20:15:22.067957",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-interrogation-method-iam-role.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-22T17:52:34Z",
+      "lastCommit": "2018-11-22T17:55:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5378d80c7077c762625d7e0033f59a58fec22702",
+            "6920aa3f9f2313faf806e3b2e84cc055c265078a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-a-relational-database.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-22T14:01:39Z",
+      "lastCommit": "2018-11-22T14:01:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3879348c9821a9fcf335867df653bdf661fa09b7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-implement-a-vpc.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-22T09:19:40Z",
+      "lastCommit": "2018-11-22T14:01:39Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd17ffbcb5453bb90b25af744bf79781a1a0da6b",
+            "4c358ebb99bfe5545ac4d1931b0f3b847ba12a1a",
+            "3879348c9821a9fcf335867df653bdf661fa09b7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-serverless-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-22T09:31:01Z",
+      "lastCommit": "2018-11-22T14:01:39Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7d053e38c38f466ef0d2cf5493c63641b5e2e5dc",
+            "2dfb8870ba01fe1030ba622374ef453da61a5e89",
+            "3879348c9821a9fcf335867df653bdf661fa09b7",
+            "6a55f506de6cff6aec959989da89c55f35332216"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-not-cloud-agnostic.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-22T08:50:01Z",
+      "lastCommit": "2018-11-22T09:21:18Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd17ffbcb5453bb90b25af744bf79781a1a0da6b",
+            "7cf57046e6911fab423d5e79e2dc96d9cf887dee"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-not-paas.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-22T08:59:28Z",
+      "lastCommit": "2018-11-22T14:02:02Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd17ffbcb5453bb90b25af744bf79781a1a0da6b",
+            "a3d0ad3c85ede8f238ac17cbc4744a590d13beb3",
+            "c57554b32f21721a202bf418efd923ef1b1f4492"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-serverless.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-22T09:19:22Z",
+      "lastCommit": "2018-11-22T13:30:01Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd17ffbcb5453bb90b25af744bf79781a1a0da6b",
+            "38a3ecfc2a468e3008e9727e74c2957dbc4c994c",
+            "3bc55b12053cfa1da6e6ec04e49d466e8275b196"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-22T08:33:31Z",
+      "lastCommit": "2018-11-22T08:45:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e67d77e0bb5a9a4153c96f7e082c9647d3c3233f",
+            "bdb131df53850614a44bf9248cf548e662366816"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-11-22T08:33:31Z",
+  "lastAdrCommit": "2018-11-22T17:55:20Z",
+  "firstCommit": "2018-08-09T08:38:14Z",
+  "lastCommit": "2021-12-03T22:21:44Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e67d77e0bb5a9a4153c96f7e082c9647d3c3233f",
+        "2dfb8870ba01fe1030ba622374ef453da61a5e89",
+        "dd17ffbcb5453bb90b25af744bf79781a1a0da6b",
+        "a3d0ad3c85ede8f238ac17cbc4744a590d13beb3",
+        "4c358ebb99bfe5545ac4d1931b0f3b847ba12a1a",
+        "3879348c9821a9fcf335867df653bdf661fa09b7",
+        "bdb131df53850614a44bf9248cf548e662366816",
+        "3bc55b12053cfa1da6e6ec04e49d466e8275b196",
+        "5378d80c7077c762625d7e0033f59a58fec22702",
+        "7d053e38c38f466ef0d2cf5493c63641b5e2e5dc",
+        "7cf57046e6911fab423d5e79e2dc96d9cf887dee",
+        "38a3ecfc2a468e3008e9727e74c2957dbc4c994c",
+        "6920aa3f9f2313faf806e3b2e84cc055c265078a",
+        "c57554b32f21721a202bf418efd923ef1b1f4492",
+        "6a55f506de6cff6aec959989da89c55f35332216"
+      ],
+      "numberOfCommits": 15
+    }
+  ]
+}

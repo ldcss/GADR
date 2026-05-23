@@ -1,0 +1,126 @@
+{
+  "repositoryUrl": "https://github.com/matwei/ipsec-tester.git",
+  "crawlDateTime": "2022-01-18T18:46:52.853098",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-only-work-with-configured-vpns.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-04T16:53:00Z",
+      "lastCommit": "2017-09-04T16:53:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f33e9da571f1b587ea6b0f1be24e29dca10bc0d4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-sockets.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [2. Use libpcap and libnet](0002-use-libpcap-and-libnet.md)",
+      "firstCommit": "2020-04-20T16:04:19Z",
+      "lastCommit": "2020-04-20T16:04:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cebc90c20d7d3242e19671b79724aa5b34bc0456"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-libpcap-and-libnet.md",
+      "template": "Nygard",
+      "status": "Superceded by [4. Use sockets](0004-use-sockets.md)",
+      "firstCommit": "2017-09-03T10:01:56Z",
+      "lastCommit": "2020-04-20T16:04:19Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c424839eaab316ad9b8dd8445accb16519c8b364",
+            "cebc90c20d7d3242e19671b79724aa5b34bc0456"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-use-zlog.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-21T14:59:37Z",
+      "lastCommit": "2020-04-21T14:59:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc3eb5ca4928cd909203136acf0e280e5bcb929e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-03T09:25:12Z",
+      "lastCommit": "2017-09-03T09:25:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89003f49a5e671d1df4347cec43eab372405bcd5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-09-03T09:25:12Z",
+  "lastAdrCommit": "2020-04-21T14:59:37Z",
+  "firstCommit": "2017-08-31T15:30:45Z",
+  "lastCommit": "2021-11-13T13:15:13Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c424839eaab316ad9b8dd8445accb16519c8b364",
+        "bc3eb5ca4928cd909203136acf0e280e5bcb929e",
+        "cebc90c20d7d3242e19671b79724aa5b34bc0456",
+        "89003f49a5e671d1df4347cec43eab372405bcd5",
+        "f33e9da571f1b587ea6b0f1be24e29dca10bc0d4"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

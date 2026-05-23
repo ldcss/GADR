@@ -1,0 +1,219 @@
+{
+  "repositoryUrl": "https://github.com/namitms/FindMeFoodTrucks.git",
+  "crawlDateTime": "2022-01-18T19:38:40.027522",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "Design/Decision Register"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "Design/Decision Register",
+      "path": "DataStore Model.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-01T23:52:59Z",
+      "lastCommit": "2020-10-01T23:52:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adf6aea47682910a84c331bce80f9df4f7cd3bb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Design/Decision Register",
+      "path": "Choice of Compute for Serving tier.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-02T07:15:48Z",
+      "lastCommit": "2020-10-02T07:15:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2204dce623c6ee6077291da4d3651989932a580d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Design/Decision Register",
+      "path": "CosmosDB API.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-01T23:52:59Z",
+      "lastCommit": "2020-10-01T23:52:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adf6aea47682910a84c331bce80f9df4f7cd3bb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Design/Decision Register",
+      "path": "CosmosDB hosting.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-01T23:52:59Z",
+      "lastCommit": "2020-10-01T23:52:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adf6aea47682910a84c331bce80f9df4f7cd3bb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Design/Decision Register",
+      "path": "Choice of Compute for Ingestion.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-02T07:15:48Z",
+      "lastCommit": "2020-10-02T07:15:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2204dce623c6ee6077291da4d3651989932a580d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Design/Decision Register",
+      "path": "Messaging choice.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-02T07:32:00Z",
+      "lastCommit": "2020-10-02T07:32:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53df3d1252980ce176ec04f7144d6b4506f20d5c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Design/Decision Register",
+      "path": "Choice of service for Gatekeeper.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-02T07:15:48Z",
+      "lastCommit": "2020-10-02T07:15:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2204dce623c6ee6077291da4d3651989932a580d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Design/Decision Register",
+      "path": "Architecture Style.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-02T01:34:15Z",
+      "lastCommit": "2020-10-02T01:34:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff2656935799f9e4b7063e5445ebbab6c81f54c4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Design/Decision Register",
+      "path": "DataStore Service.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-01T23:52:59Z",
+      "lastCommit": "2020-10-01T23:52:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adf6aea47682910a84c331bce80f9df4f7cd3bb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Design/Decision Register",
+      "path": "Hosting Model.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-02T01:34:15Z",
+      "lastCommit": "2020-10-02T01:34:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff2656935799f9e4b7063e5445ebbab6c81f54c4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-01T23:52:59Z",
+  "lastAdrCommit": "2020-10-02T07:32:00Z",
+  "firstCommit": "2020-09-30T00:44:35Z",
+  "lastCommit": "2020-10-14T04:58:17Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ff2656935799f9e4b7063e5445ebbab6c81f54c4",
+        "adf6aea47682910a84c331bce80f9df4f7cd3bb6",
+        "2204dce623c6ee6077291da4d3651989932a580d",
+        "53df3d1252980ce176ec04f7144d6b4506f20d5c"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

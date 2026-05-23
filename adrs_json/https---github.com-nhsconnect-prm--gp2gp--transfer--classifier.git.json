@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/nhsconnect/prm-gp2gp-transfer-classifier.git",
+  "crawlDateTime": "2022-01-18T19:01:20.977867",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-implement-data-pipeline-in-python.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-26T16:28:47Z",
+      "lastCommit": "2020-03-26T16:28:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c84cc7a9be67106cbd71d907550fefaeee8720e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-26T16:28:47Z",
+      "lastCommit": "2020-03-26T16:28:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c84cc7a9be67106cbd71d907550fefaeee8720e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-26T16:28:47Z",
+  "lastAdrCommit": "2020-03-26T16:28:47Z",
+  "firstCommit": "2020-01-15T13:03:55Z",
+  "lastCommit": "2022-01-18T17:43:40Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9c84cc7a9be67106cbd71d907550fefaeee8720e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

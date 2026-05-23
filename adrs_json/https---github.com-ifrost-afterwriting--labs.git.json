@@ -1,0 +1,93 @@
+{
+  "repositoryUrl": "https://github.com/ifrost/afterwriting-labs.git",
+  "crawlDateTime": "2022-01-18T18:53:07.166735",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "002-technical-debt.md",
+      "template": "Nygard",
+      "status": "Approved on 17/02/2017",
+      "firstCommit": "2017-02-17T20:50:51Z",
+      "lastCommit": "2017-02-17T20:50:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3792b585a59d6fe64f22491bdadfeb19e6ce42ce"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "003-release-process.md",
+      "template": "Nygard",
+      "status": "Approved on 29/10/2017",
+      "firstCommit": "2017-10-29T13:20:21Z",
+      "lastCommit": "2017-10-31T21:39:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87c29fd1e3f1f10643070e16ccf7c67c05ae0cdc",
+            "2c2bc82d81a1289e18e16304ba86428a7b47d99b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-code-conventions--in-progress.md",
+      "template": "Nygard",
+      "status": "Work In Progress Todo: Use linting tool for checking code conventions.",
+      "firstCommit": "2017-02-07T02:55:04Z",
+      "lastCommit": "2017-02-17T20:11:08Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3e45db076750633ecfd004b8721512f0426ab713",
+            "993ae56cfe53ab796a83faf3af3b451c0a9c6dbf",
+            "bf60a14d0d5a9dc1d1a0216da2d8023a16c2a2a8",
+            "899125d4ffacd138646c7945f15714c76e7afa2b"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-02-07T02:55:04Z",
+  "lastAdrCommit": "2017-10-31T21:39:40Z",
+  "firstCommit": "2014-08-17T22:01:24Z",
+  "lastCommit": "2022-01-15T08:25:50Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3e45db076750633ecfd004b8721512f0426ab713",
+        "87c29fd1e3f1f10643070e16ccf7c67c05ae0cdc",
+        "993ae56cfe53ab796a83faf3af3b451c0a9c6dbf",
+        "2c2bc82d81a1289e18e16304ba86428a7b47d99b",
+        "3792b585a59d6fe64f22491bdadfeb19e6ce42ce",
+        "bf60a14d0d5a9dc1d1a0216da2d8023a16c2a2a8",
+        "899125d4ffacd138646c7945f15714c76e7afa2b"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "repositoryUrl": "https://github.com/joelea/hodder.git",
+  "crawlDateTime": "2022-01-18T18:55:35.510193",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-docker-compose-v-2.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-13T23:31:52Z",
+      "lastCommit": "2016-03-16T17:17:56Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1480f8f463d93f18d96b3f83806b0f6ec507b376"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "209e5dfdce2c5060b310e6bc7b088eeef43860be"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-circle-ci-for-ete-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-14T13:45:47Z",
+      "lastCommit": "2016-02-14T13:45:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cad705431fd2a217fb69c616b36bd365e40c8d51"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-13T23:31:52Z",
+      "lastCommit": "2016-02-13T23:31:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1480f8f463d93f18d96b3f83806b0f6ec507b376"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-02-13T23:31:52Z",
+  "lastAdrCommit": "2016-03-16T17:17:56Z",
+  "firstCommit": "2016-02-06T14:50:39Z",
+  "lastCommit": "2016-03-16T17:17:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "209e5dfdce2c5060b310e6bc7b088eeef43860be"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cad705431fd2a217fb69c616b36bd365e40c8d51",
+        "1480f8f463d93f18d96b3f83806b0f6ec507b376"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

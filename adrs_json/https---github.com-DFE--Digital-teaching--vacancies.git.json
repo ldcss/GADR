@@ -1,0 +1,315 @@
+{
+  "repositoryUrl": "https://github.com/DFE-Digital/teaching-vacancies.git",
+  "crawlDateTime": "2022-01-18T19:36:43.237343",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "documentation/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0006_using_buildpacks_on_paas.md",
+      "template": "Nygard",
+      "status": "**Decided**",
+      "firstCommit": "2020-04-23T13:02:51Z",
+      "lastCommit": "2020-04-23T13:02:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46ec638778882cbf6500cfab0caf1bb9cb510313"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0009_build_job_applications_rather_than_buy_cots.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-10T14:13:02Z",
+      "lastCommit": "2020-12-10T14:47:27Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3cfc8e7f0ef5cd38803d061dc7e09219860870e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b6a1b331a093c268c3f5bbf89015c7a96a64d8b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0001_get_postcode_from_coordinates.md",
+      "template": "Nygard",
+      "status": "approved",
+      "firstCommit": "2019-10-15T13:51:48Z",
+      "lastCommit": "2019-10-15T13:51:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b5f64f9f6617eee0097a58e45eb3cce6bcebc2f3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0002_replace_google_sheets_with_big_query.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-20T14:42:24Z",
+      "lastCommit": "2020-01-21T10:53:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "69fd04129cedc013d02a0e41c11a9d39731a4c73",
+            "afbb47db941d6408994a04ce641132a235df1585"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0011_use_devcontainers.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-11-09T10:28:53Z",
+      "lastCommit": "2021-11-09T10:28:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9b80088b9ad0f020fb5376160b156f9219650cc7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0004_define_environments_after_gov_uk_paas_migration.md",
+      "template": "Nygard",
+      "status": "**Discussing**",
+      "firstCommit": "2020-02-17T15:58:09Z",
+      "lastCommit": "2021-12-08T11:43:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5cd71cfbb28787e37966d34534925fefb163b53"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25200c5ac272dafd0b5dd0003871f4208560ee30"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0003_replace_gitflow_with_simple_git_workflow.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-29T16:33:21Z",
+      "lastCommit": "2021-12-08T11:43:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8d507197a3196ac1c196dea0a86d524060a7964c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25200c5ac272dafd0b5dd0003871f4208560ee30"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0007_use_devise_for_authentication.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-16T16:26:55Z",
+      "lastCommit": "2020-11-16T16:26:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "23a59f400c5a164cc0a9b70fcad932a0c02707e6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0008_continue_to_use_Algolia_as_search_engine.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-25T10:29:11Z",
+      "lastCommit": "2020-11-25T10:29:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "10bcbe2c2ff86a42d999d32f849bc678e51402ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0010_migrate_from_algolia_to_postgres.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-09-22T12:49:49Z",
+      "lastCommit": "2021-09-22T12:49:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5617fddaf627121a9a6d3c2428aa7563f5cbd6aa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0005_elasticsearch_to_algolia_migration.md",
+      "template": "Nygard",
+      "status": "**Discussing** Sumarises to output and decisions taken as a result of spikes: - [TEVA-615](https://docs.google.com/document/d/14hf17sSuQu7N0cBa6tvdC_WwiHHBVJ5aA7xDPQghTT0/edit?usp=sharing) - [TEVA-616](https://docs.google.com/document/d/1Z23ethqb3cICGvx61Nbr0yEbsTAoULiKSXSmGpW1unA/edit?usp=sharing)",
+      "firstCommit": "2020-04-08T10:25:15Z",
+      "lastCommit": "2020-04-08T10:25:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7fca07ad460d357ef6219b1068e450daf6d98b4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-15T13:51:48Z",
+  "lastAdrCommit": "2021-12-08T11:43:40Z",
+  "firstCommit": "2017-08-22T10:14:50Z",
+  "lastCommit": "2022-01-18T17:35:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9b80088b9ad0f020fb5376160b156f9219650cc7",
+        "5617fddaf627121a9a6d3c2428aa7563f5cbd6aa",
+        "5b6a1b331a093c268c3f5bbf89015c7a96a64d8b"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "10bcbe2c2ff86a42d999d32f849bc678e51402ca",
+        "23a59f400c5a164cc0a9b70fcad932a0c02707e6",
+        "c3cfc8e7f0ef5cd38803d061dc7e09219860870e",
+        "c5cd71cfbb28787e37966d34534925fefb163b53"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "46ec638778882cbf6500cfab0caf1bb9cb510313",
+        "8d507197a3196ac1c196dea0a86d524060a7964c"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a7fca07ad460d357ef6219b1068e450daf6d98b4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b5f64f9f6617eee0097a58e45eb3cce6bcebc2f3"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "25200c5ac272dafd0b5dd0003871f4208560ee30"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "69fd04129cedc013d02a0e41c11a9d39731a4c73",
+        "afbb47db941d6408994a04ce641132a235df1585"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

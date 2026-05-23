@@ -1,0 +1,122 @@
+{
+  "repositoryUrl": "https://github.com/corvus-dotnet/Corvus.Tenancy.git",
+  "crawlDateTime": "2022-01-18T17:45:57.706856",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-v2-to-v3-transition.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-26T11:16:23Z",
+      "lastCommit": "2021-12-17T15:53:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5cb4b3ccfa5425bded321d33ad1c44176a5455ce",
+            "10474aa1af156fe0e1b4eeea5bc8eded4dd5a054"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-tenants-will-not-inherit-their-parents-properties.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-09T14:18:24Z",
+      "lastCommit": "2021-12-17T15:53:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3e708862166a2f122750089d89e239cd50a37317"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5cb4b3ccfa5425bded321d33ad1c44176a5455ce"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-no-automatic-storage-container-creation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-11-26T11:16:23Z",
+      "lastCommit": "2021-12-17T15:53:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5cb4b3ccfa5425bded321d33ad1c44176a5455ce",
+            "10474aa1af156fe0e1b4eeea5bc8eded4dd5a054"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-stable-tenant-ids.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-09T14:43:34Z",
+      "lastCommit": "2020-04-09T14:43:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "00904f2ed2df00d9831b11580804e4b730c03be4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-09T14:18:24Z",
+  "lastAdrCommit": "2021-12-17T15:53:26Z",
+  "firstCommit": "2019-09-03T07:33:32Z",
+  "lastCommit": "2022-01-14T23:07:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3e708862166a2f122750089d89e239cd50a37317",
+        "00904f2ed2df00d9831b11580804e4b730c03be4"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5cb4b3ccfa5425bded321d33ad1c44176a5455ce",
+        "10474aa1af156fe0e1b4eeea5bc8eded4dd5a054"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

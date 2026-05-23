@@ -1,0 +1,233 @@
+{
+  "repositoryUrl": "https://github.com/upenn-libraries/sdbmss.git",
+  "crawlDateTime": "2022-01-18T21:23:01.628566",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decisions"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0008-rdf-sparql-support.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-15T17:54:40Z",
+      "lastCommit": "2019-08-28T21:25:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab5d8ef72620214179a88b8ab2a871b013f7f401",
+            "3372d6c66cfd01f65bc6b3d5b99dee90e0e57cb8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0003-provide-search-results-downloads.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-15T17:54:40Z",
+      "lastCommit": "2019-07-15T17:54:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3372d6c66cfd01f65bc6b3d5b99dee90e0e57cb8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0006-de-ricci-integration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-15T17:54:40Z",
+      "lastCommit": "2019-08-28T21:25:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab5d8ef72620214179a88b8ab2a871b013f7f401",
+            "3372d6c66cfd01f65bc6b3d5b99dee90e0e57cb8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0009-sdbm-user-forum.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-28T21:25:02Z",
+      "lastCommit": "2019-08-28T21:25:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab5d8ef72620214179a88b8ab2a871b013f7f401"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0002-build-crud-and-search.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-15T17:54:40Z",
+      "lastCommit": "2019-09-26T15:49:40Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3372d6c66cfd01f65bc6b3d5b99dee90e0e57cb8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b58dbba4856435ac473c51e701cbd33bfa682b14",
+            "6d68e5f2a7fe8ea26253f37c2bafe35966d05bc7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0005-user-maintenance-of-page-content.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-15T17:54:40Z",
+      "lastCommit": "2019-08-28T21:25:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab5d8ef72620214179a88b8ab2a871b013f7f401",
+            "3372d6c66cfd01f65bc6b3d5b99dee90e0e57cb8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0004-name-authority-component.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-15T17:54:40Z",
+      "lastCommit": "2019-09-26T15:28:57Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab5d8ef72620214179a88b8ab2a871b013f7f401",
+            "3372d6c66cfd01f65bc6b3d5b99dee90e0e57cb8"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee5dce84252f59b9db5de81fa85594ba5aa6e75f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0007-geographic-name-authority.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-15T17:54:40Z",
+      "lastCommit": "2019-08-28T21:25:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab5d8ef72620214179a88b8ab2a871b013f7f401",
+            "3372d6c66cfd01f65bc6b3d5b99dee90e0e57cb8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-15T17:54:40Z",
+      "lastCommit": "2019-07-15T17:54:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3372d6c66cfd01f65bc6b3d5b99dee90e0e57cb8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-07-15T17:54:40Z",
+  "lastAdrCommit": "2019-09-26T15:49:40Z",
+  "firstCommit": "2014-12-09T14:33:51Z",
+  "lastCommit": "2021-09-27T20:22:38Z",
+  "adrDirFile": {
+    "fileContent": "architecture-decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ab5d8ef72620214179a88b8ab2a871b013f7f401",
+        "3372d6c66cfd01f65bc6b3d5b99dee90e0e57cb8"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b58dbba4856435ac473c51e701cbd33bfa682b14",
+        "6d68e5f2a7fe8ea26253f37c2bafe35966d05bc7",
+        "ee5dce84252f59b9db5de81fa85594ba5aa6e75f"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "repositoryUrl": "https://github.com/kuona/kuona.git",
+  "crawlDateTime": "2022-01-18T19:59:46.809778",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-evaluate-buddy-auth-for-admin-access-controls.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2018-09-08T16:58:52Z",
+      "lastCommit": "2018-09-08T16:58:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aa898b80be22438b5cef502ea46410037fb49b55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-02T01:08:01Z",
+      "lastCommit": "2018-09-02T01:08:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "984a164711f78328d9949792af841b83743d2f2d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-02T01:08:01Z",
+  "lastAdrCommit": "2018-09-08T16:58:52Z",
+  "firstCommit": "2016-09-17T14:19:56Z",
+  "lastCommit": "2022-01-13T04:32:48Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "984a164711f78328d9949792af841b83743d2f2d",
+        "aa898b80be22438b5cef502ea46410037fb49b55"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "repositoryUrl": "https://github.com/hmrc/play-frontend-hmrc.git",
+  "crawlDateTime": "2022-01-18T23:13:01.941065",
+  "numAdrDirectories": 2,
+  "adrDirectories": [
+    "docs/maintainers/adr",
+    "docs/maintainers/adrs-from-play-frontend-govuk"
+  ],
+  "numAdrFiles": 19,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0004-add-contact-and-welsh-information-links-into-footer.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-12-11T08:59:48Z",
+      "lastCommit": "2020-12-11T08:59:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "086fe4071b8cf454b2bb213dacef5c5bb60da61d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0011-inline-play-frontend-govuk.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-08-09T16:31:22Z",
+      "lastCommit": "2021-08-09T16:31:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "817758786236644e1c3531e1331d5367e8bd22a7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0014-keep-current-package-structure-and-naming-conventions.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-08-16T11:48:09Z",
+      "lastCommit": "2021-08-16T11:48:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e4234c9bcd448b3c482d8f3d4b997e8598d7375a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0007-bind-implicit-language-to-twirl-conponent.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-03-11T15:57:57Z",
+      "lastCommit": "2021-03-12T08:57:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f232c7331e3f917e92eb8812804de72d8db27127"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0b77e12dc1e8a9c4487e5fed0806db9d3468d777"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0008-maintain-parity-with-hmrc-frontend.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-03-19T16:18:52Z",
+      "lastCommit": "2021-03-19T16:18:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4fdf13525f966126f9ffe42c88673643be1ec56e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0015-introduction-of-implicit-conversions.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-09-09T16:15:04Z",
+      "lastCommit": "2021-09-09T16:15:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24104631015f8c92c251c049a5f345fbf2242970"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0003-use-the-suffix-helpers-for-helper-components.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-12-11T08:59:48Z",
+      "lastCommit": "2020-12-11T08:59:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "086fe4071b8cf454b2bb213dacef5c5bb60da61d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0012-create-an-endpoint-in-play-frontend-hmrc-for-surfacing-session-metadata.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-08-10T09:36:14Z",
+      "lastCommit": "2021-08-10T09:36:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab465250afca73b5b36ad15aaffc04e6b381a362"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0010-resolve-naming-collisions-between-libraries.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-08-04T09:13:38Z",
+      "lastCommit": "2021-08-04T09:13:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcbfa0ed52d6c5afddbab6cd95b95da21bc959ee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0002-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-12-11T08:59:48Z",
+      "lastCommit": "2020-12-11T08:59:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "086fe4071b8cf454b2bb213dacef5c5bb60da61d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0001-play-frontend-hmrc-mirrors-hmrc-frontend.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-12-11T08:59:48Z",
+      "lastCommit": "2020-12-11T08:59:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "086fe4071b8cf454b2bb213dacef5c5bb60da61d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0006-allow-service-name-to-be-specified-using-messages-or-a-parameter.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-02-08T07:00:26Z",
+      "lastCommit": "2021-02-08T07:00:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2016cb15b371240e474caa4db3a193565f1ada85"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0009-self-publish-webjar.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-06-11T08:06:32Z",
+      "lastCommit": "2021-06-11T08:06:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a78c3a47d545a5795b455e8cf6c334355fdaae65"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0013-removing-deprecated-helpers.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-08-13T15:21:30Z",
+      "lastCommit": "2021-08-13T15:21:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb03675ede918c2dab07455a623f6e01b57dd220"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adr",
+      "path": "0005-include-govuk-frontend-in-compiled-assets.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-29T09:54:31Z",
+      "lastCommit": "2021-01-29T09:54:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1cade51cab42aa2d4ca0def514bb7d8da7e66467"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adrs-from-play-frontend-govuk",
+      "path": "0001-add-implicit-radios-helper.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-02-15T13:53:04Z",
+      "lastCommit": "2021-08-19T07:56:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8847b697e7628b993ca21b44633b88703f25beb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f6964f749a6441d19ebaf7a3e147e3c52f232524"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adrs-from-play-frontend-govuk",
+      "path": "0003-patch-welsh-translation-for-skip-to-content-link.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-06-10T14:05:39Z",
+      "lastCommit": "2021-08-19T07:56:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8847b697e7628b993ca21b44633b88703f25beb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "223e4742ddfeb5e5c3da65fc9fa72428e61200c3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adrs-from-play-frontend-govuk",
+      "path": "0002-maintain-parity-with-govuk-frontend.md",
+      "template": "Madr",
+      "status": "extended by [ADR-0003](0003-patch-welsh-translation-for-skip-to-content-link.md)",
+      "firstCommit": "2021-03-19T16:18:06Z",
+      "lastCommit": "2021-09-10T10:15:02Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8847b697e7628b993ca21b44633b88703f25beb",
+            "5ba89be180bca6503594f57105e2d993fecfc195"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "223e4742ddfeb5e5c3da65fc9fa72428e61200c3",
+            "c75cf163e6876a251caf137abf430932e04c08d6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52c92a33e4305774d729ef93fc0f01e5ca72b89d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/maintainers/adrs-from-play-frontend-govuk",
+      "path": "0004-remove-hard-dependency-on-the-govuk-frontend-webjar.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-06-24T13:30:38Z",
+      "lastCommit": "2021-09-10T10:15:02Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8847b697e7628b993ca21b44633b88703f25beb",
+            "f147c419f39aad17ffc1bcc57c3290ae35033aa8"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c75cf163e6876a251caf137abf430932e04c08d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-11T08:59:48Z",
+  "lastAdrCommit": "2021-09-10T10:15:02Z",
+  "firstCommit": "2019-08-07T18:15:09Z",
+  "lastCommit": "2022-01-18T10:24:18Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1cade51cab42aa2d4ca0def514bb7d8da7e66467",
+        "b8847b697e7628b993ca21b44633b88703f25beb",
+        "086fe4071b8cf454b2bb213dacef5c5bb60da61d",
+        "817758786236644e1c3531e1331d5367e8bd22a7",
+        "e4234c9bcd448b3c482d8f3d4b997e8598d7375a",
+        "f147c419f39aad17ffc1bcc57c3290ae35033aa8",
+        "24104631015f8c92c251c049a5f345fbf2242970",
+        "5ba89be180bca6503594f57105e2d993fecfc195",
+        "ab465250afca73b5b36ad15aaffc04e6b381a362",
+        "2016cb15b371240e474caa4db3a193565f1ada85",
+        "a78c3a47d545a5795b455e8cf6c334355fdaae65"
+      ],
+      "numberOfCommits": 11
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "223e4742ddfeb5e5c3da65fc9fa72428e61200c3",
+        "bcbfa0ed52d6c5afddbab6cd95b95da21bc959ee",
+        "c75cf163e6876a251caf137abf430932e04c08d6"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f232c7331e3f917e92eb8812804de72d8db27127"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bb03675ede918c2dab07455a623f6e01b57dd220"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0b77e12dc1e8a9c4487e5fed0806db9d3468d777",
+        "f6964f749a6441d19ebaf7a3e147e3c52f232524",
+        "52c92a33e4305774d729ef93fc0f01e5ca72b89d",
+        "4fdf13525f966126f9ffe42c88673643be1ec56e"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

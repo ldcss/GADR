@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/jncmaguire/golang-git-fritz.git",
+  "crawlDateTime": "2022-01-18T18:55:36.542937",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0002-implement-with-golang.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-25T07:21:18Z",
+      "lastCommit": "2019-08-25T07:21:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a3628348010368880bc280b18235c1388ace62b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-follow-conventional-commits.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-25T07:21:18Z",
+      "lastCommit": "2019-08-25T07:21:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a3628348010368880bc280b18235c1388ace62b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-25T07:21:18Z",
+      "lastCommit": "2019-08-25T07:21:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a3628348010368880bc280b18235c1388ace62b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-25T07:21:18Z",
+  "lastAdrCommit": "2019-08-25T07:21:18Z",
+  "firstCommit": "2019-08-25T07:19:16Z",
+  "lastCommit": "2019-08-25T07:26:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4a3628348010368880bc280b18235c1388ace62b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

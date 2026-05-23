@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/kopach/lockfix.git",
+  "crawlDateTime": "2022-01-18T20:30:13.343787",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-documenting-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Status: Accepted on 2020-06-04",
+      "firstCommit": "2020-06-04T23:03:41Z",
+      "lastCommit": "2020-06-04T23:03:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9baa68871bc58675ef3a55feb2569c54dd748752"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-typescript-as-project-language.md",
+      "template": "Nygard",
+      "status": "Status: Accepted on 2020-06-04",
+      "firstCommit": "2020-06-04T23:03:41Z",
+      "lastCommit": "2020-06-04T23:03:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9baa68871bc58675ef3a55feb2569c54dd748752"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-04T23:03:41Z",
+  "lastAdrCommit": "2020-06-04T23:03:41Z",
+  "firstCommit": "2020-06-04T23:03:41Z",
+  "lastCommit": "2022-01-18T19:48:35Z",
+  "adrDirFile": {
+    "fileContent": "doc/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9baa68871bc58675ef3a55feb2569c54dd748752"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

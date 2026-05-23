@@ -1,0 +1,102 @@
+{
+  "repositoryUrl": "https://github.com/Betterment/test_track.git",
+  "crawlDateTime": "2022-01-18T20:23:22.684248",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-002.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-17T18:34:42Z",
+      "lastCommit": "2020-04-16T11:35:28Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8332c9110a5dc8a6bcddb19155a3968843a1975b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14a9c814c4434122c0c5ef1ad1b4d17a0e3c6136"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-003.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-26T20:43:19Z",
+      "lastCommit": "2019-04-26T20:43:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "34da2b07cedce44b99699eca02efceb93ce08320"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-17T18:16:07Z",
+      "lastCommit": "2019-04-17T18:34:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "202703f10d6a102a3e75c75d62bb5beb8effa8fd",
+            "14a9c814c4434122c0c5ef1ad1b4d17a0e3c6136"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-04-17T18:16:07Z",
+  "lastAdrCommit": "2020-04-16T11:35:28Z",
+  "firstCommit": "2016-10-25T19:58:30Z",
+  "lastCommit": "2021-10-12T18:14:25Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8332c9110a5dc8a6bcddb19155a3968843a1975b",
+        "34da2b07cedce44b99699eca02efceb93ce08320"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "202703f10d6a102a3e75c75d62bb5beb8effa8fd",
+        "14a9c814c4434122c0c5ef1ad1b4d17a0e3c6136"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

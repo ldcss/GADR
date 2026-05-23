@@ -1,0 +1,1260 @@
+{
+  "repositoryUrl": "https://github.com/decentraland/adr.git",
+  "crawlDateTime": "2022-01-18T19:02:11.68051",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs"
+  ],
+  "numAdrFiles": 50,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-3-explorer-packages-organization.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-08T16:16:21Z",
+      "lastCommit": "2020-10-15T21:06:04Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1188974e9ed0dacf88e1eab02181b049cbe04a17",
+            "c790308ff3885882c40eb530ae23eeabda80d48f",
+            "7ca1084083a30b84421cc3c1fced96cde3c1747b",
+            "fd83d91524ebab8c450d4f9def6784427cf9743c"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-23-entities-meta-data-flow-for-builder-in-world.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-02-03T04:00:57Z",
+      "lastCommit": "2021-02-03T04:00:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "370196f3c017a5f591196fda8ddc81b441a16ff2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-32-wearable-committee-reverts.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-07-05T17:25:21Z",
+      "lastCommit": "2021-07-05T17:25:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f55fb1425460311f29821632207bcd0d39ced580"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-14-l1-l2-governance-smart-contracts-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-03T20:49:10Z",
+      "lastCommit": "2020-11-05T19:40:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "701490bc75ba5b762142ba1f46e0ad083a1d8511",
+            "5c3bc6806f52274490416c2f0a932d1a6e904b6b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-10-profile-deployment-debouncing.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-26T13:59:10Z",
+      "lastCommit": "2020-10-26T13:59:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "96bdef403dc3bcaf23e1b0ab11b2f3e05ca673e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-4-collections-architecture-in-L1-L2.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-15T00:45:40Z",
+      "lastCommit": "2020-11-05T19:35:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ca1084083a30b84421cc3c1fced96cde3c1747b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "719e838068a636bc790e19d40e41eca5b86335c1",
+            "f03d6c15c02b21ba9125cbd6bd9750cdec159e9a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-36-kernel-repository-separation.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-07-29T14:25:42Z",
+      "lastCommit": "2021-07-29T14:25:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17c7b70281a80f43b2a99894283afcd9d168f9ab"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-19-l2-roadmap-stage-1-stage-2-alternatives.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-03T11:57:41Z",
+      "lastCommit": "2020-12-03T11:57:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2932b0fefa731fe71300698447840f1f4ae2dd54"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-6-git-style-guide.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-16T16:48:15Z",
+      "lastCommit": "2020-10-16T16:48:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "299ba4035decadf7bf55d4628c89f3251b3f5893"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-20-explorer-settings-panel-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-11T20:03:36Z",
+      "lastCommit": "2021-01-20T10:59:01Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "293e5a623b1faa943c872ff29dc5694cdd3e1b40",
+            "61213f3f6a40285ebaa77b11394cf327642e171f",
+            "2d59007ba2c370213935355b248e615ce20dfbea"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-18-content-mappings-flow-for-explorer-and-builder-in-world.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-11-19T16:21:10Z",
+      "lastCommit": "2020-11-19T16:21:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5a10fdc4ce1fe7c383d31840da7cb76b7df86df"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-30-front-and-back-end-architecture-for-the-marketplace.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-06-22T19:42:55Z",
+      "lastCommit": "2021-06-22T19:42:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9297adc01e449d15f66eb864bd439330824f1d13"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-15-l1-l2-collections-approval-flow.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-05T19:44:45Z",
+      "lastCommit": "2020-11-05T19:49:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "97a50d687880d8fb14f7f7f217e2da3928e5a141",
+            "e965d93bd9354848403252728737aa4b052387d8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-26-port-signup-screen-to-unity-.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-08T13:58:55Z",
+      "lastCommit": "2021-06-08T13:58:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc31f111d9c559de1f783dd8042f9996896eb8cd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-50-isolated-scenes.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2022-01-05T12:24:46Z",
+      "lastCommit": "2022-01-05T12:24:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "12dc642a14a4565f23af3de49dbb628fbdce36ae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-33-collections-bridge.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-07T19:04:17Z",
+      "lastCommit": "2021-07-07T19:04:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "22d1887dc2fbd3b02c551be8e102352590a78ffd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-31-signin-signup-kernel-website.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-05T16:25:47Z",
+      "lastCommit": "2021-07-12T13:25:01Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "df000bccd7d902e3350fe5ffcdc698f2ada02052",
+            "8b2b90657633eb2823c6cfc2b3d6647662a74cde"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-12-documentation-as-a-priority.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-29T18:52:55Z",
+      "lastCommit": "2020-10-29T18:52:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5febd0e4c5912535a993ecf4655cd94f85dbc18f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-35-coms-protocol-optimizations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-27T21:17:14Z",
+      "lastCommit": "2021-07-27T21:17:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe291064c97ec5571c730eb6c35af98a191cdcea"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-8-dao-content-servers-and-local-content-servers.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-16T21:46:28Z",
+      "lastCommit": "2020-10-16T21:47:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3b30e72d8fa1aeac573ba7f974e3e861f12f66f0",
+            "9d1e3ecdf9c2c9b4dfd0c749067cf1588dfae92e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-37-explorer-desktop-launcher-technology.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-30T21:29:55Z",
+      "lastCommit": "2021-07-30T21:29:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "83f83f0195a5c32c19998389c3ec2a3df00223d1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-46-royalties-manager-v1.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-17T14:55:08Z",
+      "lastCommit": "2021-11-17T14:55:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cd7f86703f2eb497db8afaba35be98518814d08f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-40-ui-dependencies-upgrades.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-30T11:56:30Z",
+      "lastCommit": "2021-08-30T11:56:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6f2a257f9b2b58557355679b05aed9fcaadb9f1d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-25-explorer-repositories-decoupling-.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-16T20:49:03Z",
+      "lastCommit": "2021-04-16T20:49:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ee41fcf6bfa11b570ecca12b4b4fad4a15f33e6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-1-documenting-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-10-13T19:29:14Z",
+      "lastCommit": "2020-10-15T21:06:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ca1084083a30b84421cc3c1fced96cde3c1747b",
+            "d2b51e59e94a4ef1362648266df25b3eab3c901c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-41-collection-items-approval-flow-enhancement.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-09-06T18:39:35Z",
+      "lastCommit": "2021-09-24T13:04:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa535cc63171080b9f7d46ddf5ab7629dcc5bc90",
+            "6df98b7e78ba443fad2ef6c8e77205714d6af6cd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-38-communication-kernel-desktop.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-08-05T20:15:36Z",
+      "lastCommit": "2021-08-05T20:15:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25f9b6720b4c0e82e2552db35594b5b197f8fafd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-21-update-cycle-of-catalysts.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-14T15:30:23Z",
+      "lastCommit": "2020-12-14T15:30:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4202d56ed72ecc2d4b2dd572432547af8d1fb139"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-28-smart-contract-wallets-and-meta-transactions.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-06-15T20:50:57Z",
+      "lastCommit": "2021-06-15T21:08:34Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d85f05a74b363481eb1a0fe78294b79f735c7f65",
+            "a7f1192ae6c8a87284a9953145cdeb9b17b0f077",
+            "d93efad1d5e91b5ed5077c6c310ab7658683bbf5"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-43-catalyst-api-refinment.md",
+      "template": "Nygard",
+      "status": "Rejected by DAO",
+      "firstCommit": "2021-11-09T13:49:29Z",
+      "lastCommit": "2021-11-24T18:36:56Z",
+      "numberOfCommits": 12,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1dca585fcbe6c2c468442bbb09aa047123f74498",
+            "882a645b78711faaca8c9a9f32e13a9b72c08ecf",
+            "4d0b80b9f9aa14a8ced5ddfe5ae8624adadeed8f",
+            "83dfd1fa4b73d2fe3d55ca4bf8ab7678b2cdfc89",
+            "9bc0b34b28de4cc9c1124b71ebc13f19b8b16640",
+            "650723182b2ac8b23b642934f658c12aa50b3a06",
+            "e73e1d97dad3efa787c8e7f453297fcef9cfd638",
+            "be3200e7f4d73fd00c7bc5c83b8de8c12fc42cf7",
+            "ab92c7cfe392291293af4dd19d5bea2ecc309eb1",
+            "5a443dfd2923c21486f5054d410f07610e67f761"
+          ],
+          "numberOfCommits": 10
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "04c26b871c1467abc7c8ee491bdf2e4c4685639d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cb70b9b3c6171148bc546d217608f4c57d3cfcf5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-11-add-version-to-content-as-bundle-url.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-26T19:27:33Z",
+      "lastCommit": "2020-10-26T19:27:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bf68e6221fda5e05ae089ab58b888da6ef13b589"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-27-port-loading-screen-to-unity-.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-14T17:10:20Z",
+      "lastCommit": "2021-06-14T17:10:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a46a33f6f7ae2795b069cc7e6e214fbf3eed920b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-17-wearable-collection-approval-and-economics.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-17T00:31:37Z",
+      "lastCommit": "2020-11-17T00:31:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4161d36df152de24ced5ddcdfe728eb8b400d2cf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-42-third-party-assets-integration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-04T12:25:50Z",
+      "lastCommit": "2021-11-24T20:35:04Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa86437af62f0a2219665297d1528f430dfcaf11",
+            "eacd5147371660812a7c2d602fd26dcd9ffe6ac4",
+            "f78f0ec80be85b689a3b20dd156ee2db5e8e4cc7",
+            "102d79321911efca2131c97aa37d7a9f34c6b51a",
+            "8c98ac3e663e5c55b0508c7d7460016c1ecde448",
+            "1401f08254453ddaa04e6aaafd9c9f1f01aab763"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-24-decouple-kernel-and-unity-apis.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-04-06T15:33:10Z",
+      "lastCommit": "2021-04-08T04:13:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "97d41c5aa1450dd2120d18314195cf0d88c163ec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91689d412396ff920b56da9e07a3d5b62020d1ee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-16-unity-data-store-architecture.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-11-05T21:00:06Z",
+      "lastCommit": "2020-11-05T21:00:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dfe0f5fcd2364f6c2160b5e6eae129a0c67ef713"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-29-refactor-hud-controller.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-18T18:00:11Z",
+      "lastCommit": "2021-06-18T18:00:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d0950218ca270b7ee965d88146bd8aaa8bb27276"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-13-custom-ui-modes-for-builder-in-world.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-02T19:33:12Z",
+      "lastCommit": "2020-11-03T20:49:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c3bc6806f52274490416c2f0a932d1a6e904b6b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f9d7ebb73d8617c0e5ea5959ea9c57acba7a65d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-52-content-new-sync.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2022-01-06T12:58:56Z",
+      "lastCommit": "2022-01-10T16:37:41Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "35aa80639e2917f85657519cf829d4d93df20bd3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "71a055e7231fbd4690195a48822fee4f00b57f6f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-9-DecentralandInterface-evolution-plan.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-22T18:26:49Z",
+      "lastCommit": "2020-10-22T18:26:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "66b13f23fc32b0b47a529dec698bc5fd4eb4f8b2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-48-locking-collections-in-the-builder.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-12-06T17:46:58Z",
+      "lastCommit": "2021-12-06T17:46:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "323bd345431f8af0bf6a516b296123c4d3df1b26"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-45-entities-v4.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-24T17:47:24Z",
+      "lastCommit": "2021-11-24T17:47:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a93e80990dd7c8890912d29c34aa06ecf3fde1b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-39-dapps-blockchains-support.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-08-10T16:26:36Z",
+      "lastCommit": "2021-08-10T16:26:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bcb79d2461fd96042cbd35addb92c6184c3b347"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-47-collections-secondary-marketplaces-v2.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-17T14:55:08Z",
+      "lastCommit": "2021-12-06T17:46:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cd7f86703f2eb497db8afaba35be98518814d08f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "323bd345431f8af0bf6a516b296123c4d3df1b26"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-34-collections-approval-flow.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-07T21:25:19Z",
+      "lastCommit": "2021-07-21T12:33:35Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ea56e4c13e4d10cdda7642e195edf379ec0a4c3",
+            "da03b34e7dfffb965f9273e4dafa149607a3f776",
+            "685a90dcc86a2f5f1e1b4216bbf126470b096890"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-7-standards-repository.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-16T16:57:45Z",
+      "lastCommit": "2020-10-16T16:57:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a6db1a91cf3f4187b12c18c4b362522294b9c0b1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-22-quests-progress-ui.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-01-19T17:20:04Z",
+      "lastCommit": "2021-01-19T17:20:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a84b183d0ac252aa25f4808f12bde33b10d08ed0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-5-how-to-organize-adr-files.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-15T21:06:04Z",
+      "lastCommit": "2020-10-15T21:06:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ca1084083a30b84421cc3c1fced96cde3c1747b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "resources/ADR-33/collections-v2-bridge.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-07T19:04:17Z",
+      "lastCommit": "2021-07-07T19:04:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "22d1887dc2fbd3b02c551be8e102352590a78ffd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-2-state-sync-for-builder-in-world.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-07T18:56:25Z",
+      "lastCommit": "2020-10-15T21:06:04Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ddb18b7d1d7c4512cdaab7aa89243393175bb450",
+            "e88d0221892c83f9e085f7e19ad9de30b41940d3",
+            "689336958472b0ac04331dd4d57a5ddb9c72d141",
+            "7ca1084083a30b84421cc3c1fced96cde3c1747b",
+            "cc43b062272d51af8eb7319f5cba0ca059b3fa12"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-07T18:56:25Z",
+  "lastAdrCommit": "2022-01-10T16:37:41Z",
+  "firstCommit": "2020-10-07T17:57:23Z",
+  "lastCommit": "2022-01-18T12:30:49Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1dca585fcbe6c2c468442bbb09aa047123f74498",
+        "882a645b78711faaca8c9a9f32e13a9b72c08ecf",
+        "4d0b80b9f9aa14a8ced5ddfe5ae8624adadeed8f",
+        "83dfd1fa4b73d2fe3d55ca4bf8ab7678b2cdfc89",
+        "9bc0b34b28de4cc9c1124b71ebc13f19b8b16640",
+        "650723182b2ac8b23b642934f658c12aa50b3a06",
+        "e73e1d97dad3efa787c8e7f453297fcef9cfd638",
+        "be3200e7f4d73fd00c7bc5c83b8de8c12fc42cf7",
+        "ab92c7cfe392291293af4dd19d5bea2ecc309eb1",
+        "5a443dfd2923c21486f5054d410f07610e67f761"
+      ],
+      "numberOfCommits": 10
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a46a33f6f7ae2795b069cc7e6e214fbf3eed920b",
+        "df000bccd7d902e3350fe5ffcdc698f2ada02052",
+        "8b2b90657633eb2823c6cfc2b3d6647662a74cde",
+        "cc31f111d9c559de1f783dd8042f9996896eb8cd"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f55fb1425460311f29821632207bcd0d39ced580"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3b30e72d8fa1aeac573ba7f974e3e861f12f66f0",
+        "9d1e3ecdf9c2c9b4dfd0c749067cf1588dfae92e",
+        "a6db1a91cf3f4187b12c18c4b362522294b9c0b1",
+        "4202d56ed72ecc2d4b2dd572432547af8d1fb139",
+        "a84b183d0ac252aa25f4808f12bde33b10d08ed0",
+        "e88d0221892c83f9e085f7e19ad9de30b41940d3",
+        "66b13f23fc32b0b47a529dec698bc5fd4eb4f8b2",
+        "c790308ff3885882c40eb530ae23eeabda80d48f",
+        "5febd0e4c5912535a993ecf4655cd94f85dbc18f",
+        "17c7b70281a80f43b2a99894283afcd9d168f9ab",
+        "fd83d91524ebab8c450d4f9def6784427cf9743c",
+        "bf68e6221fda5e05ae089ab58b888da6ef13b589",
+        "1188974e9ed0dacf88e1eab02181b049cbe04a17",
+        "ddb18b7d1d7c4512cdaab7aa89243393175bb450",
+        "96bdef403dc3bcaf23e1b0ab11b2f3e05ca673e5",
+        "689336958472b0ac04331dd4d57a5ddb9c72d141",
+        "7ca1084083a30b84421cc3c1fced96cde3c1747b",
+        "97d41c5aa1450dd2120d18314195cf0d88c163ec",
+        "299ba4035decadf7bf55d4628c89f3251b3f5893",
+        "d2b51e59e94a4ef1362648266df25b3eab3c901c",
+        "cc43b062272d51af8eb7319f5cba0ca059b3fa12"
+      ],
+      "numberOfCommits": 21
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f5a10fdc4ce1fe7c383d31840da7cb76b7df86df",
+        "9ee41fcf6bfa11b570ecca12b4b4fad4a15f33e6"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "293e5a623b1faa943c872ff29dc5694cdd3e1b40",
+        "61213f3f6a40285ebaa77b11394cf327642e171f",
+        "2d59007ba2c370213935355b248e615ce20dfbea"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cb70b9b3c6171148bc546d217608f4c57d3cfcf5",
+        "fe291064c97ec5571c730eb6c35af98a191cdcea"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "12dc642a14a4565f23af3de49dbb628fbdce36ae"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "323bd345431f8af0bf6a516b296123c4d3df1b26",
+        "9297adc01e449d15f66eb864bd439330824f1d13"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "370196f3c017a5f591196fda8ddc81b441a16ff2",
+        "dfe0f5fcd2364f6c2160b5e6eae129a0c67ef713",
+        "91689d412396ff920b56da9e07a3d5b62020d1ee",
+        "9f9d7ebb73d8617c0e5ea5959ea9c57acba7a65d"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "04c26b871c1467abc7c8ee491bdf2e4c4685639d",
+        "35aa80639e2917f85657519cf829d4d93df20bd3"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d85f05a74b363481eb1a0fe78294b79f735c7f65",
+        "a7f1192ae6c8a87284a9953145cdeb9b17b0f077",
+        "d93efad1d5e91b5ed5077c6c310ab7658683bbf5"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6f2a257f9b2b58557355679b05aed9fcaadb9f1d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a93e80990dd7c8890912d29c34aa06ecf3fde1b0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "71a055e7231fbd4690195a48822fee4f00b57f6f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d0950218ca270b7ee965d88146bd8aaa8bb27276",
+        "83f83f0195a5c32c19998389c3ec2a3df00223d1",
+        "25f9b6720b4c0e82e2552db35594b5b197f8fafd"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1bcb79d2461fd96042cbd35addb92c6184c3b347",
+        "eacd5147371660812a7c2d602fd26dcd9ffe6ac4",
+        "97a50d687880d8fb14f7f7f217e2da3928e5a141",
+        "22d1887dc2fbd3b02c551be8e102352590a78ffd",
+        "fa535cc63171080b9f7d46ddf5ab7629dcc5bc90",
+        "8c98ac3e663e5c55b0508c7d7460016c1ecde448",
+        "719e838068a636bc790e19d40e41eca5b86335c1",
+        "da03b34e7dfffb965f9273e4dafa149607a3f776",
+        "e965d93bd9354848403252728737aa4b052387d8",
+        "2932b0fefa731fe71300698447840f1f4ae2dd54",
+        "5c3bc6806f52274490416c2f0a932d1a6e904b6b",
+        "6df98b7e78ba443fad2ef6c8e77205714d6af6cd",
+        "4161d36df152de24ced5ddcdfe728eb8b400d2cf",
+        "701490bc75ba5b762142ba1f46e0ad083a1d8511",
+        "fa86437af62f0a2219665297d1528f430dfcaf11",
+        "f78f0ec80be85b689a3b20dd156ee2db5e8e4cc7",
+        "4ea56e4c13e4d10cdda7642e195edf379ec0a4c3",
+        "102d79321911efca2131c97aa37d7a9f34c6b51a",
+        "cd7f86703f2eb497db8afaba35be98518814d08f",
+        "1401f08254453ddaa04e6aaafd9c9f1f01aab763",
+        "685a90dcc86a2f5f1e1b4216bbf126470b096890",
+        "f03d6c15c02b21ba9125cbd6bd9750cdec159e9a"
+      ],
+      "numberOfCommits": 22
+    }
+  ]
+}

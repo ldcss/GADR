@@ -1,0 +1,1320 @@
+{
+  "repositoryUrl": "https://github.com/kyma-project/community.git",
+  "crawlDateTime": "2022-01-18T19:01:32.093066",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "sigs-and-wgs/archive/sig-core/decisions"
+  ],
+  "numAdrFiles": 21,
+  "adrFiles": [
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-020-Kyma-installer-with-embedded-charts.md",
+      "template": "Nygard",
+      "status": "Accepted on 2018-09-26.",
+      "firstCommit": "2018-10-08T13:35:05Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "37b8b088d8245ce555724cf5361a97cfb15e26a7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-001-Technologies.md",
+      "template": "Nygard",
+      "status": "Accepted on 2017-11-20.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f",
+            "dd17f922a6474044080a71fefe79ec3c4aa43253"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3",
+            "c397eb94c28fb8c71d1e580e402c3e4e0b592c62"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-004-Kyma_components_testing.md",
+      "template": "Nygard",
+      "status": "Accepted on 2017-12-11.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-005-Istio_as_the_API_Gateway.md",
+      "template": "Nygard",
+      "status": "Accepted on 2017-12-11.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-021-Remove-k8s-api-server-proxies.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-06T05:47:21Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "732f3bf22fdd8d4a2a6072b4f028bf4e02e35b3d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-008-Dex_as_an_OIDC_authenticator.md",
+      "template": "Nygard",
+      "status": "Invalidated on 2021-08-04.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3",
+            "c397eb94c28fb8c71d1e580e402c3e4e0b592c62"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "732f3bf22fdd8d4a2a6072b4f028bf4e02e35b3d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-011-Jaeger_as_a_tracing_back-end.md",
+      "template": "Nygard",
+      "status": "Accepted on 2018-03-09.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29efd279f6865526cb1f8dc5b858b86e32f59de2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-017-Application-Integration-without-Wormhole-Connector.md",
+      "template": "Nygard",
+      "status": "Accepted on 2018-06-19.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-006-Kubeless_as_the_Faas_solution.md",
+      "template": "Nygard",
+      "status": "Accepted on 2017-12-20.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-014-Certificate_against_remote_environment.md",
+      "template": "Nygard",
+      "status": "Proposed on 2018-06-07.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-012-Prettier_as_JavaScript_code_formatter.md",
+      "template": "Nygard",
+      "status": "Accepted on 2018-03-15.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-015-Authorization_for_GraphQL.md",
+      "template": "Nygard",
+      "status": "Invalidated on 2021-08-04.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "732f3bf22fdd8d4a2a6072b4f028bf4e02e35b3d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-007-GraphQL_as_API_facade_for_UI.md",
+      "template": "Nygard",
+      "status": "Invalidated on 2021-08-04.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "732f3bf22fdd8d4a2a6072b4f028bf4e02e35b3d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-016-Decomposition_of_Application_Connector.md",
+      "template": "Nygard",
+      "status": "Proposed on 2018-06-27.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-003-InitContainers_for_dependency_management.md",
+      "template": "Nygard",
+      "status": "Accepted on 2017-11-28.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-009-ServiceBinding_in_Kyma.md",
+      "template": "Nygard",
+      "status": "Accepted on 2018-03-07.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-010-JWT_authentication.md",
+      "template": "Nygard",
+      "status": "Accepted on 2018-03-07.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-002-Traefik_as_an_API_Gateway.md",
+      "template": "Nygard",
+      "status": "Accepted on 2017-11-23.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-013-Allowed_UI_technology_in_the_Console_UI.md",
+      "template": "Nygard",
+      "status": "Accepted 2018-03-28.",
+      "firstCommit": "2018-07-24T10:08:10Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-018-Knative_based_Kyma_eventing.md",
+      "template": "Nygard",
+      "status": "Proposed on 2018-08-10.",
+      "firstCommit": "2018-08-20T08:34:16Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02fb83828d7188000badc11287738f41499bc35f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adeada9072dada9ba19330aca14a481c9ad20e61"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "sigs-and-wgs/archive/sig-core/decisions",
+      "path": "dr-019-Changelog_generation_with_PR_labels.md",
+      "template": "Nygard",
+      "status": "Accepted on 2018-08-17. Revisited on 2019-01-03.",
+      "firstCommit": "2018-09-17T09:28:45Z",
+      "lastCommit": "2021-11-09T09:06:48Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86cfa47302d0263f62ee48347cb400bc39e00e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb3a1d64ad0953b804f2ab07fb52e6de397292d3",
+            "03f2f39915f30f54f11a3fa6aca73fcc3d7d938d"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20c35f56ee4bb66d0365277eda7d442257a37a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-24T10:08:10Z",
+  "lastAdrCommit": "2021-11-09T09:06:48Z",
+  "firstCommit": "2018-07-24T08:54:58Z",
+  "lastCommit": "2022-01-17T16:10:04Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "02fb83828d7188000badc11287738f41499bc35f",
+        "dd17f922a6474044080a71fefe79ec3c4aa43253"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a86cfa47302d0263f62ee48347cb400bc39e00e3",
+        "c397eb94c28fb8c71d1e580e402c3e4e0b592c62"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7859265f6f09b1e0e5789bb38f6e7aa8baa7981e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "37b8b088d8245ce555724cf5361a97cfb15e26a7"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1f3d92746f580613e891ffea8c26a1a3dfa097a2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "732f3bf22fdd8d4a2a6072b4f028bf4e02e35b3d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d7fc1c80bf0a7955697e996ead32f22feaabcb0e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "adeada9072dada9ba19330aca14a481c9ad20e61"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "eb3a1d64ad0953b804f2ab07fb52e6de397292d3",
+        "03f2f39915f30f54f11a3fa6aca73fcc3d7d938d"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "20c35f56ee4bb66d0365277eda7d442257a37a55"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "29efd279f6865526cb1f8dc5b858b86e32f59de2"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "repositoryUrl": "https://github.com/fridgemaniacs/food4thought.git",
+  "crawlDateTime": "2022-02-07T15:19:55.689396",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "."
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": ".",
+      "path": "adr-serverless-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-01T09:56:49Z",
+      "lastCommit": "2020-11-01T09:56:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa62f61e333a5ba3f27b4be4e525359b195eec78"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": ".",
+      "path": "adr-payment-provider.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-01T08:22:17Z",
+      "lastCommit": "2020-11-01T17:42:19Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f4743c3f53c25e13e3f6b735ac3ef1f822216ae9",
+            "56f5d1938b93ecb75ff3fb1db7eaef306ea51efe",
+            "e582c7c1b5daf1b50cea741c091a56a043f354a4"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": ".",
+      "path": "adr-support-multiple-vendors",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-01T18:24:46Z",
+      "lastCommit": "2020-11-01T18:24:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "643c612a39d472c24ae649c2db5e7565532bd2a9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": ".",
+      "path": "adr-async-pos-updates.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-01T18:13:51Z",
+      "lastCommit": "2020-11-01T18:15:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "219772041d6bb7f66348df4b97fdd5abccf4d064",
+            "039f063009360db0d28f3cf7e5f5f4d58e9b0e7f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-01T08:22:17Z",
+  "lastAdrCommit": "2020-11-01T18:24:46Z",
+  "firstCommit": "2020-10-20T16:19:48Z",
+  "lastCommit": "2020-11-02T19:45:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "643c612a39d472c24ae649c2db5e7565532bd2a9",
+        "f4743c3f53c25e13e3f6b735ac3ef1f822216ae9",
+        "56f5d1938b93ecb75ff3fb1db7eaef306ea51efe",
+        "219772041d6bb7f66348df4b97fdd5abccf4d064",
+        "039f063009360db0d28f3cf7e5f5f4d58e9b0e7f",
+        "fa62f61e333a5ba3f27b4be4e525359b195eec78",
+        "e582c7c1b5daf1b50cea741c091a56a043f354a4"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

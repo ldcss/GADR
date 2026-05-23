@@ -1,0 +1,75 @@
+{
+  "repositoryUrl": "https://github.com/cloudfoundry/bosh-bootloader.git",
+  "crawlDateTime": "2022-01-18T20:56:55.564556",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-replace-go-bindata-with-packr2.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-26T18:12:30Z",
+      "lastCommit": "2019-02-26T18:12:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae6faa669022590a16f0180601931eb7227a2262"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-26T18:12:30Z",
+      "lastCommit": "2019-02-26T18:12:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b4d2ddbcd659e315c806b0962332fc25179b4776"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-26T18:12:30Z",
+  "lastAdrCommit": "2019-02-26T18:12:30Z",
+  "firstCommit": "2016-01-25T19:32:16Z",
+  "lastCommit": "2022-01-16T08:15:39Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b4d2ddbcd659e315c806b0962332fc25179b4776"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ae6faa669022590a16f0180601931eb7227a2262"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

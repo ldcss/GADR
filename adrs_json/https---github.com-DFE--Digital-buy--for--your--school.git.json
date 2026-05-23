@@ -1,0 +1,679 @@
+{
+  "repositoryUrl": "https://github.com/DFE-Digital/buy-for-your-school.git",
+  "crawlDateTime": "2022-01-18T18:50:15.494834",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 23,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-use-brakeman-for-security-analysis.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-06-23T10:15:01Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8",
+            "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-use-dotenv-for-managing-environment-variables.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-06-23T10:15:01Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8",
+            "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-use-simplecov-to-monitor-code-test-coverage.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-06-23T10:15:01Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8",
+            "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0020-use-accessible-autocomplete-for-autocomplete-fields.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-11-29T11:32:44Z",
+      "lastCommit": "2021-12-08T13:05:52Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "189811e8c831608349f5874e20c08b800b72c598",
+            "14c879273d34e824366ce1e86a4fa5149f928ddc",
+            "d0e81660d4b874d6ea97fd7e6362e3a7113bdaf0"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c6df7c2af2947eb8a9a26d31ac21f6ee59871be"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-use-bullet-to-catch-nplus1-queries.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-06-23T10:15:01Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8",
+            "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0021-use-msgraph-for-email-integration.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2022-01-04T17:38:35Z",
+      "lastCommit": "2022-01-04T17:38:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "892e262f7ad0a68ed1a41c9c65bbd6d889a9b750"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0022-use-awsS3-for-storage-requirements.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2022-01-07T11:05:19Z",
+      "lastCommit": "2022-01-07T11:05:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "43b314914ce9161fbbd94b49cea1fdc1663bc2a7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-use-a-changelog-for-tracking-changes-in-a-release.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-06-23T10:15:01Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8",
+            "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-pull-request-templates.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-06-23T10:15:01Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8",
+            "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0020-use-contentful-for-page-content.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-11-24T12:32:17Z",
+      "lastCommit": "2021-11-24T12:32:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b4613bec7a07101e633f88c5bdc3882289060f56"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0014-use-logit-for-application-logs.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-06-23T10:15:01Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8",
+            "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0015-store-user-activity-in-app.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-06-23T10:15:01Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8",
+            "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0016-use-rubocop-govuk-for-code-linting.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green) Supercedes [3. Use Standard for Ruby linting](0003-use-standard-rb.md)",
+      "firstCommit": "2021-06-23T14:37:48Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3a3e16b9d7515c913ac45755a74a4264084fb02"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-standard-rb.md",
+      "template": "Nygard",
+      "status": "Superceded by [16. Use rubocop-govuk for code linting](0016-use-rubocop-govuk-for-code-linting.md)",
+      "firstCommit": "2020-10-23T14:06:30Z",
+      "lastCommit": "2021-06-23T14:37:48Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "175a57fdd7d5aa2ca963fade5ce9f60ce46656bb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3a3e16b9d7515c913ac45755a74a4264084fb02"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-add-rollbar-for-application-monitoring.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-06-23T10:15:01Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8",
+            "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0019-use-loaf-for-breadcrumb-links.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-09-10T14:24:47Z",
+      "lastCommit": "2021-09-10T14:24:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "752b16606714d4c2b002b9bfb847be3d413a4afd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0012-create-infrastructure-on-gpaas-cloud-foundry-with-terraform.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-06-23T10:15:01Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8",
+            "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-use-redis-for-a-read-cache.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-06-23T10:15:01Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8",
+            "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0013-use-dfe-sign-in-as-auth-provider.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-06-23T10:15:01Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8",
+            "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0017-use-codeclimate-in-pipeline.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-07-12T07:15:13Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0018-use-notify-api-for-sending-emails.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-08-27T08:03:18Z",
+      "lastCommit": "2021-08-27T08:03:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb66f9ff9e0123ab9b40181e628fd508ecebd1c1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2020-10-23T14:06:30Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "175a57fdd7d5aa2ca963fade5ce9f60ce46656bb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0011-use-sidekiq-for-asynchronous-tasks.md",
+      "template": "Nygard",
+      "status": "![Accepted](https://img.shields.io/badge/adr-accepted-green)",
+      "firstCommit": "2021-06-23T10:15:01Z",
+      "lastCommit": "2021-07-12T07:15:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c207455436e8fd139213fe3dba8f1d3e552117a8",
+            "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-23T14:06:30Z",
+  "lastAdrCommit": "2022-01-07T11:05:19Z",
+  "firstCommit": "2020-10-23T14:06:30Z",
+  "lastCommit": "2022-01-18T17:08:16Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0e1ea1dc25763312fb61ccc63519e67e4038f087"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "189811e8c831608349f5874e20c08b800b72c598",
+        "14c879273d34e824366ce1e86a4fa5149f928ddc",
+        "d0e81660d4b874d6ea97fd7e6362e3a7113bdaf0"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "752b16606714d4c2b002b9bfb847be3d413a4afd"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "175a57fdd7d5aa2ca963fade5ce9f60ce46656bb"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f3a3e16b9d7515c913ac45755a74a4264084fb02"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "43b314914ce9161fbbd94b49cea1fdc1663bc2a7",
+        "892e262f7ad0a68ed1a41c9c65bbd6d889a9b750"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b4613bec7a07101e633f88c5bdc3882289060f56"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9c6df7c2af2947eb8a9a26d31ac21f6ee59871be",
+        "c207455436e8fd139213fe3dba8f1d3e552117a8",
+        "fb66f9ff9e0123ab9b40181e628fd508ecebd1c1",
+        "4c8dd1c3358b9a8a7b7599795396af408fa25934"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

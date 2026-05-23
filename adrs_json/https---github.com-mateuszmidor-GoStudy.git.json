@@ -1,0 +1,147 @@
+{
+  "repositoryUrl": "https://github.com/mateuszmidor/GoStudy.git",
+  "crawlDateTime": "2022-01-18T23:06:48.387859",
+  "numAdrDirectories": 2,
+  "adrDirectories": [
+    "src/github.com/mateuszmidor/GoStudy/TheGoProgrammingLanguage/code/r04-composite-types/xkcd/docs/adr",
+    "src/github.com/mateuszmidor/GoStudy/sdars/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "src/github.com/mateuszmidor/GoStudy/TheGoProgrammingLanguage/code/r04-composite-types/xkcd/docs/adr",
+      "path": "0002-use-c4-for-architecture-diagrams.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-11T16:31:10Z",
+      "lastCommit": "2020-03-02T21:41:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "821efad2b1447cc710a3ddc37bc8a3d7177252e2",
+            "53855b0977ef49fef6631bf8f413523b22b9b23f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/github.com/mateuszmidor/GoStudy/TheGoProgrammingLanguage/code/r04-composite-types/xkcd/docs/adr",
+      "path": "0003-use-modular-monolith-as-system-architecture-style.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-11T16:31:10Z",
+      "lastCommit": "2020-03-02T21:41:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "821efad2b1447cc710a3ddc37bc8a3d7177252e2",
+            "53855b0977ef49fef6631bf8f413523b22b9b23f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/github.com/mateuszmidor/GoStudy/TheGoProgrammingLanguage/code/r04-composite-types/xkcd/docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-11T16:31:10Z",
+      "lastCommit": "2020-03-02T21:41:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "821efad2b1447cc710a3ddc37bc8a3d7177252e2",
+            "53855b0977ef49fef6631bf8f413523b22b9b23f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/github.com/mateuszmidor/GoStudy/TheGoProgrammingLanguage/code/r04-composite-types/xkcd/docs/adr",
+      "path": "0004-use-ports-adapters-as-application-architecture-style.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-11T16:31:10Z",
+      "lastCommit": "2020-03-02T21:41:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "821efad2b1447cc710a3ddc37bc8a3d7177252e2",
+            "53855b0977ef49fef6631bf8f413523b22b9b23f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/github.com/mateuszmidor/GoStudy/sdars/adr",
+      "path": "0002-use-hexagonal-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-12T20:46:05Z",
+      "lastCommit": "2020-02-12T20:46:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "795c1607065d997ff8ef56667a658de7970e7aaa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/github.com/mateuszmidor/GoStudy/sdars/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-12T20:46:05Z",
+      "lastCommit": "2020-02-12T20:46:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "795c1607065d997ff8ef56667a658de7970e7aaa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-11T16:31:10Z",
+  "lastAdrCommit": "2020-03-02T21:41:24Z",
+  "firstCommit": "2018-09-30T17:16:49Z",
+  "lastCommit": "2021-03-11T12:19:01Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "821efad2b1447cc710a3ddc37bc8a3d7177252e2",
+        "795c1607065d997ff8ef56667a658de7970e7aaa",
+        "53855b0977ef49fef6631bf8f413523b22b9b23f"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

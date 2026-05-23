@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/apim-blue-green-deploy.git",
+  "crawlDateTime": "2022-01-18T17:46:01.31804",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-allowed-search-api-versions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-14T12:43:48Z",
+      "lastCommit": "2019-03-14T14:10:15Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e94d995b19227e24e163cc4d6a88fe886afb6b36",
+            "22bb61eb3a3f3ab3ee86f3d5730480d51dec1578"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-14T12:43:48Z",
+      "lastCommit": "2019-03-14T14:10:15Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e94d995b19227e24e163cc4d6a88fe886afb6b36",
+            "22bb61eb3a3f3ab3ee86f3d5730480d51dec1578"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-14T12:43:48Z",
+  "lastAdrCommit": "2019-03-14T14:10:15Z",
+  "firstCommit": "2019-01-17T09:50:13Z",
+  "lastCommit": "2021-08-10T21:30:22Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e94d995b19227e24e163cc4d6a88fe886afb6b36",
+        "22bb61eb3a3f3ab3ee86f3d5730480d51dec1578"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

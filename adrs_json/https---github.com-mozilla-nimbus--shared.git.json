@@ -1,0 +1,127 @@
+{
+  "repositoryUrl": "https://github.com/mozilla/nimbus-shared.git",
+  "crawlDateTime": "2022-01-18T17:48:02.957222",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-dto-app-identifiers.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-12T20:28:08Z",
+      "lastCommit": "2021-01-22T21:43:32Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c124814f2958052c401e8a823aa360a4ae566c22",
+            "1dfceeb443e3fef4090b84aa4ed97c6004fe1e73"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5e29db8960361cdd5df516e652da71953c1faa31",
+            "f6c8b56e4796e93abdf9985f30eb60ba83bccae8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-add-top-level-featureids.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-22T22:02:48Z",
+      "lastCommit": "2021-01-22T22:02:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "499aacf8f68506ffe2be7753d33c2541ae551dd5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-one-console-app.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2020-09-14T20:20:57Z",
+      "lastCommit": "2020-09-14T20:20:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e3cbfa211a193da517381abbb830f4aff1642bb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-json-schema-nimbus-shared.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-02T13:45:04Z",
+      "lastCommit": "2020-10-05T20:31:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "19f8ec0be8b6af562fd52bf12e1c01cdf2ba9867",
+            "b902cce2cfde147ded3466b01eec5d1b84c794c2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-14T20:20:57Z",
+  "lastAdrCommit": "2021-01-22T22:02:48Z",
+  "firstCommit": "2020-05-20T22:32:16Z",
+  "lastCommit": "2022-01-12T18:36:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c124814f2958052c401e8a823aa360a4ae566c22",
+        "19f8ec0be8b6af562fd52bf12e1c01cdf2ba9867",
+        "b902cce2cfde147ded3466b01eec5d1b84c794c2",
+        "2e3cbfa211a193da517381abbb830f4aff1642bb",
+        "1dfceeb443e3fef4090b84aa4ed97c6004fe1e73",
+        "499aacf8f68506ffe2be7753d33c2541ae551dd5"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5e29db8960361cdd5df516e652da71953c1faa31",
+        "f6c8b56e4796e93abdf9985f30eb60ba83bccae8"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

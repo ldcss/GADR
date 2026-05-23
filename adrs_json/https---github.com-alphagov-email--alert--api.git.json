@@ -1,0 +1,335 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/email-alert-api.git",
+  "crawlDateTime": "2022-01-18T19:53:42.798887",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-009-sidekiq-lost-job-recovery.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-03T11:30:46Z",
+      "lastCommit": "2020-12-04T11:23:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb9085a2b36cac35c18aaf19b564950220791612",
+            "053469603be30dcee91562df4427cac34d393c48"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-005-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-22T07:56:12Z",
+      "lastCommit": "2020-10-22T07:56:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "637324fb539a20ba5328782b850bde3372997a85"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-006-email-delivery-responsibilities.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-23T10:27:15Z",
+      "lastCommit": "2020-10-23T10:27:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7381dbe0fb2fe3674c31126867bbb502c67fa5c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-010-send-unpublish-emails-for-single-pages.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2022-01-14T10:30:35Z",
+      "lastCommit": "2022-01-14T10:30:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f8f73ea8955959c131a2262eb0130fb455ac4d0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-008-monitoring-and-alerting.md",
+      "template": "Nygard",
+      "status": "Proposed - the team working on this piece of work was paused in December 2020, it is unclear whether a future team will be formed to complete this work.",
+      "firstCommit": "2020-11-18T17:34:10Z",
+      "lastCommit": "2020-12-01T13:44:26Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e33adeb76dc17381077ed9eb67e6d57df3864e7e",
+            "f8ba4d5eda1a48428283e0e1b4a613311c6cca73",
+            "986120dfdfc1a7d072eb4afe03175d8c1cb4b1c5",
+            "8debde83f241246f09cb0fc52c8ca9fc034275d5",
+            "146a4a33d460f284d6b071443baa18b0022ae746"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-002-digest-mvp.md",
+      "template": "Alexandrian",
+      "status": null,
+      "firstCommit": "2020-06-09T15:01:26Z",
+      "lastCommit": "2020-10-07T17:33:57Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d58c4dd40678e5ff37142ab869eae21da06c9cda"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f093ec099e5c7131e99fdc6750c9802eba643527",
+            "c0fd7f6ec2756b941c6bf2a8969395d56f542eb9"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c039253df0b027087580f6912e831371130f1bd5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-004-message-concept.md",
+      "template": "Alexandrian",
+      "status": null,
+      "firstCommit": "2020-06-09T15:01:26Z",
+      "lastCommit": "2020-10-07T17:33:57Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d58c4dd40678e5ff37142ab869eae21da06c9cda"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f093ec099e5c7131e99fdc6750c9802eba643527",
+            "c0fd7f6ec2756b941c6bf2a8969395d56f542eb9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-001-notify-integration.md",
+      "template": "Alexandrian",
+      "status": null,
+      "firstCommit": "2020-06-09T15:01:26Z",
+      "lastCommit": "2020-10-07T17:33:57Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d58c4dd40678e5ff37142ab869eae21da06c9cda"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f093ec099e5c7131e99fdc6750c9802eba643527",
+            "c0fd7f6ec2756b941c6bf2a8969395d56f542eb9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-007-retain-data-for-up-to-one-year.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-19T12:55:41Z",
+      "lastCommit": "2020-11-20T17:09:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8902e4d68b4fcd8a91653c848f744a55f4cb8cd4",
+            "db9997e567f41929e07171591413454e7e1d4c95"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-003-initial-data-retention-strategy.md",
+      "template": "Alexandrian",
+      "status": null,
+      "firstCommit": "2020-06-09T15:01:26Z",
+      "lastCommit": "2020-11-20T17:09:05Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d58c4dd40678e5ff37142ab869eae21da06c9cda"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f093ec099e5c7131e99fdc6750c9802eba643527",
+            "c0fd7f6ec2756b941c6bf2a8969395d56f542eb9"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e77f95495b9fe36b2d1f7b3cfa3a0cc9f86be9cc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dbc714dbd14b11ac82aee193cc0d0ab277aaddab",
+            "db9997e567f41929e07171591413454e7e1d4c95"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-09T15:01:26Z",
+  "lastAdrCommit": "2022-01-14T10:30:35Z",
+  "firstCommit": "2014-09-24T11:11:22Z",
+  "lastCommit": "2022-01-17T13:59:08Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d58c4dd40678e5ff37142ab869eae21da06c9cda"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e33adeb76dc17381077ed9eb67e6d57df3864e7e",
+        "f093ec099e5c7131e99fdc6750c9802eba643527",
+        "7381dbe0fb2fe3674c31126867bbb502c67fa5c5",
+        "f8ba4d5eda1a48428283e0e1b4a613311c6cca73",
+        "986120dfdfc1a7d072eb4afe03175d8c1cb4b1c5",
+        "8debde83f241246f09cb0fc52c8ca9fc034275d5",
+        "146a4a33d460f284d6b071443baa18b0022ae746",
+        "c0fd7f6ec2756b941c6bf2a8969395d56f542eb9"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2f8f73ea8955959c131a2262eb0130fb455ac4d0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fb9085a2b36cac35c18aaf19b564950220791612",
+        "637324fb539a20ba5328782b850bde3372997a85",
+        "053469603be30dcee91562df4427cac34d393c48",
+        "c039253df0b027087580f6912e831371130f1bd5"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e77f95495b9fe36b2d1f7b3cfa3a0cc9f86be9cc"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8902e4d68b4fcd8a91653c848f744a55f4cb8cd4",
+        "dbc714dbd14b11ac82aee193cc0d0ab277aaddab",
+        "db9997e567f41929e07171591413454e7e1d4c95"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

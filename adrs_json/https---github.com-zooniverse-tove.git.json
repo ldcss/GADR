@@ -1,0 +1,155 @@
+{
+  "repositoryUrl": "https://github.com/zooniverse/tove.git",
+  "crawlDateTime": "2022-01-18T23:17:19.177952",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-02.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-21T22:25:10Z",
+      "lastCommit": "2019-10-24T22:24:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "258649ba81f5f9710b4ff5663b3200b64f5a4cd9",
+            "322768803f4f3d8d5cd48c79b837d4dd5557d873"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-01.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-21T22:25:10Z",
+      "lastCommit": "2019-11-01T18:03:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "322768803f4f3d8d5cd48c79b837d4dd5557d873",
+            "0e4dbf26443d81002c5131f4e987d30fde00b0aa"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-03.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-23T17:31:59Z",
+      "lastCommit": "2020-01-16T21:22:55Z",
+      "numberOfCommits": 17,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a5920783271c51918ea211f57c583b86e50715a9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c80b9f106f6322851fc8d6377d55d02b1eaef8c9",
+            "a704b12adaaf6aed398599547665f35576eaf9e1",
+            "315caddfbb794bb7877c0eeab8916039fe4ed0d6",
+            "120a2fdb57b2b9d074adbadd51cf43f20e12161a",
+            "c7a10cbeb6fad795cb173b9422274c632b8c545a"
+          ],
+          "numberOfCommits": 5
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "db3857dd589377b14b4f66673f46c86d1c8148cc",
+            "89f15de1efd029639cd4830c717b4faa1fbeea84",
+            "b39cac3086b2b00583f5519956d9241bd75b640a",
+            "c5bd064e56889c54cff8ccf4cfaedde03a16e970",
+            "581ed9969d9f438077d3e75315768099fd213f81",
+            "3a148f0d79d5e338b9408442e545db25295797cc",
+            "9dd1efdff504d6e079424ae40a3c5fb3d71a1a2b",
+            "f23f74c8f9501bd429739de449f20f3335d32a73",
+            "c9bdcc33bfe503e8c60d571380499cf044e6b153",
+            "da43208655cc0937cd63ace299cea12a6c9aab82",
+            "28ffea7522ce99e487fa209715e24ec904cc84f7"
+          ],
+          "numberOfCommits": 11
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-21T22:25:10Z",
+  "lastAdrCommit": "2020-01-16T21:22:55Z",
+  "firstCommit": "2019-10-14T20:30:31Z",
+  "lastCommit": "2022-01-17T10:02:31Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a5920783271c51918ea211f57c583b86e50715a9"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c80b9f106f6322851fc8d6377d55d02b1eaef8c9",
+        "a704b12adaaf6aed398599547665f35576eaf9e1",
+        "315caddfbb794bb7877c0eeab8916039fe4ed0d6",
+        "120a2fdb57b2b9d074adbadd51cf43f20e12161a",
+        "c7a10cbeb6fad795cb173b9422274c632b8c545a"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "db3857dd589377b14b4f66673f46c86d1c8148cc",
+        "89f15de1efd029639cd4830c717b4faa1fbeea84",
+        "b39cac3086b2b00583f5519956d9241bd75b640a",
+        "c5bd064e56889c54cff8ccf4cfaedde03a16e970",
+        "581ed9969d9f438077d3e75315768099fd213f81",
+        "3a148f0d79d5e338b9408442e545db25295797cc",
+        "9dd1efdff504d6e079424ae40a3c5fb3d71a1a2b",
+        "f23f74c8f9501bd429739de449f20f3335d32a73",
+        "c9bdcc33bfe503e8c60d571380499cf044e6b153",
+        "da43208655cc0937cd63ace299cea12a6c9aab82",
+        "28ffea7522ce99e487fa209715e24ec904cc84f7"
+      ],
+      "numberOfCommits": 11
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "258649ba81f5f9710b4ff5663b3200b64f5a4cd9",
+        "322768803f4f3d8d5cd48c79b837d4dd5557d873",
+        "0e4dbf26443d81002c5131f4e987d30fde00b0aa"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

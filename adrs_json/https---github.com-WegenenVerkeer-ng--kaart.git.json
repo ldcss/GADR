@@ -1,0 +1,183 @@
+{
+  "repositoryUrl": "https://github.com/WegenenVerkeer/ng-kaart.git",
+  "crawlDateTime": "2022-01-18T23:03:54.732916",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-webcomponent-classic-kaart.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-04T07:24:29Z",
+      "lastCommit": "2019-04-17T10:07:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dbd672ce535b46c9c767044926acf77707fc102e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7d8d0049c2474c8b54d2d083d9ae4f0326fbc75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-feature-caching-zonder-service-worker.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-17T15:51:34Z",
+      "lastCommit": "2019-03-12T18:11:51Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1eb5732ed40712b4414904c859e84eb3bb108d74",
+            "e875aef63520e8a4069f06a3a1cd022f47a605c9"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8b801782b56086f0d9403c3c207abc8021717b42",
+            "ff68bb0e4242db692fa71ae1bed6643d7df800a3"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-locatie-adrs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-17T13:27:04Z",
+      "lastCommit": "2018-12-17T13:27:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e95971b5a6b40319db0d12a30ba5598017015259"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-links-in-tabel-tonen.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-17T08:19:53Z",
+      "lastCommit": "2020-03-17T08:52:18Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8de138e52c574c435ced77251acadef8be633bbc",
+            "95836b0e51143442fd2d7f643cd260d3a512747b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-20T07:30:25Z",
+      "lastCommit": "2018-12-13T07:49:03Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edc008f65eecccfd72a8c3a50f5dc827572576d3",
+            "d7a1f0d2b964217791e00770f0b59b505fef245b",
+            "20e4e271cf7b93876899c75c84d2bee846ecfedb"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8b67dcd549d8fefdcc3cfa1d3dd39db4584f0de5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-11-20T07:30:25Z",
+  "lastAdrCommit": "2020-03-17T08:52:18Z",
+  "firstCommit": "2017-11-22T19:54:07Z",
+  "lastCommit": "2021-04-15T14:42:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1eb5732ed40712b4414904c859e84eb3bb108d74",
+        "8de138e52c574c435ced77251acadef8be633bbc",
+        "95836b0e51143442fd2d7f643cd260d3a512747b",
+        "e875aef63520e8a4069f06a3a1cd022f47a605c9"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dbd672ce535b46c9c767044926acf77707fc102e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e95971b5a6b40319db0d12a30ba5598017015259",
+        "edc008f65eecccfd72a8c3a50f5dc827572576d3",
+        "8b801782b56086f0d9403c3c207abc8021717b42",
+        "d7a1f0d2b964217791e00770f0b59b505fef245b",
+        "b7d8d0049c2474c8b54d2d083d9ae4f0326fbc75",
+        "ff68bb0e4242db692fa71ae1bed6643d7df800a3",
+        "20e4e271cf7b93876899c75c84d2bee846ecfedb"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8b67dcd549d8fefdcc3cfa1d3dd39db4584f0de5"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

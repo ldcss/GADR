@@ -1,0 +1,103 @@
+{
+  "repositoryUrl": "https://github.com/skypyproject/skypy.git",
+  "crawlDateTime": "2022-01-18T23:02:25.877114",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-02.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-10T10:18:37Z",
+      "lastCommit": "2020-02-10T10:18:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0fabadbaa8ab3cc621acab5a7b630b2d380101a0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-01.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-22T13:56:30Z",
+      "lastCommit": "2020-01-23T11:00:46Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4935c24ce455e34ac51f55ed6a261cd35f30df2b",
+            "2d11f1797fb634be697c2e7aa61738b58f704902",
+            "343ef060dbfd307cf151aae4fe10715bf15a9395"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-03.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-24T14:39:48Z",
+      "lastCommit": "2021-02-24T14:39:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f99783ef7be9ef037aa65d604391e456460c2406"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-22T13:56:30Z",
+  "lastAdrCommit": "2021-02-24T14:39:48Z",
+  "firstCommit": "2019-11-13T10:13:13Z",
+  "lastCommit": "2022-01-11T18:17:15Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0fabadbaa8ab3cc621acab5a7b630b2d380101a0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f99783ef7be9ef037aa65d604391e456460c2406"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4935c24ce455e34ac51f55ed6a261cd35f30df2b",
+        "2d11f1797fb634be697c2e7aa61738b58f704902",
+        "343ef060dbfd307cf151aae4fe10715bf15a9395"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

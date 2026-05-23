@@ -1,0 +1,229 @@
+{
+  "repositoryUrl": "https://github.com/ONSdigital/dp.git",
+  "crawlDateTime": "2022-01-18T19:02:35.44976",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decision-log"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "decision-log",
+      "path": "0005.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-20T17:17:33Z",
+      "lastCommit": "2018-03-20T17:17:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae21aff982e6f6027c177e223e29c1a8912b3366"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-log",
+      "path": "0003.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-20T17:17:33Z",
+      "lastCommit": "2018-03-20T17:17:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae21aff982e6f6027c177e223e29c1a8912b3366"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-log",
+      "path": "0001.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-08-31T16:46:47Z",
+      "lastCommit": "2017-08-31T16:46:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58bed6b90ed1545decf6a8241a080251374cac5b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-log",
+      "path": "0008.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-20T17:17:33Z",
+      "lastCommit": "2018-03-20T17:19:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cfae35fc9b443aef34050ce33807e8e67c2107cd",
+            "ae21aff982e6f6027c177e223e29c1a8912b3366"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-log",
+      "path": "0002.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-20T17:17:33Z",
+      "lastCommit": "2018-03-20T17:17:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae21aff982e6f6027c177e223e29c1a8912b3366"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-log",
+      "path": "0006.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-20T17:17:33Z",
+      "lastCommit": "2018-03-20T17:17:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae21aff982e6f6027c177e223e29c1a8912b3366"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-log",
+      "path": "0010.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-22T11:00:57Z",
+      "lastCommit": "2018-06-22T11:14:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dcd51938c8110b042d0bb3565e703d23e332e49a",
+            "08789f2ad1e1078689e28b7bd17696fbc3ccad0b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-log",
+      "path": "0004.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-20T17:17:33Z",
+      "lastCommit": "2018-03-20T17:17:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae21aff982e6f6027c177e223e29c1a8912b3366"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-log",
+      "path": "0007.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-20T17:17:33Z",
+      "lastCommit": "2018-03-20T17:17:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae21aff982e6f6027c177e223e29c1a8912b3366"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-log",
+      "path": "0009.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-22T11:00:57Z",
+      "lastCommit": "2018-06-22T11:00:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dcd51938c8110b042d0bb3565e703d23e332e49a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-08-31T16:46:47Z",
+  "lastAdrCommit": "2018-06-22T11:14:50Z",
+  "firstCommit": "2016-11-16T15:17:38Z",
+  "lastCommit": "2022-01-18T11:28:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "58bed6b90ed1545decf6a8241a080251374cac5b"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cfae35fc9b443aef34050ce33807e8e67c2107cd",
+        "ae21aff982e6f6027c177e223e29c1a8912b3366",
+        "dcd51938c8110b042d0bb3565e703d23e332e49a",
+        "08789f2ad1e1078689e28b7bd17696fbc3ccad0b"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

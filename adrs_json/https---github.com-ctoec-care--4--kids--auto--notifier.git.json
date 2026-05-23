@@ -1,0 +1,141 @@
+{
+  "repositoryUrl": "https://github.com/ctoec/care-4-kids-auto-notifier.git",
+  "crawlDateTime": "2022-01-18T18:47:52.624768",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "application-flow_08-25-19.md",
+      "template": "Nygard",
+      "status": "* Proposed * __Accepted__ * Rejected * Superceded * Accepted (Partially superceded)",
+      "firstCommit": "2019-09-13T18:45:13Z",
+      "lastCommit": "2019-09-24T18:13:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4828cb84a62080ced35e0b017865b0d1a0c41630"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f7086204337af25b1395f9934b9fb3db49980d62"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "capistrano-09-11-19.md",
+      "template": "Nygard",
+      "status": "* Proposed * __Accepted__ * Rejected * Superceded * Accepted (Partially superceded)",
+      "firstCommit": "2019-10-03T12:50:04Z",
+      "lastCommit": "2019-10-03T12:50:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c34f016fbdc7d5dd6717840391eb681e307c2e6c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "ruby-and-rails_08-15-19.md",
+      "template": "Nygard",
+      "status": "* Proposed * Accepted * Rejected * Superceded * __Accepted (Partially superceded)__",
+      "firstCommit": "2019-09-13T18:45:13Z",
+      "lastCommit": "2019-09-13T18:45:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "59f4a4c909d37487dc706678d8150f2d5a98c671"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "whenever-08-28-19.md",
+      "template": "Nygard",
+      "status": "* Proposed * __Accepted__ * Rejected * Superceded * Accepted (Partially superceded)",
+      "firstCommit": "2019-09-30T19:47:46Z",
+      "lastCommit": "2019-09-30T19:47:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dd51e9ae572872ea90ab1f5fbd0ec9cbba0e669"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "ruby-6.0_08-25-19.md",
+      "template": "Nygard",
+      "status": "* Proposed * __Accepted__ * Rejected * Superceded * Accepted (Partially superceded)",
+      "firstCommit": "2019-09-13T18:45:13Z",
+      "lastCommit": "2019-09-13T18:45:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbce81b34eab508091361c6e37252d9653b42841"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-09-13T18:45:13Z",
+  "lastAdrCommit": "2019-10-03T12:50:04Z",
+  "firstCommit": "2019-08-06T18:41:11Z",
+  "lastCommit": "2021-10-12T19:29:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4828cb84a62080ced35e0b017865b0d1a0c41630",
+        "0dd51e9ae572872ea90ab1f5fbd0ec9cbba0e669",
+        "c34f016fbdc7d5dd6717840391eb681e307c2e6c"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f7086204337af25b1395f9934b9fb3db49980d62",
+        "59f4a4c909d37487dc706678d8150f2d5a98c671",
+        "fbce81b34eab508091361c6e37252d9653b42841"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

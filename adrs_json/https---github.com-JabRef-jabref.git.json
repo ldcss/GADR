@@ -1,0 +1,920 @@
+{
+  "repositoryUrl": "https://github.com/JabRef/jabref.git",
+  "crawlDateTime": "2022-01-18T19:52:08.468946",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 25,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-use-plain-junit5-for-testing.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-04-22T06:20:04Z",
+      "lastCommit": "2020-12-25T16:48:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17a97fdfb7a453095cf4ed90e2c76ff8b3afdea2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1aa9c884d204d279b65da7c17b0b79ecdea0ce5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0017-allow-model-access-logic.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-09-02T11:40:52Z",
+      "lastCommit": "2020-10-04T17:28:14Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1b35f8cb0040fdfb515974e78532598f07e11af2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7364084f941d4f949149a81302bef662264691ba"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87779ea3d29831ca0f9dd15f4730b61c3b1acc8f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "70c43207e8fa07b863259dbc1b23b57c4336aca6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0019-implement-special-fields-as-separate-fields.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-01-07T11:20:02Z",
+      "lastCommit": "2022-01-13T21:06:08Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ccf20b4e3c8bde51a2e1794b9977243d9cb733d9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0aec48340fe4879c766e6e164e337c64d3e75a44"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "faa9b34b59d439b19d3875cd14d10bb583752abb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d9a755377143f11fcfbaf81b799d99bedc674fb8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0023-localized-preferences.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2021-09-01T11:59:07Z",
+      "lastCommit": "2021-09-01T11:59:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a41e375dc201257af4c99a72702883a82fc2b9b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0022-remove-stop-words-during-query-transformation.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-06-29T21:54:52Z",
+      "lastCommit": "2021-06-29T21:54:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c168fbd4cea905b4aefd4b6221e1435ddcec1595"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-test-external-links-in-documentation.md",
+      "template": "Madr",
+      "status": "//github.com/tcort/markdown-link-check/issues/94#issuecomment-634947466).",
+      "firstCommit": "2020-07-18T10:38:20Z",
+      "lastCommit": "2020-10-04T17:28:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7364084f941d4f949149a81302bef662264691ba"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee2c9857c8a31ee6a45b6e360e13c80620e563bb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-use-public-final-instead-of-getters.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-03-29T12:18:52Z",
+      "lastCommit": "2020-10-04T17:28:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7364084f941d4f949149a81302bef662264691ba"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14e979051abc329e4d111c0066c0610fe8eb1b44"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0016-mutable-preferences-objects.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-09-01T12:20:10Z",
+      "lastCommit": "2021-02-08T19:09:16Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7364084f941d4f949149a81302bef662264691ba"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7814e1d796f0c1c1a8fa23454c02cb978e55a36e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a95a82c813ca6d3b0142d075e8ac3c44663e653"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5ab494e8b1732f688d4ed8d696740bc7e8ef4101"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-human-readable-changelog.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-10-29T20:40:28Z",
+      "lastCommit": "2020-03-06T12:22:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6a2828e11523aa08cca9fd7aa29f7a560761160"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "55234f649cf3b669b52422e5cfc2e127cbeb3b8d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0012-handle-different-bibEntry-formats-of-fetchers.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-08-02T20:34:28Z",
+      "lastCommit": "2020-08-02T20:34:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b506baa7e8ac8c29786b2627c24f5f2696d35b6c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-only-translated-strings-in-language-file.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-10-11T16:27:15Z",
+      "lastCommit": "2020-10-04T17:28:14Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7364084f941d4f949149a81302bef662264691ba"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "973371a4e47e891a5dedf401bc94da3675c69f3c",
+            "c119ca20894555fe97bd5e9bc69a630aeee380eb"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "55234f649cf3b669b52422e5cfc2e127cbeb3b8d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-mariadb-connector.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-08-23T21:37:55Z",
+      "lastCommit": "2020-10-04T17:28:14Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7364084f941d4f949149a81302bef662264691ba"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "337716f6c37acd59763b77bdb3e5e772ec34a99e",
+            "c119ca20894555fe97bd5e9bc69a630aeee380eb",
+            "b8c3800989a0d5313ce5456edb1f85f88187c856"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "55234f649cf3b669b52422e5cfc2e127cbeb3b8d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0024-use-#-as-indicator-for-BibTeX-string-constants.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2022-01-13T21:06:08Z",
+      "lastCommit": "2022-01-13T21:06:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ccf20b4e3c8bde51a2e1794b9977243d9cb733d9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0014-separate-URL-creation-to-enable-proper-logging.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-08-26T20:03:52Z",
+      "lastCommit": "2020-10-04T17:28:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7364084f941d4f949149a81302bef662264691ba"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d05217092ef7ae28fdbbd98fd5f6b5e323191f23"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-crowdin-for-translations.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-01-05T10:27:58Z",
+      "lastCommit": "2020-03-06T12:22:16Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "337716f6c37acd59763b77bdb3e5e772ec34a99e",
+            "b8a1c769b76871a46cfc5d88e0306f1e23a5953d",
+            "05e1f35edb95ab83a51ac9300aa4999cb66d8fec"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "55234f649cf3b669b52422e5cfc2e127cbeb3b8d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-gradle-as-build-tool.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-06-19T06:29:56Z",
+      "lastCommit": "2020-11-04T08:01:25Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cdc1e40909c4c28497ebd32d10e829da277333d8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bf6047597d408e4b1aa55aa1a2993e48d060f79b",
+            "3b67b2efd60983dff90a709d2edb0cbad0dd9220",
+            "18dba8eb4258b49a5ed060224fac327a717680d8"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "55234f649cf3b669b52422e5cfc2e127cbeb3b8d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0020-use-Jackson-to-parse-study-yml.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-01-26T21:40:44Z",
+      "lastCommit": "2021-03-10T09:48:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7117b6197aa6f69f6b8b25f9452e875c9051046b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "49315f6ad4089819c1ef351601b6ccb68cf4cac4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-fully-support-utf8-only-for-latex-files.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-08-24T15:57:53Z",
+      "lastCommit": "2020-03-06T12:22:16Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "337716f6c37acd59763b77bdb3e5e772ec34a99e",
+            "29cf4f20e81f1b1e771bc701f554a6f313dd0b4d"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "55234f649cf3b669b52422e5cfc2e127cbeb3b8d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0018-use-regular-expression-to-split-multiple-sentence-titles.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-03T20:36:45Z",
+      "lastCommit": "2021-08-31T19:23:43Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9943074686818ca42688882be01b0e68de38d559"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e78a8fa37d137181e4398f407ea0bd6d9236b626",
+            "faa9b34b59d439b19d3875cd14d10bb583752abb"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c449944aae85f19daab5daaf8fd19af4196631c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0013-add-native-support-biblatex-software.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-08-22T14:33:15Z",
+      "lastCommit": "2021-06-29T20:18:03Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7364084f941d4f949149a81302bef662264691ba"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "faa9b34b59d439b19d3875cd14d10bb583752abb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d17101626571966d8278bb7fbd02129eff78a71"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "22b1700614cef440a93286112b2b392af7cafc29"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-use-h2-as-internal-database.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-05-01T12:14:59Z",
+      "lastCommit": "2020-05-01T12:14:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a123eb1bd9d6ea71e286224d452534416c72a945"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0015-support-an-abstract-query-syntax-for-query-conversion.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-08-31T11:41:40Z",
+      "lastCommit": "2020-10-04T17:28:14Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7364084f941d4f949149a81302bef662264691ba"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dfefd4d6fc6751f21be36b4c9536895bb6edd339",
+            "5d6c2ee1d47968745b75de9a44ec01880d0708bf"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0021-keep-study-as-a-dto.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-01-26T21:40:44Z",
+      "lastCommit": "2021-06-29T20:18:03Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7117b6197aa6f69f6b8b25f9452e875c9051046b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "faa9b34b59d439b19d3875cd14d10bb583752abb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29ef951df438d6439bc7caaedfd48750171fd3b6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-slf4j-for-logging.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-01-22T10:25:40Z",
+      "lastCommit": "2020-03-06T12:22:16Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf8e6aac8263ce30eb2b042c8aacf2d88bbac4c8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05e1f35edb95ab83a51ac9300aa4999cb66d8fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "55234f649cf3b669b52422e5cfc2e127cbeb3b8d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2017-11-04T11:41:47Z",
+      "lastCommit": "2020-03-06T12:22:16Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc01202ee2c4ee091da3aa01b8c0e35e2eb855d7",
+            "b8c3800989a0d5313ce5456edb1f85f88187c856",
+            "05e1f35edb95ab83a51ac9300aa4999cb66d8fec"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "55234f649cf3b669b52422e5cfc2e127cbeb3b8d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-11-04T11:41:47Z",
+  "lastAdrCommit": "2022-01-13T21:06:08Z",
+  "firstCommit": "2003-10-14T21:38:35Z",
+  "lastCommit": "2022-01-18T19:44:43Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a41e375dc201257af4c99a72702883a82fc2b9b0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7364084f941d4f949149a81302bef662264691ba"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7117b6197aa6f69f6b8b25f9452e875c9051046b",
+        "b506baa7e8ac8c29786b2627c24f5f2696d35b6c",
+        "dfefd4d6fc6751f21be36b4c9536895bb6edd339",
+        "5d6c2ee1d47968745b75de9a44ec01880d0708bf"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e78a8fa37d137181e4398f407ea0bd6d9236b626",
+        "fc01202ee2c4ee091da3aa01b8c0e35e2eb855d7",
+        "87779ea3d29831ca0f9dd15f4730b61c3b1acc8f",
+        "17a97fdfb7a453095cf4ed90e2c76ff8b3afdea2",
+        "c119ca20894555fe97bd5e9bc69a630aeee380eb",
+        "b8c3800989a0d5313ce5456edb1f85f88187c856",
+        "7814e1d796f0c1c1a8fa23454c02cb978e55a36e",
+        "05e1f35edb95ab83a51ac9300aa4999cb66d8fec",
+        "c168fbd4cea905b4aefd4b6221e1435ddcec1595",
+        "d05217092ef7ae28fdbbd98fd5f6b5e323191f23",
+        "b6a2828e11523aa08cca9fd7aa29f7a560761160",
+        "337716f6c37acd59763b77bdb3e5e772ec34a99e",
+        "29cf4f20e81f1b1e771bc701f554a6f313dd0b4d",
+        "973371a4e47e891a5dedf401bc94da3675c69f3c",
+        "b8a1c769b76871a46cfc5d88e0306f1e23a5953d",
+        "bf6047597d408e4b1aa55aa1a2993e48d060f79b",
+        "14e979051abc329e4d111c0066c0610fe8eb1b44",
+        "3b67b2efd60983dff90a709d2edb0cbad0dd9220",
+        "faa9b34b59d439b19d3875cd14d10bb583752abb",
+        "ee2c9857c8a31ee6a45b6e360e13c80620e563bb",
+        "18dba8eb4258b49a5ed060224fac327a717680d8"
+      ],
+      "numberOfCommits": 21
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "55234f649cf3b669b52422e5cfc2e127cbeb3b8d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ccf20b4e3c8bde51a2e1794b9977243d9cb733d9",
+        "cdc1e40909c4c28497ebd32d10e829da277333d8"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1b35f8cb0040fdfb515974e78532598f07e11af2",
+        "a123eb1bd9d6ea71e286224d452534416c72a945"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9943074686818ca42688882be01b0e68de38d559"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cf8e6aac8263ce30eb2b042c8aacf2d88bbac4c8"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0aec48340fe4879c766e6e164e337c64d3e75a44",
+        "8a95a82c813ca6d3b0142d075e8ac3c44663e653"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5ab494e8b1732f688d4ed8d696740bc7e8ef4101"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9d17101626571966d8278bb7fbd02129eff78a71"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "22b1700614cef440a93286112b2b392af7cafc29",
+        "e1aa9c884d204d279b65da7c17b0b79ecdea0ce5"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5c449944aae85f19daab5daaf8fd19af4196631c",
+        "29ef951df438d6439bc7caaedfd48750171fd3b6",
+        "49315f6ad4089819c1ef351601b6ccb68cf4cac4",
+        "d9a755377143f11fcfbaf81b799d99bedc674fb8",
+        "70c43207e8fa07b863259dbc1b23b57c4336aca6"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

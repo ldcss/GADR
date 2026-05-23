@@ -1,0 +1,335 @@
+{
+  "repositoryUrl": "https://github.com/KonduitAI/konduit-serving.git",
+  "crawlDateTime": "2022-01-18T18:24:38.846122",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "ADRs"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "ADRs",
+      "path": "0010-Async_Pipelines.md",
+      "template": "Nygard",
+      "status": "ACCEPTED (18/06/2020) Proposed by: Alex Black (17/06/2020) Discussed with: Shams, Paul",
+      "firstCommit": "2020-06-18T08:48:28Z",
+      "lastCommit": "2020-06-18T08:48:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2eeac5ab4709c0767c9aa41e267564521c78eb03"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0006-CI_Launching_vs_Build.md",
+      "template": "Nygard",
+      "status": "ACCEPTED - 09/06/2020 Proposed by: Alex Black (08/06/2020) Discussed with: Shams",
+      "firstCommit": "2020-06-09T03:09:38Z",
+      "lastCommit": "2020-12-22T04:24:25Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "99cc6ceb16a335e73c68f1778ab1fe404a2d1ee7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "042eb01851721c198d0361a7eb8b5e52825dbc5e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1b6a8318c6e0723d3461a585336361e5315cbfe2",
+            "0c04b2a291525982319a66194014baf64e77a52c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0003-Pipeline_API_Rewrite.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-10T09:51:47Z",
+      "lastCommit": "2020-04-25T00:08:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "616f6f71f8d00c214f434b847bc0887695aa6ae4",
+            "155166064bd19ecaf99ec181b35cdc14acb07765"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0009-Custom_Endpoints.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Proposed by: Alex Black (12/06/2020) Discussed with: Paul",
+      "firstCommit": "2020-06-13T10:08:36Z",
+      "lastCommit": "2020-06-13T10:08:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9166aac83d44caf39532652984c84974770e3200"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0001-Extend_vertx_launcher_for_CLI.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Proposed by: Shams Ul Azeem (18-03-2020) Discussed with: Paul Dubs, Alex Black",
+      "firstCommit": "2020-03-18T04:42:54Z",
+      "lastCommit": "2020-03-29T00:38:28Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe4b05d3cb6289393aa0085661d595626256d1a0",
+            "5a8734603262c2e85f35eced210026123fa5ff78",
+            "70e37690e111848de7029dbfbff241e5a4df6b1f",
+            "747dfb992841cb8aa1e474994a6d2d8ecb0fa894"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "056d70312fa4ee3c4f6205b669d3b6645b110442"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0002-Use_swagger_annotations_for_generating_client_APIs.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Proposed by: Shams Ul Azeem (18-03-2020) Discussed with: Paul Dubs, Alex Black",
+      "firstCommit": "2020-03-18T04:42:54Z",
+      "lastCommit": "2020-03-29T00:38:28Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a8734603262c2e85f35eced210026123fa5ff78",
+            "70e37690e111848de7029dbfbff241e5a4df6b1f",
+            "747dfb992841cb8aa1e474994a6d2d8ecb0fa894",
+            "1e17f301d30557deaee3dbdee267b7b82682026b"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "056d70312fa4ee3c4f6205b669d3b6645b110442"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0007-Point_Data_Type.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Proposed by: Paul Dubs (05/06/2020) Discussed with: Alex Black",
+      "firstCommit": "2020-06-10T09:14:58Z",
+      "lastCommit": "2020-06-17T03:59:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "80faa3dad0306828cbeefddc47c58bf01c038b67"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1b6a8318c6e0723d3461a585336361e5315cbfe2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0005-Packaging_System_Design.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-26T08:05:13Z",
+      "lastCommit": "2020-05-26T08:05:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a00520144ec323b9501c6ab54fb28ca711f5bb4b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0004-Graph_pipelines.md",
+      "template": "Nygard",
+      "status": "ACCEPTED - 22/05/2020 Proposed by: Alex Black (14/05/2020) Discussed with: (no feedback received)",
+      "firstCommit": "2020-05-22T05:22:22Z",
+      "lastCommit": "2020-05-22T05:22:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4068c0a615286b8ec844270071aff5ec913e477f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0011-Python-Path-Resolution.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-09T02:41:42Z",
+      "lastCommit": "2020-10-09T02:41:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9b02ff16fc664e8528e5d091f2de87205a367693"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "0008-URIs_and_remote_resources.md",
+      "template": "Nygard",
+      "status": "ACCEPTED (17/06/2020) Proposed by: Alex (11/06/2020) Discussed with:",
+      "firstCommit": "2020-06-17T03:59:38Z",
+      "lastCommit": "2020-06-17T03:59:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1b6a8318c6e0723d3461a585336361e5315cbfe2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-18T04:42:54Z",
+  "lastAdrCommit": "2020-12-22T04:24:25Z",
+  "firstCommit": "2019-10-16T08:24:53Z",
+  "lastCommit": "2022-01-07T22:41:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "99cc6ceb16a335e73c68f1778ab1fe404a2d1ee7"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fe4b05d3cb6289393aa0085661d595626256d1a0",
+        "5a8734603262c2e85f35eced210026123fa5ff78",
+        "70e37690e111848de7029dbfbff241e5a4df6b1f",
+        "747dfb992841cb8aa1e474994a6d2d8ecb0fa894",
+        "1e17f301d30557deaee3dbdee267b7b82682026b"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "056d70312fa4ee3c4f6205b669d3b6645b110442"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "042eb01851721c198d0361a7eb8b5e52825dbc5e",
+        "9b02ff16fc664e8528e5d091f2de87205a367693"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "80faa3dad0306828cbeefddc47c58bf01c038b67"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4068c0a615286b8ec844270071aff5ec913e477f",
+        "616f6f71f8d00c214f434b847bc0887695aa6ae4",
+        "9166aac83d44caf39532652984c84974770e3200",
+        "a00520144ec323b9501c6ab54fb28ca711f5bb4b",
+        "1b6a8318c6e0723d3461a585336361e5315cbfe2",
+        "0c04b2a291525982319a66194014baf64e77a52c",
+        "2eeac5ab4709c0767c9aa41e267564521c78eb03",
+        "155166064bd19ecaf99ec181b35cdc14acb07765"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

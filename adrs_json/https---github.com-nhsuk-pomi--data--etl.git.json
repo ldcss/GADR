@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/pomi-data-etl.git",
+  "crawlDateTime": "2022-01-18T21:09:12.305088",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-store-etl-output-in-the-cloud.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-13T13:11:56Z",
+      "lastCommit": "2017-07-13T13:11:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1b6987d9e892d3c46abb346b198679c0a4c83fec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-13T13:11:56Z",
+      "lastCommit": "2017-07-13T13:11:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1b6987d9e892d3c46abb346b198679c0a4c83fec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-13T13:11:56Z",
+  "lastAdrCommit": "2017-07-13T13:11:56Z",
+  "firstCommit": "2017-03-07T08:54:52Z",
+  "lastCommit": "2019-03-30T18:48:47Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1b6987d9e892d3c46abb346b198679c0a4c83fec"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "repositoryUrl": "https://github.com/thingful/decodeweb.git",
+  "crawlDateTime": "2022-01-18T21:10:25.61728",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "app/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "app/adr",
+      "path": "0003-store-configuration-into-local-storage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-29T21:08:27Z",
+      "lastCommit": "2019-03-29T21:08:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "73359e2e800fa9228748fa690facc29ea7fdbc75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "app/adr",
+      "path": "0004-sendloginfrombackend.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-15T23:09:37Z",
+      "lastCommit": "2019-04-15T23:09:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d948aed2ab2cd22287bd58fb40492066b894edd8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "app/adr",
+      "path": "0002-use-vue-for-front-end.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-29T21:08:27Z",
+      "lastCommit": "2019-03-29T21:08:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "73359e2e800fa9228748fa690facc29ea7fdbc75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "app/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-29T11:44:49Z",
+      "lastCommit": "2019-03-29T11:44:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "611562ce3edef34cf4cb9fe72c712cba68167663"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-29T11:44:49Z",
+  "lastAdrCommit": "2019-04-15T23:09:37Z",
+  "firstCommit": "2019-03-27T21:21:09Z",
+  "lastCommit": "2019-08-01T17:05:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d948aed2ab2cd22287bd58fb40492066b894edd8",
+        "73359e2e800fa9228748fa690facc29ea7fdbc75",
+        "611562ce3edef34cf4cb9fe72c712cba68167663"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

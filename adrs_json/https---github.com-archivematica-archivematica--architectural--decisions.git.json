@@ -1,0 +1,476 @@
+{
+  "repositoryUrl": "https://github.com/archivematica/archivematica-architectural-decisions.git",
+  "crawlDateTime": "2022-01-18T17:33:09.952146",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    ""
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "",
+      "path": "0006-use-bagit-to-package-transfers.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-04-02T20:53:33Z",
+      "lastCommit": "2021-06-09T06:05:30Z",
+      "numberOfCommits": 14,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "40d6ced40a6b43579e9554c81fadcacea99f4cb7",
+            "11888bbd883ef753eb16747955594aa0cddafbe1",
+            "60b8b39dfc93b51577e38705e7823038c98231f0",
+            "498e57f2e14dbdf51f897d7916c83b7e76b2264e",
+            "caa2898e30b012bddc6fcb12f8d37f8a0385f87d",
+            "2b7e6d20016b7cc7d8dfcbb8eef3b51ab187602c"
+          ],
+          "numberOfCommits": 6
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05753068907e2c6e59d40a8287aff79c3ca8111c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dce7e66cd36b4f4078ba7fd104de32682a5f015"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26e47fd5819bdfdc10daea40d2795140f1f89253",
+            "0bbc49b93cde13be30d04ce49a94932b3a7448c7",
+            "0c50ce8544e5acba9a096603a5a84cb68bc06c4b",
+            "c39af3b18ca13a520a7eff03ebd37988a6b1d1f8",
+            "b95f9143526c608377309956bf5c447def8ea851",
+            "203be40b1008ae9f3f2754ce6d2c131e1d386e81"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0007-python3.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-07-22T20:48:41Z",
+      "lastCommit": "2021-06-09T06:05:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dce7e66cd36b4f4078ba7fd104de32682a5f015"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8e38fab3ea33b6dc3e0d7868c4dd959aa8f43ee6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0003-black-code-formatter.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-03-14T13:59:40Z",
+      "lastCommit": "2021-06-09T06:05:30Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dce7e66cd36b4f4078ba7fd104de32682a5f015"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d9eda85b6c6f721c17b0fd91798fe3ab8d1062c7",
+            "d7b63277ffb06b97c6381be7020bb4de12caeab3",
+            "341b432c7bc879c3a3765241bbc9ad9d74b34305"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0009-unification-of-api-handling-in-am.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-01-19T14:12:18Z",
+      "lastCommit": "2021-06-09T06:05:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fddda7c9d5f9af5348042fbf54d8da02a225f48d",
+            "6dce7e66cd36b4f4078ba7fd104de32682a5f015"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0002-json-encoded-workflow.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-02-23T23:05:33Z",
+      "lastCommit": "2021-06-09T06:05:30Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dce7e66cd36b4f4078ba7fd104de32682a5f015"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad7d82ba57b2580d74955b2a7a57424895b8fd47",
+            "e57423132d793620387cea8ead2febbc8e59af5f",
+            "4fb5c6b80a8b2de1dec57ef04e1e65f8cf0f5872",
+            "c54e2d8b26a15d51c3c5d9b4e2ec9d292c1caaf6"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0005-new-api-endpoint-for-csv-validation.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-04-02T18:43:50Z",
+      "lastCommit": "2021-06-09T06:05:30Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6b4c81c4ae8ea04536f425e3e03c1a2ba9f89281"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dce7e66cd36b4f4078ba7fd104de32682a5f015"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c50ce8544e5acba9a096603a5a84cb68bc06c4b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0001-unification-of-mets-creation.md",
+      "template": "Nygard",
+      "status": "Proposed.",
+      "firstCommit": "2019-02-23T23:05:33Z",
+      "lastCommit": "2021-06-09T06:05:30Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dce7e66cd36b4f4078ba7fd104de32682a5f015"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e57423132d793620387cea8ead2febbc8e59af5f",
+            "4fb5c6b80a8b2de1dec57ef04e1e65f8cf0f5872",
+            "c54e2d8b26a15d51c3c5d9b4e2ec9d292c1caaf6"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "requirements.txt",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-23T23:46:14Z",
+      "lastCommit": "2019-02-23T23:46:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d047c6bfb598e296488b0e93fa50fff252f4bad8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0004-isort-import-ordering.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-02T18:23:27Z",
+      "lastCommit": "2021-06-09T06:05:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "88e9ea63047742d7b6520164aa45ea913c8ad587"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dce7e66cd36b4f4078ba7fd104de32682a5f015"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0010-archivematica-original-design-principles.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-06-08T17:06:37Z",
+      "lastCommit": "2021-06-09T06:05:30Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26557426127df71cab12f1c157d40020b2257577"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dce7e66cd36b4f4078ba7fd104de32682a5f015"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "085cd2507ca33b08028f9eca5be1076dbc9d71e3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1f17648ef2d94cde9124695d6bb7658a5deb804",
+            "5e0ad257d57d53fdb9172eb596712d7768033bff"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0008-remove-quarantine.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-10-16T16:03:57Z",
+      "lastCommit": "2021-06-09T06:05:30Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3733087998b2aec92a1545865e752a573b0bef8e",
+            "05d7763b43d5d9a8d28370585d14e3e5c3511ba8"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dce7e66cd36b4f4078ba7fd104de32682a5f015"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-02-23T23:05:33Z",
+      "lastCommit": "2021-06-09T06:05:30Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dce7e66cd36b4f4078ba7fd104de32682a5f015"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e57423132d793620387cea8ead2febbc8e59af5f",
+            "4fb5c6b80a8b2de1dec57ef04e1e65f8cf0f5872",
+            "c54e2d8b26a15d51c3c5d9b4e2ec9d292c1caaf6"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-23T23:05:33Z",
+  "lastAdrCommit": "2021-06-09T06:05:30Z",
+  "firstCommit": "2019-02-23T23:05:33Z",
+  "lastCommit": "2021-09-27T21:50:34Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "40d6ced40a6b43579e9554c81fadcacea99f4cb7",
+        "11888bbd883ef753eb16747955594aa0cddafbe1",
+        "60b8b39dfc93b51577e38705e7823038c98231f0",
+        "498e57f2e14dbdf51f897d7916c83b7e76b2264e",
+        "caa2898e30b012bddc6fcb12f8d37f8a0385f87d",
+        "2b7e6d20016b7cc7d8dfcbb8eef3b51ab187602c"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "26557426127df71cab12f1c157d40020b2257577"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "88e9ea63047742d7b6520164aa45ea913c8ad587"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6b4c81c4ae8ea04536f425e3e03c1a2ba9f89281"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3733087998b2aec92a1545865e752a573b0bef8e",
+        "05753068907e2c6e59d40a8287aff79c3ca8111c",
+        "05d7763b43d5d9a8d28370585d14e3e5c3511ba8"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fddda7c9d5f9af5348042fbf54d8da02a225f48d",
+        "6dce7e66cd36b4f4078ba7fd104de32682a5f015"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "085cd2507ca33b08028f9eca5be1076dbc9d71e3"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b1f17648ef2d94cde9124695d6bb7658a5deb804",
+        "0bbc49b93cde13be30d04ce49a94932b3a7448c7",
+        "e57423132d793620387cea8ead2febbc8e59af5f",
+        "d9eda85b6c6f721c17b0fd91798fe3ab8d1062c7",
+        "d7b63277ffb06b97c6381be7020bb4de12caeab3",
+        "c39af3b18ca13a520a7eff03ebd37988a6b1d1f8",
+        "b95f9143526c608377309956bf5c447def8ea851",
+        "203be40b1008ae9f3f2754ce6d2c131e1d386e81",
+        "ad7d82ba57b2580d74955b2a7a57424895b8fd47",
+        "26e47fd5819bdfdc10daea40d2795140f1f89253",
+        "8e38fab3ea33b6dc3e0d7868c4dd959aa8f43ee6",
+        "4fb5c6b80a8b2de1dec57ef04e1e65f8cf0f5872",
+        "0c50ce8544e5acba9a096603a5a84cb68bc06c4b",
+        "d047c6bfb598e296488b0e93fa50fff252f4bad8",
+        "c54e2d8b26a15d51c3c5d9b4e2ec9d292c1caaf6",
+        "341b432c7bc879c3a3765241bbc9ad9d74b34305",
+        "5e0ad257d57d53fdb9172eb596712d7768033bff"
+      ],
+      "numberOfCommits": 17
+    }
+  ]
+}

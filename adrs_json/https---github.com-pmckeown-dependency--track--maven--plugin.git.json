@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/pmckeown/dependency-track-maven-plugin.git",
+  "crawlDateTime": "2022-01-18T21:09:15.448205",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-two-dependency-injection-frameworks.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-29T10:45:54Z",
+      "lastCommit": "2019-07-29T10:45:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "37ab1f4278b8bfbd873f563c372bc907cf01f3b3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-maven-to-build-plugin.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-29T10:45:54Z",
+      "lastCommit": "2019-07-29T10:45:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "37ab1f4278b8bfbd873f563c372bc907cf01f3b3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-29T10:45:54Z",
+      "lastCommit": "2019-07-29T10:45:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "37ab1f4278b8bfbd873f563c372bc907cf01f3b3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-07-29T10:45:54Z",
+  "lastAdrCommit": "2019-07-29T10:45:54Z",
+  "firstCommit": "2019-06-29T22:02:32Z",
+  "lastCommit": "2022-01-15T05:21:39Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "37ab1f4278b8bfbd873f563c372bc907cf01f3b3"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/offender-management-architecture-decisions.git",
+  "crawlDateTime": "2022-01-18T18:27:08.47208",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decisions"
+  ],
+  "numAdrFiles": 20,
+  "adrFiles": [
+    {
+      "adrDirectory": "decisions",
+      "path": "0002-use-cloud-platform-for-hosting.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-19T10:22:08Z",
+      "lastCommit": "2018-10-19T10:22:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b281d83f2e4c22b868774ce58e393d4b7c08d5c3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0017-database-migrations.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-28T17:50:04Z",
+      "lastCommit": "2019-02-04T09:32:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "54e44522dab9eb8348c6ccd75c2d615910615f47"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c85ef5a6c22268df6706c9269a862ca9965ac9cf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0018-testing-tls-mutual-auth-for-delius-api-access.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-02-01T14:39:40Z",
+      "lastCommit": "2019-02-01T14:39:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bd02ed537e073cc265c372d4a4dcbd58a79dedd1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0016-use-elite2-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-23T12:02:07Z",
+      "lastCommit": "2019-01-23T12:02:07Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8648bce16ac3f9eface4bf1491751b35e236479b",
+            "2cf6aaece304c7c54ae376bb6439bd389861f613",
+            "8f8241ac5cc8531cd45c3ca28d1c7c41658bb409"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0006-use-the-custody-api-to-access-nomis-data.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [16. Use the Elite2 API to access NOMIS data](0016-use-elite2-api.md)",
+      "firstCommit": "2018-10-22T15:27:46Z",
+      "lastCommit": "2019-01-23T12:02:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2cf6aaece304c7c54ae376bb6439bd389861f613"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ba1a24093887305873706c26838b8fc1a43cac90"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0003-use-progressive-enhancement.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-22T10:29:39Z",
+      "lastCommit": "2018-10-22T10:29:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "493fe6a3a3f9ac9c1608e491ece17fb56874f93a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0020-unify-api-and-presentation-layer.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [Separate API and user facing applications](https://github.com/ministryofjustice/offender-management-architecture-decisions/blob/master/decisions/0004-separate-api-and-user-facing-applications) Amends [Allocation API has less responsibility](https://github.com/ministryofjustice/offender-management-architecture-decisions/blob/master/decisions/0010-allocation-api-has-less-responsibility)",
+      "firstCommit": "2019-02-07T08:20:47Z",
+      "lastCommit": "2019-04-25T11:13:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd5a399a1475d6506fad50f6039ff5e3041453f8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "15d2c5142d6a7bd15e5bd72c114ac06530f3da40"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0019-manage-runtime-secrets-with-git-crypt.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-01T16:11:33Z",
+      "lastCommit": "2019-02-01T16:11:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a831ba593e0e0085b1e5503b9c39f8c77848902d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0008-use-rails.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-16T17:34:54Z",
+      "lastCommit": "2018-11-16T17:34:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644604a8ecfb3eb1450709af535dc7061aa535b3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0009-use-circleci-for-ci-and-deployment.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-16T18:54:56Z",
+      "lastCommit": "2018-11-16T18:54:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "66c432ab5c97dd6e4649c698336b4d83697fc234"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0012-start-out-with-one-environment-which-uses-t3-nomis.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-05T11:28:46Z",
+      "lastCommit": "2018-12-05T11:28:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f743cb75dc736a6302a1d05597549ab2000e3249"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0011-use-nomis-oauth-server2-for-allocation-api-authentication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-05T11:16:42Z",
+      "lastCommit": "2018-12-05T11:16:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2b024d32639d9023e0428696fd6f302c9f267f71"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0015-manage-short-lived-access-tokens-in-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-18T14:45:53Z",
+      "lastCommit": "2019-01-18T14:45:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64e10024a1a8f3d5614d92ddf75db63d1db7de28"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0010-allocation-api-has-less-responsibility.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [4. Separate API and user-facing applications](0004-separate-api-and-user-facing-applications.md) Amended by [18. Unify API and Presentation layer](0018-unify-api-and-presentation-layer.md)",
+      "firstCommit": "2018-11-21T15:30:16Z",
+      "lastCommit": "2019-02-07T08:20:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd5a399a1475d6506fad50f6039ff5e3041453f8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79293c782610c05bf1ac6ef1859529b45a25975d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0005-allocation-api-owns-allocation-data.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-19T17:16:32Z",
+      "lastCommit": "2018-10-19T17:16:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4e0851a82649950f9d604041f0e8256578bfe507"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0007-use-ruby-for-new-applications-for-manage-offenders-in-custody.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-26T11:55:50Z",
+      "lastCommit": "2018-11-16T16:39:22Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81582485181b0500b7d0fd4458a1af5b2affdd90",
+            "75865ff119bdfd9e622d0200127e2f97357101c6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0013-use-nomis-sso-for-user-authentication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-18T10:32:04Z",
+      "lastCommit": "2019-01-18T10:32:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "07724bd019ed46ee0551b105b3c8c8fa484f42dd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0004-separate-api-and-user-facing-applications.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [10. Allocation API has less responsibility](0010-allocation-api-has-less-responsibility.md) Amended by [18. Unify API and Presentation layer](0018-unify-api-and-presentation-layer.md)",
+      "firstCommit": "2018-10-22T10:35:29Z",
+      "lastCommit": "2019-02-07T08:20:47Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd5a399a1475d6506fad50f6039ff5e3041453f8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "75865ff119bdfd9e622d0200127e2f97357101c6",
+            "260e2efd5c3e8f58f41c89682bf6070bb5c985f1",
+            "79293c782610c05bf1ac6ef1859529b45a25975d"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-19T10:19:59Z",
+      "lastCommit": "2018-10-19T10:19:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f04f7951ed5632bc45de3ee2a9c10377a6fd35d1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0014-access-the-delius-api-via-ndh.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-14T15:46:27Z",
+      "lastCommit": "2019-01-14T15:46:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6af987d67651e8016dc00f894e789ef75bc028f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-10-19T10:19:59Z",
+  "lastAdrCommit": "2019-04-25T11:13:46Z",
+  "firstCommit": "2018-10-12T11:12:27Z",
+  "lastCommit": "2021-04-29T19:16:16Z",
+  "adrDirFile": {
+    "fileContent": "decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8648bce16ac3f9eface4bf1491751b35e236479b",
+        "2cf6aaece304c7c54ae376bb6439bd389861f613",
+        "fd5a399a1475d6506fad50f6039ff5e3041453f8",
+        "8f8241ac5cc8531cd45c3ca28d1c7c41658bb409"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "15d2c5142d6a7bd15e5bd72c114ac06530f3da40"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a831ba593e0e0085b1e5503b9c39f8c77848902d",
+        "2b024d32639d9023e0428696fd6f302c9f267f71",
+        "4e0851a82649950f9d604041f0e8256578bfe507",
+        "bd02ed537e073cc265c372d4a4dcbd58a79dedd1",
+        "66c432ab5c97dd6e4649c698336b4d83697fc234",
+        "81582485181b0500b7d0fd4458a1af5b2affdd90",
+        "75865ff119bdfd9e622d0200127e2f97357101c6",
+        "79293c782610c05bf1ac6ef1859529b45a25975d",
+        "07724bd019ed46ee0551b105b3c8c8fa484f42dd",
+        "493fe6a3a3f9ac9c1608e491ece17fb56874f93a",
+        "644604a8ecfb3eb1450709af535dc7061aa535b3",
+        "ba1a24093887305873706c26838b8fc1a43cac90",
+        "f743cb75dc736a6302a1d05597549ab2000e3249",
+        "6af987d67651e8016dc00f894e789ef75bc028f6",
+        "b281d83f2e4c22b868774ce58e393d4b7c08d5c3",
+        "f04f7951ed5632bc45de3ee2a9c10377a6fd35d1",
+        "260e2efd5c3e8f58f41c89682bf6070bb5c985f1"
+      ],
+      "numberOfCommits": 17
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "54e44522dab9eb8348c6ccd75c2d615910615f47",
+        "64e10024a1a8f3d5614d92ddf75db63d1db7de28"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c85ef5a6c22268df6706c9269a862ca9965ac9cf"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

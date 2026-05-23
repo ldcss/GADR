@@ -1,0 +1,91 @@
+{
+  "repositoryUrl": "https://github.com/menes-dotnet/Menes.git",
+  "crawlDateTime": "2022-01-18T19:43:24.388929",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-multitargeting-.net-standard-2.0-and-2.1.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-03-02T14:50:44Z",
+      "lastCommit": "2020-03-02T14:50:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72ee5de60b1ccb8dd22f2920ff0134f874e40fd8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-menes-exceptions-have-specialized-constructors.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-03-02T14:50:44Z",
+      "lastCommit": "2020-03-02T14:50:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72ee5de60b1ccb8dd22f2920ff0134f874e40fd8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-allowing-implicit-object-type.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-05-05T15:06:45Z",
+      "lastCommit": "2020-05-05T15:06:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a8304fd20b62f57efeb9dfd15e1fc302f19762a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-02T14:50:44Z",
+  "lastAdrCommit": "2020-05-05T15:06:45Z",
+  "firstCommit": "2019-08-18T22:13:49Z",
+  "lastCommit": "2022-01-16T09:22:02Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3a8304fd20b62f57efeb9dfd15e1fc302f19762a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "72ee5de60b1ccb8dd22f2920ff0134f874e40fd8"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "repositoryUrl": "https://github.com/nodejs/nodejs.dev.git",
+  "crawlDateTime": "2022-01-18T23:08:37.455451",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-sourcing-icons.md",
+      "template": "Madr",
+      "status": "Proposed",
+      "firstCommit": "2021-02-23T06:41:24Z",
+      "lastCommit": "2021-08-11T08:08:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5bd72949d04c2ae81d97fc461abf09ba4e2dc46"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e53f4efebf6328b3839fad0bbee3411939887827"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-adopt-decision-records.md",
+      "template": "Madr",
+      "status": "Proposed",
+      "firstCommit": "2020-09-03T19:59:07Z",
+      "lastCommit": "2020-10-24T09:11:58Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0f19012711f9cd881b4cf6fae5f083b4da438322"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76f11d983fc3b862069a766223475d73e511771d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f4fe4ffc942fa7ed0b0a34021669fd948739cf77"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-03T19:59:07Z",
+  "lastAdrCommit": "2021-08-11T08:08:09Z",
+  "firstCommit": "2019-01-17T15:23:58Z",
+  "lastCommit": "2022-01-18T19:11:38Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c5bd72949d04c2ae81d97fc461abf09ba4e2dc46"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e53f4efebf6328b3839fad0bbee3411939887827"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0f19012711f9cd881b4cf6fae5f083b4da438322"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "76f11d983fc3b862069a766223475d73e511771d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f4fe4ffc942fa7ed0b0a34021669fd948739cf77"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

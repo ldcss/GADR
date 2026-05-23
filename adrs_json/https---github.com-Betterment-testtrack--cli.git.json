@@ -1,0 +1,110 @@
+{
+  "repositoryUrl": "https://github.com/Betterment/testtrack-cli.git",
+  "crawlDateTime": "2022-01-18T20:41:30.173573",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-002.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-01T09:42:30Z",
+      "lastCommit": "2019-05-01T09:42:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81c19aaed3f3b0eefac02036e1e71a3f24666f92"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-003.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-01T09:42:30Z",
+      "lastCommit": "2019-05-01T09:42:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81c19aaed3f3b0eefac02036e1e71a3f24666f92"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b795a1d147e6ac247dd9e0f819da22d27d13aea9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-01T09:42:30Z",
+      "lastCommit": "2019-05-01T09:42:30Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81c19aaed3f3b0eefac02036e1e71a3f24666f92",
+            "6e25031f1fe4862dffdd25dd2cab0717e4b5f5ff"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cbb51d6d514bc18742a44909c01daf8fac9582fe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-01T09:42:30Z",
+  "lastAdrCommit": "2019-05-01T09:42:30Z",
+  "firstCommit": "2019-04-14T09:11:58Z",
+  "lastCommit": "2021-12-16T16:40:30Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "81c19aaed3f3b0eefac02036e1e71a3f24666f92",
+        "6e25031f1fe4862dffdd25dd2cab0717e4b5f5ff"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b795a1d147e6ac247dd9e0f819da22d27d13aea9",
+        "cbb51d6d514bc18742a44909c01daf8fac9582fe"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

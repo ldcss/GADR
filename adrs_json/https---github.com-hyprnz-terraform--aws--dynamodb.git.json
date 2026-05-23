@@ -1,0 +1,216 @@
+{
+  "repositoryUrl": "https://github.com/hyprnz/terraform-aws-dynamodb.git",
+  "crawlDateTime": "2022-01-18T19:27:03.02595",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-autoscaler-terraform-sub-module.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-27T04:41:58Z",
+      "lastCommit": "2020-05-27T04:41:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3e2d31d4aac7eab0085f87f8bd80143f0fbd77a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-feature-toggles.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-27T04:41:58Z",
+      "lastCommit": "2020-05-27T04:41:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3e2d31d4aac7eab0085f87f8bd80143f0fbd77a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-terraform-label-module.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-27T04:41:58Z",
+      "lastCommit": "2020-05-27T04:41:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3e2d31d4aac7eab0085f87f8bd80143f0fbd77a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-feature-toggle-defaults.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-27T04:41:58Z",
+      "lastCommit": "2020-05-27T04:41:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3e2d31d4aac7eab0085f87f8bd80143f0fbd77a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-terraform-backend-in-module.md",
+      "template": "Nygard",
+      "status": "Accepted Updates [3. No Terraform Backend in Module](0003-no-terraform-backend-in-module.md)",
+      "firstCommit": "2020-05-27T04:41:58Z",
+      "lastCommit": "2020-05-27T04:41:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3e2d31d4aac7eab0085f87f8bd80143f0fbd77a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-map-list-variables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-27T04:41:58Z",
+      "lastCommit": "2020-05-27T04:41:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3e2d31d4aac7eab0085f87f8bd80143f0fbd77a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-examples.md",
+      "template": "Nygard",
+      "status": "Accepted Relies On [3. No Terraform Backend in Module](0003-no-terraform-backend-in-module.md)",
+      "firstCommit": "2020-05-27T04:41:58Z",
+      "lastCommit": "2020-05-27T04:41:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3e2d31d4aac7eab0085f87f8bd80143f0fbd77a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-no-terraform-backend-in-module.md",
+      "template": "Nygard",
+      "status": "Accepted Enables [9. Examples](0009-examples.md) Amended by [10. Terraform Backend in Module](0010-terraform-backend-in-module.md)",
+      "firstCommit": "2020-05-27T04:41:58Z",
+      "lastCommit": "2020-05-27T04:41:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3e2d31d4aac7eab0085f87f8bd80143f0fbd77a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-27T04:41:58Z",
+      "lastCommit": "2020-05-27T04:41:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3e2d31d4aac7eab0085f87f8bd80143f0fbd77a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-terraform-requirements-in-module.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-27T04:41:58Z",
+      "lastCommit": "2020-05-27T04:41:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3e2d31d4aac7eab0085f87f8bd80143f0fbd77a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-27T04:41:58Z",
+  "lastAdrCommit": "2020-05-27T04:41:58Z",
+  "firstCommit": "2020-05-27T04:41:58Z",
+  "lastCommit": "2020-05-27T04:41:58Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a3e2d31d4aac7eab0085f87f8bd80143f0fbd77a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

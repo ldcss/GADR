@@ -1,0 +1,217 @@
+{
+  "repositoryUrl": "https://github.com/opensmarthouse/opensmarthouse-core.git",
+  "crawlDateTime": "2022-01-18T20:08:43.634982",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "adr0005.md",
+      "template": "Nygard",
+      "status": "ACCEPTED",
+      "firstCommit": "2020-10-15T10:05:53Z",
+      "lastCommit": "2020-10-15T10:08:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edee4d0a72782f4ced3d3fa0c308cd7433533111",
+            "a5bd7ba14fb00555b6227dcb1c6d0e7aad56a900"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "adr0002.md",
+      "template": "Nygard",
+      "status": "PROPOSED",
+      "firstCommit": "2020-10-26T17:09:20Z",
+      "lastCommit": "2020-10-26T17:09:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ce2748d8505d4f4c54d04b59394c2f6808c0ebd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "adr0003.md",
+      "template": "Nygard",
+      "status": "ACCEPTED",
+      "firstCommit": "2020-10-15T10:05:53Z",
+      "lastCommit": "2020-10-15T10:05:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0fee28e340bcdc79d7c9eba9a99a8c3815339ac1",
+            "e178059d7a09a8804b71d036b1d82d8a8925f4f7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "adr0001.md",
+      "template": "Nygard",
+      "status": "ACCEPTED",
+      "firstCommit": "2020-10-15T10:05:53Z",
+      "lastCommit": "2020-10-15T10:05:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ee0351fe4e8166d52316aab16f58aeeb3815d67"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "adr0008.md",
+      "template": "Nygard",
+      "status": "PROPOSED",
+      "firstCommit": "2020-10-15T10:08:44Z",
+      "lastCommit": "2020-10-26T17:09:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ce2748d8505d4f4c54d04b59394c2f6808c0ebd",
+            "a4e469c3da92e5a66f26ae5d186be38ee7b0bccf"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "adr0000.md",
+      "template": "Nygard",
+      "status": "Status: PROPOSED / ACCEPTED.",
+      "firstCommit": "2020-10-15T10:08:45Z",
+      "lastCommit": "2020-10-15T10:08:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "389b4052dd285f0832c6e1f8d4a51adaba18e4fe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "adr0004.md",
+      "template": "Nygard",
+      "status": "PROPOSED",
+      "firstCommit": "2020-10-15T10:05:53Z",
+      "lastCommit": "2020-10-15T10:05:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0fee28e340bcdc79d7c9eba9a99a8c3815339ac1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "adr0007.md",
+      "template": "Nygard",
+      "status": "ACCEPTED",
+      "firstCommit": "2020-10-15T10:08:44Z",
+      "lastCommit": "2020-10-15T10:08:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26653d1f8b63830e73757fd4c26f4265d750a768",
+            "a4e469c3da92e5a66f26ae5d186be38ee7b0bccf"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "adr0006.md",
+      "template": "Nygard",
+      "status": "PROPOSED",
+      "firstCommit": "2020-10-15T10:05:53Z",
+      "lastCommit": "2020-10-15T10:05:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "980b9ce80276ed0b840b05f330ddaf50916ab7f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-15T10:05:53Z",
+  "lastAdrCommit": "2020-10-26T17:09:20Z",
+  "firstCommit": "2020-04-10T13:12:39Z",
+  "lastCommit": "2022-01-09T05:51:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "389b4052dd285f0832c6e1f8d4a51adaba18e4fe"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0fee28e340bcdc79d7c9eba9a99a8c3815339ac1",
+        "e178059d7a09a8804b71d036b1d82d8a8925f4f7",
+        "26653d1f8b63830e73757fd4c26f4265d750a768",
+        "edee4d0a72782f4ced3d3fa0c308cd7433533111",
+        "9ee0351fe4e8166d52316aab16f58aeeb3815d67",
+        "a5bd7ba14fb00555b6227dcb1c6d0e7aad56a900",
+        "1ce2748d8505d4f4c54d04b59394c2f6808c0ebd",
+        "980b9ce80276ed0b840b05f330ddaf50916ab7f7",
+        "a4e469c3da92e5a66f26ae5d186be38ee7b0bccf"
+      ],
+      "numberOfCommits": 9
+    }
+  ]
+}

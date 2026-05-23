@@ -1,0 +1,189 @@
+{
+  "repositoryUrl": "https://github.com/superluminar-io/super-eks.git",
+  "crawlDateTime": "2022-01-18T19:28:25.420419",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decisions"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0002-use-cdk-for-implementation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-17T07:46:16Z",
+      "lastCommit": "2020-11-17T07:46:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eccd01f46127ec866b572de7605491bec5a42457"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0007-backup.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2021-12-01T11:54:04Z",
+      "lastCommit": "2021-12-01T11:54:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b87b0aba612abd7191f063bfa6b6cd239951ef24"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0004-use-in-tree-ebs-storage-driver.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-02T15:50:27Z",
+      "lastCommit": "2021-02-02T15:50:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53b20309eb199464b9ead4e56f521fde13d96e35"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0003-use-yarn-workspaces.md",
+      "template": "Nygard",
+      "status": "Superseeded by [ADR-0006](./0006-use-projen.md)",
+      "firstCommit": "2021-02-01T10:50:12Z",
+      "lastCommit": "2021-03-01T15:07:39Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7071e43ee79cb6c5c6b39404760292e6444af1ed"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "953dc6e68b40293276b61fba5b0bb1806482ca14"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0005-use-namespaces-grouped-by-functionality.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-03T08:49:11Z",
+      "lastCommit": "2021-02-03T08:49:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20286b394caaa7d36bd7fc2a9b81d0a352b5c3f1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0006-use-projen.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-01T15:07:39Z",
+      "lastCommit": "2021-03-01T15:07:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "953dc6e68b40293276b61fba5b0bb1806482ca14"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-17T07:46:16Z",
+      "lastCommit": "2020-11-17T07:46:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eccd01f46127ec866b572de7605491bec5a42457"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-17T07:46:16Z",
+  "lastAdrCommit": "2021-12-01T11:54:04Z",
+  "firstCommit": "2020-11-12T11:08:12Z",
+  "lastCommit": "2022-01-17T13:12:35Z",
+  "adrDirFile": {
+    "fileContent": "docs/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b87b0aba612abd7191f063bfa6b6cd239951ef24"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7071e43ee79cb6c5c6b39404760292e6444af1ed",
+        "eccd01f46127ec866b572de7605491bec5a42457",
+        "20286b394caaa7d36bd7fc2a9b81d0a352b5c3f1"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "53b20309eb199464b9ead4e56f521fde13d96e35",
+        "953dc6e68b40293276b61fba5b0bb1806482ca14"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

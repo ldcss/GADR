@@ -1,0 +1,88 @@
+{
+  "repositoryUrl": "https://github.com/molgenis/molgenis-ops-helm.git",
+  "crawlDateTime": "2022-01-18T19:06:03.810212",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "charts/molgenis-armadillo/doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "charts/molgenis-armadillo/doc/adr",
+      "path": "0001-use-adr-to-describe-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-05T14:18:38Z",
+      "lastCommit": "2021-03-05T14:20:48Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a73e08cd6ed1da38f181dbde6fc59bbc7237547"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17ed45828027a568cc9956c813b1882b77e40eab"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "charts/molgenis-armadillo/doc/adr",
+      "path": "0002-manage-user-permissions-in-fusion-auth.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-05T14:18:38Z",
+      "lastCommit": "2021-03-05T14:20:48Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a73e08cd6ed1da38f181dbde6fc59bbc7237547"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17ed45828027a568cc9956c813b1882b77e40eab"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-03-05T14:18:38Z",
+  "lastAdrCommit": "2021-03-05T14:20:48Z",
+  "firstCommit": "2018-05-23T19:04:25Z",
+  "lastCommit": "2022-01-12T10:16:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2a73e08cd6ed1da38f181dbde6fc59bbc7237547"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "17ed45828027a568cc9956c813b1882b77e40eab"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

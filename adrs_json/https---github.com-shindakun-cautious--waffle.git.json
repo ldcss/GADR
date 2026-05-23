@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/shindakun/cautious-waffle.git",
+  "crawlDateTime": "2022-01-18T18:51:29.914032",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "help_handlers.md",
+      "template": "Nygard",
+      "status": "proposed",
+      "firstCommit": "2020-03-27T22:52:49Z",
+      "lastCommit": "2020-03-27T22:52:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "78d38b5988bf316b6eec6a57504fff82b4d9cf86"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-27T22:52:49Z",
+  "lastAdrCommit": "2020-03-27T22:52:49Z",
+  "firstCommit": "2020-03-19T23:05:24Z",
+  "lastCommit": "2021-11-16T22:12:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "78d38b5988bf316b6eec6a57504fff82b4d9cf86"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

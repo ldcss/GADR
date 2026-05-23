@@ -1,0 +1,142 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/gp-data-etl.git",
+  "crawlDateTime": "2022-01-18T20:45:53.969836",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-store-host-output-file-in-etl-container.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-10T15:45:25Z",
+      "lastCommit": "2017-07-11T07:49:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14c7cd1bcf2588928fea001cb6e2d30b8b1d904b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8bd1712941538e151b52bc9d183095816da90ae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-store-local-copy-of-syndication-data.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-10T15:45:25Z",
+      "lastCommit": "2017-07-11T07:49:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14c7cd1bcf2588928fea001cb6e2d30b8b1d904b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8bd1712941538e151b52bc9d183095816da90ae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-replace-file-hosting-with-cloud-storage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-10T15:45:25Z",
+      "lastCommit": "2017-07-11T07:49:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14c7cd1bcf2588928fea001cb6e2d30b8b1d904b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8bd1712941538e151b52bc9d183095816da90ae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-10T15:45:25Z",
+      "lastCommit": "2017-07-11T07:49:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14c7cd1bcf2588928fea001cb6e2d30b8b1d904b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8bd1712941538e151b52bc9d183095816da90ae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-10T15:45:25Z",
+  "lastAdrCommit": "2017-07-11T07:49:59Z",
+  "firstCommit": "2017-02-15T13:28:53Z",
+  "lastCommit": "2019-03-30T18:46:35Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "14c7cd1bcf2588928fea001cb6e2d30b8b1d904b"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b8bd1712941538e151b52bc9d183095816da90ae"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

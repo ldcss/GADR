@@ -1,0 +1,87 @@
+{
+  "repositoryUrl": "https://github.com/molgenis/molgenis-js-auth.git",
+  "crawlDateTime": "2022-01-18T19:48:08.70378",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "design/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "design/adr",
+      "path": "0001-use-adr-to-describe-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-15T10:57:29Z",
+      "lastCommit": "2021-07-16T09:23:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c6e3b5975557d2c103a15b45e630c23de24f49c4",
+            "c544d15eab6125e8d85cc27545a4f17424194049"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design/adr",
+      "path": "0003-this-will-be-a-general-ui.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-15T10:57:29Z",
+      "lastCommit": "2021-07-16T09:23:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c6e3b5975557d2c103a15b45e630c23de24f49c4",
+            "c544d15eab6125e8d85cc27545a4f17424194049"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design/adr",
+      "path": "0002-manage-user-permissions-in-fusion-auth.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-15T10:57:29Z",
+      "lastCommit": "2021-07-16T09:23:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c6e3b5975557d2c103a15b45e630c23de24f49c4",
+            "c544d15eab6125e8d85cc27545a4f17424194049"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-07-15T10:57:29Z",
+  "lastAdrCommit": "2021-07-16T09:23:36Z",
+  "firstCommit": "2020-11-02T15:23:29Z",
+  "lastCommit": "2021-11-04T15:47:42Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c6e3b5975557d2c103a15b45e630c23de24f49c4",
+        "c544d15eab6125e8d85cc27545a4f17424194049"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

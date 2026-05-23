@@ -1,0 +1,142 @@
+{
+  "repositoryUrl": "https://github.com/azavea/franklin.git",
+  "crawlDateTime": "2022-01-18T19:38:05.864176",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs",
+      "path": "0004-make-authentication-configurable-at-server-startup.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-08T20:55:23Z",
+      "lastCommit": "2020-07-08T20:55:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4bf556896e5444b574cce14284fc39cb271de547"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "0003-item-tms-rendering.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-20T22:02:55Z",
+      "lastCommit": "2020-01-20T22:02:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30f6dc757f46917361054d6bb44365e3ee6a5da6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "0002-choose-a-pagination-strategy-and-implementation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-06T15:50:25Z",
+      "lastCommit": "2020-07-08T20:55:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4bf556896e5444b574cce14284fc39cb271de547"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05f35ec7f19d8c54ba67b493491161ac055857a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "0005-release-versioning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-03T22:06:45Z",
+      "lastCommit": "2021-08-03T22:06:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f38a5c10442b9aa6d2e439737384cf47f99a8fc9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-06T15:50:25Z",
+      "lastCommit": "2020-01-06T15:50:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05f35ec7f19d8c54ba67b493491161ac055857a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-06T15:50:25Z",
+  "lastAdrCommit": "2021-08-03T22:06:45Z",
+  "firstCommit": "2019-11-05T12:40:42Z",
+  "lastCommit": "2022-01-15T05:40:06Z",
+  "adrDirFile": {
+    "fileContent": "docs\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "30f6dc757f46917361054d6bb44365e3ee6a5da6",
+        "f38a5c10442b9aa6d2e439737384cf47f99a8fc9",
+        "4bf556896e5444b574cce14284fc39cb271de547"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "05f35ec7f19d8c54ba67b493491161ac055857a6"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/urfonline/frontend.git",
+  "crawlDateTime": "2022-01-18T19:01:27.476035",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "001-spa.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-20T11:09:59Z",
+      "lastCommit": "2019-02-20T11:09:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8480c36df7ae69c4ca2109beeaa92e2709759d5b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-20T11:09:59Z",
+  "lastAdrCommit": "2019-02-20T11:09:59Z",
+  "firstCommit": "2017-03-18T11:17:15Z",
+  "lastCommit": "2022-01-17T20:56:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8480c36df7ae69c4ca2109beeaa92e2709759d5b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

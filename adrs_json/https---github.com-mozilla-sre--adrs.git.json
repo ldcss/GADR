@@ -1,0 +1,196 @@
+{
+  "repositoryUrl": "https://github.com/mozilla/sre-adrs.git",
+  "crawlDateTime": "2022-01-18T20:08:31.596025",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decisions/websre"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "decisions/websre",
+      "path": "0003-use-eks-cluster-as-default-container-platform.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-06-08T19:06:54Z",
+      "lastCommit": "2021-06-08T19:11:42Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a9a7bb7e846298bd802fe08ff1569ec5aa836f45",
+            "dffe13b67affdca4ff85c3f5c704a650057906f1",
+            "83ef1c89f2b4e318b9485d43456ea85979b4aed8"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "782634d1598dea1940e8af55a2cd3fdbc2af14f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions/websre",
+      "path": "0002-web-sre-service-documentation.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-06-01T14:22:58Z",
+      "lastCommit": "2021-06-08T18:58:24Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e703f382a53093f42032f5e9037e8b552feea0f8",
+            "b4ebf574a46c4cf8849055380b0679747b072e54",
+            "d1c29d71610c3726b5aecd339ac64ea625123fb4",
+            "5e6e5127e31e9f6881aa2c58ce565c4c3b2076b8",
+            "92cf6a3be53363e5453cc3fa66605fc1d9ad1ec1",
+            "d3f26a9eabb7f753c35c744f94675eda3e56805c"
+          ],
+          "numberOfCommits": 6
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41c65d147e22d2d15e37c5ef3f08d25d1a8cef6d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions/websre",
+      "path": "0005-web-sre-kubernetes-secrets-pattern.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-06T17:39:56Z",
+      "lastCommit": "2021-07-06T17:39:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "550483748f736f9b88e2c05ff4d6e8b58c84bf0d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions/websre",
+      "path": "0004-use-1-kubernetes-cluster-per-environment.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-06T12:49:51Z",
+      "lastCommit": "2021-07-06T12:52:42Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79c42c75e69d830ef4cd776173d440a4fc07d70e",
+            "283d57c4dfdd73a3ed00217f716372850c1842f9",
+            "e10a34a9d6d83a0dd86cdecdad3143bb0874df7d",
+            "eff8956d1b9ad82a2d92d4ddd9cf1889de74a216",
+            "3ed7fea55caf7c7b3ade07ef6a2a94ee3baa72f4",
+            "9064cfc5ef79dd7e8fcdd10945fc577d01d0c11e",
+            "3b96d813cbe65285c093e989d3aa0b59a5d8583b"
+          ],
+          "numberOfCommits": 7
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions/websre",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-29T20:01:07Z",
+      "lastCommit": "2021-05-13T15:21:54Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "baac330a4aa29fc8c2b85dc087db66838a3f8ce9",
+            "da079b3b6499ba34df0cb66c0dee8251f38ce876"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c66a7c2c8710d1ebab9681fee90bf70b4759971a",
+            "905bca3b233cc8d95d7d803310a3b5a018a4f31c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-04-29T20:01:07Z",
+  "lastAdrCommit": "2021-07-06T17:39:56Z",
+  "firstCommit": "2021-04-29T20:00:28Z",
+  "lastCommit": "2021-07-06T17:39:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "79c42c75e69d830ef4cd776173d440a4fc07d70e",
+        "b4ebf574a46c4cf8849055380b0679747b072e54",
+        "e10a34a9d6d83a0dd86cdecdad3143bb0874df7d",
+        "baac330a4aa29fc8c2b85dc087db66838a3f8ce9",
+        "da079b3b6499ba34df0cb66c0dee8251f38ce876",
+        "eff8956d1b9ad82a2d92d4ddd9cf1889de74a216",
+        "9064cfc5ef79dd7e8fcdd10945fc577d01d0c11e",
+        "83ef1c89f2b4e318b9485d43456ea85979b4aed8",
+        "d3f26a9eabb7f753c35c744f94675eda3e56805c",
+        "a9a7bb7e846298bd802fe08ff1569ec5aa836f45",
+        "e703f382a53093f42032f5e9037e8b552feea0f8",
+        "283d57c4dfdd73a3ed00217f716372850c1842f9",
+        "d1c29d71610c3726b5aecd339ac64ea625123fb4",
+        "5e6e5127e31e9f6881aa2c58ce565c4c3b2076b8",
+        "92cf6a3be53363e5453cc3fa66605fc1d9ad1ec1",
+        "dffe13b67affdca4ff85c3f5c704a650057906f1",
+        "3ed7fea55caf7c7b3ade07ef6a2a94ee3baa72f4",
+        "3b96d813cbe65285c093e989d3aa0b59a5d8583b"
+      ],
+      "numberOfCommits": 18
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c66a7c2c8710d1ebab9681fee90bf70b4759971a",
+        "782634d1598dea1940e8af55a2cd3fdbc2af14f6",
+        "905bca3b233cc8d95d7d803310a3b5a018a4f31c",
+        "41c65d147e22d2d15e37c5ef3f08d25d1a8cef6d"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "550483748f736f9b88e2c05ff4d6e8b58c84bf0d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

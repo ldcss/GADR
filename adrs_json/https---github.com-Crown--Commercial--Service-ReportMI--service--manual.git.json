@@ -1,0 +1,822 @@
+{
+  "repositoryUrl": "https://github.com/Crown-Commercial-Service/ReportMI-service-manual.git",
+  "crawlDateTime": "2022-01-18T17:33:23.759773",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 26,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0016-data-structure-tasks-submissions-entries-and-files.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-15T11:35:29Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6a4c858a3c42966e78bf3f19624f3db6750d3c07",
+            "bea36d8f2d911e936c61e6f31d87847bd8286391"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-ruby-on-rails-for-applications.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-06T21:42:52Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "57e289ff678e957cbea88697aa8bfc8a28eee342"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-user-interface-look-and-feel.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-18T15:54:17Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6a4c858a3c42966e78bf3f19624f3db6750d3c07",
+            "3398a5eb48d2b5aeff1ecf382a53f861e3d79a45",
+            "76e6627211733968b01ace33168801e5e0040d77"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-docker-for-applications.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-07T07:41:38Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f10254e687de0cfa30b1ae103ebe97c42927ddd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0023-workday-integration-principles.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-10T21:26:53Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "acd3f3a528fa1e9ebb83df64fb36021d05d6bff5",
+            "1ad76453fa6dba7fe5ee0af480e4cc83c495db33"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0025-submit-invoices-to-workday-asyncronously.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-11-07T15:42:28Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aa681030bd1cd94b2d91720dc0cb8ae7acbd0bce"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0022-use-auth0-for-access-management-at-scale.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-06T14:48:48Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f0e8f8ec595add21a1a17a3cfdd8b289c35afd4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0018-submission-state-machine.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-08-15T16:01:24Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae4ce860db060fd2aee8f51a4d331df8a8181672",
+            "19c2f50063c12a5243556524abb6e0205bf9c1c4",
+            "78a221d891785004a6035b42d6a8696b93ad2188",
+            "cbaeffae1fcedf6212254bbd4dbf7a17018625e1"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-overall-technical-approach.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-06T20:36:55Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0fdb7164453d3536f759af83f7c55a65875d171a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0015-use-lambda-for-file-ingest-and-data-validation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-13T13:53:57Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae4ce860db060fd2aee8f51a4d331df8a8181672",
+            "6a4c858a3c42966e78bf3f19624f3db6750d3c07",
+            "101f9b5adc8b001710da6cd8a17973ad29e2a5a2"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0017-task-state-machine.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-15T15:38:58Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64120ab8316ebbfab67950186cd7b4978131680b",
+            "6a4c858a3c42966e78bf3f19624f3db6750d3c07",
+            "1c8bfb0b1b7a68f97e407f972f5bcb2b2dda3652",
+            "19c2f50063c12a5243556524abb6e0205bf9c1c4"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0021-generate-a-data-export-for-finance.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-29T12:54:13Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d6964d728ef8ac06f9b26a76f75dfcaf80f0384",
+            "6a4c858a3c42966e78bf3f19624f3db6750d3c07",
+            "a3d40d16189656768e2effba4744b45fdea9c427"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0014-use-gov-uk-notify-for-sending-notifications.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-19T11:11:07Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6a4c858a3c42966e78bf3f19624f3db6750d3c07",
+            "6da529a3910ce23394c0965d01985d982dbe4601"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-use-terraform-to-create-and-document-infrastructure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-07T13:54:09Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6f15795d69f76475a60bdd997c377b39b10ff0d1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-use-json-api-standard-for-api-endpoints.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-18T10:08:24Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c2a9e1a1137217b1b1c8ca7b7d3fd369fe6e6f6b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9991cdc0244c07029cb9d7a3756e7d41dee6fcfc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0024-use-workday-api-to-manage-invoicing.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-11-07T15:41:07Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "631b215d34d414e5b5e91b7a81bbf95854f96249"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-github-for-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-06T21:42:25Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "92d56d192c1b0477f1cb254c0e5744c5b7692a86"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0013-use-s3-for-storing-files.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-19T10:59:30Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6a4c858a3c42966e78bf3f19624f3db6750d3c07",
+            "c9b5be71c4b44c22cd8f115041f3b34cf2d4a4c1"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0012-use-ecs-for-hosting-applications.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-19T10:41:27Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30e47cd98f7f6524687bd488d4d0fddb776ee94b",
+            "6a4c858a3c42966e78bf3f19624f3db6750d3c07"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0020-name-the-service-and-domain.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-28T16:00:58Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6150131b735e71ab419eab0aa8763a01ab7c5fb0",
+            "6a4c858a3c42966e78bf3f19624f3db6750d3c07",
+            "01d2e7aa8c0e4bcf63aa4e369a9d7ba29503c398"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-use-aws-for-hosting.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-18T15:50:46Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae4ce860db060fd2aee8f51a4d331df8a8181672",
+            "c34b9dec5e97729062a43e1da666624bdb94f169",
+            "6a4c858a3c42966e78bf3f19624f3db6750d3c07"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-use-auth0-for-temporary-user-authentication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-18T16:23:41Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6a4c858a3c42966e78bf3f19624f3db6750d3c07",
+            "e6039154a3e2f88099dbdfa1839b044e77ccc5c0",
+            "8cf570ee08a4f6eecf0854d0bbb4f81b7a47b97b"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0027-use-docker-in-development.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-06T15:37:03Z",
+      "lastCommit": "2019-08-06T15:37:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "634b9ebae423707b36d60bb61e044b172ab4a8c0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0019-store-data-validation-rules-in-json-files.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-28T14:32:47Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6a4c858a3c42966e78bf3f19624f3db6750d3c07",
+            "cda65f18972b38ed384618ddbe6e3801124a7fd4",
+            "19834528b017ca71784df0d49f1a71868bcb0172"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-use-postgresql-on-rds-for-database.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-18T16:07:08Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6a4c858a3c42966e78bf3f19624f3db6750d3c07",
+            "cb2dc0223b5768ce682f26c77774cc0a04334dec",
+            "0c831ac0dcfb24217b207b4936724a99fae26e08"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-06T20:17:50Z",
+      "lastCommit": "2018-12-04T15:36:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "df5fd0a6ac2409abb79be5c54cea515e0021d1d5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "644a749175cd2af944b9ae06d501f5f9c083510d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-06T20:17:50Z",
+  "lastAdrCommit": "2019-08-06T15:37:03Z",
+  "firstCommit": "2018-06-06T20:15:47Z",
+  "lastCommit": "2021-11-25T11:24:29Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "631b215d34d414e5b5e91b7a81bbf95854f96249",
+        "c34b9dec5e97729062a43e1da666624bdb94f169",
+        "e6039154a3e2f88099dbdfa1839b044e77ccc5c0",
+        "acd3f3a528fa1e9ebb83df64fb36021d05d6bff5",
+        "c9b5be71c4b44c22cd8f115041f3b34cf2d4a4c1",
+        "76e6627211733968b01ace33168801e5e0040d77",
+        "bea36d8f2d911e936c61e6f31d87847bd8286391",
+        "8cf570ee08a4f6eecf0854d0bbb4f81b7a47b97b",
+        "6da529a3910ce23394c0965d01985d982dbe4601",
+        "aa681030bd1cd94b2d91720dc0cb8ae7acbd0bce",
+        "64120ab8316ebbfab67950186cd7b4978131680b",
+        "2d6964d728ef8ac06f9b26a76f75dfcaf80f0384",
+        "ae4ce860db060fd2aee8f51a4d331df8a8181672",
+        "0fdb7164453d3536f759af83f7c55a65875d171a",
+        "92d56d192c1b0477f1cb254c0e5744c5b7692a86",
+        "cb2dc0223b5768ce682f26c77774cc0a04334dec",
+        "19c2f50063c12a5243556524abb6e0205bf9c1c4",
+        "9f10254e687de0cfa30b1ae103ebe97c42927ddd",
+        "3398a5eb48d2b5aeff1ecf382a53f861e3d79a45",
+        "78a221d891785004a6035b42d6a8696b93ad2188",
+        "cbaeffae1fcedf6212254bbd4dbf7a17018625e1",
+        "df5fd0a6ac2409abb79be5c54cea515e0021d1d5",
+        "30e47cd98f7f6524687bd488d4d0fddb776ee94b",
+        "6150131b735e71ab419eab0aa8763a01ab7c5fb0",
+        "6a4c858a3c42966e78bf3f19624f3db6750d3c07",
+        "101f9b5adc8b001710da6cd8a17973ad29e2a5a2",
+        "cda65f18972b38ed384618ddbe6e3801124a7fd4",
+        "1c8bfb0b1b7a68f97e407f972f5bcb2b2dda3652",
+        "a3d40d16189656768e2effba4744b45fdea9c427",
+        "6f15795d69f76475a60bdd997c377b39b10ff0d1",
+        "1ad76453fa6dba7fe5ee0af480e4cc83c495db33",
+        "19834528b017ca71784df0d49f1a71868bcb0172",
+        "0c831ac0dcfb24217b207b4936724a99fae26e08",
+        "57e289ff678e957cbea88697aa8bfc8a28eee342",
+        "c2a9e1a1137217b1b1c8ca7b7d3fd369fe6e6f6b",
+        "01d2e7aa8c0e4bcf63aa4e369a9d7ba29503c398"
+      ],
+      "numberOfCommits": 36
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "634b9ebae423707b36d60bb61e044b172ab4a8c0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9991cdc0244c07029cb9d7a3756e7d41dee6fcfc"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1f0e8f8ec595add21a1a17a3cfdd8b289c35afd4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "644a749175cd2af944b9ae06d501f5f9c083510d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

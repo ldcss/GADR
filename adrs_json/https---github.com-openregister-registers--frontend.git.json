@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/openregister/registers-frontend.git",
+  "crawlDateTime": "2022-01-18T20:47:20.039242",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-external-service-for-email.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-23T11:41:10Z",
+      "lastCommit": "2018-08-23T11:41:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "427b336f590b47038e479cfcc977e63ac36b663a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-23T11:41:10Z",
+      "lastCommit": "2018-08-23T11:41:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "427b336f590b47038e479cfcc977e63ac36b663a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-23T11:41:10Z",
+  "lastAdrCommit": "2018-08-23T11:41:10Z",
+  "firstCommit": "2017-01-24T10:22:43Z",
+  "lastCommit": "2021-03-15T07:36:52Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "427b336f590b47038e479cfcc977e63ac36b663a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "repositoryUrl": "https://github.com/hugolhafner/analytics-server.git",
+  "crawlDateTime": "2022-01-18T20:48:45.319726",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "007-order-imports-with-import-sort.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-12T13:22:39Z",
+      "lastCommit": "2020-03-12T13:22:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c992f5ae9ce6761ff0f5e12716b8b9e5974e0bdd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "006-format-files-programmatically.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-12T13:22:39Z",
+      "lastCommit": "2020-03-12T13:22:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c992f5ae9ce6761ff0f5e12716b8b9e5974e0bdd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "003-prefer-multiple-config-files.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-12T13:22:39Z",
+      "lastCommit": "2020-03-12T13:22:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c992f5ae9ce6761ff0f5e12716b8b9e5974e0bdd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "004-minimally-transform-source-code-during-build.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-12T13:22:39Z",
+      "lastCommit": "2020-03-12T13:22:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c992f5ae9ce6761ff0f5e12716b8b9e5974e0bdd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "002-prefer-configurable-dev-tools.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-12T13:22:39Z",
+      "lastCommit": "2020-03-12T13:22:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c992f5ae9ce6761ff0f5e12716b8b9e5974e0bdd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-record-architectural-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-12T13:22:39Z",
+      "lastCommit": "2020-03-12T13:22:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c992f5ae9ce6761ff0f5e12716b8b9e5974e0bdd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "005-format-files.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-12T13:22:39Z",
+      "lastCommit": "2020-03-12T13:22:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c992f5ae9ce6761ff0f5e12716b8b9e5974e0bdd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-12T13:22:39Z",
+  "lastAdrCommit": "2020-03-12T13:22:39Z",
+  "firstCommit": "2020-03-12T13:21:22Z",
+  "lastCommit": "2020-03-12T13:22:39Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c992f5ae9ce6761ff0f5e12716b8b9e5974e0bdd"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

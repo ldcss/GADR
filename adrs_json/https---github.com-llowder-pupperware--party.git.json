@@ -1,0 +1,143 @@
+{
+  "repositoryUrl": "https://github.com/llowder/pupperware-party.git",
+  "crawlDateTime": "2022-01-18T19:26:44.714047",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-readme-driven-development.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-26T17:17:24Z",
+      "lastCommit": "2018-09-26T17:17:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "425ca4f25f2f7e4a0b8fc9c0f77bdd08d27fa9a3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-semver-for-versioning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-26T17:17:24Z",
+      "lastCommit": "2018-09-26T17:17:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "425ca4f25f2f7e4a0b8fc9c0f77bdd08d27fa9a3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-project-license-scheme.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-08T11:38:09Z",
+      "lastCommit": "2018-10-08T11:38:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bb9488340889163280b99f220980ec983a81dc4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-installation-and-config-file-locations.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-13T02:50:35Z",
+      "lastCommit": "2019-03-13T02:50:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "12ea52f414e81b63a3f2ed6c418243e45b341793"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-participate-in-puppet-contributor-summit.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-10T11:39:47Z",
+      "lastCommit": "2018-10-10T11:39:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "780ee426cea73211b6d7ee26f4c5e875ee454a96"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-26T17:17:24Z",
+      "lastCommit": "2018-09-26T17:17:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "425ca4f25f2f7e4a0b8fc9c0f77bdd08d27fa9a3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-26T17:17:24Z",
+  "lastAdrCommit": "2019-03-13T02:50:35Z",
+  "firstCommit": "2018-09-26T11:29:02Z",
+  "lastCommit": "2019-03-13T02:50:35Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "425ca4f25f2f7e4a0b8fc9c0f77bdd08d27fa9a3",
+        "12ea52f414e81b63a3f2ed6c418243e45b341793",
+        "780ee426cea73211b6d7ee26f4c5e875ee454a96",
+        "3bb9488340889163280b99f220980ec983a81dc4"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

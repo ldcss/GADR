@@ -1,0 +1,144 @@
+{
+  "repositoryUrl": "https://github.com/bbc/lrud.git",
+  "crawlDateTime": "2022-01-18T18:35:55.464768",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/ADRs"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "ADR-004-cancellable-movement.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2019-08-08T13:27:40Z",
+      "lastCommit": "2019-08-08T13:27:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2fcba45b8c93e650d7371d575c35dd325d017681"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "ADR-002-rewrite-version-3.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2019-05-03T10:39:07Z",
+      "lastCommit": "2019-06-19T09:34:22Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "da85459d097ac4a8fe33f012c0084be12c9880ee",
+            "3df8c5527c4c981c6edfe0b2301901e266f3bbb0",
+            "6d2c38bd213b6027f65a86d8ba9936f7ab5825b8"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "ADR-003-handling-duplicate-node-ids.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2019-06-19T09:34:22Z",
+      "lastCommit": "2019-06-21T08:50:30Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "da85459d097ac4a8fe33f012c0084be12c9880ee",
+            "2d42e80d644bf6b8be572aee72acc7a87bdae701",
+            "05225748ca0ae20bf3f7f834d485f434136e8649"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "ADR-001-navigation-overrides.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2019-02-28T09:09:27Z",
+      "lastCommit": "2019-06-19T09:34:22Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "da85459d097ac4a8fe33f012c0084be12c9880ee",
+            "0fc8ce3a07e8b8ce735d987178e0e2ae3c71ca65",
+            "f0cb7a5e4910886f49543a1dcb5bf7db5600b055",
+            "9a63202ca218f334237bb911a5bf019579e686c6"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADRs",
+      "path": "ADR-005-esm-distribution.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2019-10-23T13:08:05Z",
+      "lastCommit": "2019-10-23T13:08:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "470225ced34a399ef4656d623a3e5de4f7a96bc1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-28T09:09:27Z",
+  "lastAdrCommit": "2019-10-23T13:08:05Z",
+  "firstCommit": "2017-12-23T13:19:16Z",
+  "lastCommit": "2021-10-26T10:11:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "470225ced34a399ef4656d623a3e5de4f7a96bc1"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "da85459d097ac4a8fe33f012c0084be12c9880ee",
+        "3df8c5527c4c981c6edfe0b2301901e266f3bbb0",
+        "0fc8ce3a07e8b8ce735d987178e0e2ae3c71ca65",
+        "6d2c38bd213b6027f65a86d8ba9936f7ab5825b8",
+        "2d42e80d644bf6b8be572aee72acc7a87bdae701",
+        "05225748ca0ae20bf3f7f834d485f434136e8649",
+        "f0cb7a5e4910886f49543a1dcb5bf7db5600b055",
+        "9a63202ca218f334237bb911a5bf019579e686c6",
+        "2fcba45b8c93e650d7371d575c35dd325d017681"
+      ],
+      "numberOfCommits": 9
+    }
+  ]
+}

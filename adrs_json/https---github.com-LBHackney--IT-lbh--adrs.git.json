@@ -1,0 +1,375 @@
+{
+  "repositoryUrl": "https://github.com/LBHackney-IT/lbh-adrs.git",
+  "crawlDateTime": "2022-01-18T20:13:03.594429",
+  "numAdrDirectories": 2,
+  "adrDirectories": [
+    "Platform",
+    "MTFH"
+  ],
+  "numAdrFiles": 14,
+  "adrFiles": [
+    {
+      "adrDirectory": "Platform",
+      "path": "Trial/Event-Driven-Architecture-Message-Types.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-19T15:07:12Z",
+      "lastCommit": "2021-05-19T15:42:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1dd0afeeee58fcddf923a0493ba2ed395eca5351"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25b50122028c6580ccd2df6a2b8c2ebd38ccd5ec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Platform",
+      "path": "Trial/Event-Driven-Architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-19T15:07:12Z",
+      "lastCommit": "2021-05-19T16:10:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1dd0afeeee58fcddf923a0493ba2ed395eca5351"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "defce310cefe74cece9075789c5a5655c7d0d96b",
+            "25b50122028c6580ccd2df6a2b8c2ebd38ccd5ec"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Platform",
+      "path": "Draft/Feature-Toggling.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-13T21:07:21Z",
+      "lastCommit": "2021-06-16T11:21:03Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8abff220915a96b1b91f58ee7a28312b6a1d0b4",
+            "4f8c35a656d9ff9f563a60393045487ea4176ae3",
+            "936785abfb39a368e5ffe27774e398fce731ae11",
+            "c004e5eedc2150387b84c9356f2676509f08be9e"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Platform",
+      "path": "Draft/Record-Versioning.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-16T11:21:03Z",
+      "lastCommit": "2021-06-16T11:21:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c004e5eedc2150387b84c9356f2676509f08be9e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Platform",
+      "path": "Accepted/Frontend-Tech-Stack.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-12T11:38:02Z",
+      "lastCommit": "2021-05-13T21:07:21Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aca2a199c60f4863284e81a5f070edf367e75e86",
+            "dc88da4000a1258fe661dfaeeb56bce8f3741888",
+            "5cb4ac545f3f0f3f5cc12cef4877c6719df1a65c",
+            "936785abfb39a368e5ffe27774e398fce731ae11"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Platform",
+      "path": "Accepted/Validation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-19T15:07:12Z",
+      "lastCommit": "2021-05-19T15:42:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1dd0afeeee58fcddf923a0493ba2ed395eca5351"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25b50122028c6580ccd2df6a2b8c2ebd38ccd5ec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Platform",
+      "path": "Accepted/Microfrontend-Architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-12T12:13:24Z",
+      "lastCommit": "2021-05-12T12:13:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "04d72ac33e832cd1d169442a39c00ec630c5a63e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Platform",
+      "path": "Accepted/First-Choice-Microservice-Datastore.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-12T11:53:00Z",
+      "lastCommit": "2021-05-12T12:01:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc88da4000a1258fe661dfaeeb56bce8f3741888",
+            "f94f1386e2861032864988c0a6e141b5587b86a8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Platform",
+      "path": "Accepted/Observability.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-12T12:13:24Z",
+      "lastCommit": "2021-05-12T12:13:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "04d72ac33e832cd1d169442a39c00ec630c5a63e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Platform",
+      "path": "Accepted/Microfrontend-Composition.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-19T15:07:12Z",
+      "lastCommit": "2021-05-19T15:42:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1dd0afeeee58fcddf923a0493ba2ed395eca5351"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25b50122028c6580ccd2df6a2b8c2ebd38ccd5ec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Platform",
+      "path": "Accepted/Backend-Tech-Stack.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-12T10:20:09Z",
+      "lastCommit": "2021-05-12T12:01:52Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "209701aebfd7688858b26afbea06830b03584bf6",
+            "aca2a199c60f4863284e81a5f070edf367e75e86",
+            "dc88da4000a1258fe661dfaeeb56bce8f3741888",
+            "5cb4ac545f3f0f3f5cc12cef4877c6719df1a65c",
+            "6c7ff6b57d883359354fa98b985d17c3d63dc911"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "MTFH",
+      "path": "Proposed/Tenure-Data-Import.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-09T11:43:51Z",
+      "lastCommit": "2021-07-09T12:05:32Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9b3b5ba4efb5f60e48f9077b99479ef8aff9105b",
+            "9c91af21639abfbb9c945d054b99f9a4d9f05b70",
+            "71fd10c5fb0c4029532ca13cf266712d6c8a3cfc"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "MTFH",
+      "path": "Accepted/Update-Google-groups-access-approach-for-MMH.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-09T11:54:41Z",
+      "lastCommit": "2021-11-23T12:00:18Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6bf740102fc63b23c8ae04db992da56256002b3",
+            "c7a32a71b48fecf9e07aa9a4282c5f10c2564c9a",
+            "7f7c83f2069509a65dcb3a748331312deaba4aa7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "MTFH",
+      "path": "Accepted/Search-APIs-As-Separate-Bounded-Context.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-12T12:06:08Z",
+      "lastCommit": "2021-05-12T12:06:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d63ae6f29db3227d4df15fe7ff74d70f555eb4d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-05-12T10:20:09Z",
+  "lastAdrCommit": "2021-11-23T12:00:18Z",
+  "firstCommit": "2021-05-12T10:20:09Z",
+  "lastCommit": "2022-01-17T14:30:36Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b6bf740102fc63b23c8ae04db992da56256002b3",
+        "c7a32a71b48fecf9e07aa9a4282c5f10c2564c9a",
+        "7f7c83f2069509a65dcb3a748331312deaba4aa7"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1dd0afeeee58fcddf923a0493ba2ed395eca5351"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9b3b5ba4efb5f60e48f9077b99479ef8aff9105b",
+        "04d72ac33e832cd1d169442a39c00ec630c5a63e",
+        "25b50122028c6580ccd2df6a2b8c2ebd38ccd5ec",
+        "5cb4ac545f3f0f3f5cc12cef4877c6719df1a65c",
+        "936785abfb39a368e5ffe27774e398fce731ae11",
+        "2d63ae6f29db3227d4df15fe7ff74d70f555eb4d",
+        "f8abff220915a96b1b91f58ee7a28312b6a1d0b4",
+        "209701aebfd7688858b26afbea06830b03584bf6",
+        "defce310cefe74cece9075789c5a5655c7d0d96b",
+        "aca2a199c60f4863284e81a5f070edf367e75e86",
+        "dc88da4000a1258fe661dfaeeb56bce8f3741888",
+        "4f8c35a656d9ff9f563a60393045487ea4176ae3",
+        "f94f1386e2861032864988c0a6e141b5587b86a8",
+        "9c91af21639abfbb9c945d054b99f9a4d9f05b70",
+        "71fd10c5fb0c4029532ca13cf266712d6c8a3cfc",
+        "c004e5eedc2150387b84c9356f2676509f08be9e",
+        "6c7ff6b57d883359354fa98b985d17c3d63dc911"
+      ],
+      "numberOfCommits": 17
+    }
+  ]
+}

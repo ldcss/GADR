@@ -1,0 +1,296 @@
+{
+  "repositoryUrl": "https://github.com/department-of-veterans-affairs/va.gov-team.git",
+  "crawlDateTime": "2022-02-07T15:21:59.930183",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-persistent-user-identity-proposal",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2021-10-06T23:24:17Z",
+      "lastCommit": "2021-10-06T23:24:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0a3bf39126499301c7b2a350756796e9e2523522"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-decision-to-use-github-actions-for-internal-automation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-24T19:32:52Z",
+      "lastCommit": "2021-05-24T19:32:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f008937f5dabd14ce73568ebce07c012894e160e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-remove-user-model-va-profile.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2021-05-05T15:51:19Z",
+      "lastCommit": "2021-05-05T15:51:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3fa482789be961624ea5cd58db605c30a673b33"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-deploy-pact-on-aws.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-28T16:35:41Z",
+      "lastCommit": "2020-10-28T16:35:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d4178f222e9ed10bef66a24ed7401fbd8faf99b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-continue-leveraging-python-2.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-28T16:52:25Z",
+      "lastCommit": "2020-10-28T16:52:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eee521efa4308e0051d72d75662cc81f1f3b05f3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-scale-vagov-content-gql-not-cms-export.md",
+      "template": "Nygard",
+      "status": "[Accepted](https://github.com/department-of-veterans-affairs/va.gov-team/issues/20165)",
+      "firstCommit": "2021-03-19T16:33:04Z",
+      "lastCommit": "2021-03-19T19:41:06Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca6844828db9c1c596a93d06768c5468f02c35b8",
+            "0761c7b9605c3da7835f52aa150dfb8e74b5fb5a",
+            "aa36a9bd95fdf04a1809acca9c3c6f676c334f91"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-implement-cypress-test-selection.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2021-08-03T17:21:17Z",
+      "lastCommit": "2021-08-16T18:43:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f644da475707dd759032411ce43964edfe499c9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5180cd257647f96b11d9c74060eeeb421de98120"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-return-uninflected-va-keys.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-13T15:39:34Z",
+      "lastCommit": "2021-01-13T15:39:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bf1bd16e3526857fb157fecebf942d04a0e06383"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-github-actions-for-vsp-platform-ci.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-16T20:17:12Z",
+      "lastCommit": "2021-02-16T20:17:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "68808c730cfc6a89190040e59ce304b3cbeb6536"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-28T16:35:41Z",
+      "lastCommit": "2020-10-28T16:35:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d4178f222e9ed10bef66a24ed7401fbd8faf99b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-28T16:35:41Z",
+  "lastAdrCommit": "2021-10-06T23:24:17Z",
+  "firstCommit": "2018-05-23T21:04:22Z",
+  "lastCommit": "2022-02-07T14:08:15Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9d4178f222e9ed10bef66a24ed7401fbd8faf99b",
+        "68808c730cfc6a89190040e59ce304b3cbeb6536"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f008937f5dabd14ce73568ebce07c012894e160e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bf1bd16e3526857fb157fecebf942d04a0e06383"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8f644da475707dd759032411ce43964edfe499c9"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "eee521efa4308e0051d72d75662cc81f1f3b05f3"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a3fa482789be961624ea5cd58db605c30a673b33"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0a3bf39126499301c7b2a350756796e9e2523522"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5180cd257647f96b11d9c74060eeeb421de98120"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ca6844828db9c1c596a93d06768c5468f02c35b8",
+        "0761c7b9605c3da7835f52aa150dfb8e74b5fb5a",
+        "aa36a9bd95fdf04a1809acca9c3c6f676c334f91"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

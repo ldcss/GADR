@@ -1,0 +1,447 @@
+{
+  "repositoryUrl": "https://github.com/lorenzo-deepcode/buildit-all.git",
+  "crawlDateTime": "2022-01-18T20:48:58.326458",
+  "numAdrDirectories": 4,
+  "adrDirectories": [
+    "bookit-api/docs/architecture/decisions",
+    "midashboard-infrastructure/docs/architecture/decisions",
+    "bookit-infrastructure/docs/architecture/decisions",
+    "twig-infrastructure/docs/architecture/decisions"
+  ],
+  "numAdrFiles": 22,
+  "adrFiles": [
+    {
+      "adrDirectory": "bookit-api/docs/architecture/decisions",
+      "path": "0003-use-junit-for-tests-instead-of-spek.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-api/docs/architecture/decisions",
+      "path": "0009-use-jpa.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [8. Database](0008-database.md)",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-api/docs/architecture/decisions",
+      "path": "0007-use-pac4j-to-validate-tokens.md",
+      "template": "Nygard",
+      "status": "Decline Alternative to [5. Use id_token from Microsoft as Bearer token](0005-use-id-token-from-microsoft-as-bearer-token.md)",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-api/docs/architecture/decisions",
+      "path": "0002-version-api-via-uri-path.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-api/docs/architecture/decisions",
+      "path": "0008-database.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [9. Use JPA](0009-use-jpa.md) - originally used JDBC Amended by [10. JPA manages schema](0010-jpa-manages-schema.md) - originally managed via schema.sql & data.sql and reset each deploy",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-api/docs/architecture/decisions",
+      "path": "0005-use-id-token-from-microsoft-as-bearer-token.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [4. Security](0004-security.md) Alternative considered [6. Use Okta as Identity provider](0006-use-okta-as-identity-provider.md) Alternative considered [7. Use Pac4J to validate tokens](0007-use-pac4j-to-validate-tokens.md)",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-api/docs/architecture/decisions",
+      "path": "0006-use-okta-as-identity-provider.md",
+      "template": "Nygard",
+      "status": "Spiked - Delay for now Amends [4. Security](0004-security.md) Alternative to [5. Use id_token from Microsoft as Bearer token](0005-use-id-token-from-microsoft-as-bearer-token.md)",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-api/docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-api/docs/architecture/decisions",
+      "path": "0004-security.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [5. Use id_token from Microsoft as Bearer token](0005-use-id-token-from-microsoft-as-bearer-token.md) Amended by [6. Use Okta as Identity provider](0006-use-okta-as-identity-provider.md)",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-api/docs/architecture/decisions",
+      "path": "0010-jpa-manages-schema.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [8. Database](0008-database.md)",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "midashboard-infrastructure/docs/architecture/decisions",
+      "path": "0002-use-aws-bare-metal-rig-approach.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [3. Use AWS CodePipeline and CodeBuild instead of Travis](0003-use-aws-codepipeline-and-codebuild-instead-of-travis.md)",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "midashboard-infrastructure/docs/architecture/decisions",
+      "path": "0004-use-cloudwatch-logs-for-log-aggregation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "midashboard-infrastructure/docs/architecture/decisions",
+      "path": "0003-use-aws-codepipeline-and-codebuild-instead-of-travis.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [2. Use AWS Bare Metal Rig approach](0002-use-aws-bare-metal-rig-approach.md)",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "midashboard-infrastructure/docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-infrastructure/docs/architecture/decisions",
+      "path": "0005-use-aws-rds-aurora-mysql-for-database-persistence.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-infrastructure/docs/architecture/decisions",
+      "path": "0002-use-aws-bare-metal-rig-approach.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [3. Use AWS CodePipeline and CodeBuild instead of Travis](0003-use-aws-codepipeline-and-codebuild-instead-of-travis.md)",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-infrastructure/docs/architecture/decisions",
+      "path": "0004-use-cloudwatch-logs-for-log-aggregation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-infrastructure/docs/architecture/decisions",
+      "path": "0003-use-aws-codepipeline-and-codebuild-instead-of-travis.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [2. Use AWS Bare Metal Rig approach](0002-use-aws-bare-metal-rig-approach.md)",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "bookit-infrastructure/docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "twig-infrastructure/docs/architecture/decisions",
+      "path": "0002-use-aws-bare-metal-rig-approach.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [3. Use AWS CodePipeline and CodeBuild instead of Travis](0003-use-aws-codepipeline-and-codebuild-instead-of-travis.md)",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "twig-infrastructure/docs/architecture/decisions",
+      "path": "0003-start-with-aws-codepipeline-and-codebuild.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [2. Use AWS Bare Metal Rig approach](0002-use-aws-bare-metal-rig-approach.md)",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "twig-infrastructure/docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-05T13:33:09Z",
+      "lastCommit": "2018-12-05T13:33:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30a02c0bc1c8253706964de6141a0cc806568916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-12-05T13:33:09Z",
+  "lastAdrCommit": "2018-12-05T13:33:09Z",
+  "firstCommit": "2018-12-05T13:33:09Z",
+  "lastCommit": "2018-12-05T13:33:09Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "30a02c0bc1c8253706964de6141a0cc806568916"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

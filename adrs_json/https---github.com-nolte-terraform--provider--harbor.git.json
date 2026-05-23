@@ -1,0 +1,69 @@
+{
+  "repositoryUrl": "https://github.com/nolte/terraform-provider-harbor.git",
+  "crawlDateTime": "2022-01-18T18:03:16.419313",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "documentation/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0001-use-swagger-for-generate-http-client.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-06-06T12:26:41Z",
+      "lastCommit": "2020-08-22T14:30:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "915151d63ea9c6e10f677a371ef126f2f1a5c804",
+            "fef1e1ac59ea2bfa67621fd749025c0e6f5c2245",
+            "fd42e340b4a5509fe6de8f5921837b8287b6a865"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-06-06T12:26:41Z",
+      "lastCommit": "2020-08-22T14:30:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fef1e1ac59ea2bfa67621fd749025c0e6f5c2245",
+            "fd42e340b4a5509fe6de8f5921837b8287b6a865"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-06T12:26:41Z",
+  "lastAdrCommit": "2020-08-22T14:30:24Z",
+  "firstCommit": "2020-05-22T22:28:50Z",
+  "lastCommit": "2021-12-06T06:02:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "915151d63ea9c6e10f677a371ef126f2f1a5c804",
+        "fef1e1ac59ea2bfa67621fd749025c0e6f5c2245",
+        "fd42e340b4a5509fe6de8f5921837b8287b6a865"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

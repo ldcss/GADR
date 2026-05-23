@@ -1,0 +1,595 @@
+{
+  "repositoryUrl": "https://github.com/Skyscanner/backpack.git",
+  "crawlDateTime": "2022-01-18T17:48:09.990626",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decisions"
+  ],
+  "numAdrFiles": 19,
+  "adrFiles": [
+    {
+      "adrDirectory": "decisions",
+      "path": "versioning-rules.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-25T10:32:44Z",
+      "lastCommit": "2019-05-06T07:44:37Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c1113e85564d084381c9248cd3b1a8d408c6409"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6646034f45b5b5b33f12bb24d9fe435091dd8cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "component-scss-filenames.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-05T10:34:31Z",
+      "lastCommit": "2017-12-05T10:34:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2b25a7355532d91ffbac49c0fda369d169d84437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "theme-props-naming.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-11-24T15:26:30Z",
+      "lastCommit": "2017-11-24T15:26:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "425d40ce758b90f646069e1d22c26ada84aaa05a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "parallel-builds.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-07-17T07:49:17Z",
+      "lastCommit": "2021-02-11T13:36:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4d91b5423c679969598e9d01dd85b42e7ac33b20"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8c38ac4e498604c287a605fb8cf14296ec75d77a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93adb7eca5fa2092e8c5e0987f6c7c4b9ff14b91"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "writing-docs.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-05-02T09:38:48Z",
+      "lastCommit": "2020-02-26T15:17:52Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ccd22bff01bd585eb9f0e4e0764d5602a86ee7c4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8c38ac4e498604c287a605fb8cf14296ec75d77a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b702787536aa9f31b37a5b42c9758a0a168eda9f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b50507879b0624e5cbca3996d0163ef9f819ce96"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "809b65aa9d0714a233ad523b06084eb72063222d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "dependencies-with-a-native-component.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-18T13:29:15Z",
+      "lastCommit": "2020-08-18T13:29:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dc52ff8a8cc3502842c1f8457912ce9b34e7049"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "tracking.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-10-16T13:16:37Z",
+      "lastCommit": "2019-04-11T08:57:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d4158569a0b9bfc844311e464b7ea23f0e2fb733"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6a53d6effbb0abf4cbddcf2e30158f013aee5916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "sizing-in-rem.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-08-06T14:34:49Z",
+      "lastCommit": "2019-08-06T14:34:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "512183d26e572dac15a17984aaacd0876c5c8ec3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "packages.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-24T08:10:04Z",
+      "lastCommit": "2020-04-24T08:10:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84b21756bd062d35aa9254f842c76d4f300b98f2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "adding-types.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-20T16:37:05Z",
+      "lastCommit": "2017-12-20T16:37:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f7e44e4d14ed32fa47c9d675048760dfec803bf6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "structured-data.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-24T10:21:10Z",
+      "lastCommit": "2020-02-24T10:21:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14f336f832a5875eb46e1095a5f95f2151b69100"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "logos.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-11T09:24:54Z",
+      "lastCommit": "2019-11-11T09:24:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b4ec73aa65bc2d363b66254653c8a05096d8f142"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "ignoring.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-21T10:37:32Z",
+      "lastCommit": "2019-02-21T10:37:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7b8c79269bfd8d3cb4c1246b8e0476883e1e77f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "backpack-bot-api-token-for-danger.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-11-16T11:38:16Z",
+      "lastCommit": "2020-10-26T10:42:31Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0b657df27ee3b461fc2615a2b2d0303a9dbabedc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "212e3566e0e04c248153d0080225fd80df5a0275",
+            "5f066c43beea839e70cd7b40f403d478a657ea51",
+            "ad6aa8cdd040af7e0a038a8777fe9d7524722d8d",
+            "bfb913c5767d8cbc9e2b4dfaa6076f5cf72fa581"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "native-line-heights.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-08T13:36:28Z",
+      "lastCommit": "2018-02-08T13:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8505fcceb04619d4216710cdff5b2e713c81764d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "js-filenames.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-27T11:28:23Z",
+      "lastCommit": "2018-02-27T11:28:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65308c736df7d987eac2f4721003919367f57c71"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "accessibility-tests.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-01T14:54:32Z",
+      "lastCommit": "2021-04-02T08:51:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "43df29b62cd5778662631beeb6f05dace996f466",
+            "2d3b379c66b36598a3fd728b7a27afbce4dcd44d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "flowfixme.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-08T09:46:20Z",
+      "lastCommit": "2020-08-31T10:53:49Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5473df8c273e95e838a92f28457de3fb9e3b7d38"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64c3ad2086220257718ca2e0cabf4d7b128e9ad8",
+            "18a9f28eb456a0ebae1a2b710fe94012ada4fc30"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "fill-rule-in-svgs.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-02T15:06:43Z",
+      "lastCommit": "2021-03-02T15:06:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "98481042b086650b85bf123b8ccc45376ce1a6ec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-11-24T15:26:30Z",
+  "lastAdrCommit": "2021-04-02T08:51:52Z",
+  "firstCommit": "2015-07-09T10:49:44Z",
+  "lastCommit": "2022-01-17T15:41:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ccd22bff01bd585eb9f0e4e0764d5602a86ee7c4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "84b21756bd062d35aa9254f842c76d4f300b98f2",
+        "8c38ac4e498604c287a605fb8cf14296ec75d77a",
+        "a7b8c79269bfd8d3cb4c1246b8e0476883e1e77f",
+        "43df29b62cd5778662631beeb6f05dace996f466",
+        "425d40ce758b90f646069e1d22c26ada84aaa05a",
+        "98481042b086650b85bf123b8ccc45376ce1a6ec",
+        "64c3ad2086220257718ca2e0cabf4d7b128e9ad8",
+        "2d3b379c66b36598a3fd728b7a27afbce4dcd44d",
+        "18a9f28eb456a0ebae1a2b710fe94012ada4fc30",
+        "65308c736df7d987eac2f4721003919367f57c71"
+      ],
+      "numberOfCommits": 10
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "212e3566e0e04c248153d0080225fd80df5a0275",
+        "6a53d6effbb0abf4cbddcf2e30158f013aee5916",
+        "512183d26e572dac15a17984aaacd0876c5c8ec3",
+        "5f066c43beea839e70cd7b40f403d478a657ea51",
+        "ad6aa8cdd040af7e0a038a8777fe9d7524722d8d",
+        "b4ec73aa65bc2d363b66254653c8a05096d8f142",
+        "6dc52ff8a8cc3502842c1f8457912ce9b34e7049",
+        "bfb913c5767d8cbc9e2b4dfaa6076f5cf72fa581"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6646034f45b5b5b33f12bb24d9fe435091dd8cf3"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "809b65aa9d0714a233ad523b06084eb72063222d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "93adb7eca5fa2092e8c5e0987f6c7c4b9ff14b91"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8505fcceb04619d4216710cdff5b2e713c81764d",
+        "2b25a7355532d91ffbac49c0fda369d169d84437"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5c1113e85564d084381c9248cd3b1a8d408c6409"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "14f336f832a5875eb46e1095a5f95f2151b69100"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f7e44e4d14ed32fa47c9d675048760dfec803bf6"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4d91b5423c679969598e9d01dd85b42e7ac33b20",
+        "5473df8c273e95e838a92f28457de3fb9e3b7d38"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0b657df27ee3b461fc2615a2b2d0303a9dbabedc",
+        "b50507879b0624e5cbca3996d0163ef9f819ce96"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b702787536aa9f31b37a5b42c9758a0a168eda9f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d4158569a0b9bfc844311e464b7ea23f0e2fb733"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

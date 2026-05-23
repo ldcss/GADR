@@ -1,0 +1,383 @@
+{
+  "repositoryUrl": "https://github.com/CleverCloud/clever-components.git",
+  "crawlDateTime": "2022-01-18T21:18:05.451128",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 16,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0012-hello-prebuilt-storybook.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-23T00:32:06Z",
+      "lastCommit": "2020-12-23T00:32:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9e1f264ab864226df5bc85f53e4ccc1a4f7e6706"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0002-how-we-do-i18n.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-14T13:36:32Z",
+      "lastCommit": "2020-12-23T00:32:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9089b3ef8c601f5e11bb32896a662e5f066b59a",
+            "e5e3434602cf0107ac16534388320c3448f6c501"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0009-how-we-use-the-new-storybook-csf-and-docs-page.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-14T13:36:32Z",
+      "lastCommit": "2020-12-23T00:32:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9089b3ef8c601f5e11bb32896a662e5f066b59a",
+            "e5e3434602cf0107ac16534388320c3448f6c501"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0007-why-a-text-based-tags-input.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-14T13:36:32Z",
+      "lastCommit": "2020-12-23T00:32:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9089b3ef8c601f5e11bb32896a662e5f066b59a",
+            "e5e3434602cf0107ac16534388320c3448f6c501"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0004-why-wrap-input-textarea.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-14T13:36:32Z",
+      "lastCommit": "2021-10-18T12:35:25Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9089b3ef8c601f5e11bb32896a662e5f066b59a",
+            "e5e3434602cf0107ac16534388320c3448f6c501"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ea1a54692ad0e49a6980f2b837f1d94bd0df6531"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0010-introducing-html-in-i18n-strings.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-14T13:36:32Z",
+      "lastCommit": "2020-12-23T00:32:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9089b3ef8c601f5e11bb32896a662e5f066b59a",
+            "e5e3434602cf0107ac16534388320c3448f6c501"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0008-why-an-event-called-requestimplicitsubmit.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-14T13:36:32Z",
+      "lastCommit": "2021-10-18T12:35:25Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9089b3ef8c601f5e11bb32896a662e5f066b59a",
+            "e5e3434602cf0107ac16534388320c3448f6c501"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ea1a54692ad0e49a6980f2b837f1d94bd0df6531"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0001-why-do-we-wrap-button-clicks.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-14T13:36:32Z",
+      "lastCommit": "2020-12-23T00:32:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9089b3ef8c601f5e11bb32896a662e5f066b59a",
+            "e5e3434602cf0107ac16534388320c3448f6c501"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0003-why-a-custom-datetime-relative-component.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-14T13:36:32Z",
+      "lastCommit": "2020-12-23T00:32:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9089b3ef8c601f5e11bb32896a662e5f066b59a",
+            "e5e3434602cf0107ac16534388320c3448f6c501"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0006-why-the-cc-overview-uses-slots.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-14T13:36:32Z",
+      "lastCommit": "2020-12-23T00:32:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9089b3ef8c601f5e11bb32896a662e5f066b59a",
+            "e5e3434602cf0107ac16534388320c3448f6c501"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0015-introducing-a-custom-wds-plugin-based-on-esbuild.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-31T14:52:52Z",
+      "lastCommit": "2021-05-31T15:39:55Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cb06a2035606e9d2ba6d61e94f644f1744348c8e",
+            "3f3184eda40f33983a6e935c1972300f2ecd12bd",
+            "176511c7b323fff9613a132c60890a2df88915c1"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0013-replace-gitlab-ci-plus-clever-app-with-simple-object-storage-hosting-for-previews.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-20T13:54:15Z",
+      "lastCommit": "2021-04-20T13:54:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5663553e25e6aba7e931629b75454134a80dc3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0011-sorting-css-declarations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-14T13:36:32Z",
+      "lastCommit": "2020-12-23T00:32:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9089b3ef8c601f5e11bb32896a662e5f066b59a",
+            "e5e3434602cf0107ac16534388320c3448f6c501"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0016-embracing-custom-elements-manifest.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-30T16:10:37Z",
+      "lastCommit": "2021-06-30T16:10:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "597729fb76515d01e1100385b98cb54561b80c52"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0005-how-should-we-implement-copy-to-clipboard.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-14T13:36:32Z",
+      "lastCommit": "2021-10-18T12:35:25Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9089b3ef8c601f5e11bb32896a662e5f066b59a",
+            "e5e3434602cf0107ac16534388320c3448f6c501"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ea1a54692ad0e49a6980f2b837f1d94bd0df6531"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0014-why-we-internalized-leaflet-heat-and-simpleheat.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-21T17:14:53Z",
+      "lastCommit": "2021-05-21T17:14:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25faa00ee950b8aabb10cb485a91426c4bb2eaab"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-14T13:36:32Z",
+  "lastAdrCommit": "2021-10-18T12:35:25Z",
+  "firstCommit": "2019-03-12T13:28:33Z",
+  "lastCommit": "2022-01-18T16:14:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b9089b3ef8c601f5e11bb32896a662e5f066b59a",
+        "cb06a2035606e9d2ba6d61e94f644f1744348c8e",
+        "c5663553e25e6aba7e931629b75454134a80dc3b",
+        "e5e3434602cf0107ac16534388320c3448f6c501",
+        "9e1f264ab864226df5bc85f53e4ccc1a4f7e6706",
+        "3f3184eda40f33983a6e935c1972300f2ecd12bd",
+        "597729fb76515d01e1100385b98cb54561b80c52",
+        "176511c7b323fff9613a132c60890a2df88915c1",
+        "25faa00ee950b8aabb10cb485a91426c4bb2eaab"
+      ],
+      "numberOfCommits": 9
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ea1a54692ad0e49a6980f2b837f1d94bd0df6531"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

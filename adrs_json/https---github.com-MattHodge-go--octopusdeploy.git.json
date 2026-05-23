@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/MattHodge/go-octopusdeploy.git",
+  "crawlDateTime": "2022-01-18T17:28:11.372897",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture-decisions"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0001-validate-octopus-objects.md",
+      "template": "Nygard",
+      "status": ":white_check_mark: Accepted",
+      "firstCommit": "2018-10-14T14:38:21Z",
+      "lastCommit": "2018-10-14T14:38:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "441d3965324a5d449992ef05d84be4b573f75982"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-10-14T14:38:21Z",
+  "lastAdrCommit": "2018-10-14T14:38:21Z",
+  "firstCommit": "2018-06-20T19:23:58Z",
+  "lastCommit": "2019-03-28T05:16:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "441d3965324a5d449992ef05d84be4b573f75982"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

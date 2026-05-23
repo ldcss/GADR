@@ -1,0 +1,96 @@
+{
+  "repositoryUrl": "https://github.com/rufus-lang/rufus.git",
+  "crawlDateTime": "2022-01-18T18:37:38.129987",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "rufus-lang.org/public/doc/rdr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "rufus-lang.org/public/doc/rdr",
+      "path": "nnnn-exported-identifiers.md",
+      "template": "Madr",
+      "status": "Drafting",
+      "firstCommit": "2019-05-07T02:37:19Z",
+      "lastCommit": "2021-10-03T18:43:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "768291f786477a019304dcc94c48d9f95f1999fd",
+            "52a457e3aa8a4c32ca8776774c45a2083da0f505",
+            "cd6404791f26c3830288f99514aff1ef96bdd58e",
+            "719ee9e44315694364874a4e287146f3a50e4655",
+            "bdb0935034183c8a4ab1d06bec50807b8093e46b"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "rufus-lang.org/public/doc/rdr",
+      "path": "0000-rufus-decision-records.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2019-05-04T03:05:06Z",
+      "lastCommit": "2019-10-29T05:07:19Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c7f06a076ceb4b8335d88181205f99e1ed711781",
+            "a7218ed5a63ace8c6bae135aa68e4a275a048a88",
+            "cd6404791f26c3830288f99514aff1ef96bdd58e",
+            "bdb0935034183c8a4ab1d06bec50807b8093e46b"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "rufus-lang.org/public/doc/rdr",
+      "path": "nnnn-list-syntax.md",
+      "template": "Madr",
+      "status": "Drafting",
+      "firstCommit": "2020-02-17T01:18:31Z",
+      "lastCommit": "2020-02-17T01:18:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "719ee9e44315694364874a4e287146f3a50e4655"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-04T03:05:06Z",
+  "lastAdrCommit": "2021-10-03T18:43:24Z",
+  "firstCommit": "2018-05-29T15:30:00Z",
+  "lastCommit": "2022-01-14T16:15:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c7f06a076ceb4b8335d88181205f99e1ed711781",
+        "768291f786477a019304dcc94c48d9f95f1999fd",
+        "a7218ed5a63ace8c6bae135aa68e4a275a048a88",
+        "52a457e3aa8a4c32ca8776774c45a2083da0f505",
+        "cd6404791f26c3830288f99514aff1ef96bdd58e",
+        "719ee9e44315694364874a4e287146f3a50e4655",
+        "bdb0935034183c8a4ab1d06bec50807b8093e46b"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

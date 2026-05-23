@@ -1,0 +1,160 @@
+{
+  "repositoryUrl": "https://github.com/greenpeace/planet4-docs.git",
+  "crawlDateTime": "2022-01-18T19:16:05.77104",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/tech/adrs"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/tech/adrs",
+      "path": "adr-0002-p3-archive-elastic-search-integration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-01T09:37:28Z",
+      "lastCommit": "2020-09-01T09:37:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "387614fda0ac3090bbd2dd7c14bb673fdb29e984"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/tech/adrs",
+      "path": "adr-0014-choose-a-ticketing-system.md",
+      "template": "Madr",
+      "status": "**decided**",
+      "firstCommit": "2020-10-19T14:59:34Z",
+      "lastCommit": "2020-10-19T14:59:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30f9dde2baba9a3e79a1b6c7ab2e90d8d9af3673"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/tech/adrs",
+      "path": "adr-0006-define-scope-for-deployment-environments.md",
+      "template": "Madr",
+      "status": "**accepted**",
+      "firstCommit": "2020-10-19T14:59:34Z",
+      "lastCommit": "2020-10-19T14:59:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30f9dde2baba9a3e79a1b6c7ab2e90d8d9af3673"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/tech/adrs",
+      "path": "adr-0009-include-media-library-in-master-theme.md",
+      "template": "Madr",
+      "status": "**accepted**",
+      "firstCommit": "2020-10-19T14:59:34Z",
+      "lastCommit": "2020-10-19T14:59:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30f9dde2baba9a3e79a1b6c7ab2e90d8d9af3673"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/tech/adrs",
+      "path": "adr-0001-use-gitbook-for-technical-documentation.md",
+      "template": "Madr",
+      "status": "**accepted**",
+      "firstCommit": "2020-09-01T09:37:28Z",
+      "lastCommit": "2020-09-01T09:37:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "387614fda0ac3090bbd2dd7c14bb673fdb29e984"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/tech/adrs",
+      "path": "adr-0004-switch-to-monorepo.md",
+      "template": "Madr",
+      "status": "**partially accepted** \\(see Decision\\)",
+      "firstCommit": "2020-10-19T14:59:34Z",
+      "lastCommit": "2020-10-19T14:59:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30f9dde2baba9a3e79a1b6c7ab2e90d8d9af3673"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/tech/adrs",
+      "path": "adr-0008-psr-4-autoloading-standard.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-19T14:59:34Z",
+      "lastCommit": "2020-10-19T14:59:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30f9dde2baba9a3e79a1b6c7ab2e90d8d9af3673"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-01T09:37:28Z",
+  "lastAdrCommit": "2020-10-19T14:59:34Z",
+  "firstCommit": "2020-02-28T09:52:47Z",
+  "lastCommit": "2022-01-17T10:26:40Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "387614fda0ac3090bbd2dd7c14bb673fdb29e984",
+        "30f9dde2baba9a3e79a1b6c7ab2e90d8d9af3673"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

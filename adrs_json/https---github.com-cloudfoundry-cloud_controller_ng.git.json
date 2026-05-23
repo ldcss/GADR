@@ -1,0 +1,401 @@
+{
+  "repositoryUrl": "https://github.com/cloudfoundry/cloud_controller_ng.git",
+  "crawlDateTime": "2022-01-18T20:07:29.749315",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decisions"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "decisions",
+      "path": "0010-renaming-space-application-suporter-role-to-space-supporter.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-27T20:39:54Z",
+      "lastCommit": "2021-07-27T20:41:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9bd01a09df208cec9dea98b04f58ee2581b079d6",
+            "bb764e5616b8fa24866218d82c26ec736735d1ec"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0005-resp-ordering-relat-meta-links.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-01-31T23:39:58Z",
+      "lastCommit": "2020-01-31T23:39:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5cc9af35c677618c679c67d96357d3eaee148031"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0003-switching-to-request-specs-for-controllers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-16T18:29:56Z",
+      "lastCommit": "2019-04-23T22:37:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "39e4b5c101c08d387a77975650c6e88e60ae9b32"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e7aeaf78189e5603a94293fa896e1fe246a76f5a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0008-enhancing-api-error-codes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-29T21:04:19Z",
+      "lastCommit": "2020-07-06T18:50:51Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "526bbf881dc9a3336d5989c8d1ffbea0d6c3ba7b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ff3b848b906b6afede3d65c36ac770b3709ff80",
+            "8a123d14f3f7e436e207d0a24bd52b4d21532519",
+            "1df36b10f8aea6fbcfcc8e24836d2353af3ffabd"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0006-refactoring-interactions-with-kubernetes-resources.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-12T02:39:44Z",
+      "lastCommit": "2020-05-28T18:54:52Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d5d6214c7d44191cb35b9331e994f38a0f9beb8",
+            "228a0d7ebdc47dc6275e30e608b888251f578915"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81a6441fa4fa273b57d55f47d9b982eaf469dcb6"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "493e0490e56228cc2fbf022f4be29d0f6ca81a99",
+            "58ace139ae6c8e729b098a0fa9635f135cfe3254"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0002-using-machinist-for-factories.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-26T23:01:45Z",
+      "lastCommit": "2019-03-26T23:01:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1fc2abaa3ba66241b049915aab9c385565b71a4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0004-adding-key-prefix-to-annotations.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-11T22:44:02Z",
+      "lastCommit": "2019-06-18T18:40:56Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a83276f6cf024de65ea9bfd75044ec2ddc37d4af"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "15aedc60c8fde263035c6a88147357713e81049d",
+            "8c569f5cb12975944726fc67f86a70aad6be0a5d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0009-services-orphan-mitigation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-17T10:53:24Z",
+      "lastCommit": "2021-03-23T15:36:02Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7d460d466f28560f570fad6b7f36b9e45fee6b0d",
+            "35fd2ed400744432e530f769407728a148bb62ed",
+            "a35f382491da872bcb9e5300ababf774f53257dd",
+            "33a1f9829c49e43cd4fd4c87d17dfe9d38ab4faa"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "139ff73da55d556c853821287024152213652586"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-26T23:01:45Z",
+      "lastCommit": "2019-03-26T23:01:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1fc2abaa3ba66241b049915aab9c385565b71a4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0007-implementing-v3-roles.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-22T16:19:19Z",
+      "lastCommit": "2020-06-24T23:54:03Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f6c14cf64e053a11f88609cfb16a2442db124cad"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "36303ca0df861b52c352149f3ed54b86b2adba9f",
+            "c5d06a0b3f65b1a93a764c4f05f2b79c399a03c2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-26T23:01:45Z",
+  "lastAdrCommit": "2021-07-27T20:41:14Z",
+  "firstCommit": "2012-04-24T16:39:32Z",
+  "lastCommit": "2022-01-18T18:56:24Z",
+  "adrDirFile": {
+    "fileContent": "decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5cc9af35c677618c679c67d96357d3eaee148031"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e1fc2abaa3ba66241b049915aab9c385565b71a4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "526bbf881dc9a3336d5989c8d1ffbea0d6c3ba7b"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e7aeaf78189e5603a94293fa896e1fe246a76f5a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "81a6441fa4fa273b57d55f47d9b982eaf469dcb6"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9bd01a09df208cec9dea98b04f58ee2581b079d6",
+        "f6c14cf64e053a11f88609cfb16a2442db124cad",
+        "bb764e5616b8fa24866218d82c26ec736735d1ec"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7d460d466f28560f570fad6b7f36b9e45fee6b0d",
+        "35fd2ed400744432e530f769407728a148bb62ed",
+        "a35f382491da872bcb9e5300ababf774f53257dd",
+        "33a1f9829c49e43cd4fd4c87d17dfe9d38ab4faa"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9ff3b848b906b6afede3d65c36ac770b3709ff80",
+        "8a123d14f3f7e436e207d0a24bd52b4d21532519",
+        "1df36b10f8aea6fbcfcc8e24836d2353af3ffabd"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "15aedc60c8fde263035c6a88147357713e81049d",
+        "8c569f5cb12975944726fc67f86a70aad6be0a5d"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2d5d6214c7d44191cb35b9331e994f38a0f9beb8",
+        "228a0d7ebdc47dc6275e30e608b888251f578915"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "39e4b5c101c08d387a77975650c6e88e60ae9b32"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "36303ca0df861b52c352149f3ed54b86b2adba9f",
+        "c5d06a0b3f65b1a93a764c4f05f2b79c399a03c2"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a83276f6cf024de65ea9bfd75044ec2ddc37d4af",
+        "493e0490e56228cc2fbf022f4be29d0f6ca81a99",
+        "58ace139ae6c8e729b098a0fa9635f135cfe3254"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "139ff73da55d556c853821287024152213652586"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

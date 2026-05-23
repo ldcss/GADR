@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/hyprnz/terraform-aws-ecs.git",
+  "crawlDateTime": "2022-01-18T21:22:59.952602",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-ecs-iam-and-security-groups.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-25T21:58:10Z",
+      "lastCommit": "2020-05-25T21:58:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "12ecd75891f79d0cf599883bf73a5b9df6545a10"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-switch-to-ecs-optimized-amazon-linux-2-ami.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-25T21:58:10Z",
+      "lastCommit": "2020-05-25T21:58:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "12ecd75891f79d0cf599883bf73a5b9df6545a10"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-25T21:58:10Z",
+      "lastCommit": "2020-05-25T21:58:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "12ecd75891f79d0cf599883bf73a5b9df6545a10"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-25T21:58:10Z",
+  "lastAdrCommit": "2020-05-25T21:58:10Z",
+  "firstCommit": "2020-05-25T21:56:42Z",
+  "lastCommit": "2020-06-23T06:22:34Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "12ecd75891f79d0cf599883bf73a5b9df6545a10"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

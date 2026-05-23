@@ -1,0 +1,519 @@
+{
+  "repositoryUrl": "https://github.com/openmrs/openmrs-rfc-frontend.git",
+  "crawlDateTime": "2022-01-18T18:17:57.644506",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "text"
+  ],
+  "numAdrFiles": 19,
+  "adrFiles": [
+    {
+      "adrDirectory": "text",
+      "path": "0001-single-page-applications.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-24T05:47:16Z",
+      "lastCommit": "2019-05-10T23:06:25Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9fb63eea0673e340a78189b8436e898a753a0f3",
+            "8438185c24c8e8f5223f406189286f67620282ff",
+            "3495562bb319e7ca5358f059f8a155261b3e4f2f",
+            "016d9e1a6faf95443b9c54e46667b2ea5a964df7",
+            "1340084c3faf996c1456789254f0f05cc4f0b4d9"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0002-modules.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-25T03:09:59Z",
+      "lastCommit": "2019-04-25T15:16:57Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c46a7d51463ab5b823e2f6c041275f5289a1115a",
+            "5ac3fb6d7e1502b5614b76d313c09a6de6025e87",
+            "bb015972861888ab1d0f99334530c66ff8bea663"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0004-import-maps.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-05-02T00:13:09Z",
+      "lastCommit": "2019-05-02T00:29:22Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2363d4c5f174631dba2f0d416e2f41bf297b2bf4",
+            "97f86ade9c13372fc8e73699108dba968e97f043",
+            "cfe128a16552d5a4d63e856c45c5dad59761df4b",
+            "18b8c36bd1afb51510f48930505cc4adb91cb0b8",
+            "68a9656cd9c9a656de6ad184c966ed1cf0d1534b",
+            "b78d8938fdd17f997fe2469800e9564c29fdd4a3"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0014-configuration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-26T05:29:11Z",
+      "lastCommit": "2019-09-26T05:29:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9de812bd7006743acdb2ab0c9ec86f43ee717b86"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0027-extensions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-09-10T17:44:44Z",
+      "lastCommit": "2022-01-04T18:41:18Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "758f3e9c9d968a584479878529648ad01ab251eb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ddb14f612156e6403764ed7ebf15a3f4d7db9ce1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0019-issue-tracking-and-documentation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-30T14:08:39Z",
+      "lastCommit": "2019-11-30T14:08:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "778ce408a092bf979dd19c2715296c0bacbbf0cb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0012-styleguide-javascript-components.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-07T23:01:15Z",
+      "lastCommit": "2019-09-07T23:01:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f9378a2bdac02051e3139836cf614d99c5e0253"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0021-versioning-releases.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-19T15:52:27Z",
+      "lastCommit": "2020-03-19T15:52:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adc8cbce5cc20870c1932cabb561d8fe2a10e4be"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0030-link-system.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-09T21:32:33Z",
+      "lastCommit": "2021-11-09T21:32:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c1b6f3103ffa815c8092377f3152b3c0686baf29"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0022-versions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-19T21:32:42Z",
+      "lastCommit": "2020-03-19T21:32:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c6bc0abab53e2417549df184eac0cdc3dc46d91f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0003-browser-support.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-26T21:21:56Z",
+      "lastCommit": "2019-05-02T00:28:05Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ce892f275a3f39db7f7776049c35c507062436e",
+            "a4d2972ff3cd40ec9395d45e85abc8b73ec48808",
+            "767c69ed0dbd48e27ea447b28b9726bca8c500d5"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0008-styleguide.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-06-09T01:28:55Z",
+      "lastCommit": "2019-09-07T23:01:15Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f9378a2bdac02051e3139836cf614d99c5e0253",
+            "78709dddaaa09e36d877b388bc48da1955b9028e",
+            "fc45afbb81465fcfc7547d4eebcd6af281965543",
+            "d6bc0389e013f75e1fe68dbc3f0a183465700cb2",
+            "1c03f9d2dcdd8dc779c4f2550385a302c3f16dc7"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0020-contributing-guidelines.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-30T14:06:47Z",
+      "lastCommit": "2019-11-30T14:06:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc45d3ac444b9b67e32cae06a37c2a09a1bdfefd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0026-activation-distribution.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-21T20:14:57Z",
+      "lastCommit": "2020-05-21T20:14:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5f59fc41a6ef297d40b9c4a815a3fc62841f289"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0005-migrating-from-jsps-gsps.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-05-10T23:50:35Z",
+      "lastCommit": "2019-05-10T23:50:52Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "69d2ef5e5d41a86c906e667f317f4e6fccc72c93",
+            "1250abc5481f3220349a3d379192214ad6c8c8b0",
+            "b6d68fb10f162f602cddb40011623d0a44311d0b"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0013-api-calls-and-fhir.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-07T23:02:17Z",
+      "lastCommit": "2019-09-07T23:02:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d25786805f14cfedeeb956770f388daf2dba407f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0015-usability-testing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-26T19:32:24Z",
+      "lastCommit": "2019-10-02T16:21:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "71ad5e2b58a0048de8ac5fe8ecfad2b2f59ba12d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c74c809fce8eb5c3c4e15f476a22809565fcc127"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0010-design-libraries.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-06-09T01:29:49Z",
+      "lastCommit": "2019-06-15T09:43:26Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6242361b3e8680b065672779dcaa46192f9ebd6a",
+            "47b974beabdb6f31979d9f41ad7f9155740666eb",
+            "51b08f0450dd5dd242930943c178b2f2d25f5461",
+            "3e4d88593dd2b573e589effa3d655341788916ee",
+            "6c882ca0bb61f5eb5bb53e9478b90db743502b17",
+            "1ca3d9bf70906e9b3a564dc5942cc12b9dbce572"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "text",
+      "path": "0023-readme.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-04T15:56:37Z",
+      "lastCommit": "2020-05-04T15:56:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a234f384e23f0b9cc9c90fd9f4e2bc876c9bd214"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-04-24T05:47:16Z",
+  "lastAdrCommit": "2022-01-04T18:41:18Z",
+  "firstCommit": "2019-04-24T05:02:16Z",
+  "lastCommit": "2022-01-04T18:41:18Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "758f3e9c9d968a584479878529648ad01ab251eb"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f5f59fc41a6ef297d40b9c4a815a3fc62841f289"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "71ad5e2b58a0048de8ac5fe8ecfad2b2f59ba12d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "adc8cbce5cc20870c1932cabb561d8fe2a10e4be"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2363d4c5f174631dba2f0d416e2f41bf297b2bf4",
+        "47b974beabdb6f31979d9f41ad7f9155740666eb",
+        "51b08f0450dd5dd242930943c178b2f2d25f5461",
+        "c46a7d51463ab5b823e2f6c041275f5289a1115a",
+        "97f86ade9c13372fc8e73699108dba968e97f043",
+        "d25786805f14cfedeeb956770f388daf2dba407f",
+        "b6d68fb10f162f602cddb40011623d0a44311d0b",
+        "68a9656cd9c9a656de6ad184c966ed1cf0d1534b",
+        "6c882ca0bb61f5eb5bb53e9478b90db743502b17",
+        "1ca3d9bf70906e9b3a564dc5942cc12b9dbce572",
+        "bb015972861888ab1d0f99334530c66ff8bea663",
+        "1c03f9d2dcdd8dc779c4f2550385a302c3f16dc7",
+        "6242361b3e8680b065672779dcaa46192f9ebd6a",
+        "a4d2972ff3cd40ec9395d45e85abc8b73ec48808",
+        "3495562bb319e7ca5358f059f8a155261b3e4f2f",
+        "18b8c36bd1afb51510f48930505cc4adb91cb0b8",
+        "767c69ed0dbd48e27ea447b28b9726bca8c500d5",
+        "f9fb63eea0673e340a78189b8436e898a753a0f3",
+        "1250abc5481f3220349a3d379192214ad6c8c8b0",
+        "5f9378a2bdac02051e3139836cf614d99c5e0253",
+        "3e4d88593dd2b573e589effa3d655341788916ee",
+        "8438185c24c8e8f5223f406189286f67620282ff",
+        "016d9e1a6faf95443b9c54e46667b2ea5a964df7",
+        "bc45d3ac444b9b67e32cae06a37c2a09a1bdfefd",
+        "b78d8938fdd17f997fe2469800e9564c29fdd4a3",
+        "d6bc0389e013f75e1fe68dbc3f0a183465700cb2",
+        "1340084c3faf996c1456789254f0f05cc4f0b4d9",
+        "69d2ef5e5d41a86c906e667f317f4e6fccc72c93",
+        "1ce892f275a3f39db7f7776049c35c507062436e",
+        "5ac3fb6d7e1502b5614b76d313c09a6de6025e87",
+        "78709dddaaa09e36d877b388bc48da1955b9028e",
+        "cfe128a16552d5a4d63e856c45c5dad59761df4b",
+        "778ce408a092bf979dd19c2715296c0bacbbf0cb",
+        "fc45afbb81465fcfc7547d4eebcd6af281965543"
+      ],
+      "numberOfCommits": 34
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a234f384e23f0b9cc9c90fd9f4e2bc876c9bd214",
+        "c6bc0abab53e2417549df184eac0cdc3dc46d91f",
+        "ddb14f612156e6403764ed7ebf15a3f4d7db9ce1",
+        "c1b6f3103ffa815c8092377f3152b3c0686baf29"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c74c809fce8eb5c3c4e15f476a22809565fcc127"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9de812bd7006743acdb2ab0c9ec86f43ee717b86"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

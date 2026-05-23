@@ -1,0 +1,140 @@
+{
+  "repositoryUrl": "https://github.com/ebi-uniprot/uniprot-rest-api.git",
+  "crawlDateTime": "2022-01-18T19:11:32.262943",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-lombok.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-08T16:50:33Z",
+      "lastCommit": "2019-03-08T16:50:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52df0b4610129e6c95ecb05e1c5050713f887b63"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-spring-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-08T16:50:33Z",
+      "lastCommit": "2019-03-08T16:50:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52df0b4610129e6c95ecb05e1c5050713f887b63"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-programming-language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-08T16:50:33Z",
+      "lastCommit": "2019-03-08T16:50:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52df0b4610129e6c95ecb05e1c5050713f887b63"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-build-setup.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-08T16:50:33Z",
+      "lastCommit": "2019-03-08T16:50:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52df0b4610129e6c95ecb05e1c5050713f887b63"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-voldemort.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-08T16:50:33Z",
+      "lastCommit": "2019-03-08T16:50:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52df0b4610129e6c95ecb05e1c5050713f887b63"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-solrcloud.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-08T16:50:33Z",
+      "lastCommit": "2019-03-08T16:50:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52df0b4610129e6c95ecb05e1c5050713f887b63"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-08T16:50:33Z",
+  "lastAdrCommit": "2019-03-08T16:50:33Z",
+  "firstCommit": "2018-07-18T12:05:39Z",
+  "lastCommit": "2022-01-18T15:36:53Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "52df0b4610129e6c95ecb05e1c5050713f887b63"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

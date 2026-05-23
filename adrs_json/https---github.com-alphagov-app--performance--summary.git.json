@@ -1,0 +1,84 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/app-performance-summary.git",
+  "crawlDateTime": "2022-01-18T18:18:21.846633",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-luigi.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-16T15:25:13Z",
+      "lastCommit": "2018-02-16T15:25:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "850b2fcb4023f3de26476c1ec2c499594753c78e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-integrate-with-drive.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-06T16:57:49Z",
+      "lastCommit": "2018-03-06T16:57:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca612715334fcbfc89f14be804dc45d1ba4dc0d4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-16T15:25:13Z",
+      "lastCommit": "2018-02-16T15:25:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "850b2fcb4023f3de26476c1ec2c499594753c78e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-02-16T15:25:13Z",
+  "lastAdrCommit": "2018-03-06T16:57:49Z",
+  "firstCommit": "2018-01-29T09:43:33Z",
+  "lastCommit": "2018-03-13T16:50:50Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "850b2fcb4023f3de26476c1ec2c499594753c78e",
+        "ca612715334fcbfc89f14be804dc45d1ba4dc0d4"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

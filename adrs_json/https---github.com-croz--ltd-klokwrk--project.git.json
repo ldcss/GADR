@@ -1,0 +1,351 @@
+{
+  "repositoryUrl": "https://github.com/croz-ltd/klokwrk-project.git",
+  "crawlDateTime": "2022-01-18T18:16:29.425863",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "support/documentation/adr/content"
+  ],
+  "numAdrFiles": 15,
+  "adrFiles": [
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0002-strategic-project-structure.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-24T07:15:16Z",
+      "lastCommit": "2021-05-25T07:23:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45bf6a1346eade11f35da31d7d94b9d10e528fc8",
+            "eea9b5026b5c657e580c21d8d4ec4784c9c2aa3a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0013-validation-taxonomy.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-15T17:23:27Z",
+      "lastCommit": "2022-01-09T19:31:52Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64e27957d88588faaf6a6f9b14a0eeed247e9a93",
+            "ccb643051a578cff0a9dfe47424437f5f5e788db",
+            "331aee264f2071e8d213c7f1d5d730ab8a9482df"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0010-integration-testing-with-containerized-infrastructure.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-05T09:27:29Z",
+      "lastCommit": "2022-01-09T19:31:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "09f99c793976177dd27ae2afe6bb0b52f5aee2b7",
+            "331aee264f2071e8d213c7f1d5d730ab8a9482df"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0005-using-groovy.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-04T14:30:17Z",
+      "lastCommit": "2020-11-04T14:30:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "784d558acb258f03bf388007f0d7fb08ef281aea"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0009-testing-inter-module-dependencies.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-04T14:31:04Z",
+      "lastCommit": "2020-11-04T14:31:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "217d193fae2dd6c532ce027e9f4047020b9733b8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0011-component-testing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-05T18:42:09Z",
+      "lastCommit": "2020-11-05T18:42:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b17fec33b40e6bbe1238019f48ad206bfc002d68"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0007-git-workflow-with-linear-history.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-04T14:31:04Z",
+      "lastCommit": "2021-05-12T19:02:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4d905cca42cf952608cda17f961687280c76b861",
+            "bb3b7660797d085d602e7dfb6499ec4c10fa6c9d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0004-hexagonal-architecture-for-applications.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-04T14:29:46Z",
+      "lastCommit": "2020-12-21T10:49:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45460fb55efa28b5c90fdc847b5feee409a22ed4",
+            "8da882b094b7eece2ff06b5249f1c28d33277c59"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0008-testing-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-04T14:31:04Z",
+      "lastCommit": "2020-12-21T10:49:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "725147a4d6baf1d99aceab77b8bf3e777d7bc92e",
+            "45460fb55efa28b5c90fdc847b5feee409a22ed4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0001-architectural-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-27T18:32:17Z",
+      "lastCommit": "2020-11-04T14:25:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad15614e67185208f1c5b0a3e65e155749c1f69b",
+            "fad9a23c6dccbb29370221fc138765dc3587a997"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0012-response-format.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-24T07:15:16Z",
+      "lastCommit": "2021-08-10T07:13:08Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "004c9cc5fdf49feb6c99c2da38e5a94961df421d",
+            "dbc1b588c5c20e802c17d715d8475c9690ff9b36",
+            "eea9b5026b5c657e580c21d8d4ec4784c9c2aa3a"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0006-contributing-back-to-open-source.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-24T07:15:16Z",
+      "lastCommit": "2021-05-25T07:24:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5354768d67f8197426bc733fec82b2e31d46858c",
+            "eea9b5026b5c657e580c21d8d4ec4784c9c2aa3a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0015-handling-exceptions-in-distributed-cqrs-system.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-10T07:12:57Z",
+      "lastCommit": "2022-01-17T08:56:49Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3720c6b11eb3a4ea5da851de7dd0a0042640bdad",
+            "ffe31c22a0eab2bfa35c442e2968e3c9e7d03837",
+            "b172443aa57930dbdcdfdc8b1b7bae3ca559cfd7",
+            "9c1b9b816375ed796b2c2da7c33b931862286bf1",
+            "331aee264f2071e8d213c7f1d5d730ab8a9482df"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0003-cqrs-and-event-sourcing-for-applications.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-04T14:28:11Z",
+      "lastCommit": "2020-11-04T14:28:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d05faf6062e5df68d66876f362e70b0060c7a489"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "support/documentation/adr/content",
+      "path": "0014-commit-message-format.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-12T19:02:21Z",
+      "lastCommit": "2021-07-17T19:42:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "96f658ee1d8d833c9a94213d928bd6c5db5886ca",
+            "4d905cca42cf952608cda17f961687280c76b861"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-27T18:32:17Z",
+  "lastAdrCommit": "2022-01-17T08:56:49Z",
+  "firstCommit": "2020-03-22T20:47:19Z",
+  "lastCommit": "2022-01-17T12:20:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ffe31c22a0eab2bfa35c442e2968e3c9e7d03837",
+        "d05faf6062e5df68d66876f362e70b0060c7a489",
+        "64e27957d88588faaf6a6f9b14a0eeed247e9a93",
+        "ad15614e67185208f1c5b0a3e65e155749c1f69b",
+        "ccb643051a578cff0a9dfe47424437f5f5e788db",
+        "bb3b7660797d085d602e7dfb6499ec4c10fa6c9d",
+        "96f658ee1d8d833c9a94213d928bd6c5db5886ca",
+        "4d905cca42cf952608cda17f961687280c76b861",
+        "725147a4d6baf1d99aceab77b8bf3e777d7bc92e",
+        "09f99c793976177dd27ae2afe6bb0b52f5aee2b7",
+        "45bf6a1346eade11f35da31d7d94b9d10e528fc8",
+        "dbc1b588c5c20e802c17d715d8475c9690ff9b36",
+        "fad9a23c6dccbb29370221fc138765dc3587a997",
+        "b172443aa57930dbdcdfdc8b1b7bae3ca559cfd7",
+        "004c9cc5fdf49feb6c99c2da38e5a94961df421d",
+        "45460fb55efa28b5c90fdc847b5feee409a22ed4",
+        "eea9b5026b5c657e580c21d8d4ec4784c9c2aa3a",
+        "784d558acb258f03bf388007f0d7fb08ef281aea",
+        "3720c6b11eb3a4ea5da851de7dd0a0042640bdad",
+        "5354768d67f8197426bc733fec82b2e31d46858c",
+        "9c1b9b816375ed796b2c2da7c33b931862286bf1",
+        "217d193fae2dd6c532ce027e9f4047020b9733b8",
+        "b17fec33b40e6bbe1238019f48ad206bfc002d68",
+        "331aee264f2071e8d213c7f1d5d730ab8a9482df",
+        "8da882b094b7eece2ff06b5249f1c28d33277c59"
+      ],
+      "numberOfCommits": 25
+    }
+  ]
+}

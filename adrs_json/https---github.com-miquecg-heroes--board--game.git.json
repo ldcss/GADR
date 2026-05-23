@@ -1,0 +1,107 @@
+{
+  "repositoryUrl": "https://github.com/miquecg/heroes-board-game.git",
+  "crawlDateTime": "2022-01-18T20:33:14.522223",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-temporary-heroes.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-04-30T16:22:11Z",
+      "lastCommit": "2020-04-30T16:22:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a6ae7c6cb5a81bfb6f70b59f0a6d1b8d487f11b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-broadcast-messages.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-05-04T10:38:16Z",
+      "lastCommit": "2020-05-04T10:38:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "248d293e4725894716f1f7e19ca188b6a21e17e0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-decouple-game-from-web-server.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-04-15T17:24:25Z",
+      "lastCommit": "2020-04-15T17:24:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8aa7c9867fb605a3bfac2928835084f78ad9c4ae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-tests-definition-and-scope.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-02T12:58:19Z",
+      "lastCommit": "2020-05-02T17:46:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2603a08902e8c25a0621a0075907f9d577b040db",
+            "c884e9dbe05006ca4499f9e401cabcde9f9a3e2b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-15T17:24:25Z",
+  "lastAdrCommit": "2020-05-04T10:38:16Z",
+  "firstCommit": "2020-04-08T09:58:20Z",
+  "lastCommit": "2021-12-14T19:40:16Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "248d293e4725894716f1f7e19ca188b6a21e17e0",
+        "2603a08902e8c25a0621a0075907f9d577b040db",
+        "c884e9dbe05006ca4499f9e401cabcde9f9a3e2b",
+        "8aa7c9867fb605a3bfac2928835084f78ad9c4ae",
+        "1a6ae7c6cb5a81bfb6f70b59f0a6d1b8d487f11b"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

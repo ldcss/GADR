@@ -1,0 +1,197 @@
+{
+  "repositoryUrl": "https://github.com/zooniverse/galaxy-zoo-touch-table.git",
+  "crawlDateTime": "2022-01-18T19:36:39.20884",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-9.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-26T19:49:15Z",
+      "lastCommit": "2019-07-26T19:49:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53039c76682486a06b0f4bf561a7cb980a867124"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-1.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-26T19:49:15Z",
+      "lastCommit": "2019-07-26T19:49:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53039c76682486a06b0f4bf561a7cb980a867124"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-4.md",
+      "template": "Nygard",
+      "status": "Declined",
+      "firstCommit": "2019-07-26T19:49:15Z",
+      "lastCommit": "2019-07-26T19:49:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53039c76682486a06b0f4bf561a7cb980a867124"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-8.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-26T19:49:15Z",
+      "lastCommit": "2019-07-26T19:49:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53039c76682486a06b0f4bf561a7cb980a867124"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-7.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-26T19:49:15Z",
+      "lastCommit": "2019-07-26T19:49:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53039c76682486a06b0f4bf561a7cb980a867124"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-5.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-26T19:49:15Z",
+      "lastCommit": "2019-07-26T19:49:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53039c76682486a06b0f4bf561a7cb980a867124"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-2.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-26T19:49:15Z",
+      "lastCommit": "2019-07-26T19:49:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53039c76682486a06b0f4bf561a7cb980a867124"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-6.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-26T19:49:15Z",
+      "lastCommit": "2019-07-26T19:49:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53039c76682486a06b0f4bf561a7cb980a867124"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-3.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-26T19:49:15Z",
+      "lastCommit": "2019-07-26T19:49:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53039c76682486a06b0f4bf561a7cb980a867124"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-07-26T19:49:15Z",
+  "lastAdrCommit": "2019-07-26T19:49:15Z",
+  "firstCommit": "2018-06-04T18:36:38Z",
+  "lastCommit": "2020-09-29T19:23:28Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "53039c76682486a06b0f4bf561a7cb980a867124"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "repositoryUrl": "https://github.com/SFDigitalServices/webform.git",
+  "crawlDateTime": "2022-01-18T22:19:57.650181",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-08T00:01:34Z",
+      "lastCommit": "2019-03-08T00:01:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "85509bf94c73bd7384d1a3a28e5524232b1b5ac2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "csv-database-conversion.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-08T17:19:41Z",
+      "lastCommit": "2019-03-08T17:19:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c43f987c7af5b1021482cf2a9fd94896e8fe3a8a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "form-field-variations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-08-09T19:26:39Z",
+      "lastCommit": "2019-08-21T22:06:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2faa6e8ea43ff6b0526e351a8735f46b957009f8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4fe99bd168449dbb972542073f110109be772d46"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "test-suites.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-04T22:29:16Z",
+      "lastCommit": "2019-03-04T22:29:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0bde6eea894ef74b9812b2af4951be3bae67d91e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "translations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-18T00:24:56Z",
+      "lastCommit": "2019-08-05T22:27:30Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "16c9108bbfa73032fc263a3c5e2d545a63edbc17"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "869adeb02c183daaa8bf9e19a32ec92a8b33fab8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f315c0b15f38159d66d205fcc9400867a4094238",
+            "d034dedad6f84d605871ade683f737cd72645270",
+            "45848a9ea00478a8c00c98c6f34fdcce914c5b99"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-04T22:29:16Z",
+  "lastAdrCommit": "2019-08-21T22:06:10Z",
+  "firstCommit": "2018-09-24T23:37:39Z",
+  "lastCommit": "2020-05-04T22:10:35Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0bde6eea894ef74b9812b2af4951be3bae67d91e",
+        "16c9108bbfa73032fc263a3c5e2d545a63edbc17",
+        "c43f987c7af5b1021482cf2a9fd94896e8fe3a8a",
+        "2faa6e8ea43ff6b0526e351a8735f46b957009f8"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4fe99bd168449dbb972542073f110109be772d46",
+        "85509bf94c73bd7384d1a3a28e5524232b1b5ac2",
+        "869adeb02c183daaa8bf9e19a32ec92a8b33fab8"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f315c0b15f38159d66d205fcc9400867a4094238",
+        "d034dedad6f84d605871ade683f737cd72645270",
+        "45848a9ea00478a8c00c98c6f34fdcce914c5b99"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

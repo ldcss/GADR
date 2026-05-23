@@ -1,0 +1,112 @@
+{
+  "repositoryUrl": "https://github.com/mozilla/glam.git",
+  "crawlDateTime": "2022-01-18T21:04:29.597925",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-madr.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-08-31T20:10:49Z",
+      "lastCommit": "2020-08-31T20:10:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d93309ab91dee370ba721e7649a8c64c15a2d413"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-file-based-data.md",
+      "template": "Madr",
+      "status": "rejected",
+      "firstCommit": "2021-10-21T18:51:23Z",
+      "lastCommit": "2021-10-21T18:51:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e800ba94810e416a40b69b2abfa0428a519be8c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-data-exploration.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-10-27T16:32:32Z",
+      "lastCommit": "2020-10-27T16:32:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "755d5df0d93d33cd2f660947eb7b38b990f10f93"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-auth-via-nginx.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-01T21:50:07Z",
+      "lastCommit": "2020-09-01T21:50:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aceee3bc8cf5654a9c06ec87c85ba7b213f114d8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-31T20:10:49Z",
+  "lastAdrCommit": "2021-10-21T18:51:23Z",
+  "firstCommit": "2019-07-08T18:21:18Z",
+  "lastCommit": "2022-01-17T08:04:04Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "aceee3bc8cf5654a9c06ec87c85ba7b213f114d8",
+        "1e800ba94810e416a40b69b2abfa0428a519be8c",
+        "755d5df0d93d33cd2f660947eb7b38b990f10f93"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d93309ab91dee370ba721e7649a8c64c15a2d413"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

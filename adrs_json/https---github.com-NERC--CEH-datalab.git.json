@@ -1,0 +1,1021 @@
+{
+  "repositoryUrl": "https://github.com/NERC-CEH/datalab.git",
+  "crawlDateTime": "2022-01-18T19:38:30.327355",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture/decisions"
+  ],
+  "numAdrFiles": 47,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0032-jest-for-node-js-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0005-docker-containers-for-everything.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0017-separate-storage-cluster-rather-than-hyper-converged.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0024-vault-for-secret-store.md",
+      "template": "Nygard",
+      "status": "Superseded by [45. Kubernetes Secrets as Secret Store](0045-kubernetes-secrets-as-secret-store.md).",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2021-01-25T16:09:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f408d447cb7b3cb90eb6b76c803c67814e437211"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0029-dask-for-python-distributed-compute.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0004-ansible-vs-terraform-for-vm-provisioning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0019-react-js-for-front-end-ui.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0007-kubernetes-for-container-orchestration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0037-single-ingress-controller-per-cluster.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-21T13:43:23Z",
+      "lastCommit": "2019-08-22T11:14:08Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72d3814c1c879eec88841ec71d659935cc6475bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "896ea28aa176a9e5a8ec04092eb7d71d1a550be8",
+            "e0374b6eafee9e4905ea09682d3db4ed885a78fa"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0040-stack-sharing-and-visiblity.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-12T14:50:46Z",
+      "lastCommit": "2019-11-12T15:30:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "33cfd407eebd1ba346ca1704e28d58ca14ac3893",
+            "6bc2fa6b2d8874dbd178c127e2dcf00d53a9ee08"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0042-remove-discourse.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-12T13:26:22Z",
+      "lastCommit": "2019-12-12T13:26:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aff598bdaf3117206db36141839f4a8d56e6ca9a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0008-weavenet-for-overlay-network.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0013-custom-redbird-proxy.md",
+      "template": "Nygard",
+      "status": "Superceded by [14. Use Traefik for Reverse Proxy](0014-use-traefik-for-reverse-proxy.md)",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0030-kubernetes-direct-api-access.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0020-redux-for-state-store.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0002-ansible-for-provisioning-tool.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0022-material-ui-for-component-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0043-user-material-ui-lab-library.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-08T11:13:48Z",
+      "lastCommit": "2020-10-08T11:13:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ee1b20e273db7c4076df070f6eff99ee9753b81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0015-use-kong-for-reverse-proxy.md",
+      "template": "Nygard",
+      "status": "Supercedes [14. Use Traefik for Reverse Proxy](0014-use-traefik-for-reverse-proxy.md) Superceded by [36. Replace Kong with Nginx Ingress Controller](0036-replace-kong-with-nginx-ingress-controller.md)",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-05T13:13:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f",
+            "bb7b4a4fb37b2e468a444faca6fdc6aa95a3ad62"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0038-yarn-workspaces-for-monorepo.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-22T11:04:41Z",
+      "lastCommit": "2019-08-22T11:14:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72d3814c1c879eec88841ec71d659935cc6475bf",
+            "c79e975f7c0c43013b8e6d6f2d3cf68bc06e4343"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0031-kubernetes-namespace-for-environment-isolation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0006-dockerhub-for-container-registry.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0010-new-default-deploy-user-on-servers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0045-kubernetes-secrets-as-secret-store.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-25T16:09:02Z",
+      "lastCommit": "2021-01-25T16:09:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f408d447cb7b3cb90eb6b76c803c67814e437211"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0014-use-traefik-for-reverse-proxy.md",
+      "template": "Nygard",
+      "status": "Supercedes [13. Custom Redbird Proxy](0013-custom-redbird-proxy.md) Superceded by [15. Use Kong for Reverse Proxy](0015-use-kong-for-reverse-proxy.md)",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0034-custom-k8s-deployment-tool.md",
+      "template": "Nygard",
+      "status": "Superseded by [44. Use Helm as Kubernetes deployment tool](0044-use-helm-as-k8s-deployment-tool.md).",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2021-01-28T13:54:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1bd48de6cf21f7da106b92dc5a023c18ec00aaa"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0021-use-create-react-app.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0027-thredds-to-serve-netcdf-data.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0046-create-dask-clusters-within-datalabs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-11T14:56:51Z",
+      "lastCommit": "2021-03-11T14:56:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c44775e0ce777c731a20d6eff0f6b33c8f06d4d9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0039-prometheus-operator-helm-chart.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-04T09:26:56Z",
+      "lastCommit": "2019-09-05T07:57:41Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bad93b0b00b6783aef239f96eec9a2f20947d7d3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5957fead1c3fb6466ddef8b0e1a03852c8263658",
+            "259b64fc2588b523f5a4ec5f029dc0fad1e48b37"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0016-glusterfs-for-storage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0025-mongodb-for-data-store.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0012-public-and-private-subnets.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0003-ubuntu-16-04-as-server-os.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0041-user-driven-dask-and-spark.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [28. Spark for Distributed Compute](0028-spark-for-distributed-compute.md) Supercedes [29. Dask for Python Distributed Compute](0029-dask-for-python-distributed-compute.md)",
+      "firstCommit": "2019-12-09T08:37:03Z",
+      "lastCommit": "2019-12-09T08:37:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cca762395d3a1ea4fe612e34b9460aa890d0fe34"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0011-cluster-authentication-by-ssh-key.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0028-spark-for-distributed-compute.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0018-node-js-for-services.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0033-enzyme-for-react-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0023-use-of-apparmor-and-bane.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0044-use-helm-as-k8s-deployment-tool.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-22T13:36:53Z",
+      "lastCommit": "2021-01-28T13:54:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "47a43828693771c86b471148c7335aaac7df37bc",
+            "e1bd48de6cf21f7da106b92dc5a023c18ec00aaa"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0009-bastion-for-cluster-access.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0026-auth0-for-authentication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0036-replace-kong-with-nginx-ingress-controller.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [15. Use Kong for Reverse Proxy](0015-use-kong-for-reverse-proxy.md)",
+      "firstCommit": "2017-11-05T13:13:21Z",
+      "lastCommit": "2017-11-05T13:13:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb7b4a4fb37b2e468a444faca6fdc6aa95a3ad62"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0035-use-of-microbadger-for-docker-containers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-05T13:12:50Z",
+      "lastCommit": "2017-11-05T13:12:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-04T19:42:27Z",
+      "lastCommit": "2017-11-04T19:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0047-remove-need-for-wildcard-certificates.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-13T10:23:22Z",
+      "lastCommit": "2021-05-13T10:23:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a947618c88ef88ec7b3753895340d23ee7d06a7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-11-04T19:42:27Z",
+  "lastAdrCommit": "2021-05-13T10:23:22Z",
+  "firstCommit": "2017-04-25T10:29:35Z",
+  "lastCommit": "2022-01-15T05:27:24Z",
+  "adrDirFile": {
+    "fileContent": "architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bad93b0b00b6783aef239f96eec9a2f20947d7d3"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "72d3814c1c879eec88841ec71d659935cc6475bf",
+        "c79e975f7c0c43013b8e6d6f2d3cf68bc06e4343"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "47a43828693771c86b471148c7335aaac7df37bc",
+        "e1bd48de6cf21f7da106b92dc5a023c18ec00aaa",
+        "33cfd407eebd1ba346ca1704e28d58ca14ac3893",
+        "6bc2fa6b2d8874dbd178c127e2dcf00d53a9ee08",
+        "f408d447cb7b3cb90eb6b76c803c67814e437211",
+        "7ee1b20e273db7c4076df070f6eff99ee9753b81"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "aff598bdaf3117206db36141839f4a8d56e6ca9a",
+        "cca762395d3a1ea4fe612e34b9460aa890d0fe34"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "896ea28aa176a9e5a8ec04092eb7d71d1a550be8",
+        "e0374b6eafee9e4905ea09682d3db4ed885a78fa"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1bd7b411cdf545dae2a1bf6ce1a0f2f8c453656f",
+        "5957fead1c3fb6466ddef8b0e1a03852c8263658",
+        "bb7b4a4fb37b2e468a444faca6fdc6aa95a3ad62",
+        "259b64fc2588b523f5a4ec5f029dc0fad1e48b37",
+        "79e1b6db2e14a500c7bf01e2d8b037072de09437"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3a947618c88ef88ec7b3753895340d23ee7d06a7",
+        "c44775e0ce777c731a20d6eff0f6b33c8f06d4d9"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/olehmushka/auth-account-koa.git",
+  "crawlDateTime": "2022-01-18T21:17:20.888528",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/adr",
+      "path": "0001_use_adr.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-17T21:16:57Z",
+      "lastCommit": "2020-03-17T21:16:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b02c3d11ba8cb3c43eb536042c5973c589c1075f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/adr",
+      "path": "0002_use_lodash.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-17T21:16:57Z",
+      "lastCommit": "2020-03-17T21:16:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b02c3d11ba8cb3c43eb536042c5973c589c1075f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-17T21:16:57Z",
+  "lastAdrCommit": "2020-03-17T21:16:57Z",
+  "firstCommit": "2020-03-06T16:28:59Z",
+  "lastCommit": "2022-01-15T06:13:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b02c3d11ba8cb3c43eb536042c5973c589c1075f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

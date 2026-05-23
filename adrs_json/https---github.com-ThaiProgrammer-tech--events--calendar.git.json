@@ -1,0 +1,75 @@
+{
+  "repositoryUrl": "https://github.com/ThaiProgrammer/tech-events-calendar.git",
+  "crawlDateTime": "2022-01-18T19:07:04.530293",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-store-event-data-as-markdown-files-with-yaml-front-matter.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-20T17:34:04Z",
+      "lastCommit": "2018-02-20T17:34:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "effb9ca5260ab97a8a6c7667234fc989a35a0721"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-02T08:45:16Z",
+      "lastCommit": "2018-01-02T08:45:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e3c1c1d6dedfa783026cc20a5a43d039b3993c4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-01-02T08:45:16Z",
+  "lastAdrCommit": "2018-02-20T17:34:04Z",
+  "firstCommit": "2017-12-27T18:02:04Z",
+  "lastCommit": "2019-10-01T15:49:23Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2e3c1c1d6dedfa783026cc20a5a43d039b3993c4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "effb9ca5260ab97a8a6c7667234fc989a35a0721"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

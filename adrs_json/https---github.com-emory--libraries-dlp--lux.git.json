@@ -1,0 +1,119 @@
+{
+  "repositoryUrl": "https://github.com/emory-libraries/dlp-lux.git",
+  "crawlDateTime": "2022-01-18T21:16:11.863028",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0002-Blacklight-Version.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-22T19:19:51Z",
+      "lastCommit": "2019-11-22T19:19:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3691f8bc4bbe3f8d63c4b790b2b9dcba277253c1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0003-Shibboleth.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-19T22:25:08Z",
+      "lastCommit": "2019-12-19T22:25:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "263ca05a887b0678755a054d85c08b28b5a2981b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0004-Use-X-Forward-For-header.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-27T19:07:28Z",
+      "lastCommit": "2020-02-27T19:07:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38ef41129061b7b2a9edc0ad9ba63a32fbe3c82b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0001-document-architecture-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-22T19:04:07Z",
+      "lastCommit": "2019-11-22T19:04:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1114fed5451e1b69e3e24bebc9402f56af2ccbcc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-22T19:04:07Z",
+  "lastAdrCommit": "2020-02-27T19:07:28Z",
+  "firstCommit": "2019-03-06T22:02:43Z",
+  "lastCommit": "2022-01-15T05:45:47Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "38ef41129061b7b2a9edc0ad9ba63a32fbe3c82b"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1114fed5451e1b69e3e24bebc9402f56af2ccbcc"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3691f8bc4bbe3f8d63c4b790b2b9dcba277253c1",
+        "263ca05a887b0678755a054d85c08b28b5a2981b"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

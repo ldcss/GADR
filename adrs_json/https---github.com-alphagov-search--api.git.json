@@ -1,0 +1,391 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/search-api.git",
+  "crawlDateTime": "2022-01-18T18:34:11.725808",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-002-handle-race-conditions-in-govuk-index.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2017-08-09T13:36:57Z",
+      "lastCommit": "2020-06-09T15:13:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2675a59c7c82a1000f9ac0baf9fa3f97fc68fa26"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f7f5d692727011ad2eb24d74d7418b89f295380"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-011-sagemaker.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-19T11:51:26Z",
+      "lastCommit": "2020-06-09T15:21:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2675a59c7c82a1000f9ac0baf9fa3f97fc68fa26",
+            "89b5433030c582abbb0347b52d1a1600b3879688"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a07084a0a959619e7af3332e2e95b8317f37da12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-003-popularity-updating-without-index-locks.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-08-23T09:55:48Z",
+      "lastCommit": "2020-06-09T15:13:57Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2675a59c7c82a1000f9ac0baf9fa3f97fc68fa26"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "22c4b3bed53a6dbcd9cc349994057e83a1f153ef",
+            "045e63d9a0fe4c2ada3dc2cf2ea2ed9db3898d3d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-004-transition-mainstream-to-publishing-api-index.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-08-24T16:43:26Z",
+      "lastCommit": "2020-06-09T15:13:57Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2675a59c7c82a1000f9ac0baf9fa3f97fc68fa26"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc178fd812031c749a6abb8e6daf79b385a67355",
+            "dc92f92c17600905bbf71c00690b5c8fd5158a94",
+            "934aa2ed4a56873fffa247378f2f4a93a15be2c2"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-008-elasticsearch5-upgrade.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-05-01T09:58:33Z",
+      "lastCommit": "2020-06-09T15:13:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2675a59c7c82a1000f9ac0baf9fa3f97fc68fa26"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "973a827ae31ec64ba0a614df325569d1eea4f956"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-001-use-of-both-rabbitmq-and-sidekiq-queues.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2017-07-27T15:35:32Z",
+      "lastCommit": "2020-06-09T15:13:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2675a59c7c82a1000f9ac0baf9fa3f97fc68fa26"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03dedda588d2bd255c78a9306bc59bf7727dffb0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-005-incremental-popularity-updates.md",
+      "template": "Nygard",
+      "status": "Rejected.",
+      "firstCommit": "2017-10-02T10:06:27Z",
+      "lastCommit": "2020-06-09T15:21:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2675a59c7c82a1000f9ac0baf9fa3f97fc68fa26",
+            "89b5433030c582abbb0347b52d1a1600b3879688"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4e63cdc18bd196e5ea8f3e973c843aefe93dfbc6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-010-learn-to-rank.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-13T12:43:23Z",
+      "lastCommit": "2020-06-09T15:13:57Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2675a59c7c82a1000f9ac0baf9fa3f97fc68fa26"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad7c7841224e150b352889e2cf6617a06c4a4033",
+            "14a07df5f246864aedfe9e0b018a293779ca8482"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-007-batch-processing-of-rabbit-mq-messages.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-01-18T14:42:29Z",
+      "lastCommit": "2020-06-09T15:13:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2675a59c7c82a1000f9ac0baf9fa3f97fc68fa26"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7c3083f256b46f7f1dadf30ef63abbe21bac9877"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-006-transition-whitehall-to-publishing-api-index.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-28T16:08:31Z",
+      "lastCommit": "2020-06-09T15:21:51Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2675a59c7c82a1000f9ac0baf9fa3f97fc68fa26",
+            "89b5433030c582abbb0347b52d1a1600b3879688"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f45826d84a7ac7562aa4e05618aaa403753c18f6",
+            "80166a8ef23ae6a8cb4d1f881819ae993e16d0c9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-009-elasticsearch6-upgrade.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-03T14:49:50Z",
+      "lastCommit": "2020-06-09T15:21:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2675a59c7c82a1000f9ac0baf9fa3f97fc68fa26",
+            "89b5433030c582abbb0347b52d1a1600b3879688"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d210e509c1d8f485cc1de0bb7dccc9e40c99788c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-27T15:35:32Z",
+  "lastAdrCommit": "2020-06-09T15:21:51Z",
+  "firstCommit": "2011-11-01T10:13:31Z",
+  "lastCommit": "2022-01-17T16:51:09Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2675a59c7c82a1000f9ac0baf9fa3f97fc68fa26",
+        "89b5433030c582abbb0347b52d1a1600b3879688"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d210e509c1d8f485cc1de0bb7dccc9e40c99788c",
+        "973a827ae31ec64ba0a614df325569d1eea4f956"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5f7f5d692727011ad2eb24d74d7418b89f295380"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fc178fd812031c749a6abb8e6daf79b385a67355",
+        "dc92f92c17600905bbf71c00690b5c8fd5158a94",
+        "4e63cdc18bd196e5ea8f3e973c843aefe93dfbc6",
+        "934aa2ed4a56873fffa247378f2f4a93a15be2c2"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f45826d84a7ac7562aa4e05618aaa403753c18f6",
+        "80166a8ef23ae6a8cb4d1f881819ae993e16d0c9"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ad7c7841224e150b352889e2cf6617a06c4a4033",
+        "14a07df5f246864aedfe9e0b018a293779ca8482",
+        "a07084a0a959619e7af3332e2e95b8317f37da12"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "03dedda588d2bd255c78a9306bc59bf7727dffb0",
+        "22c4b3bed53a6dbcd9cc349994057e83a1f153ef",
+        "7c3083f256b46f7f1dadf30ef63abbe21bac9877",
+        "045e63d9a0fe4c2ada3dc2cf2ea2ed9db3898d3d"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

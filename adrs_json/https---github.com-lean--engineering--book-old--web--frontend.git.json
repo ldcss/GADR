@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/lean-engineering-book/old-web-frontend.git",
+  "crawlDateTime": "2022-01-18T18:16:28.769795",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-react-with-typescript.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-02-21T03:19:54Z",
+      "lastCommit": "2020-02-21T03:19:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "00fe0efd26fe43812361402348d4b9efa9b478aa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-aws-s3-as-host-solution.md",
+      "template": "Madr",
+      "status": "[accepted]",
+      "firstCommit": "2020-02-29T23:29:44Z",
+      "lastCommit": "2020-02-29T23:29:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "50f985f81241627d38a0f77f4308bbd8175c1e53"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-02-21T01:47:24Z",
+      "lastCommit": "2020-02-21T01:47:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f6942714b7b0a6d4c2c222eae4456e5f75c6690"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-21T01:47:24Z",
+  "lastAdrCommit": "2020-02-29T23:29:44Z",
+  "firstCommit": "2020-02-21T01:37:36Z",
+  "lastCommit": "2020-03-02T00:20:55Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "50f985f81241627d38a0f77f4308bbd8175c1e53",
+        "00fe0efd26fe43812361402348d4b9efa9b478aa",
+        "7f6942714b7b0a6d4c2c222eae4456e5f75c6690"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

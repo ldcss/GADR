@@ -1,0 +1,189 @@
+{
+  "repositoryUrl": "https://github.com/robertlcs/react-native-app.git",
+  "crawlDateTime": "2022-01-18T18:21:37.934977",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-set-environment-variables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-01T11:21:47Z",
+      "lastCommit": "2018-09-07T19:53:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c7c96c957d062c1019fc0d607eeed80c7d714b81",
+            "97c55ab912b5e01583ca0a6715e6477aec0b2fcf"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-amplitude-for-analytics.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-01T12:29:45Z",
+      "lastCommit": "2018-09-01T12:29:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6fc76110494dfe34641a9ac9f6c17bb1a52dc92a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-use-nativebase.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-10-12T20:45:03Z",
+      "lastCommit": "2018-10-12T20:45:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "738f37195a59d26b5a0b6d41b60f01ae20072200"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-make-tabs-swipeable.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-12T20:56:30Z",
+      "lastCommit": "2018-10-28T10:44:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c21a100053126756af30881c5212d2795168faa",
+            "54f32f5e11f2828a8df6c9b5c5cf61cb25c99c4a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-redux-persist-to-store-a-user-data.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-30T19:04:03Z",
+      "lastCommit": "2018-08-30T19:04:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3da25187205ff93aa27d693e193d89550c886825"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-detach-from-expo.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-04T19:33:43Z",
+      "lastCommit": "2018-10-04T19:33:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a09561cba563b9818200129b8169a2247630cc1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-30T08:39:58Z",
+      "lastCommit": "2018-08-30T08:39:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d5008ae8544148a0182d50c86a0656b9cab9cba3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-tracking-js-errors.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-07T21:07:54Z",
+      "lastCommit": "2018-09-07T21:07:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03751474971089454a1fc8636394eb9311ddfb65"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-30T08:39:58Z",
+  "lastAdrCommit": "2018-10-28T10:44:20Z",
+  "firstCommit": "2018-08-25T14:36:58Z",
+  "lastCommit": "2018-11-06T13:49:36Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5c21a100053126756af30881c5212d2795168faa",
+        "c7c96c957d062c1019fc0d607eeed80c7d714b81",
+        "03751474971089454a1fc8636394eb9311ddfb65",
+        "738f37195a59d26b5a0b6d41b60f01ae20072200",
+        "7a09561cba563b9818200129b8169a2247630cc1",
+        "54f32f5e11f2828a8df6c9b5c5cf61cb25c99c4a",
+        "3da25187205ff93aa27d693e193d89550c886825",
+        "d5008ae8544148a0182d50c86a0656b9cab9cba3",
+        "6fc76110494dfe34641a9ac9f6c17bb1a52dc92a",
+        "97c55ab912b5e01583ca0a6715e6477aec0b2fcf"
+      ],
+      "numberOfCommits": 10
+    }
+  ]
+}

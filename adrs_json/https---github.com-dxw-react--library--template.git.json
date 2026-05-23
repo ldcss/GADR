@@ -1,0 +1,167 @@
+{
+  "repositoryUrl": "https://github.com/dxw/react-library-template.git",
+  "crawlDateTime": "2022-01-18T19:09:08.813741",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-use-jest.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-04T15:08:17Z",
+      "lastCommit": "2019-11-04T15:08:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76370fd6a476ccd2ba21ab086e1c79733e69f81e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-typescript.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-04T15:06:48Z",
+      "lastCommit": "2019-11-04T15:06:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d768e220e646c8d2ebcb0eed047877a8ac4646b2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-rollup-to-build-distributables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-04T15:06:48Z",
+      "lastCommit": "2019-11-04T15:06:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d768e220e646c8d2ebcb0eed047877a8ac4646b2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-eslint.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-04T15:08:01Z",
+      "lastCommit": "2019-11-04T15:08:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8bde5485f443484d25c068a428e9f94322ecf07f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-use-dependabot-to-keep-dependencies-up-to-date.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-04T15:09:41Z",
+      "lastCommit": "2019-11-04T15:09:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "351dfbcbc08e8d390616ab600221780a4c2d98e3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-prettier-to-format-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-04T15:07:12Z",
+      "lastCommit": "2019-11-04T15:07:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6010309099e385de7b12dbe2bda23a4a102fba42"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-29T14:03:42Z",
+      "lastCommit": "2019-10-29T14:03:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1fb6f9f6d9ca781249ec2579f8751692e1fa517"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-29T14:03:42Z",
+  "lastAdrCommit": "2019-11-04T15:09:41Z",
+  "firstCommit": "2019-10-29T14:03:41Z",
+  "lastCommit": "2020-10-27T21:19:15Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "351dfbcbc08e8d390616ab600221780a4c2d98e3",
+        "8bde5485f443484d25c068a428e9f94322ecf07f",
+        "76370fd6a476ccd2ba21ab086e1c79733e69f81e",
+        "6010309099e385de7b12dbe2bda23a4a102fba42",
+        "d1fb6f9f6d9ca781249ec2579f8751692e1fa517",
+        "d768e220e646c8d2ebcb0eed047877a8ac4646b2"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

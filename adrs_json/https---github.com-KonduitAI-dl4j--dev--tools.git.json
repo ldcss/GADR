@@ -1,0 +1,235 @@
+{
+  "repositoryUrl": "https://github.com/KonduitAI/dl4j-dev-tools.git",
+  "crawlDateTime": "2022-01-18T17:48:06.990952",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "codegen/adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "codegen/adr",
+      "path": "0009-aliasing.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by Alex Black and Paul Dubs on 05. March 2020.",
+      "firstCommit": "2020-03-05T07:48:10Z",
+      "lastCommit": "2020-03-25T18:21:27Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "817a37423547724e1708fd60814dbbbb19df9229",
+            "024127fb7a84a971b5924427b3dc367549031f1d",
+            "dabc9187d5898eb8cdd1787ea75927b0d0a988a6"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "codegen/adr",
+      "path": "0005-optional_parameters_and_signatures.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by: Alex Black, raver 119 and Paul Dubs on 25. November 2019",
+      "firstCommit": "2019-11-25T10:53:55Z",
+      "lastCommit": "2019-11-26T09:49:28Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d4119592ff24856189ebc6b2e4f897e96090f8f",
+            "9a4875676a036eef242a6b098c3ca28a16edba09",
+            "98e1158c9a2aa0a7a1d05e8db9966343cb1fb330",
+            "23a63175cd1a49e3dc9ca230eeceb80be4ea4e1c"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "codegen/adr",
+      "path": "0004-auto_initialization_for_inplace_operations.md",
+      "template": "Nygard",
+      "status": "REJECTED Discussed by: Paul Dubs, Alex Black, raver119 on 25. November 2019",
+      "firstCommit": "2019-11-25T08:04:48Z",
+      "lastCommit": "2019-11-25T10:08:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "97d77302ff3cd1de8b6ed57bc9b3f4c58731bd64",
+            "6c938d0fe9e619ec27cb607456f06db4ea166140"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "codegen/adr",
+      "path": "0007-configuration_objects.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by Alex Black, raver119 and Paul Dubs on 27. November 2019.",
+      "firstCommit": "2019-11-27T06:37:49Z",
+      "lastCommit": "2019-11-27T10:31:45Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "16a1723502486f75f7262ecdd24cc15cd14c0565",
+            "f2a308d39d22c73b0d66f223e99de2fd848d4c3e",
+            "e14ff75cdf09d910f1e34c4ad56231def0926088"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "codegen/adr",
+      "path": "0003-dealing_with_inconsistencies_in_java_naming.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by: Paul Dubs, Alex Black, raver119 on 22. November 2019",
+      "firstCommit": "2019-11-22T10:23:14Z",
+      "lastCommit": "2019-11-22T10:23:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0cc0d12eb7afecf07116748c622ca8deeb01d2f5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "codegen/adr",
+      "path": "0001-kotlin_dsl_as_source_of_truth.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by: Paul Dubs, Alex Black, raver119 on 19. October 2019",
+      "firstCommit": "2019-11-18T11:37:49Z",
+      "lastCommit": "2019-11-18T11:37:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "513e49d7c7f64da808318da8d066a408ae7cb118"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "codegen/adr",
+      "path": "0002-separate_object_graph_for_serialization.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by: Paul Dubs & Alex Black on 07. November 2019",
+      "firstCommit": "2019-11-18T11:37:49Z",
+      "lastCommit": "2019-11-18T11:37:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "513e49d7c7f64da808318da8d066a408ae7cb118"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "codegen/adr",
+      "path": "0008-inheritance.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by Alex Black and Paul Dubs on 29. November 2019 and 2. December 2019.",
+      "firstCommit": "2019-12-01T15:06:28Z",
+      "lastCommit": "2019-12-03T08:11:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc2f62dadb3679a9a1ddae9bed2449247d023573",
+            "92e8ab38467aed2c0e1b0ed65fbca97d67cb8f9b",
+            "aba2f675cfe54bc65dace0c8e2b8ffbab77ffcc1"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "codegen/adr",
+      "path": "0006-op_specific_enums.md",
+      "template": "Nygard",
+      "status": "ACCEPTED Discussed by: Alex Black, Robert Altena and Paul Dubs on 26. November 2019",
+      "firstCommit": "2019-11-26T10:09:44Z",
+      "lastCommit": "2019-11-26T10:45:59Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a03b61a05047e094d4b6a74f5edaf58cea310559",
+            "1ece51dbd83a9a5a8d43f6fcf9e309784a271a3a",
+            "e12be969d670899e935d8fbdfeac173cfcddea7f"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-18T11:37:49Z",
+  "lastAdrCommit": "2020-03-25T18:21:27Z",
+  "firstCommit": "2019-04-20T07:54:11Z",
+  "lastCommit": "2021-08-25T15:50:13Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "513e49d7c7f64da808318da8d066a408ae7cb118"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "817a37423547724e1708fd60814dbbbb19df9229",
+        "16a1723502486f75f7262ecdd24cc15cd14c0565",
+        "a03b61a05047e094d4b6a74f5edaf58cea310559",
+        "97d77302ff3cd1de8b6ed57bc9b3f4c58731bd64",
+        "0cc0d12eb7afecf07116748c622ca8deeb01d2f5",
+        "9d4119592ff24856189ebc6b2e4f897e96090f8f",
+        "aba2f675cfe54bc65dace0c8e2b8ffbab77ffcc1",
+        "98e1158c9a2aa0a7a1d05e8db9966343cb1fb330",
+        "23a63175cd1a49e3dc9ca230eeceb80be4ea4e1c",
+        "e12be969d670899e935d8fbdfeac173cfcddea7f",
+        "024127fb7a84a971b5924427b3dc367549031f1d",
+        "bc2f62dadb3679a9a1ddae9bed2449247d023573",
+        "92e8ab38467aed2c0e1b0ed65fbca97d67cb8f9b",
+        "dabc9187d5898eb8cdd1787ea75927b0d0a988a6",
+        "f2a308d39d22c73b0d66f223e99de2fd848d4c3e",
+        "9a4875676a036eef242a6b098c3ca28a16edba09",
+        "6c938d0fe9e619ec27cb607456f06db4ea166140",
+        "1ece51dbd83a9a5a8d43f6fcf9e309784a271a3a",
+        "e14ff75cdf09d910f1e34c4ad56231def0926088"
+      ],
+      "numberOfCommits": 19
+    }
+  ]
+}

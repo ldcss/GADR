@@ -1,0 +1,61 @@
+{
+  "repositoryUrl": "https://github.com/gera2ld/markmap.git",
+  "crawlDateTime": "2022-01-18T20:31:05.607921",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "splitting-and-bundling.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-05T02:40:29Z",
+      "lastCommit": "2020-11-05T06:13:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51175a0c0fcd8e2d6fa4a16ceb91926cbee0e27e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8fd1b13496becc4d0f476c6c366cc3b250748f64"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-05T02:40:29Z",
+  "lastAdrCommit": "2020-11-05T06:13:06Z",
+  "firstCommit": "2020-01-13T10:24:03Z",
+  "lastCommit": "2021-12-13T14:50:00Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "51175a0c0fcd8e2d6fa4a16ceb91926cbee0e27e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8fd1b13496becc4d0f476c6c366cc3b250748f64"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/transferwise/idempotence4j.git",
+  "crawlDateTime": "2022-01-18T20:23:24.098546",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-retention-service.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2020-09-15T16:34:33Z",
+      "lastCommit": "2020-09-15T16:34:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "28f19b161dd477846d6b3e1d172fed977fdee72b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-idempotence-service.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2020-05-21T11:09:20Z",
+      "lastCommit": "2020-08-14T11:35:39Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d650591dbf1f5eaa0fc16126101cdb7ab8dd9189",
+            "504c2e3b51a81249b47627998434f86a0868547d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-21T11:09:20Z",
+  "lastAdrCommit": "2020-09-15T16:34:33Z",
+  "firstCommit": "2020-05-21T10:37:51Z",
+  "lastCommit": "2021-09-13T11:33:34Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "28f19b161dd477846d6b3e1d172fed977fdee72b",
+        "d650591dbf1f5eaa0fc16126101cdb7ab8dd9189",
+        "504c2e3b51a81249b47627998434f86a0868547d"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

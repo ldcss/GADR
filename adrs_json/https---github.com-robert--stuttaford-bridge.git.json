@@ -1,0 +1,90 @@
+{
+  "repositoryUrl": "https://github.com/robert-stuttaford/bridge.git",
+  "crawlDateTime": "2022-01-18T18:37:20.889971",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "002-code-organisation.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-04-05T14:19:49Z",
+      "lastCommit": "2018-09-06T07:06:41Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a74c4e212dabd2382922693b85d22a2846d4fe07"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a8a19df790992fd56f4f15a2950ed9bc5a32ae4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "001-make-small-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-04-01T18:10:46Z",
+      "lastCommit": "2018-09-06T07:06:41Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a74c4e212dabd2382922693b85d22a2846d4fe07",
+            "7c4e0f18b1c64d93f2f56145b8ec16e11295cb71"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a8a19df790992fd56f4f15a2950ed9bc5a32ae4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-04-01T18:10:46Z",
+  "lastAdrCommit": "2018-09-06T07:06:41Z",
+  "firstCommit": "2018-02-17T11:10:49Z",
+  "lastCommit": "2019-02-06T17:12:12Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a74c4e212dabd2382922693b85d22a2846d4fe07",
+        "7c4e0f18b1c64d93f2f56145b8ec16e11295cb71"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5a8a19df790992fd56f4f15a2950ed9bc5a32ae4"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

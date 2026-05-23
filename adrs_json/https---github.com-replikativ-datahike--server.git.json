@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/replikativ/datahike-server.git",
+  "crawlDateTime": "2022-01-18T21:09:16.295088",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-16T11:16:28Z",
+      "lastCommit": "2020-09-16T11:16:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "da79f4069a80378535952da83d65e0201a2115ce"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-16T11:16:28Z",
+  "lastAdrCommit": "2020-09-16T11:16:28Z",
+  "firstCommit": "2020-03-18T10:50:56Z",
+  "lastCommit": "2022-01-03T17:44:34Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "da79f4069a80378535952da83d65e0201a2115ce"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

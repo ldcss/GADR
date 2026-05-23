@@ -1,0 +1,320 @@
+{
+  "repositoryUrl": "https://github.com/ONSdigital/eq-questionnaire-runner.git",
+  "crawlDateTime": "2022-01-18T20:42:38.65696",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-refactor-functional-tests-into-surveys-components-and-features.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2017-07-03T14:48:23Z",
+      "lastCommit": "2017-07-03T14:48:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "413fb1301ce86cba419067a46e1be6e2396e6a21"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-simplify-urls-and-extend-to-support-repeating-effectively.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-27T09:56:02Z",
+      "lastCommit": "2019-05-01T15:04:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7746e194aa19699e67b6b1d2536a2935091f67ed"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72b89e58dabcff82a02183eece94de61962db977"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-use-kid-to-identify-key-pair.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2017-07-13T09:51:50Z",
+      "lastCommit": "2017-07-13T09:51:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3210d41845348007ab4fb0f401d209a9eeee8374"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-make-named-lists-a-first-class-construct.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-07T16:38:50Z",
+      "lastCommit": "2019-07-12T13:18:32Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6e4e66af854e0d8a4ed4293fdfc2fddba8064b27"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9b167e1d0c0eb1cfb27b2773cd4a838520811902"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72b89e58dabcff82a02183eece94de61962db977"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-relationships.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-04T08:57:17Z",
+      "lastCommit": "2019-08-14T13:55:32Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c750d7d48e4a927ac7ee7ea7bf30e9efebdbddc7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7f13d310f105248090a1c33c9940467507f9736"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "df28e18f3a080d79c9da2366325adc31d9a9a046"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-authoring-schema-variants.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-13T09:51:26Z",
+      "lastCommit": "2017-07-13T09:51:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8d59f01187008d90ab19bf8d8cf2511a630ecc09"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3210d41845348007ab4fb0f401d209a9eeee8374"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-primary-person.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-06-20T11:08:18Z",
+      "lastCommit": "2019-07-12T10:25:27Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56932bc2302dc54755a1276881cb8bb507ed72ae"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e22e9291220a39de9d3df9588540fc8e712f681d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-lookups.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-05-10T13:06:53Z",
+      "lastCommit": "2019-05-10T13:06:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a3db1de9f4f597ad8b38b19c8a656b033abed03"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2017-07-03T14:48:23Z",
+      "lastCommit": "2017-07-03T14:48:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "413fb1301ce86cba419067a46e1be6e2396e6a21"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-cookies.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-02T10:08:22Z",
+      "lastCommit": "2020-04-02T10:08:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3779ba489d161548c6cfa84e146d820f95310eab"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-03T14:48:23Z",
+  "lastAdrCommit": "2020-04-02T10:08:22Z",
+  "firstCommit": "2016-01-07T13:18:10Z",
+  "lastCommit": "2022-01-18T18:06:36Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3779ba489d161548c6cfa84e146d820f95310eab",
+        "c750d7d48e4a927ac7ee7ea7bf30e9efebdbddc7",
+        "6e4e66af854e0d8a4ed4293fdfc2fddba8064b27",
+        "7746e194aa19699e67b6b1d2536a2935091f67ed",
+        "8d59f01187008d90ab19bf8d8cf2511a630ecc09",
+        "413fb1301ce86cba419067a46e1be6e2396e6a21"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9b167e1d0c0eb1cfb27b2773cd4a838520811902"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b7f13d310f105248090a1c33c9940467507f9736",
+        "56932bc2302dc54755a1276881cb8bb507ed72ae",
+        "5a3db1de9f4f597ad8b38b19c8a656b033abed03"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "72b89e58dabcff82a02183eece94de61962db977",
+        "e22e9291220a39de9d3df9588540fc8e712f681d"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "df28e18f3a080d79c9da2366325adc31d9a9a046"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3210d41845348007ab4fb0f401d209a9eeee8374"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "repositoryUrl": "https://github.com/awslabs/aws-sync-routes.git",
+  "crawlDateTime": "2022-01-18T18:34:21.354735",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-uri.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-10T20:55:08Z",
+      "lastCommit": "2019-08-01T20:07:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e4305bcc2d652ab00344f54ed177c01ab94ceaf8",
+            "e691918c980da182b1a764d75ff93b39aafe1c24"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-http-patch-method.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-10T20:55:08Z",
+      "lastCommit": "2019-08-01T20:07:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e4305bcc2d652ab00344f54ed177c01ab94ceaf8",
+            "e691918c980da182b1a764d75ff93b39aafe1c24"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-specificity.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-01T20:10:38Z",
+      "lastCommit": "2019-08-01T20:10:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "07f4a15141389363d7eb221ea395753ee1f94e4d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-aws-amplify-cli-toolchain.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-10T20:55:08Z",
+      "lastCommit": "2019-08-01T20:07:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e4305bcc2d652ab00344f54ed177c01ab94ceaf8",
+            "e691918c980da182b1a764d75ff93b39aafe1c24"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-api-key.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-10T20:55:08Z",
+      "lastCommit": "2019-08-01T20:07:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e4305bcc2d652ab00344f54ed177c01ab94ceaf8",
+            "e691918c980da182b1a764d75ff93b39aafe1c24"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-10T20:55:08Z",
+      "lastCommit": "2019-06-10T20:55:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e691918c980da182b1a764d75ff93b39aafe1c24"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-06-10T20:55:08Z",
+  "lastAdrCommit": "2019-08-01T20:10:38Z",
+  "firstCommit": "2019-06-10T19:02:23Z",
+  "lastCommit": "2021-12-01T00:30:10Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e4305bcc2d652ab00344f54ed177c01ab94ceaf8",
+        "e691918c980da182b1a764d75ff93b39aafe1c24",
+        "07f4a15141389363d7eb221ea395753ee1f94e4d"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

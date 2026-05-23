@@ -1,0 +1,236 @@
+{
+  "repositoryUrl": "https://github.com/reactioncommerce/reaction-component-library.git",
+  "crawlDateTime": "2022-01-18T20:57:13.341618",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-style-components.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-21T18:29:14Z",
+      "lastCommit": "2018-05-23T17:46:56Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f44eaad764036ad3e4fc428a2dc38f8de79e79bb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3610730f32454cd9ca6057c800285e76e6e489af",
+            "d8ab2f401efce6472e999f9d3017cdd0efa0ac6b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-keep-styles-with-components.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-05-23T17:46:56Z",
+      "lastCommit": "2018-05-23T17:46:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d8ab2f401efce6472e999f9d3017cdd0efa0ac6b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-publish-components.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-21T18:29:14Z",
+      "lastCommit": "2018-05-23T17:46:56Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f44eaad764036ad3e4fc428a2dc38f8de79e79bb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3610730f32454cd9ca6057c800285e76e6e489af",
+            "d8ab2f401efce6472e999f9d3017cdd0efa0ac6b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-define-project-structure.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-21T18:29:14Z",
+      "lastCommit": "2018-06-18T22:44:36Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f44eaad764036ad3e4fc428a2dc38f8de79e79bb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "06dd486642ead1ee5478d7ce91f8f4a4d3e1492e",
+            "3610730f32454cd9ca6057c800285e76e6e489af",
+            "d0af9011d813049aab04d728dd92d5ba1835bafe",
+            "d8ab2f401efce6472e999f9d3017cdd0efa0ac6b"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-12factor-config-from-env.md",
+      "template": "Nygard",
+      "status": "STATUS\uff1aaccepted 2018-02-14 accepted",
+      "firstCommit": "2018-02-23T19:15:37Z",
+      "lastCommit": "2018-02-23T19:15:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3610730f32454cd9ca6057c800285e76e6e489af"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-test-components.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-21T18:29:14Z",
+      "lastCommit": "2018-05-23T17:46:56Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f44eaad764036ad3e4fc428a2dc38f8de79e79bb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3610730f32454cd9ca6057c800285e76e6e489af",
+            "d8ab2f401efce6472e999f9d3017cdd0efa0ac6b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-choose-a-style-guide-generator-framework.md",
+      "template": "Nygard",
+      "status": "STATUS\uff1aaccepted 2018-02-23 proposed 2018-03-01 accepted",
+      "firstCommit": "2018-02-21T18:29:14Z",
+      "lastCommit": "2018-05-23T17:46:56Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f44eaad764036ad3e4fc428a2dc38f8de79e79bb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3610730f32454cd9ca6057c800285e76e6e489af",
+            "d8ab2f401efce6472e999f9d3017cdd0efa0ac6b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-use-adrs.md",
+      "template": "Nygard",
+      "status": "STATUS\uff1aaccepted 2018-02-14 accepted",
+      "firstCommit": "2018-02-23T19:15:37Z",
+      "lastCommit": "2018-02-23T19:15:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3610730f32454cd9ca6057c800285e76e6e489af"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-02-21T18:29:14Z",
+  "lastAdrCommit": "2018-06-18T22:44:36Z",
+  "firstCommit": "2017-12-11T06:54:05Z",
+  "lastCommit": "2022-01-18T17:13:37Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "06dd486642ead1ee5478d7ce91f8f4a4d3e1492e",
+        "3610730f32454cd9ca6057c800285e76e6e489af",
+        "d8ab2f401efce6472e999f9d3017cdd0efa0ac6b",
+        "d0af9011d813049aab04d728dd92d5ba1835bafe"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f44eaad764036ad3e4fc428a2dc38f8de79e79bb"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

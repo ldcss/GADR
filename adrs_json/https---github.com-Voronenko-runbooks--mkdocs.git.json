@@ -1,0 +1,127 @@
+{
+  "repositoryUrl": "https://github.com/Voronenko/runbooks-mkdocs.git",
+  "crawlDateTime": "2022-01-18T19:51:54.942288",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-sphinx-as-our-knowledge-base-system.md",
+      "template": "Nygard",
+      "status": "Superceded by [4. Use mkdocs as a knowledge base system](0004-use-mkdocs-as-a-knowledge-base-system.md)",
+      "firstCommit": "2020-11-03T21:04:48Z",
+      "lastCommit": "2020-11-03T21:04:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1c8f9258a3255f007ac77e91491263e33ff4e18e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-use-plantuml-for-diagramming.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [5. Use PlantUML for diagramming with use of stdlib](0005-use-plantuml-for-diagramming-with-use-of-stdlib.md)",
+      "firstCommit": "2020-11-03T21:04:48Z",
+      "lastCommit": "2020-11-03T21:11:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1c8f9258a3255f007ac77e91491263e33ff4e18e",
+            "817be4f107f1bee8c02e749c4efbc0c132fe9b67"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-use-mkdocs-as-a-knowledge-base-system.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [2. Use sphinx as our knowledge base system](0002-use-sphinx-as-our-knowledge-base-system.md)",
+      "firstCommit": "2020-11-03T21:04:48Z",
+      "lastCommit": "2020-11-03T21:04:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1c8f9258a3255f007ac77e91491263e33ff4e18e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-use-plantuml-for-diagramming-with-use-of-stdlib.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [3. Use PlantUML for diagramming](0003-use-plantuml-for-diagramming.md)",
+      "firstCommit": "2020-11-03T21:11:53Z",
+      "lastCommit": "2020-11-03T21:11:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "817be4f107f1bee8c02e749c4efbc0c132fe9b67"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-03T20:47:02Z",
+      "lastCommit": "2020-11-03T20:47:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4777f0ca814988af57b0e417fd02a51d91c9df9b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-03T20:47:02Z",
+  "lastAdrCommit": "2020-11-03T21:11:53Z",
+  "firstCommit": "2020-03-30T11:10:58Z",
+  "lastCommit": "2021-04-07T22:04:26Z",
+  "adrDirFile": {
+    "fileContent": "./docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": false
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1c8f9258a3255f007ac77e91491263e33ff4e18e",
+        "817be4f107f1bee8c02e749c4efbc0c132fe9b67",
+        "4777f0ca814988af57b0e417fd02a51d91c9df9b"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

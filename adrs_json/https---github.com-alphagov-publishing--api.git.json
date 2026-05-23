@@ -1,0 +1,169 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/publishing-api.git",
+  "crawlDateTime": "2022-01-18T21:30:24.661805",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-002-dont-log-events-which-result-in-error.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-06-08T08:31:06Z",
+      "lastCommit": "2020-06-09T15:17:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc2e037432f0371940a14e853644b89ef2ad88d0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eccb8548b286a69adfb83c91f8c74603273a956b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-005-documents-and-editions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-08T08:31:06Z",
+      "lastCommit": "2020-06-09T15:17:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc2e037432f0371940a14e853644b89ef2ad88d0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eccb8548b286a69adfb83c91f8c74603273a956b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-001-use-event-sourcing-pattern.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-06-08T08:31:06Z",
+      "lastCommit": "2020-06-09T15:17:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc2e037432f0371940a14e853644b89ef2ad88d0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eccb8548b286a69adfb83c91f8c74603273a956b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-003-representation-for-multiple-content-types.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-08T08:31:06Z",
+      "lastCommit": "2020-06-09T15:17:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc2e037432f0371940a14e853644b89ef2ad88d0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eccb8548b286a69adfb83c91f8c74603273a956b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-004-govspeak-and-embedded-content.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-06-08T08:31:06Z",
+      "lastCommit": "2020-06-09T15:17:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc2e037432f0371940a14e853644b89ef2ad88d0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eccb8548b286a69adfb83c91f8c74603273a956b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-08T08:31:06Z",
+  "lastAdrCommit": "2020-06-09T15:17:06Z",
+  "firstCommit": "2014-12-04T15:15:43Z",
+  "lastCommit": "2022-01-18T19:02:18Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fc2e037432f0371940a14e853644b89ef2ad88d0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "eccb8548b286a69adfb83c91f8c74603273a956b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

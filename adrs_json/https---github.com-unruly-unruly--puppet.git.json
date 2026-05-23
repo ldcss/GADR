@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/unruly/unruly-puppet.git",
+  "crawlDateTime": "2022-01-18T19:02:34.257768",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture_decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture_decisions",
+      "path": "0002-standalone-nrpe-custom-check-module.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-20T16:01:41Z",
+      "lastCommit": "2018-12-20T16:01:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a595a3a5d93c4b6ea3ceec88f6cd488f8a340461"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-20T16:01:41Z",
+      "lastCommit": "2018-12-20T16:01:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a595a3a5d93c4b6ea3ceec88f6cd488f8a340461"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-12-20T16:01:41Z",
+  "lastAdrCommit": "2018-12-20T16:01:41Z",
+  "firstCommit": "2018-05-22T16:50:27Z",
+  "lastCommit": "2019-04-04T15:23:07Z",
+  "adrDirFile": {
+    "fileContent": "architecture_decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a595a3a5d93c4b6ea3ceec88f6cd488f8a340461"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

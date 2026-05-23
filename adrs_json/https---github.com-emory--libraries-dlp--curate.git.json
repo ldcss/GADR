@@ -1,0 +1,139 @@
+{
+  "repositoryUrl": "https://github.com/emory-libraries/dlp-curate.git",
+  "crawlDateTime": "2022-01-18T23:02:27.759798",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decisions"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0003-AWX-for-dlp-automation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-07T19:33:27Z",
+      "lastCommit": "2020-04-07T19:33:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "99e9d91768f6a701058e1a01794f5e42b9fe0816"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0002-S3-Versioning.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-05T16:17:50Z",
+      "lastCommit": "2019-12-05T16:17:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1955b52c323acafa4c4998b1a1c7009598e510e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0004-IIIF-Manifest-Caching.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-05T17:51:36Z",
+      "lastCommit": "2020-03-05T17:51:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "49f3813a5bb2a89cacaeef8b3ce78378851fa9ba"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0001-document-architecture-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-26T23:09:37Z",
+      "lastCommit": "2019-11-26T23:09:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58b0646d19b5d958ae62cf9b2380cf48ed579d35"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0005-Route53-Hosted-Zone.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-03T14:19:51Z",
+      "lastCommit": "2020-06-03T14:19:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f0466d52b589adc7c2c9d69bec06c2c6e537c20"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-26T23:09:37Z",
+  "lastAdrCommit": "2020-06-03T14:19:51Z",
+  "firstCommit": "2018-11-21T16:50:15Z",
+  "lastCommit": "2022-01-15T05:13:50Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "49f3813a5bb2a89cacaeef8b3ce78378851fa9ba",
+        "7f0466d52b589adc7c2c9d69bec06c2c6e537c20",
+        "99e9d91768f6a701058e1a01794f5e42b9fe0816"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e1955b52c323acafa4c4998b1a1c7009598e510e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "58b0646d19b5d958ae62cf9b2380cf48ed579d35"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

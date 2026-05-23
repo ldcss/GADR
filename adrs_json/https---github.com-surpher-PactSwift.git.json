@@ -1,0 +1,145 @@
+{
+  "repositoryUrl": "https://github.com/surpher/PactSwift.git",
+  "crawlDateTime": "2022-01-18T18:16:55.073911",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "Documentation/ADRs"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "Documentation/ADRs",
+      "path": "ADR-003-Organization_of_type_members.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-29T03:14:54Z",
+      "lastCommit": "2020-03-29T03:14:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a82cf4eb587bc8aaec957ce7fb0f1ff0b54dee72"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Documentation/ADRs",
+      "path": "ADR-001-Language_choice.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-29T03:14:54Z",
+      "lastCommit": "2020-03-29T03:14:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a82cf4eb587bc8aaec957ce7fb0f1ff0b54dee72"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Documentation/ADRs",
+      "path": "ADR-004-Dependencies-management.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-13T11:41:36Z",
+      "lastCommit": "2020-12-09T04:37:17Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "566e2e82fe99b4547b7cf798d424e95bb099ad22"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f9df3804c69e8bd7bb49d6e1456f46581def3e3",
+            "6a3ad59ed24844ae73429273ba0304b328d225ab",
+            "d40fd14bd544797e8d28a86a7653a61953514a67"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Documentation/ADRs",
+      "path": "ADR-002-Coding_standard.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-29T03:14:54Z",
+      "lastCommit": "2020-03-29T03:14:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a82cf4eb587bc8aaec957ce7fb0f1ff0b54dee72"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Documentation/ADRs",
+      "path": "ADR-005-Project-Structure.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-05T12:23:43Z",
+      "lastCommit": "2021-08-18T00:13:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "85c4dce01f0885be39e89bd82cfaae06aaea9b5b",
+            "f0234147df850dcb9f050287c2a2fda7b13bd9ab"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-29T03:14:54Z",
+  "lastAdrCommit": "2021-08-18T00:13:53Z",
+  "firstCommit": "2020-03-26T05:13:00Z",
+  "lastCommit": "2021-12-13T05:14:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "566e2e82fe99b4547b7cf798d424e95bb099ad22"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7f9df3804c69e8bd7bb49d6e1456f46581def3e3",
+        "6a3ad59ed24844ae73429273ba0304b328d225ab",
+        "a82cf4eb587bc8aaec957ce7fb0f1ff0b54dee72",
+        "d40fd14bd544797e8d28a86a7653a61953514a67",
+        "85c4dce01f0885be39e89bd82cfaae06aaea9b5b",
+        "f0234147df850dcb9f050287c2a2fda7b13bd9ab"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

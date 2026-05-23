@@ -1,0 +1,76 @@
+{
+  "repositoryUrl": "https://github.com/magnetcoop/hydrogen.duct-template.git",
+  "crawlDateTime": "2022-01-18T18:21:03.489228",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "adr-002-ragtime-migrations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-03T19:09:06Z",
+      "lastCommit": "2021-02-03T19:09:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a698383ad1064b9b54107eed7ebd4e654f1ff8c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "adr-001-breadcrumbs.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-16T15:54:24Z",
+      "lastCommit": "2020-12-18T10:29:15Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e6c1104bd4b3b886bfc189ff4dc3a63eddd26aba",
+            "4b4b5d0ff79fd9d21385a69f1c20ffb8c1d9ca57",
+            "cbe2b3ec01fb30d92af82e6e37b5dfc63cbc842a"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-16T15:54:24Z",
+  "lastAdrCommit": "2021-02-03T19:09:06Z",
+  "firstCommit": "2019-06-10T17:50:20Z",
+  "lastCommit": "2021-11-17T21:12:26Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7a698383ad1064b9b54107eed7ebd4e654f1ff8c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e6c1104bd4b3b886bfc189ff4dc3a63eddd26aba",
+        "4b4b5d0ff79fd9d21385a69f1c20ffb8c1d9ca57",
+        "cbe2b3ec01fb30d92af82e6e37b5dfc63cbc842a"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "repositoryUrl": "https://github.com/thoni56/c-xrefactory.git",
+  "crawlDateTime": "2022-01-18T23:15:05.403551",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-06-13T22:10:00Z",
+      "lastCommit": "2021-06-13T22:10:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93eb1f79ab22a2343e2538d5123a1e7399ce6c77"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-store-reference-data-in-text-files-with-encoding.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-31T08:16:25Z",
+      "lastCommit": "2021-06-13T22:10:00Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0f3a8d19227bbd5e285bf4a572b0a94ce9571dbc",
+            "8f1b2eac747eaf37165cf224d7951e7acd79759c",
+            "93eb1f79ab22a2343e2538d5123a1e7399ce6c77"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-31T08:16:25Z",
+  "lastAdrCommit": "2021-06-13T22:10:00Z",
+  "firstCommit": "2016-01-19T07:01:34Z",
+  "lastCommit": "2021-11-07T21:46:45Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0f3a8d19227bbd5e285bf4a572b0a94ce9571dbc",
+        "8f1b2eac747eaf37165cf224d7951e7acd79759c",
+        "93eb1f79ab22a2343e2538d5123a1e7399ce6c77"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

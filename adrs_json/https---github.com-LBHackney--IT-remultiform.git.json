@@ -1,0 +1,227 @@
+{
+  "repositoryUrl": "https://github.com/LBHackney-IT/remultiform.git",
+  "crawlDateTime": "2022-01-18T19:56:09.893891",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-support-indexeddb-as-a-data-store.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-14T12:29:19Z",
+      "lastCommit": "2019-11-14T12:29:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "922bd5055ffc3db71fb02b5d49b27e73d3ff0961"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-use-jest.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-29T13:34:47Z",
+      "lastCommit": "2019-10-29T13:34:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "04820e3133fb1c63e00fcd9f7533ccd9e4d1c22e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-make-remultiform-configuration-driven.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-31T10:56:23Z",
+      "lastCommit": "2019-10-31T10:56:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5e6808d257b8987fcfa78dca9093d9833ed78af1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-typescript.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-29T12:46:32Z",
+      "lastCommit": "2019-10-29T12:46:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d320b69dd7ad6c95f4a1ce6c6a828c16c858be32"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-rollup-to-build-distributables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-29T12:46:32Z",
+      "lastCommit": "2019-10-29T12:46:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d320b69dd7ad6c95f4a1ce6c6a828c16c858be32"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-eslint.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-29T12:46:34Z",
+      "lastCommit": "2019-10-29T12:46:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e30ada8e4cdcf6712fb69aebfc03654dab4efb54"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-use-dependabot-to-keep-dependencies-up-to-date.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-30T16:01:58Z",
+      "lastCommit": "2019-10-30T16:01:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9718602e3146bbe33a026f8583db78ad576e343"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-prettier-to-format-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-29T12:46:33Z",
+      "lastCommit": "2019-10-29T12:46:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0974a09b7aeb22e924d19f92d4c8dbd17c77b0e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-use-typedoc-to-generate-api-documentation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-19T10:22:24Z",
+      "lastCommit": "2019-11-19T10:22:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4afff64081512ede8a9a3f6c60b36d91c7bf5580"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-29T11:34:53Z",
+      "lastCommit": "2019-10-29T11:34:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb999dfede7582050888bd5269b6b238dfac90ef"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-29T11:34:53Z",
+  "lastAdrCommit": "2019-11-19T10:22:24Z",
+  "firstCommit": "2019-10-29T10:48:45Z",
+  "lastCommit": "2022-01-15T05:46:26Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b9718602e3146bbe33a026f8583db78ad576e343",
+        "5e6808d257b8987fcfa78dca9093d9833ed78af1",
+        "e30ada8e4cdcf6712fb69aebfc03654dab4efb54",
+        "d320b69dd7ad6c95f4a1ce6c6a828c16c858be32",
+        "4afff64081512ede8a9a3f6c60b36d91c7bf5580",
+        "bb999dfede7582050888bd5269b6b238dfac90ef",
+        "922bd5055ffc3db71fb02b5d49b27e73d3ff0961",
+        "0974a09b7aeb22e924d19f92d4c8dbd17c77b0e5",
+        "04820e3133fb1c63e00fcd9f7533ccd9e4d1c22e"
+      ],
+      "numberOfCommits": 9
+    }
+  ]
+}

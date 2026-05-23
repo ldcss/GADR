@@ -1,0 +1,140 @@
+{
+  "repositoryUrl": "https://github.com/Yu-Ji19/article-annotator.git",
+  "crawlDateTime": "2022-01-18T18:16:25.92575",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "ADR"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "ADR",
+      "path": "secrets-and-env.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-14T04:59:18Z",
+      "lastCommit": "2019-11-14T04:59:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "800ed8a3bc349acdea23dcde0a35d56719d40d52"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADR",
+      "path": "database.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-14T04:59:18Z",
+      "lastCommit": "2019-11-14T04:59:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "800ed8a3bc349acdea23dcde0a35d56719d40d52"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADR",
+      "path": "router.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-14T04:59:18Z",
+      "lastCommit": "2019-11-14T04:59:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "800ed8a3bc349acdea23dcde0a35d56719d40d52"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADR",
+      "path": "seperate-ends.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-14T04:59:18Z",
+      "lastCommit": "2019-11-14T04:59:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "800ed8a3bc349acdea23dcde0a35d56719d40d52"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADR",
+      "path": "backend.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-14T04:59:18Z",
+      "lastCommit": "2019-11-14T04:59:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "800ed8a3bc349acdea23dcde0a35d56719d40d52"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADR",
+      "path": "frontend.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-14T04:59:18Z",
+      "lastCommit": "2019-11-14T04:59:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "800ed8a3bc349acdea23dcde0a35d56719d40d52"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-14T04:59:18Z",
+  "lastAdrCommit": "2019-11-14T04:59:18Z",
+  "firstCommit": "2019-10-26T20:17:13Z",
+  "lastCommit": "2021-09-21T16:08:31Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "800ed8a3bc349acdea23dcde0a35d56719d40d52"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

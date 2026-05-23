@@ -1,0 +1,47 @@
+{
+  "repositoryUrl": "https://github.com/SparksNetwork/sparks-frontend.git",
+  "crawlDateTime": "2022-01-18T18:02:48.653776",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "src/drivers/firebase-authentication/adrs"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "src/drivers/firebase-authentication/adrs",
+      "path": "adr-001-authentication-driver-source-type.md",
+      "template": "Nygard",
+      "status": "~~Proposed~~ | **Accepted** | ~~Depreciated~~ | ~~Superceded~~",
+      "firstCommit": "2016-10-10T04:23:26Z",
+      "lastCommit": "2016-10-14T17:45:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc824aafe783e7249020019cb893dc8dbd2c6cc2",
+            "d2eae02fce71181e448ce6ddc7134b66c6b13633"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-10-10T04:23:26Z",
+  "lastAdrCommit": "2016-10-14T17:45:11Z",
+  "firstCommit": "2016-08-27T17:04:40Z",
+  "lastCommit": "2017-07-16T17:00:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fc824aafe783e7249020019cb893dc8dbd2c6cc2",
+        "d2eae02fce71181e448ce6ddc7134b66c6b13633"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

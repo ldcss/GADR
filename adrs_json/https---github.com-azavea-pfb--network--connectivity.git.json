@@ -1,0 +1,125 @@
+{
+  "repositoryUrl": "https://github.com/azavea/pfb-network-connectivity.git",
+  "crawlDateTime": "2022-01-18T21:12:48.87747",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-0001-development-environment.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2016-11-10T20:20:49Z",
+      "lastCommit": "2016-11-10T20:20:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0ab550de28b39373d7117d7df6b2dc51598ecae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-0004-asynchronous-task-queue-2.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-02-21T15:34:21Z",
+      "lastCommit": "2017-02-21T15:34:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2b30617440a603421a7a46d02b3c424e3cf9bd58"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-0002-backend-language-framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2016-11-10T20:20:52Z",
+      "lastCommit": "2016-11-10T20:20:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9a99bcc85e517fba24265eb9e48ea7eebac46be9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-0000-architecture-documentation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2016-11-10T18:19:52Z",
+      "lastCommit": "2016-11-10T18:19:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae6f551047d3f10227e071b569c496d9decf8891"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-0003-asynchronous-task-queue.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2016-11-10T20:20:53Z",
+      "lastCommit": "2016-11-10T20:20:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae26be703a0708bb7dc35342fee1363479bc7733"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-11-10T18:19:52Z",
+  "lastAdrCommit": "2017-02-21T15:34:21Z",
+  "firstCommit": "2016-08-27T20:38:41Z",
+  "lastCommit": "2022-01-18T01:13:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2b30617440a603421a7a46d02b3c424e3cf9bd58",
+        "ae6f551047d3f10227e071b569c496d9decf8891",
+        "ae26be703a0708bb7dc35342fee1363479bc7733",
+        "f0ab550de28b39373d7117d7df6b2dc51598ecae",
+        "9a99bcc85e517fba24265eb9e48ea7eebac46be9"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

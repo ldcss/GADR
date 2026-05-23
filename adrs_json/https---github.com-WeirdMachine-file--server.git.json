@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/WeirdMachine/file-server.git",
+  "crawlDateTime": "2022-01-18T19:35:44.840823",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "."
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": ".",
+      "path": "ADR.md",
+      "template": "Nygard",
+      "status": "in review",
+      "firstCommit": "2021-01-06T05:57:36Z",
+      "lastCommit": "2021-01-06T05:57:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "def4f922d34b6bb417ae5c9fd77a37e12518baea"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-06T05:57:36Z",
+  "lastAdrCommit": "2021-01-06T05:57:36Z",
+  "firstCommit": "2020-12-23T09:06:29Z",
+  "lastCommit": "2021-01-06T06:22:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "def4f922d34b6bb417ae5c9fd77a37e12518baea"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

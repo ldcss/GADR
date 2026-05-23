@@ -1,0 +1,11 @@
+# [ADR-001] Data Ingestion Strategy: Custom Python Simulator
+- **Status**: Accepted
+- **Context**: The system requires real-time environment data (traffic conditions, weather, accidents, transit delays) to feed a multi-agent decision engine for urban mobility optimization. Acquiring reliable data from real-world external APIs (e.g., Waze, Google Maps) introduces prohibitive costs, while free-tier alternatives offer insufficient data quality and strict rate limits. As the project scope focuses on proving the architectural design rather than delivering a production-ready consumer product, a reliable and cost-effective data source is required.
+- **Decision**: Implement a custom Python-based simulation script to act as the primary data ingestion source. This script will generate randomized, synthetic environment events (e.g., weather updates, accidents) at configurable intervals (e.g., every 5 to 10 minutes) and push them into the system.
+- **Considered Options**:
+  - **Paid/Commercial APIs (Google Maps, Waze)**: Rejected. Prohibitive cost and unnecessary complexity for a proof-of-concept/academic project.
+  - **Free-Tier External APIs**: Rejected. Poor data quality and strict rate limiting make continuous real-time testing unfeasible.
+  - **Facade Pattern over Real APIs**: Considered to abstract the complexity of external integrations. Rejected because the underlying external APIs will not be integrated at this stage, rendering the abstraction unnecessary.
+- **Consequences**:
+  - **Pros**: Completely eliminates third-party API costs; provides total control over edge-case testing by allowing developers to force specific scenarios (e.g., sudden route blockages); simplifies local development without requiring external network dependencies.
+  - **Cons**: The system operates on synthetic data, meaning it cannot be deployed for real-world usage without refactoring the data ingestion layer to interface with real APIs.

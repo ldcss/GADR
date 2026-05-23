@@ -1,0 +1,235 @@
+{
+  "repositoryUrl": "https://github.com/Internet-of-People/titania-os.git",
+  "crawlDateTime": "2022-01-18T19:13:06.429572",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-dual-root-with-data-volume.md",
+      "template": "Nygard",
+      "status": "Accepted Extended by [9. Docker state directory on Data Volume](0009-docker-state-directory-on-data-volume.md) Extended by [11. Preinstallable images on data volume](0011-preinstallable-images-on-data-volume.md)",
+      "firstCommit": "2018-04-18T13:18:20Z",
+      "lastCommit": "2018-04-18T13:18:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "add4dc5411111a1f71d54affba0fd5f24863527b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-docker-for-dapps.md",
+      "template": "Nygard",
+      "status": "Accepted Extended by [6. Systemd units for dApps](0006-systemd-units-for-dapps.md) Extended by [9. Docker state directory on Data Volume](0009-docker-state-directory-on-data-volume.md) Extended by [11. Preinstallable images on data volume](0011-preinstallable-images-on-data-volume.md)",
+      "firstCommit": "2018-04-18T13:18:20Z",
+      "lastCommit": "2018-04-18T13:18:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "add4dc5411111a1f71d54affba0fd5f24863527b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-yocto-as-a-distro-base.md",
+      "template": "Nygard",
+      "status": "Accepted Extended by [7. Layers as Git Submodules](0007-layers-as-git-submodules.md)",
+      "firstCommit": "2018-04-18T13:18:20Z",
+      "lastCommit": "2018-04-18T13:18:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "add4dc5411111a1f71d54affba0fd5f24863527b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-networkmanager-for-networking.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-18T13:18:20Z",
+      "lastCommit": "2018-04-18T13:18:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "add4dc5411111a1f71d54affba0fd5f24863527b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-systemd-as-an-init-system.md",
+      "template": "Nygard",
+      "status": "Accepted Extended by [6. Systemd units for dApps](0006-systemd-units-for-dapps.md)",
+      "firstCommit": "2018-04-18T13:18:20Z",
+      "lastCommit": "2018-04-18T13:18:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "add4dc5411111a1f71d54affba0fd5f24863527b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-preinstallable-images-on-data-volume.md",
+      "template": "Nygard",
+      "status": "Accepted Extends [2. Docker for dApps](0002-docker-for-dapps.md) Extends [8. Dual Root with Data Volume](0008-dual-root-with-data-volume.md) Extends [9. Docker state directory on Data Volume](0009-docker-state-directory-on-data-volume.md)",
+      "firstCommit": "2018-04-18T13:18:20Z",
+      "lastCommit": "2018-04-18T13:18:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "add4dc5411111a1f71d54affba0fd5f24863527b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-docker-state-directory-on-data-volume.md",
+      "template": "Nygard",
+      "status": "Accepted Extends [2. Docker for dApps](0002-docker-for-dapps.md) Extends [8. Dual Root with Data Volume](0008-dual-root-with-data-volume.md) Extended by [11. Preinstallable images on data volume](0011-preinstallable-images-on-data-volume.md)",
+      "firstCommit": "2018-04-18T13:18:20Z",
+      "lastCommit": "2018-04-18T13:18:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "add4dc5411111a1f71d54affba0fd5f24863527b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-wiki-as-submodule.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-18T13:18:20Z",
+      "lastCommit": "2018-04-18T13:18:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "add4dc5411111a1f71d54affba0fd5f24863527b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-layers-as-git-submodules.md",
+      "template": "Nygard",
+      "status": "Accepted Extends [3. Yocto as a distro base](0003-yocto-as-a-distro-base.md)",
+      "firstCommit": "2018-04-18T13:18:20Z",
+      "lastCommit": "2018-04-18T13:18:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "add4dc5411111a1f71d54affba0fd5f24863527b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-systemd-units-for-dapps.md",
+      "template": "Nygard",
+      "status": "Accepted Extends [2. Docker for dApps](0002-docker-for-dapps.md) Extends [4. Systemd as an init system](0004-systemd-as-an-init-system.md)",
+      "firstCommit": "2018-04-18T13:18:20Z",
+      "lastCommit": "2018-04-18T13:18:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "add4dc5411111a1f71d54affba0fd5f24863527b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-18T13:18:20Z",
+      "lastCommit": "2018-04-18T13:18:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "add4dc5411111a1f71d54affba0fd5f24863527b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-04-18T13:18:20Z",
+  "lastAdrCommit": "2018-04-18T13:18:20Z",
+  "firstCommit": "2017-09-13T15:35:52Z",
+  "lastCommit": "2019-03-15T13:44:38Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "add4dc5411111a1f71d54affba0fd5f24863527b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "repositoryUrl": "https://github.com/libero/reviewer.git",
+  "crawlDateTime": "2022-01-18T22:22:44.765467",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-server-side-node.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-31T11:17:50Z",
+      "lastCommit": "2020-02-10T14:27:37Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c948a73fbb5a856d5f7cc9e55c4d154aa077b5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ebf1d5b0541cd684a33a2bad3edf6bacc5d6383"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-javascript-client-side.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-05T08:18:52Z",
+      "lastCommit": "2019-08-05T11:01:17Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "78464e737f7e3aac55d67fd5d95ab5523e27a1f8",
+            "cf661d3c756a19b0a708fcf523d9d278675d6d81"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-02T12:59:43Z",
+      "lastCommit": "2019-08-02T12:59:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7161059c18376fe816b80756d61db36d07ab0e3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-02T12:59:43Z",
+  "lastAdrCommit": "2020-02-10T14:27:37Z",
+  "firstCommit": "2019-07-16T09:45:43Z",
+  "lastCommit": "2022-01-18T14:43:46Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f8c948a73fbb5a856d5f7cc9e55c4d154aa077b5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "78464e737f7e3aac55d67fd5d95ab5523e27a1f8",
+        "a7161059c18376fe816b80756d61db36d07ab0e3",
+        "cf661d3c756a19b0a708fcf523d9d278675d6d81"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8ebf1d5b0541cd684a33a2bad3edf6bacc5d6383"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

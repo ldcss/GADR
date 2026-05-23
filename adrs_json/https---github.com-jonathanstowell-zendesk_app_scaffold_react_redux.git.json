@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/jonathanstowell/zendesk_app_scaffold_react_redux.git",
+  "crawlDateTime": "2022-01-18T18:17:52.296252",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adrs"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adrs",
+      "path": "replace-migration-scaffold-with-clean-scaffold-in-master-branch.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-14T11:14:59Z",
+      "lastCommit": "2019-03-14T11:14:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a009f052d7e591d3f7bb85b698424b5e424a413"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-14T11:14:59Z",
+  "lastAdrCommit": "2019-03-14T11:14:59Z",
+  "firstCommit": "2019-03-14T11:14:59Z",
+  "lastCommit": "2022-01-13T21:18:58Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7a009f052d7e591d3f7bb85b698424b5e424a413"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

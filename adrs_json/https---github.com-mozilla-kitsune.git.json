@@ -1,0 +1,118 @@
+{
+  "repositoryUrl": "https://github.com/mozilla/kitsune.git",
+  "crawlDateTime": "2022-01-18T20:54:11.190996",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-es-l10n-content.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-10-29T10:58:31Z",
+      "lastCommit": "2021-05-28T10:44:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "37720f2faa67b43e9f8a2e502837766756014232"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8acafbf017216294474418ab19ee7a10a9adc060"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-es-aaq-documents.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-10-29T10:58:31Z",
+      "lastCommit": "2021-05-28T10:44:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "37720f2faa67b43e9f8a2e502837766756014232"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8acafbf017216294474418ab19ee7a10a9adc060"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-10T18:15:06Z",
+      "lastCommit": "2019-01-10T18:15:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf628c12913f3786112e1c6ac96b34b76e8eee71"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-01-10T18:15:06Z",
+  "lastAdrCommit": "2021-05-28T10:44:49Z",
+  "firstCommit": "2010-02-03T23:01:15Z",
+  "lastCommit": "2022-01-13T00:46:42Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cf628c12913f3786112e1c6ac96b34b76e8eee71"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "37720f2faa67b43e9f8a2e502837766756014232"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8acafbf017216294474418ab19ee7a10a9adc060"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

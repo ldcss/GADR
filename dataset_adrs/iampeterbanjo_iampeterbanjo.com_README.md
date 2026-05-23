@@ -1,0 +1,18 @@
+# Architecture Decision Records
+
+- [1. record-architecture-decisions](0001-record-architecture-decisions.md)
+- [2. blog-engine](0002-blog-engine.md)
+- [3. hapijs-server](0003-hapijs-server.md)
+- [4. yarn-npm-pnpm-and-docker](0004-yarn-npm-pnpm-and-docker.md)
+- [5. use-typescript-vs-eslint](0005-use-typescript-vs-eslint.md)
+- [6. monorepo-dependencies](0006-monorepo-dependencies.md)
+- [7. module.exports-vs-export-default](0007-module.exports-vs-export-default.md)
+- [8. use-ava-test-runner](0008-use-ava-test-runner.md)
+- [9. place-tests-next-to-source-files](0009-place-tests-next-to-source-files.md)
+- [10. mongoose-schema-and-type-definitions](0010-mongoose-schema-and-type-definitions.md)
+- [11. artist-images-from-spotify](0011-artist-images-from-spotify.md)
+- [12. parallel-database-tests-mongodb-server](0012-parallel-database-tests-mongodb-server.md)
+- [13. cypress-e2e-tests-in-typescript](0013-cypress-e2e-tests-in-typescript.md)
+- [14. better-data-transformations](0014-better-data-transformations.md)
+- [15. frontend-backend-architecture](0015-frontend-backend-architecture.md)
+- [16. live-vs-static-site](0016-live-vs-static-site.md)

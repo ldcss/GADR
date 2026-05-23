@@ -1,0 +1,121 @@
+{
+  "repositoryUrl": "https://github.com/latis-data/latis3.git",
+  "crawlDateTime": "2022-01-18T18:17:53.332879",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-Sample-objects-implemented-as-domain-range-tuple.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-02-15T21:23:51Z",
+      "lastCommit": "2019-02-15T21:23:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "690ca26c7057793d70e4675893fb8b5253e0968c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-Decouple-data-and-datatype-objects.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-02-15T21:23:51Z",
+      "lastCommit": "2019-02-15T21:23:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "690ca26c7057793d70e4675893fb8b5253e0968c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-Operations-defined-in-FDML-schema-as-elements.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-02-15T21:23:51Z",
+      "lastCommit": "2019-02-15T21:23:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "690ca26c7057793d70e4675893fb8b5253e0968c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-Custom-adapters-defined-outside-core-FDML-schema.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-02-15T21:23:51Z",
+      "lastCommit": "2019-02-15T21:23:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "690ca26c7057793d70e4675893fb8b5253e0968c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-Scala-programming-language.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-02-15T21:23:51Z",
+      "lastCommit": "2019-02-15T21:23:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "690ca26c7057793d70e4675893fb8b5253e0968c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-15T21:23:51Z",
+  "lastAdrCommit": "2019-02-15T21:23:51Z",
+  "firstCommit": "2018-09-29T17:54:57Z",
+  "lastCommit": "2022-01-17T21:12:18Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "690ca26c7057793d70e4675893fb8b5253e0968c"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

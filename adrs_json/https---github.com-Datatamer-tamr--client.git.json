@@ -1,0 +1,229 @@
+{
+  "repositoryUrl": "https://github.com/Datatamer/tamr-client.git",
+  "crawlDateTime": "2022-01-18T17:46:19.236334",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/contributor-guide/adr"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/contributor-guide/adr",
+      "path": "0003-reproducibility.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T14:10:09Z",
+      "lastCommit": "2020-08-17T14:10:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87f82ec80119629598334d7c82763fa0f006f02e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/contributor-guide/adr",
+      "path": "0007-tamr-client-package.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T14:10:09Z",
+      "lastCommit": "2020-08-17T14:10:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87f82ec80119629598334d7c82763fa0f006f02e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/contributor-guide/adr",
+      "path": "0010-confirm-performance-issues-before-optimizing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-05T20:08:39Z",
+      "lastCommit": "2021-02-05T20:08:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8c2e010cc0d042d48606ccdadfd9874a22dce1b2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/contributor-guide/adr",
+      "path": "0004-documentation-and-docstrings.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T14:10:09Z",
+      "lastCommit": "2020-08-17T14:10:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87f82ec80119629598334d7c82763fa0f006f02e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/contributor-guide/adr",
+      "path": "0008-standardized-imports.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T14:10:09Z",
+      "lastCommit": "2020-08-17T14:10:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87f82ec80119629598334d7c82763fa0f006f02e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/contributor-guide/adr",
+      "path": "0006-type-checking.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T14:10:09Z",
+      "lastCommit": "2020-08-17T14:10:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87f82ec80119629598334d7c82763fa0f006f02e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/contributor-guide/adr",
+      "path": "0005-composable-functions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T14:10:09Z",
+      "lastCommit": "2020-08-17T14:10:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87f82ec80119629598334d7c82763fa0f006f02e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/contributor-guide/adr",
+      "path": "0009-separate-types-and-functions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T14:10:09Z",
+      "lastCommit": "2020-08-17T14:10:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87f82ec80119629598334d7c82763fa0f006f02e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/contributor-guide/adr",
+      "path": "0002-linting-and-formatting.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T14:10:09Z",
+      "lastCommit": "2020-08-17T14:10:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87f82ec80119629598334d7c82763fa0f006f02e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/contributor-guide/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-15T03:17:27Z",
+      "lastCommit": "2020-08-17T14:10:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87f82ec80119629598334d7c82763fa0f006f02e",
+            "e46623937353db0ab214e478687392103e7246b1"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-15T03:17:27Z",
+  "lastAdrCommit": "2021-02-05T20:08:39Z",
+  "firstCommit": "2019-01-07T16:04:26Z",
+  "lastCommit": "2021-12-02T15:25:49Z",
+  "adrDirFile": {
+    "fileContent": "docs/contributor-guide/adr/\n",
+    "matchesActualAdrDirectory": false
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8c2e010cc0d042d48606ccdadfd9874a22dce1b2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "87f82ec80119629598334d7c82763fa0f006f02e",
+        "e46623937353db0ab214e478687392103e7246b1"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

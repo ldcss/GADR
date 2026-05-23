@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/reisners/universal-remote-control-skill.git",
+  "crawlDateTime": "2022-01-18T20:57:08.517655",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-21T12:06:26Z",
+      "lastCommit": "2019-04-21T12:06:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4fba888972d02c00b0f2b055e3e62a13e335fa93"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-overall-system-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-22T23:06:58Z",
+      "lastCommit": "2019-08-30T11:25:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a55e955468845528def3c120ba96f8fd21b080de",
+            "624f2e523df19f825b55bed3cfd0557f7046cc3c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-04-21T12:06:26Z",
+  "lastAdrCommit": "2019-08-30T11:25:03Z",
+  "firstCommit": "2019-04-21T12:05:08Z",
+  "lastCommit": "2021-11-16T21:56:32Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a55e955468845528def3c120ba96f8fd21b080de",
+        "624f2e523df19f825b55bed3cfd0557f7046cc3c",
+        "4fba888972d02c00b0f2b055e3e62a13e335fa93"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

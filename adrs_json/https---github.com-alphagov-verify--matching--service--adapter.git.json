@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/verify-matching-service-adapter.git",
+  "crawlDateTime": "2022-01-18T19:38:01.508982",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-hash-pids-uniquely-for-each-loa.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-31T14:03:56Z",
+      "lastCommit": "2017-10-31T14:03:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5140ae594b5c498816d42628d7c12afbf1fbba0c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-31T14:03:56Z",
+      "lastCommit": "2017-10-31T14:03:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5140ae594b5c498816d42628d7c12afbf1fbba0c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-10-31T14:03:56Z",
+  "lastAdrCommit": "2017-10-31T14:03:56Z",
+  "firstCommit": "2017-10-31T11:03:21Z",
+  "lastCommit": "2022-01-11T13:28:50Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5140ae594b5c498816d42628d7c12afbf1fbba0c"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

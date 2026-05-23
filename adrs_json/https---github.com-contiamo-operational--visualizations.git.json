@@ -1,0 +1,201 @@
+{
+  "repositoryUrl": "https://github.com/contiamo/operational-visualizations.git",
+  "crawlDateTime": "2022-01-18T18:16:24.069689",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-frame-vs-scale.md",
+      "template": "Nygard",
+      "status": "2019-09-13 proposed",
+      "firstCommit": "2019-09-16T10:29:25Z",
+      "lastCommit": "2019-09-16T10:29:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "932f88806fbf82b1a752fac3b111138ddb792b8e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-about-caching.md",
+      "template": "Nygard",
+      "status": "2019-07-30 proposed",
+      "firstCommit": "2019-07-30T13:48:21Z",
+      "lastCommit": "2019-08-05T08:42:50Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "86a842e9b90acf6af1adf1ec8e66753c18c9a730",
+            "596801822d310b94ae014277e9b670516af3a377",
+            "07ddbf86ebfb46d605a94a9aede7d0cd238d77ab"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-about-cursors.md",
+      "template": "Nygard",
+      "status": "2019-07-08 proposed",
+      "firstCommit": "2019-07-09T11:56:28Z",
+      "lastCommit": "2019-08-01T09:56:25Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa97b9df6ba7914463332c8bd55f37b1596c4f87",
+            "947fa9486e897b784561b1d191895ce8da5c7aac"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "18023eeca53a906d58c26065bd5ff27434572ab7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-about-measure-labels.md",
+      "template": "Nygard",
+      "status": "2019-09-09 proposed",
+      "firstCommit": "2019-09-09T13:16:06Z",
+      "lastCommit": "2019-09-16T10:29:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "932f88806fbf82b1a752fac3b111138ddb792b8e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e264892a7082159f3a9143b6b2f517efd06dd627"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-about-row-cursor.md",
+      "template": "Nygard",
+      "status": "2019-08-01 proposed",
+      "firstCommit": "2019-08-01T09:56:25Z",
+      "lastCommit": "2019-08-01T09:56:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa97b9df6ba7914463332c8bd55f37b1596c4f87"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-about-render-props.md",
+      "template": "Nygard",
+      "status": "2019-07-11 proposed",
+      "firstCommit": "2019-07-30T08:17:06Z",
+      "lastCommit": "2019-09-16T10:29:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "437477f8a3fbbd38242e3a7bb72c6d8d579316dd",
+            "932f88806fbf82b1a752fac3b111138ddb792b8e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-static-vs-dynamic-check.md",
+      "template": "Nygard",
+      "status": "2019-09-13 proposed",
+      "firstCommit": "2019-09-16T10:29:25Z",
+      "lastCommit": "2019-09-16T10:29:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "932f88806fbf82b1a752fac3b111138ddb792b8e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-07-09T11:56:28Z",
+  "lastAdrCommit": "2019-09-16T10:29:25Z",
+  "firstCommit": "2018-07-17T09:08:55Z",
+  "lastCommit": "2020-06-01T06:37:34Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "437477f8a3fbbd38242e3a7bb72c6d8d579316dd",
+        "fa97b9df6ba7914463332c8bd55f37b1596c4f87",
+        "932f88806fbf82b1a752fac3b111138ddb792b8e",
+        "86a842e9b90acf6af1adf1ec8e66753c18c9a730",
+        "596801822d310b94ae014277e9b670516af3a377",
+        "947fa9486e897b784561b1d191895ce8da5c7aac",
+        "07ddbf86ebfb46d605a94a9aede7d0cd238d77ab"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e264892a7082159f3a9143b6b2f517efd06dd627"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "18023eeca53a906d58c26065bd5ff27434572ab7"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

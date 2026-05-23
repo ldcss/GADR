@@ -1,0 +1,61 @@
+{
+  "repositoryUrl": "https://github.com/bbc/digital-paper-edit-infrastructure.git",
+  "crawlDateTime": "2022-01-18T19:56:21.277421",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "2019-04-23-transcript-architecture.md",
+      "template": "Madr",
+      "status": "Accepted <!-- optional -->",
+      "firstCommit": "2019-06-21T15:43:56Z",
+      "lastCommit": "2019-06-25T13:50:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b04120ea8a865557946bfebfe851578e77833212"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "12c8b3e1c447dbc2e1f4e5129b4ac15017d23886"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-06-21T15:43:56Z",
+  "lastAdrCommit": "2019-06-25T13:50:20Z",
+  "firstCommit": "2019-05-13T15:34:27Z",
+  "lastCommit": "2021-07-06T11:02:43Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b04120ea8a865557946bfebfe851578e77833212"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "12c8b3e1c447dbc2e1f4e5129b4ac15017d23886"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

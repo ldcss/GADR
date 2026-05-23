@@ -1,0 +1,48 @@
+{
+  "repositoryUrl": "https://github.com/pagopa/io-pagopa-proxy.git",
+  "crawlDateTime": "2022-01-18T23:15:45.12007",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-uuid-v1-for-sequential-requests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-17T13:02:34Z",
+      "lastCommit": "2018-06-17T13:02:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d55492da85af56692018b5ae52bc77e36d7cf177"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-17T13:02:34Z",
+  "lastAdrCommit": "2018-06-17T13:02:34Z",
+  "firstCommit": "2018-03-28T09:35:35Z",
+  "lastCommit": "2022-01-17T14:01:33Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": false
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d55492da85af56692018b5ae52bc77e36d7cf177"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

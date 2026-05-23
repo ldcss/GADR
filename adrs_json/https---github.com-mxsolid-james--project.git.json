@@ -1,0 +1,385 @@
+{
+  "repositoryUrl": "https://github.com/mxsolid/james-project.git",
+  "crawlDateTime": "2022-01-18T21:29:47.858546",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "src/adr"
+  ],
+  "numAdrFiles": 17,
+  "adrFiles": [
+    {
+      "adrDirectory": "src/adr",
+      "path": "0010-enable-elasticsearch-routing.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus) Additional performance testing is required for adoption.",
+      "firstCommit": "2019-12-10T02:09:17Z",
+      "lastCommit": "2019-12-10T02:09:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "426e93f9ff4793631d6557b198448e79e7ffd4f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0005-distributed-task-termination-ackowledgement.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2019-10-16T12:51:30Z",
+      "lastCommit": "2019-10-16T12:51:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe0af0b23c6154dc4e1f69df89c6296e351794b7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0015-objectstorage-blobid-list.md",
+      "template": "Nygard",
+      "status": "Proposed Adoption needs to be backed by some performance tests.",
+      "firstCommit": "2019-11-25T10:46:50Z",
+      "lastCommit": "2019-11-25T10:46:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "31bbd652c1550f6a6bfad725709d05dff285ad26"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0012-jmap-partial-reads.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-25T10:46:31Z",
+      "lastCommit": "2019-12-10T02:10:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "11cc859752560bab52db76c2b3fb57531f40ce4b",
+            "11ed566c7689f9363cb803a61eb9765723b634d2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0014-blobstore-storage-policies.md",
+      "template": "Nygard",
+      "status": "Proposed Adoption needs to be backed by some performance tests, as well as data repartition between Cassandra and object storage shifts.",
+      "firstCommit": "2019-11-25T10:46:50Z",
+      "lastCommit": "2019-11-25T10:46:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "31bbd652c1550f6a6bfad725709d05dff285ad26"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0008-distributed-task-await.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2019-10-16T12:51:30Z",
+      "lastCommit": "2019-10-16T12:51:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe0af0b23c6154dc4e1f69df89c6296e351794b7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0004-distributed-tasks-listing.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2019-10-16T12:51:30Z",
+      "lastCommit": "2019-10-16T12:51:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe0af0b23c6154dc4e1f69df89c6296e351794b7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0006-task-serialization.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2019-10-16T12:51:30Z",
+      "lastCommit": "2019-10-16T12:51:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe0af0b23c6154dc4e1f69df89c6296e351794b7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0017-file-mail-queue-deprecation.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-12-10T02:07:34Z",
+      "lastCommit": "2019-12-10T02:07:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "16265ce86d68dc52e5cf0dc318f2e251e71159c0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0016-distributed-workqueue.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus) Supercedes [3. Distributed WorkQueue](0003-distributed-workqueue.md)",
+      "firstCommit": "2019-12-10T02:06:55Z",
+      "lastCommit": "2019-12-10T02:06:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de105cc63048d7594b3626065d5c1a503afe6f53"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0007-distributed-task-cancellation.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2019-10-16T12:51:30Z",
+      "lastCommit": "2019-10-16T12:51:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe0af0b23c6154dc4e1f69df89c6296e351794b7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0002-make-taskmanager-distributed.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2019-10-16T12:51:30Z",
+      "lastCommit": "2019-10-16T12:51:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe0af0b23c6154dc4e1f69df89c6296e351794b7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0009-disable-elasticsearch-dynamic-mapping.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2019-12-10T02:08:48Z",
+      "lastCommit": "2019-12-10T02:08:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "59d0840bad3cdeb57caa9bae4822733df99eb717"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0013-precompute-jmap-preview.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-25T10:46:31Z",
+      "lastCommit": "2019-12-10T02:10:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "11cc859752560bab52db76c2b3fb57531f40ce4b",
+            "11ed566c7689f9363cb803a61eb9765723b634d2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0011-remove-elasticsearch-document-source.md",
+      "template": "Nygard",
+      "status": "Rejected The benefits do not outweigh the costs.",
+      "firstCommit": "2019-12-10T02:09:17Z",
+      "lastCommit": "2019-12-10T02:09:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38e564b35a44ab739107794e2de4f8b052fd08df"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0003-distributed-workqueue.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus) Superceded by [16. Distributed WorkQueue](0016-distributed-workqueue.md)",
+      "firstCommit": "2019-10-16T12:51:30Z",
+      "lastCommit": "2019-12-10T02:06:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de105cc63048d7594b3626065d5c1a503afe6f53"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe0af0b23c6154dc4e1f69df89c6296e351794b7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-10-16T12:42:44Z",
+      "lastCommit": "2019-10-16T12:42:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e6cf0120435828c768eaaa45dd1aa313d8153491"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-16T12:42:44Z",
+  "lastAdrCommit": "2019-12-10T02:10:20Z",
+  "firstCommit": "2006-09-30T17:19:35Z",
+  "lastCommit": "2021-08-02T17:20:58Z",
+  "adrDirFile": {
+    "fileContent": "src/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "de105cc63048d7594b3626065d5c1a503afe6f53"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "31bbd652c1550f6a6bfad725709d05dff285ad26",
+        "11cc859752560bab52db76c2b3fb57531f40ce4b",
+        "59d0840bad3cdeb57caa9bae4822733df99eb717",
+        "11ed566c7689f9363cb803a61eb9765723b634d2",
+        "38e564b35a44ab739107794e2de4f8b052fd08df",
+        "426e93f9ff4793631d6557b198448e79e7ffd4f7",
+        "16265ce86d68dc52e5cf0dc318f2e251e71159c0"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fe0af0b23c6154dc4e1f69df89c6296e351794b7",
+        "e6cf0120435828c768eaaa45dd1aa313d8153491"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

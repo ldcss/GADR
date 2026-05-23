@@ -1,0 +1,142 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/profiles-db-elastic.git",
+  "crawlDateTime": "2022-01-18T20:48:41.071783",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-docker-image-for-elastic.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-10T09:34:23Z",
+      "lastCommit": "2017-07-11T15:24:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ef010a4f741026baa5de1817ba990d86d7555ea4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcaa3a0c6b1dc3856664fc25f1f7ff5cd12c9222"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-bulk-load-gp-data.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-10T09:34:23Z",
+      "lastCommit": "2017-07-11T15:24:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ef010a4f741026baa5de1817ba990d86d7555ea4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcaa3a0c6b1dc3856664fc25f1f7ff5cd12c9222"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-elastic-co-docker-image.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-10T09:34:23Z",
+      "lastCommit": "2017-07-11T15:24:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ef010a4f741026baa5de1817ba990d86d7555ea4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcaa3a0c6b1dc3856664fc25f1f7ff5cd12c9222"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-10T09:34:23Z",
+      "lastCommit": "2017-07-11T15:24:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ef010a4f741026baa5de1817ba990d86d7555ea4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcaa3a0c6b1dc3856664fc25f1f7ff5cd12c9222"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-10T09:34:23Z",
+  "lastAdrCommit": "2017-07-11T15:24:59Z",
+  "firstCommit": "2017-04-10T12:59:33Z",
+  "lastCommit": "2017-08-04T06:45:28Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ef010a4f741026baa5de1817ba990d86d7555ea4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bcaa3a0c6b1dc3856664fc25f1f7ff5cd12c9222"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

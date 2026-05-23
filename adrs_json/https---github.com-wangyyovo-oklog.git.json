@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/wangyyovo/oklog.git",
+  "crawlDateTime": "2022-01-18T18:37:59.892184",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc",
+      "path": "arch/adr-001-multitenancy.md",
+      "template": "Nygard",
+      "status": "April 3, 2018: Accepted.",
+      "firstCommit": "2020-11-12T13:30:04Z",
+      "lastCommit": "2020-11-12T13:30:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "779d83014106d5bdda25464bde90461ae31ffca4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc",
+      "path": "arch/adr-000-ok-log-as-building-block.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-11-12T13:30:04Z",
+      "lastCommit": "2020-11-12T13:30:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "779d83014106d5bdda25464bde90461ae31ffca4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-12T13:30:04Z",
+  "lastAdrCommit": "2020-11-12T13:30:04Z",
+  "firstCommit": "2020-11-12T13:25:22Z",
+  "lastCommit": "2020-11-12T13:30:04Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "779d83014106d5bdda25464bde90461ae31ffca4"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

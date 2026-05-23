@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/fixcity/fixcity.git",
+  "crawlDateTime": "2022-01-18T21:03:41.375045",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-sys-use-modular-monolith.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-05T18:48:30Z",
+      "lastCommit": "2020-11-05T18:48:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b761a506240b402b136d9a108658b19b30147559"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-sys-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-05T18:48:30Z",
+      "lastCommit": "2020-11-05T18:48:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b761a506240b402b136d9a108658b19b30147559"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-sys-pick-documentation-language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-05T18:48:30Z",
+      "lastCommit": "2020-11-05T18:48:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b761a506240b402b136d9a108658b19b30147559"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-05T18:48:30Z",
+  "lastAdrCommit": "2020-11-05T18:48:30Z",
+  "firstCommit": "2020-09-16T17:59:25Z",
+  "lastCommit": "2020-11-05T18:48:30Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b761a506240b402b136d9a108658b19b30147559"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

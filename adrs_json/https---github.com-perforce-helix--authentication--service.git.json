@@ -1,0 +1,182 @@
+{
+  "repositoryUrl": "https://github.com/perforce/helix-authentication-service.git",
+  "crawlDateTime": "2022-01-18T18:24:29.347562",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-use-memory-store.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-21T21:28:23Z",
+      "lastCommit": "2020-08-21T21:28:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6923d70c7ba92103a0b9b1e4073476beb45a14b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-use-passport-library.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-21T21:28:23Z",
+      "lastCommit": "2020-08-21T21:28:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6923d70c7ba92103a0b9b1e4073476beb45a14b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-javascript-node.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-21T21:28:23Z",
+      "lastCommit": "2020-08-21T21:28:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6923d70c7ba92103a0b9b1e4073476beb45a14b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-use-ecmascript-modules.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-22T18:06:56Z",
+      "lastCommit": "2021-10-22T18:06:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae198980b07f4e3c09127f093bf9fc25f64cd30a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-support-external-store.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-29T21:44:34Z",
+      "lastCommit": "2021-10-12T23:19:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2d52f38a0d7a7ddfa5c0f345b824dbecd5481a2",
+            "174b75e9736ab9304a30738d99f601827cd3c75e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-use-clean-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-21T21:28:23Z",
+      "lastCommit": "2020-08-21T21:28:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6923d70c7ba92103a0b9b1e4073476beb45a14b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-21T21:28:23Z",
+      "lastCommit": "2020-08-21T21:28:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6923d70c7ba92103a0b9b1e4073476beb45a14b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-provide-rest-api.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-21T21:28:23Z",
+      "lastCommit": "2020-08-21T21:28:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6923d70c7ba92103a0b9b1e4073476beb45a14b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-21T21:28:23Z",
+  "lastAdrCommit": "2021-10-22T18:06:56Z",
+  "firstCommit": "2019-02-05T18:24:20Z",
+  "lastCommit": "2022-01-15T07:18:46Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b2d52f38a0d7a7ddfa5c0f345b824dbecd5481a2",
+        "174b75e9736ab9304a30738d99f601827cd3c75e",
+        "6923d70c7ba92103a0b9b1e4073476beb45a14b0",
+        "ae198980b07f4e3c09127f093bf9fc25f64cd30a"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

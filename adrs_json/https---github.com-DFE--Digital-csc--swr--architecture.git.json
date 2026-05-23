@@ -1,0 +1,178 @@
+{
+  "repositoryUrl": "https://github.com/DFE-Digital/csc-swr-architecture.git",
+  "crawlDateTime": "2022-02-07T15:21:11.475112",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "source/decisions/adrs"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "source/decisions/adrs",
+      "path": "000-Record-Architecture-Decisions.html.md.erb",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-01-28T11:05:40Z",
+      "lastCommit": "2021-01-28T11:05:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc8787404da5bf72dd2520b0aa0bd2f18c410ffe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/decisions/adrs",
+      "path": "003-Platform-and-Hosting.html.md.erb",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-01-28T11:05:40Z",
+      "lastCommit": "2021-01-28T11:05:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc8787404da5bf72dd2520b0aa0bd2f18c410ffe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/decisions/adrs",
+      "path": "004-Use-Fake-Data.html.md.erb",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-01-28T11:05:40Z",
+      "lastCommit": "2021-01-28T11:05:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc8787404da5bf72dd2520b0aa0bd2f18c410ffe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/decisions/adrs",
+      "path": "006-Postcode-Lookup.html.md.erb",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-01-28T11:05:40Z",
+      "lastCommit": "2021-01-28T11:05:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc8787404da5bf72dd2520b0aa0bd2f18c410ffe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/decisions/adrs",
+      "path": "007-Integration-Approaches.html.md.erb",
+      "template": "Nygard",
+      "status": "For Review",
+      "firstCommit": "2021-01-28T11:05:40Z",
+      "lastCommit": "2021-01-28T11:05:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc8787404da5bf72dd2520b0aa0bd2f18c410ffe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/decisions/adrs",
+      "path": "001-Use-GitHub-Workflow-for-ADRs.html.md.erb",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-01-28T11:05:40Z",
+      "lastCommit": "2021-01-28T11:05:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc8787404da5bf72dd2520b0aa0bd2f18c410ffe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/decisions/adrs",
+      "path": "002-Progamming-Language-and-Framework.html.md.erb",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-01-28T11:05:40Z",
+      "lastCommit": "2021-01-28T11:05:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc8787404da5bf72dd2520b0aa0bd2f18c410ffe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "source/decisions/adrs",
+      "path": "005-Monolith-First.html.md.erb",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-01-28T11:05:40Z",
+      "lastCommit": "2021-01-28T11:05:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc8787404da5bf72dd2520b0aa0bd2f18c410ffe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-28T11:05:40Z",
+  "lastAdrCommit": "2021-01-28T11:05:40Z",
+  "firstCommit": "2021-01-28T10:43:24Z",
+  "lastCommit": "2021-02-17T17:21:07Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fc8787404da5bf72dd2520b0aa0bd2f18c410ffe"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

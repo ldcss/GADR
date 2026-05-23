@@ -1,0 +1,397 @@
+{
+  "repositoryUrl": "https://github.com/biosustain/Maud.git",
+  "crawlDateTime": "2022-01-18T18:46:05.077769",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 18,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0012-unbabalanced_mets-enzymes-as-priors.md",
+      "template": "Nygard",
+      "status": "In Review",
+      "firstCommit": "2020-10-30T12:12:35Z",
+      "lastCommit": "2020-11-26T10:46:59Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8cf138a032372e9cb11fd27a572bfed18026dc57",
+            "749a43e8ea21baa4439d4454b06e8d4eee1d7c26",
+            "3c2f6bea930610e8edc007111f5e2181f0ed8820"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-gpl.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-03T11:15:38Z",
+      "lastCommit": "2019-10-03T11:15:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3d18b3e0922b7e7f55b477c46c3eea94a02e29d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0017-posterior-predictive-sampling.md",
+      "template": "Nygard",
+      "status": "partially implemented",
+      "firstCommit": "2021-08-31T15:14:53Z",
+      "lastCommit": "2021-11-30T16:12:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "54a902751f2405b4e4138356d3893aa56da1f09e",
+            "fc28cd60c8b72148fa935494c2c0fba99d4b68ec"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0016-validating-measured-fluxes.md",
+      "template": "Nygard",
+      "status": "In Review",
+      "firstCommit": "2021-01-24T14:07:40Z",
+      "lastCommit": "2021-01-29T10:28:40Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "229e83d6aecdfcded6d2610abd9f136143605ee9",
+            "534a638cff0a4342f229263c6b0b330d65693372",
+            "42c1fcd32c5e0f030add70385784e2ba5aedee95"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-version-control-our-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-24T12:30:05Z",
+      "lastCommit": "2019-09-24T12:30:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dd4828a924ceaec87325074d54a35aaeaf0a0b4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-drains.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2020-10-26T10:07:26Z",
+      "lastCommit": "2020-10-30T12:12:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc79f1eb2c89a46d248f753ac391105511d525f6",
+            "f6d110106d33c5bf768495eea4fcde58e6d58e87"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-package-structure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-24T12:30:05Z",
+      "lastCommit": "2019-09-24T12:30:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dd4828a924ceaec87325074d54a35aaeaf0a0b4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0014-phosphorylation-as-mass-action.md",
+      "template": "Nygard",
+      "status": "Draft",
+      "firstCommit": "2020-12-11T15:18:08Z",
+      "lastCommit": "2020-12-14T16:06:39Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dfa90fd179e2d46169921a9c8e5bb841bd60d6d",
+            "420659bab871b4cfa620bf1d45318e4d4f87a4ab"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0018-backwards-differential-solver.md",
+      "template": "Nygard",
+      "status": "In Review",
+      "firstCommit": "2021-11-30T16:12:12Z",
+      "lastCommit": "2021-11-30T16:12:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "54a902751f2405b4e4138356d3893aa56da1f09e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-python-package-versioning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-24T12:30:05Z",
+      "lastCommit": "2019-09-24T12:30:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dd4828a924ceaec87325074d54a35aaeaf0a0b4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-code-quality-assurance.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-24T12:30:05Z",
+      "lastCommit": "2019-09-24T12:30:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dd4828a924ceaec87325074d54a35aaeaf0a0b4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0015-folder-input.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2021-01-20T16:38:12Z",
+      "lastCommit": "2021-01-20T16:38:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a8a34c9c26d6f5a30ee30bcb44999623ef2ec88"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-unit-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-24T12:30:05Z",
+      "lastCommit": "2019-09-24T12:30:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dd4828a924ceaec87325074d54a35aaeaf0a0b4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-python-3-6-only.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-24T12:30:05Z",
+      "lastCommit": "2019-09-24T12:30:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dd4828a924ceaec87325074d54a35aaeaf0a0b4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-code-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-24T12:30:05Z",
+      "lastCommit": "2019-09-24T12:30:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dd4828a924ceaec87325074d54a35aaeaf0a0b4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0013-single-simulation-study.md",
+      "template": "Nygard",
+      "status": "Draft",
+      "firstCommit": "2020-12-11T15:18:08Z",
+      "lastCommit": "2020-12-11T15:18:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dfa90fd179e2d46169921a9c8e5bb841bd60d6d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-24T12:30:05Z",
+      "lastCommit": "2019-09-24T12:30:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0dd4828a924ceaec87325074d54a35aaeaf0a0b4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-modular-rate-law-only.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-05T07:54:01Z",
+      "lastCommit": "2020-02-05T07:54:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8010c215208beb2656cac69ae19b628642571a42"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-09-24T12:30:05Z",
+  "lastAdrCommit": "2021-11-30T16:12:12Z",
+  "firstCommit": "2019-03-11T12:28:53Z",
+  "lastCommit": "2022-01-11T09:50:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8a8a34c9c26d6f5a30ee30bcb44999623ef2ec88",
+        "8010c215208beb2656cac69ae19b628642571a42",
+        "e3d18b3e0922b7e7f55b477c46c3eea94a02e29d",
+        "0dd4828a924ceaec87325074d54a35aaeaf0a0b4"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "229e83d6aecdfcded6d2610abd9f136143605ee9",
+        "8cf138a032372e9cb11fd27a572bfed18026dc57",
+        "bc79f1eb2c89a46d248f753ac391105511d525f6",
+        "54a902751f2405b4e4138356d3893aa56da1f09e",
+        "534a638cff0a4342f229263c6b0b330d65693372",
+        "749a43e8ea21baa4439d4454b06e8d4eee1d7c26",
+        "3c2f6bea930610e8edc007111f5e2181f0ed8820",
+        "6dfa90fd179e2d46169921a9c8e5bb841bd60d6d",
+        "fc28cd60c8b72148fa935494c2c0fba99d4b68ec",
+        "420659bab871b4cfa620bf1d45318e4d4f87a4ab",
+        "42c1fcd32c5e0f030add70385784e2ba5aedee95",
+        "f6d110106d33c5bf768495eea4fcde58e6d58e87"
+      ],
+      "numberOfCommits": 12
+    }
+  ]
+}

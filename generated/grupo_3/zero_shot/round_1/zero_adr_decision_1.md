@@ -1,0 +1,11 @@
+# [ADR-001] Cloud Provider and Container Orchestration Strategy
+- **Status**: Accepted
+- **Context**: The platform requires high availability to operate continuously during gym hours. It must support horizontal scaling to handle fluctuating loads across multiple gyms and ensure fault tolerance so that individual node failures do not cascade. The team must select a cloud provider and a compute orchestration strategy to support these requirements.
+- **Decision**: Utilize Amazon Web Services (AWS) as the primary cloud provider and Amazon Elastic Kubernetes Service (EKS) for container orchestration, leveraging horizontal load balancing to distribute traffic.
+- **Considered Options**:
+  - **Amazon ECS**: Rejected. Although it is the native AWS orchestrator and potentially simpler, the Tech Lead has deep, proven experience with EKS (Kubernetes), reducing operational risk and implementation time.
+  - **Vertical Scaling (Large EC2 instances)**: Rejected. Increasing machine size (vertical scaling) is less cost-effective and provides lower availability compared to horizontally distributing tasks across multiple smaller instances.
+  - **Pure Serverless (AWS Lambda)**: Rejected as the primary compute layer. While offering excellent horizontal scalability and ephemeral execution, utilizing Lambda for all core operations was deemed too costly and unpredictable at high transaction volumes.
+- **Consequences**:
+  - **Pros**: High availability is guaranteed through native Kubernetes horizontal scaling and AWS load balancing. The choice aligns with industry standards and directly leverages the team's existing technical expertise, ensuring faster delivery.
+  - **Cons**: EKS introduces a steeper learning curve for new team members and higher baseline infrastructure costs compared to simpler orchestration tools.

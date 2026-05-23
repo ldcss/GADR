@@ -1,0 +1,124 @@
+{
+  "repositoryUrl": "https://github.com/ctco-dev/inner-source_kotlin_spark_template.git",
+  "crawlDateTime": "2022-01-18T18:55:25.571233",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "20180522-kotlin.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-17T17:17:28Z",
+      "lastCommit": "2018-06-17T17:17:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7897b5f37334ded2420cb29cdc7419b53d3fc642"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "20180617-docker_postgre.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-17T16:27:14Z",
+      "lastCommit": "2018-06-17T16:27:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2868c4a70befeb8e79a890624825c3ddd73e7176"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "20180525-gradle-kotlin.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-17T17:17:28Z",
+      "lastCommit": "2018-06-17T17:17:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7897b5f37334ded2420cb29cdc7419b53d3fc642"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "20180502-spark.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-17T17:17:28Z",
+      "lastCommit": "2018-06-17T17:17:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7897b5f37334ded2420cb29cdc7419b53d3fc642"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "20180617-flyway.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-17T16:27:14Z",
+      "lastCommit": "2018-06-17T16:28:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58e89a7c4780def4065c9be853f42d48af6b8582",
+            "2868c4a70befeb8e79a890624825c3ddd73e7176"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-17T16:27:14Z",
+  "lastAdrCommit": "2018-06-17T17:17:28Z",
+  "firstCommit": "2018-05-01T15:24:13Z",
+  "lastCommit": "2018-07-31T12:10:15Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "58e89a7c4780def4065c9be853f42d48af6b8582",
+        "7897b5f37334ded2420cb29cdc7419b53d3fc642",
+        "2868c4a70befeb8e79a890624825c3ddd73e7176"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

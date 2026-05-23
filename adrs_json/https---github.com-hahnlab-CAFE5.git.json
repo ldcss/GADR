@@ -1,0 +1,152 @@
+{
+  "repositoryUrl": "https://github.com/hahnlab/CAFE5.git",
+  "crawlDateTime": "2022-01-18T19:06:01.934824",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0003-do-not-perturb-lambdas-in-simulations.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-18T13:37:35Z",
+      "lastCommit": "2020-09-18T17:46:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a36879558b90e4c4b35fd863042aa1988ba3f61",
+            "8a78652d3d758508369fd0361bcb67ab6446bdad"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0005-remove_chisquare_option.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-11T16:39:57Z",
+      "lastCommit": "2020-11-11T16:39:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad00b6015ee296ebf259350227af4b2feabf2564"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0004-use_median-rather-than-mean-in-gamma-discretization.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-18T17:46:26Z",
+      "lastCommit": "2020-09-18T17:46:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a36879558b90e4c4b35fd863042aa1988ba3f61"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0002-calculate-prior-from-user-input.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T19:29:16Z",
+      "lastCommit": "2020-09-18T17:46:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a36879558b90e4c4b35fd863042aa1988ba3f61",
+            "f4387cc6f384ecd694d2629de1823b650e05ce7b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0006-calculate_pvalues.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-12T20:49:17Z",
+      "lastCommit": "2021-01-27T15:37:04Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d113b3107e6d4d8070dfe6471f38d8f94b1bc02f",
+            "96c807d89cf8b0807173d8cbc21afc50bbaf72f3",
+            "f9b4295fa7d9881da0ebb13ec6fc3bfab6f8a8a5",
+            "1c9d74e11e7643629946c07ce482455efc75ed2c"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-15T19:29:16Z",
+      "lastCommit": "2020-05-15T19:29:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f4387cc6f384ecd694d2629de1823b650e05ce7b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-15T19:29:16Z",
+  "lastAdrCommit": "2021-01-27T15:37:04Z",
+  "firstCommit": "2017-03-28T20:37:57Z",
+  "lastCommit": "2022-01-14T16:01:22Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3a36879558b90e4c4b35fd863042aa1988ba3f61",
+        "f4387cc6f384ecd694d2629de1823b650e05ce7b",
+        "ad00b6015ee296ebf259350227af4b2feabf2564",
+        "d113b3107e6d4d8070dfe6471f38d8f94b1bc02f",
+        "8a78652d3d758508369fd0361bcb67ab6446bdad",
+        "96c807d89cf8b0807173d8cbc21afc50bbaf72f3",
+        "f9b4295fa7d9881da0ebb13ec6fc3bfab6f8a8a5",
+        "1c9d74e11e7643629946c07ce482455efc75ed2c"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

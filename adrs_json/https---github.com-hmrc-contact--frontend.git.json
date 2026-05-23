@@ -1,0 +1,112 @@
+{
+  "repositoryUrl": "https://github.com/hmrc/contact-frontend.git",
+  "crawlDateTime": "2022-01-18T23:13:47.30428",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-05T09:37:57Z",
+      "lastCommit": "2020-11-05T09:37:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c73c4dd1fd3d8bd2aeb19025441ae1bc8d0eac7b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-remove-login-redirection.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-04-20T13:56:31Z",
+      "lastCommit": "2021-04-20T13:56:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d48ab97d579fb6232b43fa4b4dc87122df6c6194"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-remove-external-deskpro-from-load-test-dependencies.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-16T13:44:04Z",
+      "lastCommit": "2020-11-16T13:44:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7b5d0eca70aa60ac73e195e2a54bf545d2e9244c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-start-all-versions-assets-frontend-jenkins.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-11-10T10:08:00Z",
+      "lastCommit": "2021-11-10T10:08:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "225e534f052119028330d9083f3d639d2e576542"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-05T09:37:57Z",
+  "lastAdrCommit": "2021-11-10T10:08:00Z",
+  "firstCommit": "2014-08-06T16:00:07Z",
+  "lastCommit": "2022-01-18T15:22:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c73c4dd1fd3d8bd2aeb19025441ae1bc8d0eac7b"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "225e534f052119028330d9083f3d639d2e576542",
+        "7b5d0eca70aa60ac73e195e2a54bf545d2e9244c",
+        "d48ab97d579fb6232b43fa4b4dc87122df6c6194"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

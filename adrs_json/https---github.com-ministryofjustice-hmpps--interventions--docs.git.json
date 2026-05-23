@@ -1,0 +1,161 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/hmpps-interventions-docs.git",
+  "crawlDateTime": "2022-01-18T18:17:48.192593",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-decouple-with-events.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-15T16:55:43Z",
+      "lastCommit": "2020-12-15T16:55:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c2eac3b4543941455253aec14465c3b2758a6c5d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-delius-nsis-are-collectors-not-owners.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-04T16:58:49Z",
+      "lastCommit": "2021-11-15T09:52:38Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f0a828ba8482e39ae1a49861300240b6313380d",
+            "a8f69fc7a9f28a57139d8984f954a1990d712baf"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "60809c90afa16e9a9ff97516c80d4fc5d47239c0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-git-commits-to-explain-our-work.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-15T16:55:43Z",
+      "lastCommit": "2020-12-15T16:55:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c2eac3b4543941455253aec14465c3b2758a6c5d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-for-release-prioritise-consistency-over-availability.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-06-03T23:49:04Z",
+      "lastCommit": "2021-06-03T23:49:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c559aa9a35c78f64abaa71e01402bfad7405113"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-store-actors-and-time-instead-of-state.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-22T17:05:16Z",
+      "lastCommit": "2021-04-22T17:05:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e2e24a7c12fa2d7a404ed0f2839f8a7ce5bcb2ff"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-split-ui-and-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-15T16:55:43Z",
+      "lastCommit": "2020-12-15T16:55:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c2eac3b4543941455253aec14465c3b2758a6c5d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-15T16:55:43Z",
+  "lastAdrCommit": "2021-11-15T09:52:38Z",
+  "firstCommit": "2020-12-15T16:51:15Z",
+  "lastCommit": "2022-01-05T14:19:26Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c2eac3b4543941455253aec14465c3b2758a6c5d",
+        "8f0a828ba8482e39ae1a49861300240b6313380d",
+        "a8f69fc7a9f28a57139d8984f954a1990d712baf",
+        "e2e24a7c12fa2d7a404ed0f2839f8a7ce5bcb2ff",
+        "0c559aa9a35c78f64abaa71e01402bfad7405113"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "60809c90afa16e9a9ff97516c80d4fc5d47239c0"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

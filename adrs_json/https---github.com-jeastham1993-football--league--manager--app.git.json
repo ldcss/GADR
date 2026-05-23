@@ -1,0 +1,150 @@
+{
+  "repositoryUrl": "https://github.com/jeastham1993/football-league-manager-app.git",
+  "crawlDateTime": "2022-01-18T20:00:15.366356",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0006-event-bus-design.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-26T18:49:16Z",
+      "lastCommit": "2020-01-26T18:49:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cb3826dbf48e1c80c49bfc62d06f0d35b4f34698"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0002-service-design.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-29T11:26:42Z",
+      "lastCommit": "2019-12-29T11:45:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc544d386834bfc55bf07ff1583b088a3642d177",
+            "7bfff8625fdbc693933725149ae152b55f269bdf"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0004-go-kit-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-05T19:54:18Z",
+      "lastCommit": "2020-01-10T21:29:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f4777d46677bdfa79377d497d888f64df84a950",
+            "ba464bc18b1c905295f34c1b2a29f02053e5fa11"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0003-team-service-db-provider.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-31T08:50:36Z",
+      "lastCommit": "2020-01-10T21:29:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f4777d46677bdfa79377d497d888f64df84a950",
+            "451a95b738f8595e5e619f5e45381356111e77b3"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0005-team-service-clean-architecture-design.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-10T21:29:43Z",
+      "lastCommit": "2020-01-10T23:49:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f4777d46677bdfa79377d497d888f64df84a950",
+            "32bed66d4d44b21e2af7bd645171334760494d5b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-29T11:26:42Z",
+      "lastCommit": "2019-12-29T11:26:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7bfff8625fdbc693933725149ae152b55f269bdf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-12-29T11:26:42Z",
+  "lastAdrCommit": "2020-01-26T18:49:16Z",
+  "firstCommit": "2019-12-28T17:20:36Z",
+  "lastCommit": "2020-03-01T00:37:12Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9f4777d46677bdfa79377d497d888f64df84a950",
+        "ba464bc18b1c905295f34c1b2a29f02053e5fa11",
+        "451a95b738f8595e5e619f5e45381356111e77b3",
+        "fc544d386834bfc55bf07ff1583b088a3642d177",
+        "7bfff8625fdbc693933725149ae152b55f269bdf",
+        "cb3826dbf48e1c80c49bfc62d06f0d35b4f34698",
+        "32bed66d4d44b21e2af7bd645171334760494d5b"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "repositoryUrl": "https://github.com/EBIBioSamples/biosamples-v4.git",
+  "crawlDateTime": "2022-01-18T17:47:45.581928",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-release-and-update-date.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-17T11:42:56Z",
+      "lastCommit": "2019-01-17T11:42:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "550b0e3ce6926c99f8477d3dc9a2b499d0cbfd32"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-new-release-process.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-24T11:09:19Z",
+      "lastCommit": "2018-10-24T11:09:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c72c2adc6868c25b1de8844713bba87989019d1e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-have-taxid-attribute-at-top-level.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-23T08:34:39Z",
+      "lastCommit": "2018-10-23T08:34:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3c955a32a75ca039c35ab8abd24b72fd6f4e149e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-inverse-relationships-sample-update.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-31T10:33:35Z",
+      "lastCommit": "2018-10-31T10:33:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a977d421fb32388b8e82bcc1bfee2b73dec8e27"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-submitting-the-same-sample-twice.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-17T11:42:56Z",
+      "lastCommit": "2019-01-17T11:42:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "550b0e3ce6926c99f8477d3dc9a2b499d0cbfd32"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-10-19T14:57:52Z",
+      "lastCommit": "2018-10-23T08:34:39Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3c955a32a75ca039c35ab8abd24b72fd6f4e149e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c40e4fdaed226d58b459526914e55000f229d86b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-10-19T14:57:52Z",
+  "lastAdrCommit": "2019-01-17T11:42:56Z",
+  "firstCommit": "2016-05-24T09:54:56Z",
+  "lastCommit": "2022-01-11T16:29:23Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5a977d421fb32388b8e82bcc1bfee2b73dec8e27",
+        "c72c2adc6868c25b1de8844713bba87989019d1e"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "550b0e3ce6926c99f8477d3dc9a2b499d0cbfd32"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3c955a32a75ca039c35ab8abd24b72fd6f4e149e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c40e4fdaed226d58b459526914e55000f229d86b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

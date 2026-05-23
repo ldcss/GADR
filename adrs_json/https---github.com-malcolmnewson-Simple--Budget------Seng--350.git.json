@@ -1,0 +1,168 @@
+{
+  "repositoryUrl": "https://github.com/malcolmnewson/Simple-Budget---Seng-350.git",
+  "crawlDateTime": "2022-01-18T19:09:44.305656",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/M2"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/M2",
+      "path": "adr-update-with-local-data.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-10-12T23:58:59Z",
+      "lastCommit": "2019-10-13T19:05:09Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "36f8003c4c1d3b578d3da4f40d4f26d3f3411bea",
+            "24f64461dccb1413ca1e96499f43f7d5bdd485ae"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0b491447799904a6e9c5dfcc264ff84b4ae674dc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "811cb4495cfe90ea30e563a8ccde392166dd5f4f",
+            "642e16ce90d70724fce0722c11be09835f3ce726"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/M2",
+      "path": "adr-storage-layer-dao.md",
+      "template": "Nygard",
+      "status": "Proposed.",
+      "firstCommit": "2019-10-12T23:16:17Z",
+      "lastCommit": "2019-10-13T19:06:28Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d0e7efe2713aa1381bdf255454629c3d05fac64a",
+            "a8fe391404d2a68164743e8a462335c12808beb6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "435db4f4b28171eea1f868601eaa23f6195c9eb1",
+            "77939901cbfb4830540677d3fbcadc7d44d4565e"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d8abd6ba346c0ca9244643fe416622c2501ba655",
+            "b7b0beffb5ecdfd424309b61ce120c4e308ad086",
+            "4afd6e772ccd95a19247a8df60c427a9db397f15",
+            "8d67e81c132b30d40d21a4ba59ad64f5d2fd7ba2"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/M2",
+      "path": "adr-impliment-postman-testing.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-10-13T00:14:09Z",
+      "lastCommit": "2019-10-14T00:25:12Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "36f8003c4c1d3b578d3da4f40d4f26d3f3411bea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8235d5fc7d00b3a37e48477d5df03ed9d132af68"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c44b6e6f4acdac1e16b97b363e7ce83d595a40eb",
+            "821c747fb83d4eccebcf2de66b42c4a999e33c3f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-12T23:16:17Z",
+  "lastAdrCommit": "2019-10-14T00:25:12Z",
+  "firstCommit": "2019-09-12T23:11:34Z",
+  "lastCommit": "2021-09-22T02:01:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "36f8003c4c1d3b578d3da4f40d4f26d3f3411bea",
+        "d0e7efe2713aa1381bdf255454629c3d05fac64a",
+        "a8fe391404d2a68164743e8a462335c12808beb6",
+        "24f64461dccb1413ca1e96499f43f7d5bdd485ae"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "435db4f4b28171eea1f868601eaa23f6195c9eb1",
+        "0b491447799904a6e9c5dfcc264ff84b4ae674dc",
+        "77939901cbfb4830540677d3fbcadc7d44d4565e",
+        "8235d5fc7d00b3a37e48477d5df03ed9d132af68"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "811cb4495cfe90ea30e563a8ccde392166dd5f4f",
+        "d8abd6ba346c0ca9244643fe416622c2501ba655",
+        "b7b0beffb5ecdfd424309b61ce120c4e308ad086",
+        "4afd6e772ccd95a19247a8df60c427a9db397f15",
+        "c44b6e6f4acdac1e16b97b363e7ce83d595a40eb",
+        "8d67e81c132b30d40d21a4ba59ad64f5d2fd7ba2",
+        "642e16ce90d70724fce0722c11be09835f3ce726",
+        "821c747fb83d4eccebcf2de66b42c4a999e33c3f"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "repositoryUrl": "https://github.com/BMMRO-tech/BMMRO.git",
+  "crawlDateTime": "2022-01-18T23:15:03.063661",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architectural-decision-records"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "architectural-decision-records",
+      "path": "2020-08-03_date_and_time_fields.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-03T15:35:54Z",
+      "lastCommit": "2020-08-05T16:39:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8b5dfb2308e01030f800ed4931fa5e76cf99e50a",
+            "343405a7b9aa2631b73861c1fbf8a30306c6acc2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architectural-decision-records",
+      "path": "2020-07-14_deployment_strategy.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-28T14:01:59Z",
+      "lastCommit": "2020-07-29T13:17:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a933717c279fed874c006b2449eb96c2acfa4ff2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77cbd81f921eef2d892132da369c2ccaec03a032"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architectural-decision-records",
+      "path": "2019-11-20_webapp.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-29T13:17:29Z",
+      "lastCommit": "2020-07-29T13:58:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de811a82adea3ba91d55bc888f29d95fd44d7bb6"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77cbd81f921eef2d892132da369c2ccaec03a032"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architectural-decision-records",
+      "path": "2019-11-20_firebase.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-28T14:01:59Z",
+      "lastCommit": "2020-07-29T13:17:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "106b23f281f6c232fcdd0c9a9f737b505927f803"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77cbd81f921eef2d892132da369c2ccaec03a032"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architectural-decision-records",
+      "path": "2019-11-20_firestore.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-28T12:34:35Z",
+      "lastCommit": "2020-07-29T13:17:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2932886bde6848c60d86f3f3c25409bdc29fda22"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77cbd81f921eef2d892132da369c2ccaec03a032"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-28T12:34:35Z",
+  "lastAdrCommit": "2020-08-05T16:39:49Z",
+  "firstCommit": "2020-04-17T09:37:51Z",
+  "lastCommit": "2022-01-15T18:38:13Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a933717c279fed874c006b2449eb96c2acfa4ff2",
+        "106b23f281f6c232fcdd0c9a9f737b505927f803",
+        "de811a82adea3ba91d55bc888f29d95fd44d7bb6",
+        "2932886bde6848c60d86f3f3c25409bdc29fda22"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "77cbd81f921eef2d892132da369c2ccaec03a032"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8b5dfb2308e01030f800ed4931fa5e76cf99e50a",
+        "343405a7b9aa2631b73861c1fbf8a30306c6acc2"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

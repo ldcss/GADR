@@ -1,0 +1,144 @@
+{
+  "repositoryUrl": "https://github.com/agemmell/banking-cqrs-es-go.git",
+  "crawlDateTime": "2022-01-18T19:38:28.338325",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-adr-tools-to-manage-the-adrs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-30T04:06:29Z",
+      "lastCommit": "2020-06-30T04:06:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c3cfb9cf0a881b265d5aa23010c017e217f1db3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-drive-development-with-tdd.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-30T04:06:46Z",
+      "lastCommit": "2020-06-30T04:06:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "850b62ced17372f1891def3e883996089aa1ec8a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-avoid-short-variable-names.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-30T04:07:05Z",
+      "lastCommit": "2020-11-30T18:54:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "578f40ccc18815d04ff1160d654f6874bda6009f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c43132d9e15338f33426018aca1f9de3a770b2a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-explore-using-oop-and-ddd-with-go.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-30T04:06:55Z",
+      "lastCommit": "2020-06-30T04:06:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a4ae8807560441a94bb1ec61fa5dff0e15730b8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-30T04:06:10Z",
+      "lastCommit": "2020-06-30T04:06:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "920e79d3998349457816727d71c0cbcda51b100e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-30T04:06:10Z",
+  "lastAdrCommit": "2020-11-30T18:54:02Z",
+  "firstCommit": "2020-06-13T01:57:25Z",
+  "lastCommit": "2020-11-30T18:54:02Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5c43132d9e15338f33426018aca1f9de3a770b2a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5c3cfb9cf0a881b265d5aa23010c017e217f1db3",
+        "850b62ced17372f1891def3e883996089aa1ec8a",
+        "1a4ae8807560441a94bb1ec61fa5dff0e15730b8",
+        "578f40ccc18815d04ff1160d654f6874bda6009f",
+        "920e79d3998349457816727d71c0cbcda51b100e"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

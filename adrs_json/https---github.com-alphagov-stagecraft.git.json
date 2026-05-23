@@ -1,0 +1,61 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/stagecraft.git",
+  "crawlDateTime": "2022-01-18T22:55:18.115577",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001-security.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2015-09-02T09:45:17Z",
+      "lastCommit": "2015-09-17T20:54:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f3d87210e13ce8adbdaffdee6bf45c8e30c0c0a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "23519d93205aeaaa31306695ae5eb8e2397e0459"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2015-09-02T09:45:17Z",
+  "lastAdrCommit": "2015-09-17T20:54:46Z",
+  "firstCommit": "2013-10-03T11:10:22Z",
+  "lastCommit": "2019-07-23T09:48:31Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7f3d87210e13ce8adbdaffdee6bf45c8e30c0c0a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "23519d93205aeaaa31306695ae5eb8e2397e0459"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

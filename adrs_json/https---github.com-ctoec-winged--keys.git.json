@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/ctoec/winged-keys.git",
+  "crawlDateTime": "2022-01-18T17:45:30.369751",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/configuration"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/configuration",
+      "path": "2020_01_07_custom-multi-env.md",
+      "template": "Nygard",
+      "status": "* Proposed * __Accepted__ * Rejected * Superceded * Accepted (Partially superceded)",
+      "firstCommit": "2020-01-08T13:35:09Z",
+      "lastCommit": "2020-01-08T13:35:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76104860b0781c4bb80603188da5077225031159"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-08T13:35:09Z",
+  "lastAdrCommit": "2020-01-08T13:35:09Z",
+  "firstCommit": "2019-10-24T21:13:25Z",
+  "lastCommit": "2021-10-23T01:50:53Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "76104860b0781c4bb80603188da5077225031159"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

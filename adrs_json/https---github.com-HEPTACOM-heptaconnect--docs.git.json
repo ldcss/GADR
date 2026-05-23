@@ -1,0 +1,294 @@
+{
+  "repositoryUrl": "https://github.com/HEPTACOM/heptaconnect-docs.git",
+  "crawlDateTime": "2022-01-18T19:28:30.491264",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/reference/adr"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/reference/adr",
+      "path": "2020-01-27-telemetry-recording.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-23T18:38:39Z",
+      "lastCommit": "2022-01-11T02:32:27Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6e45dd875971ff4294efff3462f3eaca85f0642",
+            "851dbf5ee8f0a3fd18e964dfaf61066426718efb",
+            "06733af2f4f1b76570f7220d340be47ca1a8eb30"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/reference/adr",
+      "path": "2021-10-30-route-capabilities.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-07T11:46:28Z",
+      "lastCommit": "2021-11-07T11:46:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0f94d65580e03243263c7ff620bff9e797b5dc07"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/reference/adr",
+      "path": "2021-09-25-optimized-storage-actions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-07T11:46:28Z",
+      "lastCommit": "2021-11-22T22:59:41Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb98c3e7df56e5fc8a6dd2adb5fba889799cd582",
+            "0f94d65580e03243263c7ff620bff9e797b5dc07"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/reference/adr",
+      "path": "2020-08-28-parallelization-locks.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-23T18:38:39Z",
+      "lastCommit": "2021-08-03T08:59:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6e45dd875971ff4294efff3462f3eaca85f0642",
+            "851dbf5ee8f0a3fd18e964dfaf61066426718efb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/reference/adr",
+      "path": "2021-02-03-direct-emission-exploration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-23T18:38:39Z",
+      "lastCommit": "2021-08-03T15:48:58Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6e45dd875971ff4294efff3462f3eaca85f0642",
+            "851dbf5ee8f0a3fd18e964dfaf61066426718efb",
+            "fc597d4bf0d5fa4e7bf5084b87de66666127c567"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/reference/adr",
+      "path": "2021-10-29-flow-components-are-not-crud.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2022-01-07T01:30:40Z",
+      "lastCommit": "2022-01-08T16:01:27Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "86ad1b5bd63a1f87ce0d5406c6c26d08ffb3baa7",
+            "df90d1f7546ca469a9279f09e2ccb49612626215"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/reference/adr",
+      "path": "2020-12-10-portal-service-container.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-23T18:38:39Z",
+      "lastCommit": "2021-08-03T08:59:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6e45dd875971ff4294efff3462f3eaca85f0642",
+            "851dbf5ee8f0a3fd18e964dfaf61066426718efb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/reference/adr",
+      "path": "2020-10-30-job-messages-and-payload.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-23T18:38:39Z",
+      "lastCommit": "2021-08-03T08:59:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6e45dd875971ff4294efff3462f3eaca85f0642",
+            "851dbf5ee8f0a3fd18e964dfaf61066426718efb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/reference/adr",
+      "path": "2020-08-10-architecture-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-23T18:38:39Z",
+      "lastCommit": "2021-08-03T08:59:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6e45dd875971ff4294efff3462f3eaca85f0642",
+            "851dbf5ee8f0a3fd18e964dfaf61066426718efb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/reference/adr",
+      "path": "2020-04-30-contracts-and-interfaces.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-23T18:38:39Z",
+      "lastCommit": "2021-08-03T08:59:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6e45dd875971ff4294efff3462f3eaca85f0642",
+            "851dbf5ee8f0a3fd18e964dfaf61066426718efb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/reference/adr",
+      "path": "2021-04-13-portal-dependency-injection-implementation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-23T18:38:39Z",
+      "lastCommit": "2021-08-03T08:59:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6e45dd875971ff4294efff3462f3eaca85f0642",
+            "851dbf5ee8f0a3fd18e964dfaf61066426718efb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/reference/adr",
+      "path": "2021-06-17-flow-component-short-notation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-23T18:38:39Z",
+      "lastCommit": "2021-08-03T08:59:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6e45dd875971ff4294efff3462f3eaca85f0642",
+            "851dbf5ee8f0a3fd18e964dfaf61066426718efb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/reference/adr",
+      "path": "2020-10-15-portal-status-reporters.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-23T18:38:39Z",
+      "lastCommit": "2021-08-03T08:59:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6e45dd875971ff4294efff3462f3eaca85f0642",
+            "851dbf5ee8f0a3fd18e964dfaf61066426718efb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-07-23T18:38:39Z",
+  "lastAdrCommit": "2022-01-11T02:32:27Z",
+  "firstCommit": "2020-05-01T21:57:29Z",
+  "lastCommit": "2022-01-11T09:53:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "eb98c3e7df56e5fc8a6dd2adb5fba889799cd582",
+        "b6e45dd875971ff4294efff3462f3eaca85f0642",
+        "851dbf5ee8f0a3fd18e964dfaf61066426718efb",
+        "0f94d65580e03243263c7ff620bff9e797b5dc07",
+        "fc597d4bf0d5fa4e7bf5084b87de66666127c567",
+        "86ad1b5bd63a1f87ce0d5406c6c26d08ffb3baa7",
+        "06733af2f4f1b76570f7220d340be47ca1a8eb30",
+        "df90d1f7546ca469a9279f09e2ccb49612626215"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

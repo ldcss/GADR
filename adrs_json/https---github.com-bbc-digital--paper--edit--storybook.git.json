@@ -1,0 +1,98 @@
+{
+  "repositoryUrl": "https://github.com/bbc/digital-paper-edit-storybook.git",
+  "crawlDateTime": "2022-01-18T21:23:21.913616",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/ADR"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "adr-28-08.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-08-28T12:54:25Z",
+      "lastCommit": "2019-10-12T07:22:11Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a82cb9028d6672d74c0ceb3265a1f9913b6de94"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d2f0b87335ab8acc604e21afbcc24bdaa3384df5",
+            "5d3be33c8a90f07c219f93fc88cc5ac76c761945"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "reason-09-11.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2019-09-12T16:25:23Z",
+      "lastCommit": "2019-10-12T07:22:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a82cb9028d6672d74c0ceb3265a1f9913b6de94"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9755e2c62343decf05ec87b9c7d85678d58e2186"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-28T12:54:25Z",
+  "lastAdrCommit": "2019-10-12T07:22:11Z",
+  "firstCommit": "2019-07-01T19:08:44Z",
+  "lastCommit": "2021-09-21T18:28:02Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5a82cb9028d6672d74c0ceb3265a1f9913b6de94"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d2f0b87335ab8acc604e21afbcc24bdaa3384df5",
+        "5d3be33c8a90f07c219f93fc88cc5ac76c761945"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9755e2c62343decf05ec87b9c7d85678d58e2186"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

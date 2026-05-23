@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/ksch-workflows/openmrs-java-client.git",
+  "crawlDateTime": "2022-01-18T19:43:19.681392",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-rest-client-for-access-on-the-openmrs-api.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-07-08T19:24:39Z",
+      "lastCommit": "2017-07-08T19:24:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8500932140b9bbf6d2f46f3822af80e15050d32"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-08T19:24:39Z",
+      "lastCommit": "2017-07-08T19:24:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8500932140b9bbf6d2f46f3822af80e15050d32"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-08T19:24:39Z",
+  "lastAdrCommit": "2017-07-08T19:24:39Z",
+  "firstCommit": "2017-07-01T07:12:00Z",
+  "lastCommit": "2017-10-31T15:45:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f8500932140b9bbf6d2f46f3822af80e15050d32"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

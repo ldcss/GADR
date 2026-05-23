@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/FoodStandardsAgency/register-a-food-business-service.git",
+  "crawlDateTime": "2022-01-18T19:43:32.110961",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/LADR/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/LADR/decisions",
+      "path": "0002-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-05T10:05:15Z",
+      "lastCommit": "2018-11-05T10:05:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a32c611ffceec7789fb8a1d4b496f61b57d8d86"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/LADR/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-05T10:05:15Z",
+      "lastCommit": "2018-11-05T10:05:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a32c611ffceec7789fb8a1d4b496f61b57d8d86"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-11-05T10:05:15Z",
+  "lastAdrCommit": "2018-11-05T10:05:15Z",
+  "firstCommit": "2018-05-16T08:58:08Z",
+  "lastCommit": "2022-01-13T14:52:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1a32c611ffceec7789fb8a1d4b496f61b57d8d86"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

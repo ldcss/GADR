@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/BrighterCommand/Brighter.git",
+  "crawlDateTime": "2022-01-18T23:00:57.367762",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-a-single-threaded-message-pump.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-04T19:59:37Z",
+      "lastCommit": "2019-08-04T19:59:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e57a8f589047d5fcb0f3ff73308a9a6511031cb9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-04T19:59:37Z",
+      "lastCommit": "2019-08-04T19:59:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e57a8f589047d5fcb0f3ff73308a9a6511031cb9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-04T19:59:37Z",
+  "lastAdrCommit": "2019-08-04T19:59:37Z",
+  "firstCommit": "2011-01-05T19:40:17Z",
+  "lastCommit": "2022-01-17T17:01:25Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e57a8f589047d5fcb0f3ff73308a9a6511031cb9"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

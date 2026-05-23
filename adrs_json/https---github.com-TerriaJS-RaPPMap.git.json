@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/TerriaJS/RaPPMap.git",
+  "crawlDateTime": "2022-01-18T19:07:22.91771",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture",
+      "path": "0000-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-12T05:52:04Z",
+      "lastCommit": "2020-06-12T05:52:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ddf62958a5cb21fd22034cd156bb0fb5d0cc030c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture",
+      "path": "0001-npm-lockfiles.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-12T05:52:04Z",
+      "lastCommit": "2020-06-12T05:52:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ddf62958a5cb21fd22034cd156bb0fb5d0cc030c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-12T05:52:04Z",
+  "lastAdrCommit": "2020-06-12T05:52:04Z",
+  "firstCommit": "2014-02-25T06:30:13Z",
+  "lastCommit": "2021-09-06T07:01:40Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ddf62958a5cb21fd22034cd156bb0fb5d0cc030c"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

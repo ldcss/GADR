@@ -1,0 +1,12 @@
+senior 1: 7 anos de experiência. Conhece, mas nunca usou ADRs.
+
+extracted decisions:
+- A gente decidiu que vai ter a fila de mensagens no observador do servidor (broker) (ADD)
+- comunicaçao assíncrona que utiliza um mini buffer para acoes dos jogadores (ADD)
+- Client site prediction em contexto de client-server (com as sugestões) ADD
+- A Event Pooling  (ADD, design pattern)
+- UDP como protocolo pra comunicação (ADD)
+
+Justificativa: gostou da ferramenta, tem grande poder te aprendizado devido ao enriquecimento de detalhes, mas ainda precisa de supervisão para validar a ADR e, caso seja necessário, ajustar.
+Usa uma ferramenta que faz algo parecido, chamada TLDV, que tras insights em tempo real de chamadas. 
+Gostou da proposta de ADRs serem padrodinzadas e um artefato.

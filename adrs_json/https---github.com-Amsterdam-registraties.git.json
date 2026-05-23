@@ -1,0 +1,102 @@
+{
+  "repositoryUrl": "https://github.com/Amsterdam/registraties.git",
+  "crawlDateTime": "2022-01-18T22:55:08.849957",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "004-prevent-saga-name-clashes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-21T11:39:05Z",
+      "lastCommit": "2019-06-21T11:39:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e394d15f4f9a2d17d0b39f3c0df3adf77c73efcf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-use-existing-apis.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-21T11:39:05Z",
+      "lastCommit": "2019-06-21T11:39:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e394d15f4f9a2d17d0b39f3c0df3adf77c73efcf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "003-translations.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-21T11:39:05Z",
+      "lastCommit": "2019-06-21T11:39:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e394d15f4f9a2d17d0b39f3c0df3adf77c73efcf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "002-use-styled-components.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-21T11:39:05Z",
+      "lastCommit": "2019-06-21T11:39:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e394d15f4f9a2d17d0b39f3c0df3adf77c73efcf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-06-21T11:39:05Z",
+  "lastAdrCommit": "2019-06-21T11:39:05Z",
+  "firstCommit": "2015-02-18T14:31:56Z",
+  "lastCommit": "2021-09-02T18:06:24Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e394d15f4f9a2d17d0b39f3c0df3adf77c73efcf"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

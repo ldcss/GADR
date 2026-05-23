@@ -1,0 +1,264 @@
+{
+  "repositoryUrl": "https://github.com/tsobe/lobiani.git",
+  "crawlDateTime": "2022-01-18T20:08:28.814359",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-develop-main-frontend-shopping-as-a-separate-ssr-app.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-31T21:42:01Z",
+      "lastCommit": "2021-03-31T21:42:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a9c24d1a38fb75b1d4b000d704f895282ee57d16"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-ddd-tactical-design-patterns.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-10T18:37:56Z",
+      "lastCommit": "2021-01-10T18:37:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aaebc329f3847f144fc78730d9ea04308ca8c6de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-use-events-as-communication-mechanism-between-modules.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-11T15:52:55Z",
+      "lastCommit": "2021-03-31T21:48:29Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1cad444d459209e41260ea2983baf6e5cd37d348",
+            "96a719aac8fb3bcc14073beca99741412d4512fd",
+            "c3416010647384cf716cea01ec85e8f7351c4c53"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-start-with-modular-monolith-backend.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-08T17:56:40Z",
+      "lastCommit": "2021-03-31T21:48:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "10150a70477fae76cdef9931d658e748e9165062",
+            "c3416010647384cf716cea01ec85e8f7351c4c53"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-use-cqrs-architectural-style.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-09T20:36:54Z",
+      "lastCommit": "2021-03-31T21:48:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9514e36cbb474214da22c2595dd36e46f8124281",
+            "c3416010647384cf716cea01ec85e8f7351c4c53"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-accept-coupling-with-spring-boot-in-backend.md",
+      "template": "Nygard",
+      "status": "Accepted Also see [8. Use AxonFramework in backend](0008-use-axonframework-in-backend.md)",
+      "firstCommit": "2021-01-09T17:44:18Z",
+      "lastCommit": "2021-03-31T21:48:29Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3017408927fbf2eb13298608a3691b5df087375e",
+            "96a719aac8fb3bcc14073beca99741412d4512fd",
+            "c3416010647384cf716cea01ec85e8f7351c4c53",
+            "64d3611d0ade4f092bb4aa8cb096da3d62ee9342"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-jvm-for-backend.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-09T17:42:27Z",
+      "lastCommit": "2021-01-09T17:42:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dca55080f94c1bb31ed3a315f17bf935f9defb23"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-use-axonframework-in-backend.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-11T15:52:55Z",
+      "lastCommit": "2021-01-12T23:03:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1cad444d459209e41260ea2983baf6e5cd37d348",
+            "96a719aac8fb3bcc14073beca99741412d4512fd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-develop-admin-tool-as-spa.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-12T17:53:12Z",
+      "lastCommit": "2021-03-31T21:48:29Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c354af61e0cb2fa6b55975d78fff82187254f5bf",
+            "59c777dd23f5b2bb1c8f13773659f3ce4d9a6b8a",
+            "1cad444d459209e41260ea2983baf6e5cd37d348",
+            "a5ac21d0d3a2117edba8a3f41d82c1c1df555fbf",
+            "c3416010647384cf716cea01ec85e8f7351c4c53",
+            "4a467e10ce2428d04aad3dc2cdf7c3d95be6a5e2"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-default-to-synchronous-command-handling-in-admin.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-01T21:16:01Z",
+      "lastCommit": "2021-03-31T21:48:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3416010647384cf716cea01ec85e8f7351c4c53",
+            "b1a2d393810442a2d587fa873aef571713ee4609"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-20T15:31:22Z",
+      "lastCommit": "2020-12-20T15:31:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e0acb370758c035e4c5ca99f7e53b6a4d830d3c3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-20T15:31:22Z",
+  "lastAdrCommit": "2021-03-31T21:48:29Z",
+  "firstCommit": "2018-10-10T20:39:02Z",
+  "lastCommit": "2022-01-17T21:21:17Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c354af61e0cb2fa6b55975d78fff82187254f5bf",
+        "10150a70477fae76cdef9931d658e748e9165062",
+        "a9c24d1a38fb75b1d4b000d704f895282ee57d16",
+        "96a719aac8fb3bcc14073beca99741412d4512fd",
+        "dca55080f94c1bb31ed3a315f17bf935f9defb23",
+        "aaebc329f3847f144fc78730d9ea04308ca8c6de",
+        "c3416010647384cf716cea01ec85e8f7351c4c53",
+        "4a467e10ce2428d04aad3dc2cdf7c3d95be6a5e2",
+        "64d3611d0ade4f092bb4aa8cb096da3d62ee9342",
+        "b1a2d393810442a2d587fa873aef571713ee4609",
+        "3017408927fbf2eb13298608a3691b5df087375e",
+        "1cad444d459209e41260ea2983baf6e5cd37d348",
+        "59c777dd23f5b2bb1c8f13773659f3ce4d9a6b8a",
+        "e0acb370758c035e4c5ca99f7e53b6a4d830d3c3",
+        "9514e36cbb474214da22c2595dd36e46f8124281",
+        "a5ac21d0d3a2117edba8a3f41d82c1c1df555fbf"
+      ],
+      "numberOfCommits": 16
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "repositoryUrl": "https://github.com/davidaayers/ea-talk.git",
+  "crawlDateTime": "2022-01-18T19:52:07.091925",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "example-adrs"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "example-adrs",
+      "path": "0008-define-appropriate-schema-types.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-11T16:21:30Z",
+      "lastCommit": "2019-10-11T16:21:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a3deb170ad8a1ed08ed9f9c127a61f3fcaee0e0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "example-adrs",
+      "path": "0005-version-numbers.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-11T16:21:30Z",
+      "lastCommit": "2019-10-11T16:21:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a3deb170ad8a1ed08ed9f9c127a61f3fcaee0e0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "example-adrs",
+      "path": "0001-use-markdown-for-adrs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-30T01:13:04Z",
+      "lastCommit": "2019-10-11T16:21:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a3deb170ad8a1ed08ed9f9c127a61f3fcaee0e0",
+            "9751ccf17064253a4fa82e9414217393efc5e8d3"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "example-adrs",
+      "path": "0018-secret-paths.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-11T16:21:30Z",
+      "lastCommit": "2019-10-11T16:21:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a3deb170ad8a1ed08ed9f9c127a61f3fcaee0e0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-30T01:13:04Z",
+  "lastAdrCommit": "2019-10-11T16:21:30Z",
+  "firstCommit": "2018-07-30T01:13:04Z",
+  "lastCommit": "2019-10-11T16:26:58Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3a3deb170ad8a1ed08ed9f9c127a61f3fcaee0e0",
+        "9751ccf17064253a4fa82e9414217393efc5e8d3"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

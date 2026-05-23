@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/court-hearing-event-receiver.git",
+  "crawlDateTime": "2022-01-18T21:09:53.368584",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-10-04T10:44:34Z",
+      "lastCommit": "2021-10-04T10:44:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1337856aa14f490320bb63d7427b3a2ffd90df68"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-store-incoming-payloads-to-s3.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-10-04T10:44:34Z",
+      "lastCommit": "2021-10-04T10:44:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1337856aa14f490320bb63d7427b3a2ffd90df68"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-10-04T10:44:34Z",
+  "lastAdrCommit": "2021-10-04T10:44:34Z",
+  "firstCommit": "2021-06-16T12:45:15Z",
+  "lastCommit": "2022-01-18T14:10:38Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1337856aa14f490320bb63d7427b3a2ffd90df68"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

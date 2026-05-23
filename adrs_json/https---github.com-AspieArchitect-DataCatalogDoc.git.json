@@ -1,0 +1,138 @@
+{
+  "repositoryUrl": "https://github.com/AspieArchitect/DataCatalogDoc.git",
+  "crawlDateTime": "2022-01-18T19:01:22.068849",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "DecisionRegister"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "DecisionRegister",
+      "path": "decision_004.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-17T22:59:17Z",
+      "lastCommit": "2020-12-17T22:59:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe688c5173fbb4e6feebf3a6f1b2abde326c0029"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "DecisionRegister",
+      "path": "decision_001.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-11T21:24:25Z",
+      "lastCommit": "2020-12-17T22:59:17Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "69645f234834a58cd806a3a17ef082b2ff282b4c",
+            "cb79eaad65319c3c980d7168baabe45a4ffcb936"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe688c5173fbb4e6feebf3a6f1b2abde326c0029"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "DecisionRegister",
+      "path": "decision_003.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-11T21:24:25Z",
+      "lastCommit": "2020-12-17T22:59:17Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "69645f234834a58cd806a3a17ef082b2ff282b4c",
+            "cb79eaad65319c3c980d7168baabe45a4ffcb936"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe688c5173fbb4e6feebf3a6f1b2abde326c0029"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "DecisionRegister",
+      "path": "decision_002.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-11T21:24:25Z",
+      "lastCommit": "2020-12-17T22:59:17Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "69645f234834a58cd806a3a17ef082b2ff282b4c",
+            "cb79eaad65319c3c980d7168baabe45a4ffcb936"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe688c5173fbb4e6feebf3a6f1b2abde326c0029"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-11T21:24:25Z",
+  "lastAdrCommit": "2020-12-17T22:59:17Z",
+  "firstCommit": "2020-04-05T17:36:12Z",
+  "lastCommit": "2021-02-24T20:47:28Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "69645f234834a58cd806a3a17ef082b2ff282b4c",
+        "cb79eaad65319c3c980d7168baabe45a4ffcb936"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fe688c5173fbb4e6feebf3a6f1b2abde326c0029"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "repositoryUrl": "https://github.com/applicaster/x-ray.git",
+  "crawlDateTime": "2022-01-18T21:16:20.377795",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "003-sink-filters.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2020-06-30T16:04:50Z",
+      "lastCommit": "2020-07-01T16:25:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bbde5501a47b7bf79b72e780deb109d2d3c7ab13",
+            "7fa18e785d9ddd77011bd7df5fe5dd5f46634ee9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-logger.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2020-06-26T14:47:26Z",
+      "lastCommit": "2020-06-30T16:04:50Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01f8e9a0f80851a232ab1559021d7b9d87800593",
+            "d469b598d2e265b58baadd5bc7465f8b30139064",
+            "4174fcf4af8a439e47eb1e8036e93465dda1a047",
+            "e91614987478581622251ca25ed5c4611be7a3d6",
+            "0fba7a074fde49424d2e8f9c21ab2457601a4aec",
+            "45573e7ae32bcead0fc35d7bf13c7bdee367938e"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "002-event-data-mapping.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2020-06-26T16:53:17Z",
+      "lastCommit": "2020-06-26T17:23:41Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0594defad84de0461fbc873ca06ad8e03d062981",
+            "45573e7ae32bcead0fc35d7bf13c7bdee367938e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-26T14:47:26Z",
+  "lastAdrCommit": "2020-07-01T16:25:40Z",
+  "firstCommit": "2020-06-26T14:29:37Z",
+  "lastCommit": "2022-01-05T08:12:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "01f8e9a0f80851a232ab1559021d7b9d87800593",
+        "d469b598d2e265b58baadd5bc7465f8b30139064",
+        "4174fcf4af8a439e47eb1e8036e93465dda1a047",
+        "e91614987478581622251ca25ed5c4611be7a3d6",
+        "0594defad84de0461fbc873ca06ad8e03d062981",
+        "bbde5501a47b7bf79b72e780deb109d2d3c7ab13",
+        "0fba7a074fde49424d2e8f9c21ab2457601a4aec",
+        "45573e7ae32bcead0fc35d7bf13c7bdee367938e",
+        "7fa18e785d9ddd77011bd7df5fe5dd5f46634ee9"
+      ],
+      "numberOfCommits": 9
+    }
+  ]
+}

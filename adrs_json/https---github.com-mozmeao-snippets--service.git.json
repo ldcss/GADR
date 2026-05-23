@@ -1,0 +1,189 @@
+{
+  "repositoryUrl": "https://github.com/mozmeao/snippets-service.git",
+  "crawlDateTime": "2022-01-18T18:41:01.130814",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-convert-templates-to-database-models.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-26T10:05:21Z",
+      "lastCommit": "2019-03-26T10:05:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8c06a23282a70d56d72aa4c34a0b1fa89fc55c09"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-stop-exporting-analytics-to-csv.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-16T12:28:18Z",
+      "lastCommit": "2020-01-16T12:28:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72caeb7c1a8ade2637051d4aafb0a0908290f29c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-move-channel-targeting-to-browser.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-12T11:40:11Z",
+      "lastCommit": "2020-11-12T11:40:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a9c72d60ff2d81199308f3ec1c769836750d0cb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-simple-redirect-to-bundle-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-26T07:06:48Z",
+      "lastCommit": "2020-11-26T07:06:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f48274fafe66b9d4cc6de419064fb3c54efb07d7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-export-asrsnippet-metadata-for-snippet-metrics-processing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-05T14:21:58Z",
+      "lastCommit": "2019-03-05T14:21:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "690ef6f29be53dd08725346bd9e2db019aa12329"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-frequency-capping.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-24T11:39:04Z",
+      "lastCommit": "2020-01-24T11:39:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f2a8b76760198199bd0392aa07126e51e1ce987b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-26T08:20:27Z",
+      "lastCommit": "2019-02-26T08:20:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76fbb85f8d7f1cec56ed37797539eac96c76c78f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-release-jobs-in-nightly-bundles.md",
+      "template": "Nygard",
+      "status": "Replaced by ADR 0007.",
+      "firstCommit": "2020-03-31T12:22:34Z",
+      "lastCommit": "2020-11-12T11:40:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0b21c4cf75e1642ef4fbd468deb0aa4f0aafb3f",
+            "a9c72d60ff2d81199308f3ec1c769836750d0cb6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-26T08:20:27Z",
+  "lastAdrCommit": "2020-11-26T07:06:48Z",
+  "firstCommit": "2010-12-15T23:31:13Z",
+  "lastCommit": "2022-01-17T13:14:17Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f48274fafe66b9d4cc6de419064fb3c54efb07d7",
+        "8c06a23282a70d56d72aa4c34a0b1fa89fc55c09",
+        "72caeb7c1a8ade2637051d4aafb0a0908290f29c",
+        "c0b21c4cf75e1642ef4fbd468deb0aa4f0aafb3f",
+        "690ef6f29be53dd08725346bd9e2db019aa12329",
+        "76fbb85f8d7f1cec56ed37797539eac96c76c78f",
+        "a9c72d60ff2d81199308f3ec1c769836750d0cb6",
+        "f2a8b76760198199bd0392aa07126e51e1ce987b"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

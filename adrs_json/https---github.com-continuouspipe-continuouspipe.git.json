@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/continuouspipe/continuouspipe.git",
+  "crawlDateTime": "2022-01-18T20:50:36.767355",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "api/doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "api/doc/adr",
+      "path": "0002-store-the-new-tide-projections-into-firebase.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-12-13T22:06:56Z",
+      "lastCommit": "2016-12-13T22:06:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f21ad03479dd3552ab59755a22b30435eb87b3f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "api/doc/adr",
+      "path": "0003-merge-the-builder-micro-service-within-river.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-28T15:04:54Z",
+      "lastCommit": "2017-09-28T15:04:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "466fc2dcaf36d89157f40c0e7c0c9766590fd3ee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "api/doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-12-13T22:06:40Z",
+      "lastCommit": "2016-12-13T22:06:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0b43c96a6fd9238457db014dbe1e9faaac720fd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-12-13T22:06:40Z",
+  "lastAdrCommit": "2017-09-28T15:04:54Z",
+  "firstCommit": "2015-06-21T22:59:45Z",
+  "lastCommit": "2021-05-04T21:16:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "466fc2dcaf36d89157f40c0e7c0c9766590fd3ee",
+        "1f21ad03479dd3552ab59755a22b30435eb87b3f",
+        "b0b43c96a6fd9238457db014dbe1e9faaac720fd"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

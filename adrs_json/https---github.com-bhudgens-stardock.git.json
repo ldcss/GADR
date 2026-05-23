@@ -1,0 +1,49 @@
+{
+  "repositoryUrl": "https://github.com/bhudgens/stardock.git",
+  "crawlDateTime": "2022-01-18T20:48:54.26046",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    ".adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": ".adr",
+      "path": "single_ecr_repo_vs_many.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-21T11:46:29Z",
+      "lastCommit": "2019-02-21T11:50:11Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f18665f8ea06f29cee6a0d065531751b2a1e419b",
+            "f523d319752c27b154c41b0aef011b39b8c72dd6",
+            "08992690cd410c987ddb3012cc3e34a8f352cdf5"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-21T11:46:29Z",
+  "lastAdrCommit": "2019-02-21T11:50:11Z",
+  "firstCommit": "2019-01-25T18:34:55Z",
+  "lastCommit": "2019-09-12T09:30:28Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f18665f8ea06f29cee6a0d065531751b2a1e419b",
+        "f523d319752c27b154c41b0aef011b39b8c72dd6",
+        "08992690cd410c987ddb3012cc3e34a8f352cdf5"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

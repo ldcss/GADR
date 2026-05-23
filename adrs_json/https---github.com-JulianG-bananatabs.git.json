@@ -1,0 +1,132 @@
+{
+  "repositoryUrl": "https://github.com/JulianG/bananatabs.git",
+  "crawlDateTime": "2022-01-18T21:02:22.738169",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-react-testing-library.md",
+      "template": "Nygard",
+      "status": "Superceded by [3. testing-model-in-DOM-integration-tests](0003-testing-model-in-dom-integration-tests.md)",
+      "firstCommit": "2019-02-08T06:36:18Z",
+      "lastCommit": "2019-05-09T12:59:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8a01c621b442258495c66dd74b040245f219fed",
+            "85127aac8dd25ffc00ee11b1c84c45771acd0593"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-using-react-context.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-07T20:55:50Z",
+      "lastCommit": "2019-07-07T23:11:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c33c6aef568957e4c600eb3c600b54d84b83051d",
+            "8dc51503311107b782ec12261b7757df794b0d77",
+            "2817853b0927b40e39ed4e4fd2fdbc5f80232a1c"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-testing-model-in-dom-integration-tests.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [2. Using react-testing-library](0002-react-testing-library.md)",
+      "firstCommit": "2019-02-08T06:36:18Z",
+      "lastCommit": "2019-05-09T12:59:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8a01c621b442258495c66dd74b040245f219fed",
+            "85127aac8dd25ffc00ee11b1c84c45771acd0593"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2019-05-09T12:59:34Z",
+      "lastCommit": "2019-06-10T13:01:18Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "85127aac8dd25ffc00ee11b1c84c45771acd0593",
+            "0d41af319b28d9772a612a241d5b91de7777ddaa"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-using-environment-variable-instead-of-config-singleton.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-19T21:29:25Z",
+      "lastCommit": "2019-07-19T21:29:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a5b89366e5603b6ce768f098b73518d38e834c50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-08T06:36:18Z",
+  "lastAdrCommit": "2019-07-19T21:29:25Z",
+  "firstCommit": "2018-03-16T18:29:03Z",
+  "lastCommit": "2022-01-13T16:00:48Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b8a01c621b442258495c66dd74b040245f219fed",
+        "c33c6aef568957e4c600eb3c600b54d84b83051d",
+        "85127aac8dd25ffc00ee11b1c84c45771acd0593",
+        "a5b89366e5603b6ce768f098b73518d38e834c50",
+        "8dc51503311107b782ec12261b7757df794b0d77",
+        "0d41af319b28d9772a612a241d5b91de7777ddaa",
+        "2817853b0927b40e39ed4e4fd2fdbc5f80232a1c"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

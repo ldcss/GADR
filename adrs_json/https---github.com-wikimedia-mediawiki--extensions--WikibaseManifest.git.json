@@ -1,0 +1,107 @@
+{
+  "repositoryUrl": "https://github.com/wikimedia/mediawiki-extensions-WikibaseManifest.git",
+  "crawlDateTime": "2022-01-18T18:55:01.359338",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000_deliver_as_extension.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-09-01T07:56:23Z",
+      "lastCommit": "2020-09-01T07:56:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "651790023d80a143997b66391bb9d2af94813e95"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002_use_open_api_spec.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-09-01T08:52:10Z",
+      "lastCommit": "2020-09-01T08:52:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de9afec1c39853535ed4c9c78b9dff8f5bb8c3de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001_use_mediawiki_rest_api.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-09-01T08:52:02Z",
+      "lastCommit": "2020-09-01T08:52:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "baf56e487d9ed4b3e1a6bd9218e9ad2116c09660"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003_represent_lack_of_value.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-10-08T10:07:04Z",
+      "lastCommit": "2020-10-08T13:47:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "82768b4c336ad715748dec26282d009f34e3c87a",
+            "f884290bae3ca04f366c2d979f54c0d632bb7c76"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-01T07:56:23Z",
+  "lastAdrCommit": "2020-10-08T13:47:36Z",
+  "firstCommit": "2020-04-14T14:34:35Z",
+  "lastCommit": "2022-01-14T20:26:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "baf56e487d9ed4b3e1a6bd9218e9ad2116c09660",
+        "82768b4c336ad715748dec26282d009f34e3c87a",
+        "651790023d80a143997b66391bb9d2af94813e95",
+        "de9afec1c39853535ed4c9c78b9dff8f5bb8c3de",
+        "f884290bae3ca04f366c2d979f54c0d632bb7c76"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

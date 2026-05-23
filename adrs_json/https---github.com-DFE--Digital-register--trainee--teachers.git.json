@@ -1,0 +1,168 @@
+{
+  "repositoryUrl": "https://github.com/DFE-Digital/register-trainee-teachers.git",
+  "crawlDateTime": "2022-01-18T21:04:48.457718",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-store-invalid-data-in-a-column-against-applyapplication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-26T16:53:20Z",
+      "lastCommit": "2021-07-26T16:53:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab2925c9a31e6f7ca4b0f7460972641858ff0110"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-connections-to-dttp-dynamics.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-23T23:51:38Z",
+      "lastCommit": "2020-11-23T23:51:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "99aa4cd4e1ae4634780292a4e0c332a92fa73f68"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-academic-cycles.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-11-24T08:47:10Z",
+      "lastCommit": "2021-11-24T08:47:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89583959c0e129a42715a65ae77a26dbcac3b0af"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-adr-tools-with-custom-template.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-23T23:50:25Z",
+      "lastCommit": "2020-11-23T23:50:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "59531ac89b30f9eb7cb186bd63af14d41708f699"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-non-integer-trainee-ids.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-06T09:45:30Z",
+      "lastCommit": "2021-04-06T09:45:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb19ae3a9d20a0ba8eb68ef370f0e617032e1def"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-23T23:50:25Z",
+      "lastCommit": "2020-11-23T23:50:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "59531ac89b30f9eb7cb186bd63af14d41708f699"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-23T23:50:25Z",
+  "lastAdrCommit": "2021-11-24T08:47:10Z",
+  "firstCommit": "2020-08-13T15:12:46Z",
+  "lastCommit": "2022-01-18T17:28:02Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "89583959c0e129a42715a65ae77a26dbcac3b0af"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "99aa4cd4e1ae4634780292a4e0c332a92fa73f68",
+        "59531ac89b30f9eb7cb186bd63af14d41708f699"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "eb19ae3a9d20a0ba8eb68ef370f0e617032e1def"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ab2925c9a31e6f7ca4b0f7460972641858ff0110"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

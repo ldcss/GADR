@@ -1,0 +1,508 @@
+{
+  "repositoryUrl": "https://github.com/simpledotorg/simple-android.git",
+  "crawlDateTime": "2022-01-18T21:27:36.311401",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "009-mdc-migration.md",
+      "template": "Nygard",
+      "status": "Accepted on 2020-04-16",
+      "firstCommit": "2020-04-20T13:32:15Z",
+      "lastCommit": "2021-09-09T10:21:10Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8b22b2c66dafe2ef355c83668420d8274041886"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8d40fe1b57c11e28ffa5cb46a80f9cb13cb244dd",
+            "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322",
+            "fa49679eca92499611a4e01e7d9c39aab260fe14"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "012-sql-performance-profiling.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-07T10:32:38Z",
+      "lastCommit": "2021-09-09T10:21:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a72c5f7ea8d42521e4eb068bb393f139c187996b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "003-weak-references-between-sql-tables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T11:24:12Z",
+      "lastCommit": "2021-09-09T10:21:10Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1812858d55cc3f92018486562bb2511ea65ae6a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c020bf7f93d11aa0ce7ebe32faf206f0b1e948e0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "004-app-as-the-single-source-of-truth.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T11:24:12Z",
+      "lastCommit": "2021-09-09T10:21:10Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77af77484653dfe2e490efdaec5fd9fd0e541650"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c020bf7f93d11aa0ce7ebe32faf206f0b1e948e0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "008-screen-architecture-v3.md",
+      "template": "Nygard",
+      "status": "Accepted (Supersedes [001](./001-screen-controllers.md), [007](./007-screen-architecture-v2.md)) on 2019-10-01",
+      "firstCommit": "2020-03-04T06:31:56Z",
+      "lastCommit": "2021-09-09T10:21:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0bb3139dada4f34206928ec81f1e5f6f056134b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "001-screen-controllers.md",
+      "template": "Nygard",
+      "status": "Superceded by [008](./008-screen-architecture-v3.md) on 2019-10-01",
+      "firstCommit": "2019-03-07T08:06:43Z",
+      "lastCommit": "2021-09-09T10:21:10Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8aa2b7a8c13611420b1852054d267faf870f37fe",
+            "017fa126a9732527ae16113b822164f4d1a9be03",
+            "0b72177bffa90fb67662834fd4c24a99740f109c"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0bb3139dada4f34206928ec81f1e5f6f056134b",
+            "c020bf7f93d11aa0ce7ebe32faf206f0b1e948e0"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "006-forward-compatibility-for-enums.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-30T06:58:33Z",
+      "lastCommit": "2021-09-09T10:21:10Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c020bf7f93d11aa0ce7ebe32faf206f0b1e948e0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee5ea5da8d3949f5e99cc088a027e26ab9242f4e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "010-dagger-qualifier-migration.md",
+      "template": "Nygard",
+      "status": "Accepted on 2020-08-05",
+      "firstCommit": "2020-08-06T11:10:26Z",
+      "lastCommit": "2021-09-09T10:21:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc113fb63be6305a69f2819c481ae1ba2ea20f0b",
+            "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "002-bottom-sheets.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-14T10:13:01Z",
+      "lastCommit": "2021-09-09T10:21:10Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "017fa126a9732527ae16113b822164f4d1a9be03",
+            "373175a41c20d31bc3f946b1604ddbd0fe7badcb"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c020bf7f93d11aa0ce7ebe32faf206f0b1e948e0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3bd82387775d049f283a9d5e2fcf54d1463934c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "013-sql-performance-profiling-v2.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-07T10:32:38Z",
+      "lastCommit": "2021-09-09T10:21:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a72c5f7ea8d42521e4eb068bb393f139c187996b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "011-screen-navigation-v2.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-13T07:35:22Z",
+      "lastCommit": "2021-09-09T10:21:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3bd82387775d049f283a9d5e2fcf54d1463934c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "005-single-activity-view-based-navigation.md",
+      "template": "Nygard",
+      "status": "Superceded by [011](./011-screen-navigation-v2.md) on 2020-01-12.",
+      "firstCommit": "2019-04-09T11:19:16Z",
+      "lastCommit": "2021-09-09T10:21:10Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c020bf7f93d11aa0ce7ebe32faf206f0b1e948e0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52216d9f42cbcfc48e90d3af1041860d13dd8cf8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3bd82387775d049f283a9d5e2fcf54d1463934c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "007-screen-architecture-v2.md",
+      "template": "Nygard",
+      "status": "Superceded by [008](./008-screen-architecture-v3.md) on 2019-10-01",
+      "firstCommit": "2019-12-06T09:17:42Z",
+      "lastCommit": "2021-09-09T10:21:10Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0bb3139dada4f34206928ec81f1e5f6f056134b",
+            "c020bf7f93d11aa0ce7ebe32faf206f0b1e948e0"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ace9741b28b4441ff127077aaa4713fde8d0ab21"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-07T08:06:43Z",
+  "lastAdrCommit": "2021-09-09T10:21:10Z",
+  "firstCommit": "2018-05-07T20:56:54Z",
+  "lastCommit": "2022-01-18T18:39:34Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f8b22b2c66dafe2ef355c83668420d8274041886"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dc113fb63be6305a69f2819c481ae1ba2ea20f0b",
+        "8d40fe1b57c11e28ffa5cb46a80f9cb13cb244dd",
+        "41aca283d3fb9adb48ef6dbed22ad55c6fd6e322",
+        "fa49679eca92499611a4e01e7d9c39aab260fe14"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c0bb3139dada4f34206928ec81f1e5f6f056134b",
+        "c020bf7f93d11aa0ce7ebe32faf206f0b1e948e0"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1812858d55cc3f92018486562bb2511ea65ae6a2",
+        "8aa2b7a8c13611420b1852054d267faf870f37fe",
+        "017fa126a9732527ae16113b822164f4d1a9be03",
+        "373175a41c20d31bc3f946b1604ddbd0fe7badcb",
+        "77af77484653dfe2e490efdaec5fd9fd0e541650",
+        "0b72177bffa90fb67662834fd4c24a99740f109c"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ee5ea5da8d3949f5e99cc088a027e26ab9242f4e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "52216d9f42cbcfc48e90d3af1041860d13dd8cf8",
+        "ace9741b28b4441ff127077aaa4713fde8d0ab21"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e3bd82387775d049f283a9d5e2fcf54d1463934c",
+        "a72c5f7ea8d42521e4eb068bb393f139c187996b"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

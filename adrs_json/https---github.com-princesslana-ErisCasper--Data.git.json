@@ -1,0 +1,106 @@
+{
+  "repositoryUrl": "https://github.com/princesslana/ErisCasper-Data.git",
+  "crawlDateTime": "2022-01-18T17:33:11.471198",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-002.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-18T00:17:39Z",
+      "lastCommit": "2018-06-23T02:44:22Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2bad0e885950e46dc346501c5528b0977daea2de",
+            "540bebebb7a01bb2e008210dae63d2c4c003760d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-003.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-18T01:06:56Z",
+      "lastCommit": "2018-06-18T01:08:22Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "363231b6982b3c837f49b91859851b73ea18ba8d",
+            "bf7d7d60b5ed2c2e688c8fc1395e55e1424adbdc"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-001.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-18T00:01:55Z",
+      "lastCommit": "2018-06-23T16:19:18Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf37b596e836b38d86de4390d8f37185cdeeab12",
+            "b64d0eac4fc364c384d8c1e0a4112d2fb3e7b53a",
+            "cd9bbfebeecc73d3268bc1b13d44d19b8e876197",
+            "4f473da05537496125a8d877f7396262b9d9fcc0",
+            "2140ce11154ca3b899974b4335002aa53000021f",
+            "4180c8106912d02db8a70ec91645fb43892b1832"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-18T00:01:55Z",
+  "lastAdrCommit": "2018-06-23T16:19:18Z",
+  "firstCommit": "2018-03-31T02:46:58Z",
+  "lastCommit": "2018-07-04T01:02:07Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2bad0e885950e46dc346501c5528b0977daea2de",
+        "cf37b596e836b38d86de4390d8f37185cdeeab12",
+        "b64d0eac4fc364c384d8c1e0a4112d2fb3e7b53a",
+        "540bebebb7a01bb2e008210dae63d2c4c003760d",
+        "cd9bbfebeecc73d3268bc1b13d44d19b8e876197",
+        "4f473da05537496125a8d877f7396262b9d9fcc0",
+        "2140ce11154ca3b899974b4335002aa53000021f",
+        "4180c8106912d02db8a70ec91645fb43892b1832"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "363231b6982b3c837f49b91859851b73ea18ba8d",
+        "bf7d7d60b5ed2c2e688c8fc1395e55e1424adbdc"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

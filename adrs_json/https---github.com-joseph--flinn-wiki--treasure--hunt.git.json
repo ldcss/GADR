@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/joseph-flinn/wiki-treasure-hunt.git",
+  "crawlDateTime": "2022-01-18T21:11:57.750871",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "001-hosting.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2021-01-09T21:39:15Z",
+      "lastCommit": "2021-01-09T21:39:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9155be021aeb8c203c2d2c8e0471109cb20e82c6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "002-saved-data.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2021-01-09T21:39:15Z",
+      "lastCommit": "2021-01-09T21:39:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9155be021aeb8c203c2d2c8e0471109cb20e82c6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-09T21:39:15Z",
+  "lastAdrCommit": "2021-01-09T21:39:15Z",
+  "firstCommit": "2020-12-30T06:19:25Z",
+  "lastCommit": "2022-01-15T04:35:45Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9155be021aeb8c203c2d2c8e0471109cb20e82c6"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

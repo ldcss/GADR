@@ -1,0 +1,268 @@
+{
+  "repositoryUrl": "https://github.com/alexanderbird/where-away.git",
+  "crawlDateTime": "2022-01-18T18:34:29.855516",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-minimize-the-amount-of-code-that-must-be-tested-in-the-browser.md",
+      "template": "Nygard",
+      "status": "Accepted Extended By [6. Let the build step generate config for the client code](0006-let-the-build-step-generate-config-for-the-client-code.md)",
+      "firstCommit": "2020-11-07T07:51:49Z",
+      "lastCommit": "2020-11-07T09:22:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b140b671e4b01d10b1e08328b43131a58cfd574f",
+            "42ff72401892490aa0b8761c5ceb0ebe8d2a3550"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-test-with-jest.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-07T07:16:48Z",
+      "lastCommit": "2020-11-07T07:16:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "98e20b9057aec9a849571867a8a6d86196cffd66"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-use-a-different-html-parser-for-testing.md",
+      "template": "Nygard",
+      "status": "Accepted Relates To [9. use xml for bookmarks format](0009-use-xml-for-bookmarks-format.md)",
+      "firstCommit": "2020-11-15T05:33:18Z",
+      "lastCommit": "2020-11-15T05:33:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c9435c59f42d8e2690923e05b7d2ffb0194867d5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-perform-end-to-end-testing-with-puppeteer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-07T19:27:50Z",
+      "lastCommit": "2020-11-07T19:27:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1912fc96b62cd6997540d694194749b58c786cf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-name-the-project-where-away.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-07T06:55:02Z",
+      "lastCommit": "2020-11-07T06:55:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb9eb0d43f26c7fda7095e34c41d14984c97b286"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-let-the-build-step-generate-config-for-the-client-code.md",
+      "template": "Nygard",
+      "status": "Accepted Extends [5. Minimize the amount of code that must be tested in the browser](0005-minimize-the-amount-of-code-that-must-be-tested-in-the-browser.md)",
+      "firstCommit": "2020-11-07T09:22:08Z",
+      "lastCommit": "2020-11-07T09:22:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "42ff72401892490aa0b8761c5ceb0ebe8d2a3550"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-render-buttons-instead-of-anchor-elements-for-link-nodes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-15T20:17:15Z",
+      "lastCommit": "2020-11-15T20:17:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c058a3d273c840b8767a22e40325d979b6c7d697"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-use-xml-for-bookmarks-format.md",
+      "template": "Nygard",
+      "status": "Accepted Relates To [10. use a different html parser for testing](0010-use-a-different-html-parser-for-testing.md)",
+      "firstCommit": "2020-11-13T05:27:29Z",
+      "lastCommit": "2020-11-15T05:33:18Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c9435c59f42d8e2690923e05b7d2ffb0194867d5",
+            "c0cd048b96178ee9cb3cf49ddfc03511424045b8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0012-provide-a-mechanism-for-adding-custom-html-for-the-header-footer-and-head.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-16T04:39:15Z",
+      "lastCommit": "2020-11-16T04:39:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6f70bbe6dcb2dee9a96c763e99911b3b418ed240"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-output-a-single-html-file.md",
+      "template": "Nygard",
+      "status": "Accepted Extended By [8. use pug to render the final html](0008-use-pug-to-render-the-final-html.md)",
+      "firstCommit": "2020-11-07T07:07:09Z",
+      "lastCommit": "2020-11-09T17:30:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d8595396be364ccfc3abeb284d247dd1aaa0df07",
+            "2aeaba19a21a5d94114f3204dae821d6db92ba08"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-07T06:55:02Z",
+      "lastCommit": "2020-11-07T06:55:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ccd29b09b1ce775df0334c452e35eb731a1317b9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-use-pug-to-render-the-final-html.md",
+      "template": "Nygard",
+      "status": "Accepted Extends [3. output a single html file](0003-output-a-single-html-file.md)",
+      "firstCommit": "2020-11-09T17:30:21Z",
+      "lastCommit": "2020-11-09T17:30:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2aeaba19a21a5d94114f3204dae821d6db92ba08"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-07T06:55:02Z",
+  "lastAdrCommit": "2020-11-16T04:39:15Z",
+  "firstCommit": "2020-11-07T06:54:24Z",
+  "lastCommit": "2020-11-25T07:29:25Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bb9eb0d43f26c7fda7095e34c41d14984c97b286",
+        "c9435c59f42d8e2690923e05b7d2ffb0194867d5",
+        "6f70bbe6dcb2dee9a96c763e99911b3b418ed240",
+        "c058a3d273c840b8767a22e40325d979b6c7d697",
+        "98e20b9057aec9a849571867a8a6d86196cffd66",
+        "e1912fc96b62cd6997540d694194749b58c786cf",
+        "b140b671e4b01d10b1e08328b43131a58cfd574f",
+        "c0cd048b96178ee9cb3cf49ddfc03511424045b8",
+        "d8595396be364ccfc3abeb284d247dd1aaa0df07",
+        "42ff72401892490aa0b8761c5ceb0ebe8d2a3550",
+        "2aeaba19a21a5d94114f3204dae821d6db92ba08",
+        "ccd29b09b1ce775df0334c452e35eb731a1317b9"
+      ],
+      "numberOfCommits": 12
+    }
+  ]
+}

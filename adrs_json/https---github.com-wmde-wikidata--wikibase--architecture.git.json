@@ -1,0 +1,291 @@
+{
+  "repositoryUrl": "https://github.com/wmde/wikidata-wikibase-architecture.git",
+  "crawlDateTime": "2022-01-18T19:07:21.002761",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decisions"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "client-repo-split.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-16T16:11:52Z",
+      "lastCommit": "2021-08-05T17:33:37Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2004242758745ce38ca8c0a22b5737bbd97a767"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9faa21185e336e5bb5ff7b43971044c363633d32",
+            "6377380eb19ea0220e969f6c4031d8ab89a58758"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d727e1d76c8545ade37057cb78614bc631dd1cba",
+            "4ca12d44525c9e9f692074a53653edca9bd8dd53"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c1ee0a074fab68edb58363d013ea03012948a90"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "building-block-diagrams.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-12T14:39:56Z",
+      "lastCommit": "2021-08-06T13:00:41Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f6d5d78536706a992068e279e218f9bf17d01161"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1841e1886b4054a1b672e7b45c09d3ab756073cd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "client-repo-mediawiki.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-25T11:29:24Z",
+      "lastCommit": "2021-08-06T13:00:41Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2004242758745ce38ca8c0a22b5737bbd97a767"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6377380eb19ea0220e969f6c4031d8ab89a58758",
+            "1841e1886b4054a1b672e7b45c09d3ab756073cd"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1340ce023131efa617fe883206837f7e68931c9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d727e1d76c8545ade37057cb78614bc631dd1cba"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "single-concepts-section.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-15T16:14:01Z",
+      "lastCommit": "2021-02-15T16:14:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "145dd53778dfee1adfab99651bcb3677318b7fc1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "single-glossary.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-15T08:52:25Z",
+      "lastCommit": "2021-02-15T08:52:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1d9d68765b5443454c5c5681a244bbe204349718"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "using-arc42.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-09T16:37:07Z",
+      "lastCommit": "2021-12-06T08:47:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "df61af010855853f85b7bf41170b0c6cedde51d1",
+            "2e4f94f041a4b03dffc10cc27f7ca635a69b674e"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2fd120b5cd73968639c1ac19f2794ae16efb53dc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "usecase-scope.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-16T16:11:52Z",
+      "lastCommit": "2021-01-18T14:10:07Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9faa21185e336e5bb5ff7b43971044c363633d32"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ca12d44525c9e9f692074a53653edca9bd8dd53"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c1ee0a074fab68edb58363d013ea03012948a90"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-16T16:11:52Z",
+  "lastAdrCommit": "2021-12-06T08:47:54Z",
+  "firstCommit": "2020-11-12T12:13:04Z",
+  "lastCommit": "2022-01-18T00:22:52Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f6d5d78536706a992068e279e218f9bf17d01161",
+        "b2004242758745ce38ca8c0a22b5737bbd97a767"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9faa21185e336e5bb5ff7b43971044c363633d32",
+        "df61af010855853f85b7bf41170b0c6cedde51d1",
+        "2e4f94f041a4b03dffc10cc27f7ca635a69b674e",
+        "6377380eb19ea0220e969f6c4031d8ab89a58758",
+        "1841e1886b4054a1b672e7b45c09d3ab756073cd"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2fd120b5cd73968639c1ac19f2794ae16efb53dc"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d1340ce023131efa617fe883206837f7e68931c9"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d727e1d76c8545ade37057cb78614bc631dd1cba",
+        "4ca12d44525c9e9f692074a53653edca9bd8dd53",
+        "1d9d68765b5443454c5c5681a244bbe204349718"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9c1ee0a074fab68edb58363d013ea03012948a90",
+        "145dd53778dfee1adfab99651bcb3677318b7fc1"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/pago/reactive.git",
+  "crawlDateTime": "2022-01-18T23:17:19.969082",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-subscription-controller.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-24T14:43:50Z",
+      "lastCommit": "2020-11-24T14:43:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d6443c1643a807e4c19d65752fdd1c078f77c99a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-no-readable.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-25T07:30:34Z",
+      "lastCommit": "2020-11-25T07:30:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c07e995c36a00b3be34627f0a6d255277be906ac"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-24T14:43:50Z",
+  "lastAdrCommit": "2020-11-25T07:30:34Z",
+  "firstCommit": "2020-11-21T16:09:09Z",
+  "lastCommit": "2020-11-27T16:41:25Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d6443c1643a807e4c19d65752fdd1c078f77c99a",
+        "c07e995c36a00b3be34627f0a6d255277be906ac"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

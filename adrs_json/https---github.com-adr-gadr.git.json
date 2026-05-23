@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/adr/gadr.git",
+  "crawlDateTime": "2022-01-18T22:57:53.253332",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-gadr-as-name.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-03-21T21:10:51Z",
+      "lastCommit": "2019-03-21T21:10:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ecfbca32968802aff38ba804bf0af51b383f59c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-03-21T21:10:51Z",
+      "lastCommit": "2019-03-21T21:10:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ecfbca32968802aff38ba804bf0af51b383f59c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-21T21:10:51Z",
+  "lastAdrCommit": "2019-03-21T21:10:51Z",
+  "firstCommit": "2019-02-10T23:30:01Z",
+  "lastCommit": "2019-03-31T15:31:35Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6ecfbca32968802aff38ba804bf0af51b383f59c"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

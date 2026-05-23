@@ -1,0 +1,152 @@
+{
+  "repositoryUrl": "https://github.com/cafebabel/cafebabel.com.git",
+  "crawlDateTime": "2022-01-18T20:59:05.573661",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-choose-an-orm.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-02T13:55:58Z",
+      "lastCommit": "2017-11-02T18:39:31Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f7fa6c4406a180a4639d4631f9844661acaca6de",
+            "4a7845d4d9ee5a916979afba7d761dd1efff1809",
+            "76bc4d44b592d59eb86dc2b44d7e49e58c4906ca"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-deal-with-authentication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-02T13:55:58Z",
+      "lastCommit": "2017-11-02T13:55:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76bc4d44b592d59eb86dc2b44d7e49e58c4906ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-deal-with-translations.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-14T22:32:37Z",
+      "lastCommit": "2017-11-14T22:32:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e856ec81a280e003ed00ad5e50aee56068a12a4c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-tags.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-11T02:38:10Z",
+      "lastCommit": "2018-01-11T02:38:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1ee379e4515496c8c0b50d9f13135b3b34da0c3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-flask-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-04T22:42:54Z",
+      "lastCommit": "2017-12-06T13:54:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9afda5e8bd76840a2fdbbf9f0a1a9f8f0956224b",
+            "4704147d074879d3eda6f08dbe584cca976533eb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-02T13:55:58Z",
+      "lastCommit": "2017-11-02T13:55:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76bc4d44b592d59eb86dc2b44d7e49e58c4906ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-11-02T13:55:58Z",
+  "lastAdrCommit": "2018-01-11T02:38:10Z",
+  "firstCommit": "2017-10-02T16:51:32Z",
+  "lastCommit": "2021-03-25T14:40:05Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f7fa6c4406a180a4639d4631f9844661acaca6de",
+        "b1ee379e4515496c8c0b50d9f13135b3b34da0c3",
+        "4a7845d4d9ee5a916979afba7d761dd1efff1809",
+        "9afda5e8bd76840a2fdbbf9f0a1a9f8f0956224b",
+        "e856ec81a280e003ed00ad5e50aee56068a12a4c",
+        "76bc4d44b592d59eb86dc2b44d7e49e58c4906ca",
+        "4704147d074879d3eda6f08dbe584cca976533eb"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

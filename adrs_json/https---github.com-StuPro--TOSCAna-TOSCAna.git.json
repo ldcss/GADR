@@ -1,0 +1,670 @@
+{
+  "repositoryUrl": "https://github.com/StuPro-TOSCAna/TOSCAna.git",
+  "crawlDateTime": "2022-01-18T19:56:49.641805",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/dev/adr"
+  ],
+  "numAdrFiles": 22,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0021-use-cloudformation-builder.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-03-31T19:14:11Z",
+      "lastCommit": "2018-03-31T19:14:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fce5c5ef22113e7e844a43fa5997d2373d1b7a04"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0013-aws-file-upload.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-01-06T17:14:03Z",
+      "lastCommit": "2018-03-31T19:14:11Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01c9c863be7c601cdf09aaff92df11cc649323d8",
+            "fce5c5ef22113e7e844a43fa5997d2373d1b7a04"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0005-springfox.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-01T10:24:41Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca42544bff6f6097d14c0e6835c85d96d1666706"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0001-model-for-transformations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-01T10:24:40Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9967664378094289b59fd91ae9eb0723f0c22136"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0017-implement-own-tosca-parser.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-03-25T10:57:21Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0016-not-supporting-type-definitions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-03-27T18:30:08Z",
+      "lastCommit": "2018-03-27T18:30:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ce3e8e47a2b9a4386878a0f219f91c283bf6b2c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0006-bash-script-generator.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-01T10:24:42Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "23299e0d52d7973a1a3c1c4d6db8c5a2aedee21c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0007-plugin-cloudformation-cli.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-01T10:24:42Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "19e1ededa776742dce33c451a606877dc6a18b13"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0014-iterate-effectivemodel-with-visitor-pattern.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-03-25T10:57:21Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0019-cloudfoundry-deploymentscripts.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-03-30T21:53:43Z",
+      "lastCommit": "2018-03-30T21:53:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e222339ff54c72e02872b338067ffbd777702830"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0010-use-docker-java.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-01T10:24:44Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72542466f9023958cde22448c9350e99c183c7bb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0020-library-for-cli.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-01T10:24:44Z",
+      "lastCommit": "2018-03-31T17:44:46Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "807350f543ae8b24c8ebc8f4193d83dcce9e3ac6",
+            "3c42ba7aec02f89f8483406441e7856e8bb30f60"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0003-lombok.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-01T10:24:41Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c74747b065a2df7d292c9478cb8b7a793ec8a554"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0018-cloudfoundry-no-deployment-in-runtime.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-03-30T21:53:43Z",
+      "lastCommit": "2018-03-30T21:53:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e222339ff54c72e02872b338067ffbd777702830"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0011-put-integration-tests-in-seperate-folder.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-02T10:56:36Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b62e58850f68cd9c0fdfcef97fe6759b69545a60"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0008-kubernetes-end-to-end-tests.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-01T10:24:42Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "62ed8c9a804e9e49d186ac1407ad55a2dd7ae866"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0015-persist-to-filesystem.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-03-25T10:57:21Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0002-general-plugin-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-01T10:24:40Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1c0dec6eb051e7f8a1d642ae1218004710bae828"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0009-cloudfoundry-cli.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-11-02T16:30:58Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bd465a3b78eea42d33775dff9d46f9c3a8cdbb31"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "777dd9334733cf51e544a0fd1ce9e4dc6ebe5b02",
+            "d530dd2b4ab9a7bc8bd79acb58db6e70dcad4b7a"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e267379c687ddf1ac77373a2bf394d9f5897c6e6",
+            "4e73e5040fd38d62710ca2492ebf14a615fdb298"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0004-spring-framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-01T10:24:41Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca42544bff6f6097d14c0e6835c85d96d1666706"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0012-cloudfoundry-java-library.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-19T14:44:09Z",
+      "lastCommit": "2018-03-30T21:53:43Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2352e06bf68ded7497ff19f05fa3ef36e9ea6b8b",
+            "e222339ff54c72e02872b338067ffbd777702830"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/dev/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-11-06T14:47:28Z",
+      "lastCommit": "2018-03-25T10:57:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5311aa02fff557b801a9f127db5454a02afd8b0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "391a034ad5bcba4e307a460d2a62aeb70ce6a616"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-11-02T16:30:58Z",
+  "lastAdrCommit": "2018-03-31T19:14:11Z",
+  "firstCommit": "2017-07-05T14:57:35Z",
+  "lastCommit": "2018-03-31T21:06:51Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "19e1ededa776742dce33c451a606877dc6a18b13"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8ce3e8e47a2b9a4386878a0f219f91c283bf6b2c",
+        "f5311aa02fff557b801a9f127db5454a02afd8b0"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "391a034ad5bcba4e307a460d2a62aeb70ce6a616"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b62e58850f68cd9c0fdfcef97fe6759b69545a60",
+        "72542466f9023958cde22448c9350e99c183c7bb"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9967664378094289b59fd91ae9eb0723f0c22136",
+        "c74747b065a2df7d292c9478cb8b7a793ec8a554",
+        "bd465a3b78eea42d33775dff9d46f9c3a8cdbb31"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2352e06bf68ded7497ff19f05fa3ef36e9ea6b8b",
+        "777dd9334733cf51e544a0fd1ce9e4dc6ebe5b02",
+        "e222339ff54c72e02872b338067ffbd777702830",
+        "d530dd2b4ab9a7bc8bd79acb58db6e70dcad4b7a"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "807350f543ae8b24c8ebc8f4193d83dcce9e3ac6",
+        "3c42ba7aec02f89f8483406441e7856e8bb30f60"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ca42544bff6f6097d14c0e6835c85d96d1666706"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "01c9c863be7c601cdf09aaff92df11cc649323d8",
+        "fce5c5ef22113e7e844a43fa5997d2373d1b7a04"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e267379c687ddf1ac77373a2bf394d9f5897c6e6",
+        "62ed8c9a804e9e49d186ac1407ad55a2dd7ae866",
+        "23299e0d52d7973a1a3c1c4d6db8c5a2aedee21c",
+        "1c0dec6eb051e7f8a1d642ae1218004710bae828",
+        "4e73e5040fd38d62710ca2492ebf14a615fdb298"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

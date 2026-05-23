@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/bunyan-logger.git",
+  "crawlDateTime": "2022-01-18T23:15:25.828544",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-replace-travis-ci-with-github-actions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-20T14:04:57Z",
+      "lastCommit": "2019-09-20T14:04:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8474da37dcaf1e2305e3aaf33634b0addb9d3196"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-09-20T14:04:57Z",
+  "lastAdrCommit": "2019-09-20T14:04:57Z",
+  "firstCommit": "2016-11-16T16:45:34Z",
+  "lastCommit": "2020-06-01T01:26:12Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8474da37dcaf1e2305e3aaf33634b0addb9d3196"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

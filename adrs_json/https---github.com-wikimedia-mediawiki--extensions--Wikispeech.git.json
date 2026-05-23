@@ -1,0 +1,61 @@
+{
+  "repositoryUrl": "https://github.com/wikimedia/mediawiki-extensions-Wikispeech.git",
+  "crawlDateTime": "2022-01-18T21:12:22.716812",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-store-synthesized-audio-in-mediawiki-extension.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-03-24T09:30:30Z",
+      "lastCommit": "2020-07-22T13:30:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e88e13acbf42db73e1ee1462b49f3e5c6e6b54a8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "18c20c760728defccfae2e66aafe34c77b492350"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-24T09:30:30Z",
+  "lastAdrCommit": "2020-07-22T13:30:10Z",
+  "firstCommit": "2016-05-19T19:11:36Z",
+  "lastCommit": "2021-12-29T05:48:52Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e88e13acbf42db73e1ee1462b49f3e5c6e6b54a8"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "18c20c760728defccfae2e66aafe34c77b492350"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

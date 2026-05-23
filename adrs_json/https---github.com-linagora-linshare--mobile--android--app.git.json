@@ -1,0 +1,291 @@
+{
+  "repositoryUrl": "https://github.com/linagora/linshare-mobile-android-app.git",
+  "crawlDateTime": "2022-01-18T19:16:20.881732",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0003-store-user-denied-permission-request.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-03T10:55:50Z",
+      "lastCommit": "2020-01-03T10:55:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a638852ecc1d7b070895f1585df978968636e300"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0009-downloadingrepository-to-manage-downloading-tasks.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-21T10:36:01Z",
+      "lastCommit": "2020-02-21T10:36:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab740b9ce0a3a847143dbed4f01979fcc579e6f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0008-download-with-downloadmanager-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-20T05:02:50Z",
+      "lastCommit": "2020-02-20T05:02:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29a281f99fbc003c1fe8f21cfbace0d383a7c347"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0004-mvvm-for-android-development.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-21T02:52:40Z",
+      "lastCommit": "2020-01-21T02:52:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52a2b9b40e7b20c2175e8440136c4a99cc3ad2a3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0013-destination-picker-s-flow-for-upload.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-31T02:57:07Z",
+      "lastCommit": "2020-07-31T02:57:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc7e09ed4705679db518ecc5dc8ca0a012a28691"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0007-background-task-with-worker.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-14T06:27:34Z",
+      "lastCommit": "2020-01-14T06:27:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "134c91c1b4e1473059038766d6b108db79390ee2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0005-kotlin-for-android-development.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-14T04:08:09Z",
+      "lastCommit": "2020-01-14T04:08:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "44bf34a19ea4d59a00060f77098c8bf5814bf263"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0011-upload-document.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-06T03:10:21Z",
+      "lastCommit": "2020-03-06T03:10:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77011a8991d33f47d36ebb649576198fa8552b84"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0012-decoupling-upload-logic-from-uploadworker.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-28T03:31:22Z",
+      "lastCommit": "2020-04-28T03:31:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "001585f573627b65820a2e82b3c47028ce54bb2d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0006-login-with-long-lived-token.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-21T03:07:46Z",
+      "lastCommit": "2020-01-21T03:07:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa6f6ae532c95235f4eb588a80398d4a49078b56"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-03T07:03:06Z",
+      "lastCommit": "2020-01-03T07:03:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "002742e76310ac6a17dfa8aca85d38702e3e5abe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-image-loading-with-glide.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-03T07:03:06Z",
+      "lastCommit": "2020-01-03T07:03:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "002742e76310ac6a17dfa8aca85d38702e3e5abe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0010-using-room-to-implement-downloadingrepository.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-24T10:07:27Z",
+      "lastCommit": "2020-02-24T10:07:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3c15dfd608adf7262d6959619ddc66380abdd9c1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-03T07:03:06Z",
+  "lastAdrCommit": "2020-07-31T02:57:07Z",
+  "firstCommit": "2019-09-12T08:00:25Z",
+  "lastCommit": "2020-11-03T07:54:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "77011a8991d33f47d36ebb649576198fa8552b84",
+        "001585f573627b65820a2e82b3c47028ce54bb2d",
+        "ab740b9ce0a3a847143dbed4f01979fcc579e6f7",
+        "a638852ecc1d7b070895f1585df978968636e300",
+        "3c15dfd608adf7262d6959619ddc66380abdd9c1",
+        "fc7e09ed4705679db518ecc5dc8ca0a012a28691",
+        "29a281f99fbc003c1fe8f21cfbace0d383a7c347"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "52a2b9b40e7b20c2175e8440136c4a99cc3ad2a3",
+        "44bf34a19ea4d59a00060f77098c8bf5814bf263",
+        "fa6f6ae532c95235f4eb588a80398d4a49078b56",
+        "134c91c1b4e1473059038766d6b108db79390ee2",
+        "002742e76310ac6a17dfa8aca85d38702e3e5abe"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

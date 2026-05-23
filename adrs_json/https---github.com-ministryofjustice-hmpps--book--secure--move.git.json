@@ -1,0 +1,77 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/hmpps-book-secure-move.git",
+  "crawlDateTime": "2022-01-18T18:21:02.868535",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decision-records"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0002-api-versioning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-14T10:41:24Z",
+      "lastCommit": "2021-09-14T10:41:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ae93df05a4493866821ccec6ce4ca27e2e48fe7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-10T16:32:22Z",
+      "lastCommit": "2018-12-10T16:37:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e6ddc471f5ffb0702767f1ff6687a9bede7c085d",
+            "2e507141ee0018bcb3850d1d54cf19544d7ba3bd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-12-10T16:32:22Z",
+  "lastAdrCommit": "2021-09-14T10:41:24Z",
+  "firstCommit": "2018-12-10T11:07:05Z",
+  "lastCommit": "2021-09-14T10:42:17Z",
+  "adrDirFile": {
+    "fileContent": "architecture-decision-records\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e6ddc471f5ffb0702767f1ff6687a9bede7c085d",
+        "2e507141ee0018bcb3850d1d54cf19544d7ba3bd"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9ae93df05a4493866821ccec6ce4ca27e2e48fe7"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

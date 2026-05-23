@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/navikt/dagpenger-old.git",
+  "crawlDateTime": "2022-01-18T20:56:21.495533",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2018-09-07 Adopt Architecture Decision Records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-07T14:04:57Z",
+      "lastCommit": "2018-09-07T14:04:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c441d42540afff29613cd9f9e73ed23b9db9548c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2018-09-07 Use norwegian for domain concepts.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-07T14:16:47Z",
+      "lastCommit": "2018-09-07T14:16:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d99e2b1e1dc8098706a4ada0c772f0d461304e9d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2018-09-07 Be transparent.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-07T14:22:37Z",
+      "lastCommit": "2018-09-07T14:22:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1dcd7546087de392bb2faf9ef7f8e8706e89234a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-07T14:04:57Z",
+  "lastAdrCommit": "2018-09-07T14:22:37Z",
+  "firstCommit": "2018-07-27T12:38:02Z",
+  "lastCommit": "2018-09-24T09:01:43Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d99e2b1e1dc8098706a4ada0c772f0d461304e9d",
+        "1dcd7546087de392bb2faf9ef7f8e8706e89234a",
+        "c441d42540afff29613cd9f9e73ed23b9db9548c"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

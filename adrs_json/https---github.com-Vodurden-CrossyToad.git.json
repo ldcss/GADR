@@ -1,0 +1,283 @@
+{
+  "repositoryUrl": "https://github.com/Vodurden/CrossyToad.git",
+  "crawlDateTime": "2022-01-18T23:02:10.782251",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-0012-SUPERSEDED-use-concrete-state-monad.md",
+      "template": "Nygard",
+      "status": "Superseded by [adr-0013](/docs/architecture/decisions/adr-0013-use-ioref-for-state.md)",
+      "firstCommit": "2018-11-24T23:44:46Z",
+      "lastCommit": "2018-12-01T04:36:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "86a654a037c629c8b7f3da2f1138b03d5aaa9eed",
+            "f43c289297c43ab3a603237e23bfda389d78f962"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-0006-sdl2-for-rendering.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-30T06:23:40Z",
+      "lastCommit": "2018-09-30T06:23:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f46ca174726b51eebe7a573d1f9750c8e6c6e10"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-0009-organise-by-feature.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-29T06:54:08Z",
+      "lastCommit": "2018-10-29T06:54:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5398db0b167f430d5caded1faa37116bf841cb33"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-0002-use-haskell.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-30T05:15:00Z",
+      "lastCommit": "2018-09-30T05:15:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad51ae665275b4b7667a855392975317682b71a1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-0005-use-hpack.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-30T05:15:00Z",
+      "lastCommit": "2018-09-30T05:15:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad51ae665275b4b7667a855392975317682b71a1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-0010-support-linear-and-discrete-input.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-08T21:36:05Z",
+      "lastCommit": "2018-11-08T21:36:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5e8bd19fa42d58ab2be6921c16b9d2f1de8801af"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-0004-direnv-for-nix-editor-integration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-30T05:15:00Z",
+      "lastCommit": "2018-09-30T05:15:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad51ae665275b4b7667a855392975317682b71a1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-0007-SUPERSEDED-mtl-style-for-affects.md",
+      "template": "Nygard",
+      "status": "Superseded by [adr-0012](/docs/architecture/adr-0012-use-concrete-state-monad.md)",
+      "firstCommit": "2018-09-30T10:12:55Z",
+      "lastCommit": "2018-11-24T23:44:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f43c289297c43ab3a603237e23bfda389d78f962",
+            "9e77e6ef4ccccecbe8ea493d6689a866a6885520"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-0003-nix-for-dependency-management.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-30T05:15:00Z",
+      "lastCommit": "2018-09-30T05:15:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad51ae665275b4b7667a855392975317682b71a1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-0008-use-lenses.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-24T21:34:54Z",
+      "lastCommit": "2018-10-24T21:34:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2b788b7be0213a83c6e2052a85c985b5a35cd70"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-0013-use-ioref-for-state.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-12-01T04:36:51Z",
+      "lastCommit": "2018-12-01T04:36:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "86a654a037c629c8b7f3da2f1138b03d5aaa9eed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-0011-use-sdl-to-support-multiple-resolutions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-09T23:58:58Z",
+      "lastCommit": "2018-11-09T23:58:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "18e0f491105aeac7102207395acb08d1414902e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "adr-0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-30T05:15:00Z",
+      "lastCommit": "2018-09-30T05:15:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad51ae665275b4b7667a855392975317682b71a1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-30T05:15:00Z",
+  "lastAdrCommit": "2018-12-01T04:36:51Z",
+  "firstCommit": "2018-09-30T05:15:00Z",
+  "lastCommit": "2020-04-02T03:44:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7f46ca174726b51eebe7a573d1f9750c8e6c6e10",
+        "86a654a037c629c8b7f3da2f1138b03d5aaa9eed",
+        "b2b788b7be0213a83c6e2052a85c985b5a35cd70",
+        "f43c289297c43ab3a603237e23bfda389d78f962",
+        "ad51ae665275b4b7667a855392975317682b71a1",
+        "9e77e6ef4ccccecbe8ea493d6689a866a6885520",
+        "5398db0b167f430d5caded1faa37116bf841cb33",
+        "5e8bd19fa42d58ab2be6921c16b9d2f1de8801af",
+        "18e0f491105aeac7102207395acb08d1414902e5"
+      ],
+      "numberOfCommits": 9
+    }
+  ]
+}

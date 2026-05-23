@@ -1,0 +1,87 @@
+{
+  "repositoryUrl": "https://github.com/DFE-Digital/early-careers-framework.git",
+  "crawlDateTime": "2022-01-18T19:08:56.84661",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "documentation/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0002-use-bigdecimal-for-currency-storage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-18T16:57:51Z",
+      "lastCommit": "2021-05-18T16:57:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b16e2c2b3d81909655fe7df67cc524bc0fa28a44",
+            "7ddfa6e0693c5b5c30c29ea6ed1ee3ce410c3847"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0003-separate-ecf-and-npq-calculation-engines-and-hashes-as-interfaces.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-18T16:57:51Z",
+      "lastCommit": "2021-05-18T16:57:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b16e2c2b3d81909655fe7df67cc524bc0fa28a44",
+            "7ddfa6e0693c5b5c30c29ea6ed1ee3ce410c3847"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-18T16:57:51Z",
+      "lastCommit": "2021-05-18T16:57:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b16e2c2b3d81909655fe7df67cc524bc0fa28a44",
+            "7ddfa6e0693c5b5c30c29ea6ed1ee3ce410c3847"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-05-18T16:57:51Z",
+  "lastAdrCommit": "2021-05-18T16:57:51Z",
+  "firstCommit": "2020-11-16T14:13:54Z",
+  "lastCommit": "2022-01-18T17:38:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b16e2c2b3d81909655fe7df67cc524bc0fa28a44",
+        "7ddfa6e0693c5b5c30c29ea6ed1ee3ce410c3847"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "repositoryUrl": "https://github.com/ensemblejs/ensemblejs.git",
+  "crawlDateTime": "2022-01-18T19:10:07.219768",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0002-replace-zepto-with-jquery.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-05-23T22:38:52Z",
+      "lastCommit": "2016-05-23T22:38:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b3d4de190fddd6e9040b36e572016df34c9e8052"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0003-use-immutablejs-for-immutability.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-09-05T12:53:08Z",
+      "lastCommit": "2016-09-05T12:53:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e6b4c76cd56788a6fe5ba3cce0c28d302312a2bd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-05-23T22:38:52Z",
+      "lastCommit": "2016-05-23T22:38:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b3d4de190fddd6e9040b36e572016df34c9e8052"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-05-23T22:38:52Z",
+  "lastAdrCommit": "2016-09-05T12:53:08Z",
+  "firstCommit": "2015-04-12T01:10:04Z",
+  "lastCommit": "2017-06-15T12:20:07Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b3d4de190fddd6e9040b36e572016df34c9e8052",
+        "e6b4c76cd56788a6fe5ba3cce0c28d302312a2bd"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

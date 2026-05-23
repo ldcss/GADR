@@ -1,0 +1,693 @@
+{
+  "repositoryUrl": "https://github.com/holochain/holochain-rust.git",
+  "crawlDateTime": "2022-01-18T19:48:11.086582",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 17,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-splitting-agent-into-front-house-back-house-or-not.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T18:42:04Z",
+      "lastCommit": "2018-09-27T13:49:35Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a1acbcc9c7ab14ae98156d3d2adf139aed87552"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c1b736d01ac22b18646a7b1af501da4260ad1f2",
+            "a99c21a347379caa4d8eafc49379b1cf789f5241"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d875571467b1ee3a934d9edb85cb0fda1ea851b6",
+            "ad4ba3824930bcffa74a394041865cdaad399e31",
+            "0de4e8561da1ece3d0331c326318b5345fe8b94e",
+            "0aaddb97f3cc277fb533f0eb6dcb88c6156dd060",
+            "f4ef602619c9c8bd368abe28b2bee785f75e49e9"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0017-capabilities.md",
+      "template": "Nygard",
+      "status": "Draft",
+      "firstCommit": "2019-02-19T20:47:32Z",
+      "lastCommit": "2019-02-26T14:23:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4d85e0405a98ba585e2449a40ee71d0758022fc0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46774001649280b8c6bd1635fc1cf5becfeafb60"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0014-p2p-ipc-abstraction.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-19T16:19:42Z",
+      "lastCommit": "2018-09-27T14:26:35Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6c9e5d33de89454b392f376c7224ab28a761c418"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "018d41357b7d52a04a065c467f880b1397b78195",
+            "b7a0684719aa56d0ff4271e48bbc11c138e82aa0",
+            "827fd1553cf6482c39fc672d7bde45d51dbb8ad9",
+            "a8f89c95f6152d35b32eab47887b864edd22e44f"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-alpha1-is-last-major-go-release.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T18:42:04Z",
+      "lastCommit": "2018-05-22T21:25:18Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c1b736d01ac22b18646a7b1af501da4260ad1f2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2bab5397dce2d6e95513b595e5d65176903000c3",
+            "0aaddb97f3cc277fb533f0eb6dcb88c6156dd060"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-redux-architecture-pattern.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T18:42:04Z",
+      "lastCommit": "2018-05-22T21:25:18Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4cf86e8f1359179c12f4b81eb1ab324e4d421d52",
+            "2bab5397dce2d6e95513b595e5d65176903000c3",
+            "0aaddb97f3cc277fb533f0eb6dcb88c6156dd060"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-rewrite-second-iteration-in-rust.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T18:42:04Z",
+      "lastCommit": "2018-05-22T21:25:18Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f69fcb63841106f2da042c3b2a154dd64c5d3095",
+            "4cf86e8f1359179c12f4b81eb1ab324e4d421d52",
+            "2bab5397dce2d6e95513b595e5d65176903000c3",
+            "0aaddb97f3cc277fb533f0eb6dcb88c6156dd060"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-abstraction-for-network-layer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T18:42:04Z",
+      "lastCommit": "2018-10-02T15:59:09Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cbd4e942426b24cd739b89eeefbaf5984e6f4203"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3afd037ac8df2cb7b8f37501abe6b96e801e7df1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f69fcb63841106f2da042c3b2a154dd64c5d3095",
+            "0aaddb97f3cc277fb533f0eb6dcb88c6156dd060"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53f159744e7091e0db168c32c114089de87b9bfd",
+            "4791da1f7df857fa776a4f22e9d0616dca7b1189"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0012-approaches-toward-randomness.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-05T15:31:31Z",
+      "lastCommit": "2019-03-22T02:38:29Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd84a2b1e0ea80854ca41e39e611dfd60f21e07c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5e2b82d60345c0dac851e94ed9e46f671f12406a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "28245d9217f22ac82ee743e17b501c5dd27dc2cc",
+            "b774e6714b61673cd0e1ba1637c598b8518883b9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0013-signals-listeners-model-and-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-20T16:18:18Z",
+      "lastCommit": "2019-02-01T15:03:20Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0df7c7bd84eaac9e68f200014f0b53b6fac08afb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3e378b53a4dcb150ea5c57df9ef3b3f438871353",
+            "d52ebb2cc440511c0622c8bde72ff418ae06c6d9",
+            "4e375276355522f558ce11937550829a43b4a22c",
+            "e2ba073b8ca97235f2a9929b0a4cf5c8c48f517e",
+            "653b1a4fe247fa1adcc78f17e6f44375e3a349c4"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-have-only-one-wasm-ribosome.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T18:42:04Z",
+      "lastCommit": "2018-07-30T16:47:08Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "00a80558d23a9d685e88af64a48bf0e79e5007b1",
+            "1636977072766ea26cafedbd6d6d698a2c557242"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72311bdc1f4614b9b07b11b3fd9588127d310191"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0aaddb97f3cc277fb533f0eb6dcb88c6156dd060"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-support-64bit-architectures-only.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T18:42:04Z",
+      "lastCommit": "2018-09-27T14:16:09Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "85d1f21d8ca38863eab0ba82d74ed79541c6bba4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0aaddb97f3cc277fb533f0eb6dcb88c6156dd060"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ccc299199e988ee7723eb31bae233f6774cdb5c7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-mobile-first-development.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T18:42:04Z",
+      "lastCommit": "2018-05-16T20:24:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0aaddb97f3cc277fb533f0eb6dcb88c6156dd060"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cda2d37d30e4423ebe6131faf5c1c1fbf426baf6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0016-web-container-interface.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-14T15:08:27Z",
+      "lastCommit": "2019-02-01T15:03:20Z",
+      "numberOfCommits": 15,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6512a398bf318b18a35d3625e49053d1d1a72b01",
+            "be62bf20c824b9b8ed86612de828e1570e16d186",
+            "4389bfc5c7734a73c8b42f3b2805c8e9b3303502",
+            "884abfa23227b35646021b359725133804fc9a8d",
+            "c826f2b689f06640b3c5b8628f1e144f17dc6a1a",
+            "a367333b866be98963bcd2ec5d53e4be2cd435f3",
+            "3ec7424f85f736e48b8a445f104e5c7a6a60498d",
+            "ced5d89f35347ee2bc5e36780591615dd0af893b",
+            "203de78daa4c32a55d889cb10117e40588ce0107",
+            "f57cdff4e6761b687d695c3cd502fbdcdb68f095",
+            "c94dbc50931c7ba7c0b5d4cf1e1df8713602752b",
+            "b852676643cd7d5361fb9b0e60a8503b77562ccc"
+          ],
+          "numberOfCommits": 12
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eba0f83b7c27cc6b51a7670232cdfa0f92e133ea",
+            "b13b1dea91f7e0bc100b221877c54645f0ddddd7"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "653b1a4fe247fa1adcc78f17e6f44375e3a349c4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0011-build-hcadmin-app-with-qt-c.md",
+      "template": "Nygard",
+      "status": "proposed",
+      "firstCommit": "2018-05-16T18:42:04Z",
+      "lastCommit": "2019-02-01T15:03:20Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ff8363bcaca2af8e2308ff04bfa66cbcab81655",
+            "2bab5397dce2d6e95513b595e5d65176903000c3",
+            "0aaddb97f3cc277fb533f0eb6dcb88c6156dd060"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "653b1a4fe247fa1adcc78f17e6f44375e3a349c4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-write-our-own-dht-implementation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-28T11:28:50Z",
+      "lastCommit": "2018-09-28T13:27:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9398dab48b23883ca5be295562b8724e109df323"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "541ed830ae64f82decd5fff072cdd23c93e29752"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0015-container-api.md",
+      "template": "Nygard",
+      "status": "Deprecated",
+      "firstCommit": "2018-09-18T15:27:49Z",
+      "lastCommit": "2019-04-25T02:40:49Z",
+      "numberOfCommits": 15,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ac3457bbbe58740bd1937a26b6952e0c991694e3",
+            "7b8ff274d4c7c977bc16b895b46fe9b9f769d4c6",
+            "6a5e2ab605b6f2286e6b3d9dd1582296684be7af",
+            "8c68c4c0f1ce73f085f57fc7628c182308d2bbcb",
+            "bbdcf6578f35298a7a886dbec6daa72699bd1b2a",
+            "24ca908018d5e85daf5059a681a25543d177ece2",
+            "ae9f7c3d0294a62ebf8d1b169efe0cd64ab3dd84",
+            "a9c2805394b7404cc8f95d39a965e7df824de98a",
+            "849355a97ded38db44478824f2225342296ef5d8",
+            "39ad6013875061f79ad9463bdbe207fd62e31297"
+          ],
+          "numberOfCommits": 10
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eee2e810f0536380946d157c57542882838342de",
+            "3302fd242da464e02ef1554154860c1c60ba7ef6",
+            "f212c631470fffe0c880ca3d68cfd3d1c271fd05",
+            "e8a137cb3d84a5d59e263470d0764f09973a0309",
+            "653b1a4fe247fa1adcc78f17e6f44375e3a349c4"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T18:42:04Z",
+      "lastCommit": "2018-05-16T18:42:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0aaddb97f3cc277fb533f0eb6dcb88c6156dd060"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-16T18:42:04Z",
+  "lastAdrCommit": "2019-04-25T02:40:49Z",
+  "firstCommit": "2018-03-16T22:49:12Z",
+  "lastCommit": "2020-10-01T20:43:23Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9398dab48b23883ca5be295562b8724e109df323"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ac3457bbbe58740bd1937a26b6952e0c991694e3",
+        "8a1acbcc9c7ab14ae98156d3d2adf139aed87552",
+        "6c9e5d33de89454b392f376c7224ab28a761c418",
+        "6512a398bf318b18a35d3625e49053d1d1a72b01",
+        "be62bf20c824b9b8ed86612de828e1570e16d186",
+        "0df7c7bd84eaac9e68f200014f0b53b6fac08afb",
+        "3ec7424f85f736e48b8a445f104e5c7a6a60498d",
+        "cbd4e942426b24cd739b89eeefbaf5984e6f4203",
+        "6a5e2ab605b6f2286e6b3d9dd1582296684be7af",
+        "8c68c4c0f1ce73f085f57fc7628c182308d2bbcb",
+        "c826f2b689f06640b3c5b8628f1e144f17dc6a1a",
+        "a367333b866be98963bcd2ec5d53e4be2cd435f3",
+        "fd84a2b1e0ea80854ca41e39e611dfd60f21e07c",
+        "203de78daa4c32a55d889cb10117e40588ce0107",
+        "b852676643cd7d5361fb9b0e60a8503b77562ccc",
+        "7b8ff274d4c7c977bc16b895b46fe9b9f769d4c6",
+        "884abfa23227b35646021b359725133804fc9a8d",
+        "bbdcf6578f35298a7a886dbec6daa72699bd1b2a",
+        "a9c2805394b7404cc8f95d39a965e7df824de98a",
+        "ced5d89f35347ee2bc5e36780591615dd0af893b",
+        "39ad6013875061f79ad9463bdbe207fd62e31297",
+        "4389bfc5c7734a73c8b42f3b2805c8e9b3303502",
+        "85d1f21d8ca38863eab0ba82d74ed79541c6bba4",
+        "24ca908018d5e85daf5059a681a25543d177ece2",
+        "ae9f7c3d0294a62ebf8d1b169efe0cd64ab3dd84",
+        "849355a97ded38db44478824f2225342296ef5d8",
+        "f57cdff4e6761b687d695c3cd502fbdcdb68f095",
+        "c94dbc50931c7ba7c0b5d4cf1e1df8713602752b"
+      ],
+      "numberOfCommits": 28
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "018d41357b7d52a04a065c467f880b1397b78195",
+        "3afd037ac8df2cb7b8f37501abe6b96e801e7df1",
+        "b7a0684719aa56d0ff4271e48bbc11c138e82aa0",
+        "827fd1553cf6482c39fc672d7bde45d51dbb8ad9",
+        "a8f89c95f6152d35b32eab47887b864edd22e44f"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "00a80558d23a9d685e88af64a48bf0e79e5007b1",
+        "1636977072766ea26cafedbd6d6d698a2c557242"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "eba0f83b7c27cc6b51a7670232cdfa0f92e133ea",
+        "b13b1dea91f7e0bc100b221877c54645f0ddddd7"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "72311bdc1f4614b9b07b11b3fd9588127d310191"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5e2b82d60345c0dac851e94ed9e46f671f12406a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d875571467b1ee3a934d9edb85cb0fda1ea851b6",
+        "ad4ba3824930bcffa74a394041865cdaad399e31",
+        "46774001649280b8c6bd1635fc1cf5becfeafb60",
+        "f69fcb63841106f2da042c3b2a154dd64c5d3095",
+        "4cf86e8f1359179c12f4b81eb1ab324e4d421d52",
+        "0de4e8561da1ece3d0331c326318b5345fe8b94e",
+        "4ff8363bcaca2af8e2308ff04bfa66cbcab81655",
+        "0aaddb97f3cc277fb533f0eb6dcb88c6156dd060",
+        "2bab5397dce2d6e95513b595e5d65176903000c3",
+        "f4ef602619c9c8bd368abe28b2bee785f75e49e9"
+      ],
+      "numberOfCommits": 10
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cda2d37d30e4423ebe6131faf5c1c1fbf426baf6",
+        "b774e6714b61673cd0e1ba1637c598b8518883b9",
+        "53f159744e7091e0db168c32c114089de87b9bfd",
+        "3e378b53a4dcb150ea5c57df9ef3b3f438871353",
+        "ccc299199e988ee7723eb31bae233f6774cdb5c7",
+        "4d85e0405a98ba585e2449a40ee71d0758022fc0",
+        "d52ebb2cc440511c0622c8bde72ff418ae06c6d9",
+        "9c1b736d01ac22b18646a7b1af501da4260ad1f2",
+        "541ed830ae64f82decd5fff072cdd23c93e29752",
+        "4e375276355522f558ce11937550829a43b4a22c",
+        "e8a137cb3d84a5d59e263470d0764f09973a0309",
+        "28245d9217f22ac82ee743e17b501c5dd27dc2cc",
+        "eee2e810f0536380946d157c57542882838342de",
+        "3302fd242da464e02ef1554154860c1c60ba7ef6",
+        "f212c631470fffe0c880ca3d68cfd3d1c271fd05",
+        "a99c21a347379caa4d8eafc49379b1cf789f5241",
+        "4791da1f7df857fa776a4f22e9d0616dca7b1189",
+        "e2ba073b8ca97235f2a9929b0a4cf5c8c48f517e",
+        "653b1a4fe247fa1adcc78f17e6f44375e3a349c4"
+      ],
+      "numberOfCommits": 19
+    }
+  ]
+}

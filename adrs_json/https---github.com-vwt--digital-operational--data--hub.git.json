@@ -1,0 +1,1979 @@
+{
+  "repositoryUrl": "https://github.com/vwt-digital/operational-data-hub.git",
+  "crawlDateTime": "2022-01-18T21:17:22.309821",
+  "numAdrDirectories": 2,
+  "adrDirectories": [
+    "architecture/adr",
+    "coding_guidelines/adr"
+  ],
+  "numAdrFiles": 73,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0026-solution-facilitates-a-coherent-set-of-business-functions.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [17. DDD defines ubiquitous language](0017-ddd-defines-ubiquitous-language.md) Implemented by [28. A solution is implemented by one or more GCP projects](0028-a-solution-is-implemented-by-one-or-more-gcp-projects.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-16T06:52:42Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1b680c745c355773d8c8ab5cf0037a9fa85d7256",
+            "0364b1be34b0b53440e0ca544bf83a5a301bab81"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0041-deployment-through-pull-request.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [6. Implement Security by Design](0006-implement-security-by-design.md) Implements [4. Create software defined everything](0004-create-software-defined-everything.md) Related to [49. gitops Deployment](0049-gitops-deployment.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-30T07:09:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "83e7ca3bd4266b1b91b5d715433cd9adcbe182ac"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0034-2fa-on-all-user-identities.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [6. Implement Security by Design](0006-implement-security-by-design.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-21T07:23:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf34619faa4de8bff8873bcf54f89d5a38e6f464"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0058-api-is-trust-boundary-odh.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [6. Implement Security by Design](0006-implement-security-by-design.md) Implements [39. Least privilege access](0039-least-privilege-access.md) Related to [43. API First](0043-api-first.md)",
+      "firstCommit": "2020-09-30T15:16:01Z",
+      "lastCommit": "2020-10-30T07:39:22Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e95c3ef3bf5d4c483e43c143392380be2eaed1c3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6fa5b40808a3e9ed3cb76d72c7fd5591761da5e6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0036-ssl-certificates-are-always-verified.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [6. Implement Security by Design](0006-implement-security-by-design.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-22T06:09:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "252b4f6298c6d9cfd58b8bb10366ebea14c94652"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0050-expand-pip-requirements (DEPRECATED).md",
+      "template": "Nygard",
+      "status": "DEPRECATED Implements [4. Create software defined everything](0004-create-software-defined-everything.md) Deprecated by [60. lock-pip-requirements](0060-lock-pip-requirements.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2021-06-08T14:26:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79141bddf046622acc5acd90eeaeb0fff3102087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d",
+            "6a4abd4223afd13ffbdf1597e0f6c61f4a20fbbd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0055-feature-toggles-over-feature-branching.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-11-06T13:35:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c60cb72d064394653a070c93bf7ed76bfb90ce10",
+            "d9c967e12202a7df18a3d96a22981e36c82f33e4"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0005-build-open-source-solutions.md",
+      "template": "Nygard",
+      "status": "Accepted Implemented by [45. Code / config separation](0045-code-config-separation.md)",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-09-23T07:01:28Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb1f928c6ebca7d5253a13cd7e5ac3b9ce763679",
+            "d4794bade018eb1826887634d149bfab95ec5cfd"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0012-data-catalog-specifies-all-data-components.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md) Implemented by [53. Project company data](0053-project-company-data.md) Related to [15. Automatic backup of each data component](0015-automatic-backup-of-each-data-component.md) Implemented by [52. ODRL policy](0052-odrl-policy.md)",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-10-09T06:21:06Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6797d73cb989e1cb87626657b01b6b8182c6d9d1",
+            "57a8358bec55f506adc62ad1bdc55d332bd8511a",
+            "6c2ef281f9f6186d97aa336f4820a5d96a1a15ea"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0032-oauth2-for-authentication.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [6. Implement Security by Design](0006-implement-security-by-design.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-20T07:26:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "acd65e78c37168a43c6f7836ff067a57e388a391"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0040-hpa.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [6. Implement Security by Design](0006-implement-security-by-design.md) Implements [39. Least privilege access](0039-least-privilege-access.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-29T06:39:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "795d453d7fb9e53799cdcc322fb8efb54d241ab7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0010-event-sourcing-captures-every-change-to-business-state.md",
+      "template": "Nygard",
+      "status": "Accepted Related to [11. CQRS separates read and write responsibility](0011-cqrs-separates-read-and-write-responsibility.md) Implemented by [16. Pub/Sub implements Event sourcing](0016-pub-sub-implements-event-sourcing.md)",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-10-07T06:57:48Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4359045263f3a6067b64c23f0692f64b480a4814",
+            "8e936a7815b32528f27ef8057b2a2622e9d338a8"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a2825acafa23f1a32c53a48a6ff44377fb0f290",
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0045-code-config-separation.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md) Implements [5. Build Open Source solutions](0005-build-open-source-solutions.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-11-03T13:59:26Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb1f928c6ebca7d5253a13cd7e5ac3b9ce763679"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcba7d3924161fc90845d8876b97a4411173788d",
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0013-data-retention-defined-on-each-data-component.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md) Implemented by [53. Project company data](0053-project-company-data.md)",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-10-02T06:47:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a26a7feb60115c81310abd80805e5c35742f15cd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0024-refer-to-blob-at-the-source-project.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [17. DDD defines ubiquitous language](0017-ddd-defines-ubiquitous-language.md)",
+      "firstCommit": "2020-10-12T07:26:46Z",
+      "lastCommit": "2020-10-16T11:06:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7522e08c1238d615849d91a4f38098a7d412e85d",
+            "085584da59a9a7f85b40d7455bafbfef82e01681"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0022-locations-are-specified-in-geojson.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [16. Pub/Sub implements Event sourcing](0016-pub-sub-implements-event-sourcing.md)",
+      "firstCommit": "2020-09-21T12:48:18Z",
+      "lastCommit": "2020-10-12T07:22:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ef48a9a8dffe87479288a519bf6d161acbd0095",
+            "8fe481b729b3e50ef4d8f4866ed34cc843174a89"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0003-create-cloud-native-solutions.md",
+      "template": "Nygard",
+      "status": "Accepted Implemented by [56. Deploy on Google Cloud Platform](0056-deploy-on-google-cloud-platform.md)",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-09-22T14:40:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0767438f591cb3fe9fd841c854336069c75ad1eb",
+            "79060820a20e9214facbbe7ffe8a0df1014468ed"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0017-ddd-defines-ubiquitous-language.md",
+      "template": "Nygard",
+      "status": "Accepted Implemented by [24. Refer to BLOB at the source project](0024-refer-to-blob-at-the-source-project.md) Implemented by [25. Domains correspond to business departments](0025-domains-correspond-to-business-departments.md) Implemented by [26. Solution facilitates a coherent set of business functions](0026-solution-facilitates-a-coherent-set-of-business-functions.md) Implemented by [27. A GCP project belongs to a single domain](0027-a-gcp-project-belongs-to-a-single-domain.md) Implemented by [28. A solution is implemented by one or more GCP projects](0028-a-solution-is-implemented-by-one-or-more-gcp-projects.md) Implemented by [29. Components are named according to naming conventions](0029-components-are-named-according-to-naming-conventions.md)",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-10-13T11:53:13Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7522e08c1238d615849d91a4f38098a7d412e85d",
+            "60983899e40cdb929298e6bfb0db4e397a0c9072"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d",
+            "b7c8dec891c87f1193d4eeace5ddb378c746032d",
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0031-uniform-bucket-level-access-for-storage.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [6. Implement Security by Design](0006-implement-security-by-design.md) Related to [14. Single confidentiality level per data component](0014-single-confidentiality-level-per-data-component.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-20T07:26:30Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "acd65e78c37168a43c6f7836ff067a57e388a391",
+            "34c23c2520d91c36d30da9c7238b57517f7147d8",
+            "57a8358bec55f506adc62ad1bdc55d332bd8511a"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0039-least-privilege-access.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [6. Implement Security by Design](0006-implement-security-by-design.md) Implemented by [40. HPA](0040-hpa.md) Implemented by [58. API is trust boundary ODH](0058-api-is-trust-boundary-odh.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-30T07:39:22Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e95c3ef3bf5d4c483e43c143392380be2eaed1c3",
+            "795d453d7fb9e53799cdcc322fb8efb54d241ab7"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0023-iso-8601-to-specify-date-and-time-with-timezone.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [16. Pub/Sub implements Event sourcing](0016-pub-sub-implements-event-sourcing.md)",
+      "firstCommit": "2020-09-21T12:48:18Z",
+      "lastCommit": "2020-10-14T07:18:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "15bcbe10c7e63d43c7fad0ffaf44dc371842a128",
+            "9ef48a9a8dffe87479288a519bf6d161acbd0095"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0014-single-confidentiality-level-per-data-component.md",
+      "template": "Nygard",
+      "status": "Accepted Related to [31. Uniform bucket-level access for storage](0031-uniform-bucket-level-access-for-storage.md)",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-10-06T20:28:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "57a8358bec55f506adc62ad1bdc55d332bd8511a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0056-deploy-on-google-cloud-platform.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [3. Create cloud native solutions](0003-create-cloud-native-solutions.md)",
+      "firstCommit": "2020-09-22T14:37:49Z",
+      "lastCommit": "2020-09-22T14:37:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0767438f591cb3fe9fd841c854336069c75ad1eb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0057-naming-convention-defines-uri-tags.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [9. URI identifies data](0009-uri-identifies-data.md) Implements [29. Components are named according to naming conventions](0029-components-are-named-according-to-naming-conventions.md)",
+      "firstCommit": "2020-09-30T06:21:44Z",
+      "lastCommit": "2020-10-27T09:13:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "def68e60440f65d7f8bcce000ad51ecb9fc34fa1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0f2014caa292aa7e54f18e291f4f35571c04296c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0006-implement-security-by-design.md",
+      "template": "Nygard",
+      "status": "Accepted Implemented by [30. life cycle management](0030-life-cycle-management.md) Implemented by [31. Uniform bucket-level access for storage](0031-uniform-bucket-level-access-for-storage.md) Implemented by [32. Oauth2 for authentication](0032-oauth2-for-authentication.md) Implemented by [33. Two identity providers: development / run](0033-two-identity-providers-development-run.md) Implemented by [34. 2FA on all user identities](0034-2fa-on-all-user-identities.md) Implemented by [35. All communication uses SSL](0035-all-communication-uses-ssl.md) Implemented by [36. SSL certificates are always verified](0036-ssl-certificates-are-always-verified.md) Implemented by [37. Secrets are stored in GCP Secret Manager](0037-secrets-are-stored-in-gcp-secret-manager.md) Implemented by [38. SAST and DAST are in the CI/CD pipeline](0038-sast-and-dast-are-in-the-ci-cd-pipeline.md) Implemented by [39. Least privilege access](0039-least-privilege-access.md) Implemented by [40. HPA](0040-hpa.md) Implemented by [41. Deployment through Pull Request](0041-deployment-through-pull-request.md) Implemented by [58. API is trust boundary ODH](0058-api-is-trust-boundary-odh.md) Implements [59. Runtime dependency only on GCP](0059-runtime-dependency-only-on-gcp.md)",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-10-15T06:36:58Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8e936a7815b32528f27ef8057b2a2622e9d338a8",
+            "34c23c2520d91c36d30da9c7238b57517f7147d8",
+            "f46a6da08903733e4fd588004ceee7d971fedd79"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6fa5b40808a3e9ed3cb76d72c7fd5591761da5e6",
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d",
+            "2c5c95a19a075dd50fd5a7974e04a4a0159e5ef2",
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0037-secrets-are-stored-in-gcp-secret-manager.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [6. Implement Security by Design](0006-implement-security-by-design.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-26T08:20:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f34e6808d7250693f5e894e9416172f533bde154"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0007-solutions-are-data-integrated.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-09-30T06:21:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "def68e60440f65d7f8bcce000ad51ecb9fc34fa1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0052-odrl-policy.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md) Implements [12. Data catalog specifies all data components](0012-data-catalog-specifies-all-data-components.md) Implemented by [53. Project company data](0053-project-company-data.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-11-06T13:35:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c60cb72d064394653a070c93bf7ed76bfb90ce10",
+            "6c2ef281f9f6186d97aa336f4820a5d96a1a15ea"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0021-messages-are-in-json-format.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [16. Pub/Sub implements Event sourcing](0016-pub-sub-implements-event-sourcing.md) Implemented by [19. Single schema per topic](0019-single-schema-per-topic.md)",
+      "firstCommit": "2020-09-21T12:48:18Z",
+      "lastCommit": "2020-10-08T12:19:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8dceb1692c3211f44581f6d42c6eee2638a708d2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ef48a9a8dffe87479288a519bf6d161acbd0095",
+            "e4b20080bf46f3c1087fe7ea224da5d2e2bd93c4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0059-runtime-dependency-only-on-gcp.md",
+      "template": "Nygard",
+      "status": "Accepted Implemented by [6. Implement Security by Design](0006-implement-security-by-design.md)",
+      "firstCommit": "2020-10-15T06:36:58Z",
+      "lastCommit": "2020-11-06T08:28:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25249e9a63e2248acc26ac586364b982e5061205",
+            "f46a6da08903733e4fd588004ceee7d971fedd79"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0009-uri-identifies-data.md",
+      "template": "Nygard",
+      "status": "Accepted Implemented by [57. Naming convention defines URI tags](0057-naming-convention-defines-uri-tags.md) Related to [11. CQRS separates read and write responsibility](0011-cqrs-separates-read-and-write-responsibility.md)",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-09-30T07:10:40Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8e936a7815b32528f27ef8057b2a2622e9d338a8",
+            "def68e60440f65d7f8bcce000ad51ecb9fc34fa1"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0030-life-cycle-management.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [6. Implement Security by Design](0006-implement-security-by-design.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-19T08:00:00Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "660e40a178b9a13b8601cd93362dd498e7469c98"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0015-automatic-backup-of-each-data-component.md",
+      "template": "Nygard",
+      "status": "Accepted Related to [12. Data catalog specifies all data components](0012-data-catalog-specifies-all-data-components.md)",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-10-06T20:28:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "57a8358bec55f506adc62ad1bdc55d332bd8511a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0016-pub-sub-implements-event-sourcing.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [10. Event sourcing captures every change to business state](0010-event-sourcing-captures-every-change-to-business-state.md) Implements [11. CQRS separates read and write responsibility](0011-cqrs-separates-read-and-write-responsibility.md) Implemented by [18. Single writer for a topic](0018-single-writer-for-a-topic.md) Implemented by [19. Single schema per topic](0019-single-schema-per-topic.md) Implemented by [20. Topic messages have gobits](0020-topic-messages-have-gobits.md) Implemented by [21. Messages are in JSON format](0021-messages-are-in-json-format.md) Implemented by [22. Locations are specified in GeoJSON](0022-locations-are-specified-in-geojson.md) Implemented by [23. ISO-8601 to specify date and time with timezone](0023-iso-8601-to-specify-date-and-time-with-timezone.md)",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-10-07T06:57:48Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4359045263f3a6067b64c23f0692f64b480a4814",
+            "8e936a7815b32528f27ef8057b2a2622e9d338a8"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ef48a9a8dffe87479288a519bf6d161acbd0095",
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0047-shell-scripting.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-11-18T08:03:00Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d",
+            "a9d953207f6fc1e3972a50057f0673cf0aceab44"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0019-single-schema-per-topic.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [16. Pub/Sub implements Event sourcing](0016-pub-sub-implements-event-sourcing.md) Implements [21. Messages are in JSON format](0021-messages-are-in-json-format.md)",
+      "firstCommit": "2020-09-21T12:48:18Z",
+      "lastCommit": "2021-07-21T13:55:47Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a0e1760ead89657cbb3fad79ba6ebb3e63ffe4f",
+            "9e3d3994e998e5321cc6d00df369a5ec80675503",
+            "8dceb1692c3211f44581f6d42c6eee2638a708d2"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ef48a9a8dffe87479288a519bf6d161acbd0095"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0051-declarative-preferred-over-actions.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-11-06T13:35:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ac0ddadf48b381fd474b353c65c91013a8069fd",
+            "c60cb72d064394653a070c93bf7ed76bfb90ce10"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0028-a-solution-is-implemented-by-one-or-more-gcp-projects.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [17. DDD defines ubiquitous language](0017-ddd-defines-ubiquitous-language.md) Implements [26. Solution facilitates a coherent set of business functions](0026-solution-facilitates-a-coherent-set-of-business-functions.md) Related to [27. A GCP project belongs to a single domain](0027-a-gcp-project-belongs-to-a-single-domain.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-16T06:52:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1b680c745c355773d8c8ab5cf0037a9fa85d7256"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0054-coding-guidelines.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-11-03T08:29:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ac0ddadf48b381fd474b353c65c91013a8069fd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0046-javascript-framework.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-11-18T08:03:00Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d",
+            "a9d953207f6fc1e3972a50057f0673cf0aceab44"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0049-gitops-deployment.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md) Related to [41. Deployment through Pull Request](0041-deployment-through-pull-request.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-11-18T09:04:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "83e7ca3bd4266b1b91b5d715433cd9adcbe182ac"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d",
+            "6a4abd4223afd13ffbdf1597e0f6c61f4a20fbbd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0025-domains-correspond-to-business-departments.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [17. DDD defines ubiquitous language](0017-ddd-defines-ubiquitous-language.md) Related to [27. A GCP project belongs to a single domain](0027-a-gcp-project-belongs-to-a-single-domain.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-16T11:06:57Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "60983899e40cdb929298e6bfb0db4e397a0c9072",
+            "f152c6d0f249e9db64ecdbd6e9abcb75f0029967",
+            "085584da59a9a7f85b40d7455bafbfef82e01681"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0008-data-is-location-and-time-aware.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-09-30T07:10:40Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8e936a7815b32528f27ef8057b2a2622e9d338a8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2b7e611cc4896405566f24be2e4295c1b94e5a21",
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0048-testing-framework.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-11-30T09:29:39Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c2a0caeb227db8382fba90b1a3fb4b86812ee404",
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0018-single-writer-for-a-topic.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [16. Pub/Sub implements Event sourcing](0016-pub-sub-implements-event-sourcing.md)",
+      "firstCommit": "2020-09-21T12:48:18Z",
+      "lastCommit": "2020-10-07T07:02:56Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c9df79a2cfc4b57f7ba4ac9d892492ace6129faf",
+            "9ef48a9a8dffe87479288a519bf6d161acbd0095"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0020-topic-messages-have-gobits.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [16. Pub/Sub implements Event sourcing](0016-pub-sub-implements-event-sourcing.md)",
+      "firstCommit": "2020-09-21T12:48:18Z",
+      "lastCommit": "2020-10-07T07:15:19Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "326caff5b0080a41647b6ae9c95669f1e38dbf83",
+            "9ef48a9a8dffe87479288a519bf6d161acbd0095"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0038-sast-and-dast-are-in-the-ci-cd-pipeline.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [6. Implement Security by Design](0006-implement-security-by-design.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-27T08:27:39Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2e3f9ba2282644d17fa418659b4637617a5b453",
+            "b36df84f342cc975aa580c4c357a1e3d8445ff64"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0060-lock-pip-requirements.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2021-06-08T14:26:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "79141bddf046622acc5acd90eeaeb0fff3102087"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d",
+            "6a4abd4223afd13ffbdf1597e0f6c61f4a20fbbd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0035-all-communication-uses-ssl.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [6. Implement Security by Design](0006-implement-security-by-design.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-22T06:09:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "252b4f6298c6d9cfd58b8bb10366ebea14c94652"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0044-openapi3.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-29T13:24:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0011b94d8564947ed5cbc917957e23a87db36da9",
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0042-python-version-3.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-29T13:24:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0011b94d8564947ed5cbc917957e23a87db36da9",
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0002-use-serverless-infra-components.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-09-22T07:48:12Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "50d05a49693276d7ef5061499aeee924292df153",
+            "c2e22f5b026ad5aed35f873bd3ca0fcdc29b1c19",
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0011-cqrs-separates-read-and-write-responsibility.md",
+      "template": "Nygard",
+      "status": "Accepted Related to [10. Event sourcing captures every change to business state](0010-event-sourcing-captures-every-change-to-business-state.md) Related to [9. URI identifies data](0009-uri-identifies-data.md) Implemented by [16. Pub/Sub implements Event sourcing](0016-pub-sub-implements-event-sourcing.md)",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-09-30T07:10:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8e936a7815b32528f27ef8057b2a2622e9d338a8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0053-project-company-data.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md) Implements [12. Data catalog specifies all data components](0012-data-catalog-specifies-all-data-components.md) Implements [13. Data retention defined on each data component](0013-data-retention-defined-on-each-data-component.md) Implements [52. ODRL policy](0052-odrl-policy.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-11-06T13:35:51Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a26a7feb60115c81310abd80805e5c35742f15cd",
+            "6797d73cb989e1cb87626657b01b6b8182c6d9d1",
+            "c60cb72d064394653a070c93bf7ed76bfb90ce10",
+            "6c2ef281f9f6186d97aa336f4820a5d96a1a15ea"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0027-a-gcp-project-belongs-to-a-single-domain.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [17. DDD defines ubiquitous language](0017-ddd-defines-ubiquitous-language.md) Related to [25. Domains correspond to business departments](0025-domains-correspond-to-business-departments.md) Related to [28. A solution is implemented by one or more GCP projects](0028-a-solution-is-implemented-by-one-or-more-gcp-projects.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-16T11:17:09Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a188f97b50dbcb0bad7574ea6a10aba64a008627",
+            "f152c6d0f249e9db64ecdbd6e9abcb75f0029967",
+            "1b680c745c355773d8c8ab5cf0037a9fa85d7256"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0004-create-software-defined-everything.md",
+      "template": "Nygard",
+      "status": "Accepted Implemented by [42. Python version 3](0042-python-version-3.md) Implemented by [43. API First](0043-api-first.md) Implemented by [44. OpenAPI3](0044-openapi3.md) Implemented by [45. Code / config separation](0045-code-config-separation.md) Implemented by [46. Javascript framework](0046-javascript-framework.md) Implemented by [47. Shell scripting](0047-shell-scripting.md) Implemented by [48. Testing framework](0048-testing-framework.md) Implemented by [49. gitops Deployment](0049-gitops-deployment.md) Implemented by [50. Expand pip requirements](0050-expand-pip-requirements.md) Implemented by [51. Declarative preferred over actions](0051-declarative-preferred-over-actions.md) Implemented by [52. ODRL policy](0052-odrl-policy.md) Implemented by [53. Project company data](0053-project-company-data.md) Implemented by [54. Coding guidelines](0054-coding-guidelines.md) Implemented by [55. Feature toggles over feature branching](0055-feature-toggles-over-feature-branching.md) Implemented by [12. Data catalog specifies all data components](0012-data-catalog-specifies-all-data-components.md) Implemented by [13. Data retention defined on each data component](0013-data-retention-defined-on-each-data-component.md) Implemented by [41. Deployment through Pull Request](0041-deployment-through-pull-request.md)",
+      "firstCommit": "2020-09-21T12:40:35Z",
+      "lastCommit": "2020-10-30T07:09:14Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "83e7ca3bd4266b1b91b5d715433cd9adcbe182ac",
+            "a26a7feb60115c81310abd80805e5c35742f15cd",
+            "6797d73cb989e1cb87626657b01b6b8182c6d9d1",
+            "34c23c2520d91c36d30da9c7238b57517f7147d8"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d",
+            "14cf9da1922e9feba7195c6dfcac084ad7b3788e",
+            "17eb3e82ede21b1353ef306ac5de3d02ac376c87"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0029-components-are-named-according-to-naming-conventions.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [17. DDD defines ubiquitous language](0017-ddd-defines-ubiquitous-language.md) Implemented by [57. Naming convention defines URI tags](0057-naming-convention-defines-uri-tags.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-27T09:03:18Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "def68e60440f65d7f8bcce000ad51ecb9fc34fa1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "74042561f0f932e381ea33e79688c95aeeddb337",
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0043-api-first.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [4. Create software defined everything](0004-create-software-defined-everything.md) Related to [58. API is trust boundary ODH](0058-api-is-trust-boundary-odh.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-30T07:39:22Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e95c3ef3bf5d4c483e43c143392380be2eaed1c3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0011b94d8564947ed5cbc917957e23a87db36da9",
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-17T08:35:34Z",
+      "lastCommit": "2020-09-17T08:35:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93627386a72517c1beab212ce8650ec0038e82f8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/adr",
+      "path": "0033-two-identity-providers-development-run.md",
+      "template": "Nygard",
+      "status": "Accepted Implements [6. Implement Security by Design](0006-implement-security-by-design.md)",
+      "firstCommit": "2020-09-21T14:31:15Z",
+      "lastCommit": "2020-10-21T07:23:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf34619faa4de8bff8873bcf54f89d5a38e6f464"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "coding_guidelines/adr",
+      "path": "0004-code-smells.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-15T11:14:26Z",
+      "lastCommit": "2021-02-23T12:38:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3fea11b1af927a92c49f67a7f9b4af299263fbd6",
+            "164e06a3a711152def6babe06b59ec3c227c46c7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "coding_guidelines/adr",
+      "path": "0006-openapi-guidelines.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-25T16:28:30Z",
+      "lastCommit": "2021-02-25T16:28:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "491ec8443c35bb9b405ec20b1fffc547b58bf73a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "coding_guidelines/adr",
+      "path": "0011-storage-naming-guidelines.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-26T12:58:40Z",
+      "lastCommit": "2021-04-26T12:58:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c876a9d562468aeccfeb669fd6d7615772e07e99"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "coding_guidelines/adr",
+      "path": "0005-oauth-scope-naming-conventions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-18T10:30:07Z",
+      "lastCommit": "2021-02-18T10:30:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e6ff535671c504dca7c9f0c18616532545580b9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "coding_guidelines/adr",
+      "path": "0009-cloud-function-entrypoint.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-24T14:57:59Z",
+      "lastCommit": "2021-03-24T14:57:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3fbde95e978fb5f1cf0864d68853ce2a5a68a7f8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "coding_guidelines/adr",
+      "path": "0003-repo-directory-structure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-08T11:41:30Z",
+      "lastCommit": "2021-02-08T11:41:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9764824905cede3be558e077d03151fe40784995"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "coding_guidelines/adr",
+      "path": "0010-cloudbuild-yaml-style.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-12T09:32:04Z",
+      "lastCommit": "2021-04-12T10:54:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "caa5dcc727419abe649b33c545a85cce50f58e43",
+            "4c5b07624ff10019ea5a60fa77a31aebbaad44e0"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "coding_guidelines/adr",
+      "path": "0008-config-and-environment-variables.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-15T12:49:31Z",
+      "lastCommit": "2021-03-15T13:28:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0244c7624777afa71494356ee703733ae809e5a",
+            "ad1e01314e882d690f0c17e80d3f26a92c100147"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "coding_guidelines/adr",
+      "path": "0001-record-coding-guidelines.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-02T07:40:50Z",
+      "lastCommit": "2021-02-04T09:23:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ef5c3f6038369fe3059a844ffacf69fc90185ee0",
+            "42794152ad67c44663bd04bafd0007ca7fb333eb"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "coding_guidelines/adr",
+      "path": "0002-repo-naming-conventions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-03T08:14:37Z",
+      "lastCommit": "2021-02-04T09:23:07Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0cea4d99d11c74a32796159edd3a21104ac13cb1",
+            "4e48a2768c3db7d5b29be85e1e76f59ec63f35db",
+            "ef5c3f6038369fe3059a844ffacf69fc90185ee0"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "coding_guidelines/adr",
+      "path": "0013-dataflow-diagrams.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-06-01T06:42:00Z",
+      "lastCommit": "2021-06-01T06:44:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "55d1e44414d53fdfbdeb78a882365bb7fd83ef50",
+            "d03cbe07292fe84213ede81164ce278ec97f4cf6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "coding_guidelines/adr",
+      "path": "0007-starting-a-flask-app.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-11T14:48:37Z",
+      "lastCommit": "2021-03-15T12:49:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9b8e4a0850b9876aab39757702dc4d46a81a1135"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0244c7624777afa71494356ee703733ae809e5a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "coding_guidelines/adr",
+      "path": "0012-repository-organisation-rules.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-10T12:20:00Z",
+      "lastCommit": "2021-05-10T12:20:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "35b4b2a69a3ecb4e4140b3fb1c4d722803d4d102"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-17T08:35:34Z",
+  "lastAdrCommit": "2021-07-21T13:55:47Z",
+  "firstCommit": "2020-08-12T08:01:53Z",
+  "lastCommit": "2021-07-23T11:33:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "55d1e44414d53fdfbdeb78a882365bb7fd83ef50",
+        "5a0e1760ead89657cbb3fad79ba6ebb3e63ffe4f",
+        "caa5dcc727419abe649b33c545a85cce50f58e43",
+        "4c5b07624ff10019ea5a60fa77a31aebbaad44e0",
+        "8dceb1692c3211f44581f6d42c6eee2638a708d2",
+        "9e3d3994e998e5321cc6d00df369a5ec80675503",
+        "c876a9d562468aeccfeb669fd6d7615772e07e99",
+        "d03cbe07292fe84213ede81164ce278ec97f4cf6"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9b8e4a0850b9876aab39757702dc4d46a81a1135",
+        "3fbde95e978fb5f1cf0864d68853ce2a5a68a7f8"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1ac0ddadf48b381fd474b353c65c91013a8069fd",
+        "6797d73cb989e1cb87626657b01b6b8182c6d9d1",
+        "660e40a178b9a13b8601cd93362dd498e7469c98",
+        "d9c967e12202a7df18a3d96a22981e36c82f33e4",
+        "d4794bade018eb1826887634d149bfab95ec5cfd",
+        "b36df84f342cc975aa580c4c357a1e3d8445ff64",
+        "a188f97b50dbcb0bad7574ea6a10aba64a008627",
+        "acd65e78c37168a43c6f7836ff067a57e388a391",
+        "8e936a7815b32528f27ef8057b2a2622e9d338a8",
+        "bb1f928c6ebca7d5253a13cd7e5ac3b9ce763679",
+        "c60cb72d064394653a070c93bf7ed76bfb90ce10",
+        "7522e08c1238d615849d91a4f38098a7d412e85d",
+        "795d453d7fb9e53799cdcc322fb8efb54d241ab7",
+        "1b680c745c355773d8c8ab5cf0037a9fa85d7256",
+        "0364b1be34b0b53440e0ca544bf83a5a301bab81",
+        "085584da59a9a7f85b40d7455bafbfef82e01681",
+        "79060820a20e9214facbbe7ffe8a0df1014468ed",
+        "83e7ca3bd4266b1b91b5d715433cd9adcbe182ac",
+        "a26a7feb60115c81310abd80805e5c35742f15cd",
+        "0767438f591cb3fe9fd841c854336069c75ad1eb",
+        "34c23c2520d91c36d30da9c7238b57517f7147d8",
+        "252b4f6298c6d9cfd58b8bb10366ebea14c94652",
+        "f34e6808d7250693f5e894e9416172f533bde154",
+        "6c2ef281f9f6186d97aa336f4820a5d96a1a15ea",
+        "f152c6d0f249e9db64ecdbd6e9abcb75f0029967",
+        "4359045263f3a6067b64c23f0692f64b480a4814",
+        "25249e9a63e2248acc26ac586364b982e5061205",
+        "e95c3ef3bf5d4c483e43c143392380be2eaed1c3",
+        "cf34619faa4de8bff8873bcf54f89d5a38e6f464",
+        "57a8358bec55f506adc62ad1bdc55d332bd8511a",
+        "def68e60440f65d7f8bcce000ad51ecb9fc34fa1",
+        "60983899e40cdb929298e6bfb0db4e397a0c9072",
+        "f46a6da08903733e4fd588004ceee7d971fedd79",
+        "b2e3f9ba2282644d17fa418659b4637617a5b453"
+      ],
+      "numberOfCommits": 34
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3fea11b1af927a92c49f67a7f9b4af299263fbd6",
+        "491ec8443c35bb9b405ec20b1fffc547b58bf73a",
+        "164e06a3a711152def6babe06b59ec3c227c46c7"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b0244c7624777afa71494356ee703733ae809e5a",
+        "79141bddf046622acc5acd90eeaeb0fff3102087",
+        "ad1e01314e882d690f0c17e80d3f26a92c100147"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6fa5b40808a3e9ed3cb76d72c7fd5591761da5e6",
+        "326caff5b0080a41647b6ae9c95669f1e38dbf83",
+        "93627386a72517c1beab212ce8650ec0038e82f8",
+        "bcba7d3924161fc90845d8876b97a4411173788d",
+        "e4b20080bf46f3c1087fe7ea224da5d2e2bd93c4",
+        "2c5c95a19a075dd50fd5a7974e04a4a0159e5ef2",
+        "ef5c3f6038369fe3059a844ffacf69fc90185ee0",
+        "15bcbe10c7e63d43c7fad0ffaf44dc371842a128",
+        "c2a0caeb227db8382fba90b1a3fb4b86812ee404",
+        "0011b94d8564947ed5cbc917957e23a87db36da9",
+        "0cea4d99d11c74a32796159edd3a21104ac13cb1",
+        "74042561f0f932e381ea33e79688c95aeeddb337",
+        "b7c8dec891c87f1193d4eeace5ddb378c746032d",
+        "50d05a49693276d7ef5061499aeee924292df153",
+        "8fe481b729b3e50ef4d8f4866ed34cc843174a89",
+        "4e48a2768c3db7d5b29be85e1e76f59ec63f35db",
+        "c2e22f5b026ad5aed35f873bd3ca0fcdc29b1c19",
+        "9ef48a9a8dffe87479288a519bf6d161acbd0095",
+        "c9df79a2cfc4b57f7ba4ac9d892492ace6129faf",
+        "6a4abd4223afd13ffbdf1597e0f6c61f4a20fbbd",
+        "2b7e611cc4896405566f24be2e4295c1b94e5a21",
+        "8a2825acafa23f1a32c53a48a6ff44377fb0f290",
+        "f0d8f4171fcffd1f8e2659f46e4eba22c0abb86d",
+        "14cf9da1922e9feba7195c6dfcac084ad7b3788e",
+        "9764824905cede3be558e077d03151fe40784995",
+        "0f2014caa292aa7e54f18e291f4f35571c04296c",
+        "a9d953207f6fc1e3972a50057f0673cf0aceab44",
+        "17eb3e82ede21b1353ef306ac5de3d02ac376c87",
+        "42794152ad67c44663bd04bafd0007ca7fb333eb"
+      ],
+      "numberOfCommits": 29
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "35b4b2a69a3ecb4e4140b3fb1c4d722803d4d102",
+        "1e6ff535671c504dca7c9f0c18616532545580b9"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

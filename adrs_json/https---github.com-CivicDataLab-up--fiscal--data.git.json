@@ -1,0 +1,220 @@
+{
+  "repositoryUrl": "https://github.com/CivicDataLab/up-fiscal-data.git",
+  "crawlDateTime": "2022-01-18T23:17:57.727334",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decisions"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "decisions",
+      "path": "009-dashboard-tooling.md",
+      "template": "Madr",
+      "status": "[proposed]",
+      "firstCommit": "2021-02-24T16:40:19Z",
+      "lastCommit": "2021-02-24T16:43:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4e767380cfca65ecd2efff2af1e18a645e384998",
+            "a95288ae3c8d99322b58470ed6861fc3a1337631"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "001-source.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-22T04:44:34Z",
+      "lastCommit": "2020-11-26T03:48:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "418937305b37f28007fd556481d192541f9d5d94",
+            "d3df742b10dbeea4d802c3e5fb5b634be9f128dd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "004-receipts.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-22T04:44:34Z",
+      "lastCommit": "2020-11-26T03:48:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "418937305b37f28007fd556481d192541f9d5d94",
+            "d3df742b10dbeea4d802c3e5fb5b634be9f128dd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "002-koshvani.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-22T04:44:34Z",
+      "lastCommit": "2020-11-26T03:48:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "418937305b37f28007fd556481d192541f9d5d94",
+            "d3df742b10dbeea4d802c3e5fb5b634be9f128dd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "003-selnium.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-22T04:44:34Z",
+      "lastCommit": "2020-11-26T03:48:07Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "418937305b37f28007fd556481d192541f9d5d94",
+            "d3df742b10dbeea4d802c3e5fb5b634be9f128dd",
+            "b4988fd9e4ae81e209c84cd8ffffc25732576591"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "007-rescoping.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-09T13:04:51Z",
+      "lastCommit": "2020-11-26T03:48:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "418937305b37f28007fd556481d192541f9d5d94",
+            "7338905664de635289c99a9d7571fc046864a62a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "008-grant-wise.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-26T04:01:50Z",
+      "lastCommit": "2020-11-26T04:01:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "effc2fc6a62a9796a528b7493aba2ee64dbc3eec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "005-phases.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-22T04:44:34Z",
+      "lastCommit": "2020-11-26T03:48:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "418937305b37f28007fd556481d192541f9d5d94",
+            "d3df742b10dbeea4d802c3e5fb5b634be9f128dd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "006-time.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-09T10:48:43Z",
+      "lastCommit": "2020-11-26T03:48:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e54630d2b06f15c47ae8b6254601a9d80b23836",
+            "418937305b37f28007fd556481d192541f9d5d94"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-22T04:44:34Z",
+  "lastAdrCommit": "2021-02-24T16:43:03Z",
+  "firstCommit": "2020-09-20T06:56:09Z",
+  "lastCommit": "2021-04-19T03:47:18Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1e54630d2b06f15c47ae8b6254601a9d80b23836",
+        "effc2fc6a62a9796a528b7493aba2ee64dbc3eec",
+        "418937305b37f28007fd556481d192541f9d5d94",
+        "d3df742b10dbeea4d802c3e5fb5b634be9f128dd",
+        "b4988fd9e4ae81e209c84cd8ffffc25732576591",
+        "7338905664de635289c99a9d7571fc046864a62a"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4e767380cfca65ecd2efff2af1e18a645e384998",
+        "a95288ae3c8d99322b58470ed6861fc3a1337631"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

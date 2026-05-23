@@ -1,0 +1,125 @@
+{
+  "repositoryUrl": "https://github.com/Quarterback16/NflManager.git",
+  "crawlDateTime": "2022-01-18T21:18:34.318692",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    ""
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "",
+      "path": "0004-use-in-memory-database-for-persistence.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-13T03:01:50Z",
+      "lastCommit": "2017-04-13T03:10:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c393f9fbf818468d39f48a8a301fc14cd999097b",
+            "1f86ac614c0f572395c215565e9892406804e8bd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0002-use-a-domaincentric-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-12T06:41:53Z",
+      "lastCommit": "2017-04-12T06:41:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6c397de5172f58c280bcfe2bd46ab18d34146552"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0003-use-a-unix-style-command-line-interface-for-the-presentation-layer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-13T02:15:09Z",
+      "lastCommit": "2017-04-13T02:15:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1a383aefd59b670e16c2be6896b9f7198e5883a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0005-use-the-abstractions-defined-in-CQRSLite.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-13T03:10:51Z",
+      "lastCommit": "2017-04-13T03:10:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f86ac614c0f572395c215565e9892406804e8bd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-12T06:41:53Z",
+      "lastCommit": "2017-04-12T06:41:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6c397de5172f58c280bcfe2bd46ab18d34146552"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-04-12T06:41:53Z",
+  "lastAdrCommit": "2017-04-13T03:10:51Z",
+  "firstCommit": "2017-04-12T06:41:47Z",
+  "lastCommit": "2017-04-14T01:49:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b1a383aefd59b670e16c2be6896b9f7198e5883a",
+        "c393f9fbf818468d39f48a8a301fc14cd999097b",
+        "1f86ac614c0f572395c215565e9892406804e8bd",
+        "6c397de5172f58c280bcfe2bd46ab18d34146552"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

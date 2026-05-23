@@ -1,0 +1,88 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/datagovuk_publish.git",
+  "crawlDateTime": "2022-01-18T22:55:10.469421",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-licences.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-08T08:32:07Z",
+      "lastCommit": "2020-06-09T15:32:00Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b5f80b7f7e0e3301ff41c811dec97aad13ab206e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc86e334c804fe6e998e2bdf8f777e3ed32777de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-signon.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-08T08:32:07Z",
+      "lastCommit": "2020-06-09T15:32:00Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b5f80b7f7e0e3301ff41c811dec97aad13ab206e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc86e334c804fe6e998e2bdf8f777e3ed32777de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-08T08:32:07Z",
+  "lastAdrCommit": "2020-06-09T15:32:00Z",
+  "firstCommit": "2017-05-31T13:33:21Z",
+  "lastCommit": "2021-12-16T22:02:52Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b5f80b7f7e0e3301ff41c811dec97aad13ab206e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cc86e334c804fe6e998e2bdf8f777e3ed32777de"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

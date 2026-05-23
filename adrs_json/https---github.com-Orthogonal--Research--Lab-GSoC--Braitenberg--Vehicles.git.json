@@ -1,0 +1,104 @@
+{
+  "repositoryUrl": "https://github.com/Orthogonal-Research-Lab/GSoC-Braitenberg-Vehicles.git",
+  "crawlDateTime": "2022-01-18T20:13:04.178847",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "Stefan/doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "Stefan/doc/adr",
+      "path": "use_kotlin_tornadofx.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-06-08T14:04:44Z",
+      "lastCommit": "2019-06-08T14:04:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53ce2c02c9621f59accd3bb2c0eaa78006a4806a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Stefan/doc/adr",
+      "path": "use_javafx_for_animation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-06-08T14:04:44Z",
+      "lastCommit": "2019-06-08T14:04:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53ce2c02c9621f59accd3bb2c0eaa78006a4806a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Stefan/doc/adr",
+      "path": "use_two_steps_GA_for_graphs.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-06-20T20:17:17Z",
+      "lastCommit": "2019-06-20T20:17:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e6da87480f8979eef462105ebe692be1ac98afe2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Stefan/doc/adr",
+      "path": "use_xchart_for_plotting.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-07-19T06:48:59Z",
+      "lastCommit": "2019-07-19T06:48:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f32f4f4c068e3943dd7c365bae4ca6fa3d1774d1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-06-08T14:04:44Z",
+  "lastAdrCommit": "2019-07-19T06:48:59Z",
+  "firstCommit": "2019-03-19T03:50:47Z",
+  "lastCommit": "2020-02-28T06:11:15Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f32f4f4c068e3943dd7c365bae4ca6fa3d1774d1",
+        "e6da87480f8979eef462105ebe692be1ac98afe2",
+        "53ce2c02c9621f59accd3bb2c0eaa78006a4806a"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

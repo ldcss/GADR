@@ -1,0 +1,439 @@
+{
+  "repositoryUrl": "https://github.com/kframework/kore.git",
+  "crawlDateTime": "2022-01-18T20:34:28.680613",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "design-decisions"
+  ],
+  "numAdrFiles": 16,
+  "adrFiles": [
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2018-09-17-Builtin-Map.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-20T14:05:52Z",
+      "lastCommit": "2018-09-24T16:35:07Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32b16df67fe224c1022c8e79bd45f35e985163a7",
+            "7452f31c6ae4b0501541f9ef67cd96d74227abdc",
+            "ea6760a3e09a34cec8385a38db123cd0f14d3076",
+            "5f8fee6ed79a74a68d9aaf286f4c90452b493e91"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2018-10-24-And-Not-Exists-Simplification.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-11-20T09:47:01Z",
+      "lastCommit": "2019-03-11T08:15:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "04c32da2924ff1529cca4526d7ea9ae70335fbb9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d41da0276102f7443ebc6e8e08de6d360468992d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "0000-00-00-Template.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-20T21:02:23Z",
+      "lastCommit": "2018-09-20T21:02:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4e09dbad93b2ca2606b2a70400e0992f70265648"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2019-01-14-Function-Evaluation-Simplification.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-14T19:41:59Z",
+      "lastCommit": "2019-01-14T19:41:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "23d0b84977ecb3278e7fb3576972cf9cf45894ad"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2018-07-25 Attributes as patterns.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-07-27T08:49:20Z",
+      "lastCommit": "2019-01-30T21:52:57Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca4b88cf92a1dc3b6dfcd1a5ebe54bcebe3255bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "486dff6d816bbb30a360f0a88f66d7f241fbc268",
+            "8db4729409255d1fc600c596f1c3b66483a56a43"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2020-02-06-One-Path-Deterministic.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-10T18:00:43Z",
+      "lastCommit": "2020-02-10T18:00:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e77b4c94b113e45ee66518752aea3e2638e84c8f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2018-09-03-Owise-encoding.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-05T13:18:21Z",
+      "lastCommit": "2018-09-05T13:18:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7626e243553ecbf445784b0b9aeb5ee74a09f5fa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2018-09-20-Decision-Template.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-20T21:02:23Z",
+      "lastCommit": "2018-09-20T21:02:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4e09dbad93b2ca2606b2a70400e0992f70265648"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2018-11-05-Translating-predicates.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-11-07T19:03:02Z",
+      "lastCommit": "2018-11-07T19:03:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e682735d4544122086c9038c6a3ce2fff8dce6b8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2018-09-25-Hook-Attribute.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-26T15:41:48Z",
+      "lastCommit": "2018-09-26T15:41:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aae2a00166d108c6df6c691541ae0378719ae564"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2020-05-02-function-rules.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-11T20:20:29Z",
+      "lastCommit": "2021-06-29T19:49:40Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "da71a9b1e190e0a03fdd82bb15bdb641da1151da"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "797767163899eccabfa0068f60d47a9a05ae1172"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3b324f975442cbb11169b82798b3a48ea672933"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2018-11-14-Heating-Cooling-Representation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-11-21T23:18:05Z",
+      "lastCommit": "2018-11-21T23:18:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c6baec9dfa4b763550d729ed362696e6d08fe6aa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2018-08-16 Repeated Attributes.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-08-16T15:43:37Z",
+      "lastCommit": "2018-08-16T15:43:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ba2db2560bdd81f0b764af8568d88d1474eb9d4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2019-03-20-Ensures-for-Axioms.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-21T11:43:39Z",
+      "lastCommit": "2019-03-21T11:43:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "236cf65bf478a558e81bb115165fc4f297185a8d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2018-09-18-Substitution-Predicate-Top-Evaluation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-26T13:16:34Z",
+      "lastCommit": "2018-09-26T13:16:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc987656ea9ef0b40f178a149123388f668c339c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design-decisions",
+      "path": "2020-01-02-Side-conditions-for-predicates.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-06T23:05:23Z",
+      "lastCommit": "2020-01-20T13:50:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f5523442e2302e2dbb6dced8300ba53f6aaa7f3",
+            "f151eb0e6ceccb39b4f4e365bc557741c99e0a92"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-27T08:49:20Z",
+  "lastAdrCommit": "2021-06-29T19:49:40Z",
+  "firstCommit": "2016-10-24T20:48:27Z",
+  "lastCommit": "2022-01-17T19:16:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ca4b88cf92a1dc3b6dfcd1a5ebe54bcebe3255bf"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7ba2db2560bdd81f0b764af8568d88d1474eb9d4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "04c32da2924ff1529cca4526d7ea9ae70335fbb9"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "da71a9b1e190e0a03fdd82bb15bdb641da1151da"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "797767163899eccabfa0068f60d47a9a05ae1172"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e77b4c94b113e45ee66518752aea3e2638e84c8f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c6baec9dfa4b763550d729ed362696e6d08fe6aa",
+        "7f5523442e2302e2dbb6dced8300ba53f6aaa7f3",
+        "486dff6d816bbb30a360f0a88f66d7f241fbc268",
+        "8db4729409255d1fc600c596f1c3b66483a56a43",
+        "4e09dbad93b2ca2606b2a70400e0992f70265648",
+        "f151eb0e6ceccb39b4f4e365bc557741c99e0a92",
+        "23d0b84977ecb3278e7fb3576972cf9cf45894ad",
+        "fc987656ea9ef0b40f178a149123388f668c339c",
+        "7626e243553ecbf445784b0b9aeb5ee74a09f5fa",
+        "d41da0276102f7443ebc6e8e08de6d360468992d",
+        "236cf65bf478a558e81bb115165fc4f297185a8d"
+      ],
+      "numberOfCommits": 11
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f3b324f975442cbb11169b82798b3a48ea672933",
+        "32b16df67fe224c1022c8e79bd45f35e985163a7",
+        "7452f31c6ae4b0501541f9ef67cd96d74227abdc",
+        "e682735d4544122086c9038c6a3ce2fff8dce6b8",
+        "aae2a00166d108c6df6c691541ae0378719ae564",
+        "ea6760a3e09a34cec8385a38db123cd0f14d3076",
+        "5f8fee6ed79a74a68d9aaf286f4c90452b493e91"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

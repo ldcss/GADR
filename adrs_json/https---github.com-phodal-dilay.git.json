@@ -1,0 +1,87 @@
+{
+  "repositoryUrl": "https://github.com/phodal/dilay.git",
+  "crawlDateTime": "2022-01-18T20:45:20.907716",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-compile-api-to-transfter-class.md",
+      "template": "Nygard",
+      "status": "2019-09-02 proposed",
+      "firstCommit": "2019-09-02T09:42:42Z",
+      "lastCommit": "2019-09-02T12:55:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "077fe64cb329e67ec27ba6b75e79ab8fab88b894",
+            "ef2cca254056747dcf8c1ed44e8d34187cbd7b20"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-config-file-decision.md",
+      "template": "Nygard",
+      "status": "2019-08-23 proposed",
+      "firstCommit": "2019-08-23T06:01:23Z",
+      "lastCommit": "2019-08-23T06:01:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c98f109f99661b352f4f3a0635aeecb6def1154c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-framework-project-directory-examples.md",
+      "template": "Nygard",
+      "status": "2019-08-29 proposed",
+      "firstCommit": "2019-08-29T01:28:11Z",
+      "lastCommit": "2019-08-29T01:28:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "12257a1e7e79378713da550549ca63f1f483f1e1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-23T06:01:23Z",
+  "lastAdrCommit": "2019-09-02T12:55:09Z",
+  "firstCommit": "2019-08-22T07:38:40Z",
+  "lastCommit": "2020-07-13T22:26:45Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "12257a1e7e79378713da550549ca63f1f483f1e1",
+        "c98f109f99661b352f4f3a0635aeecb6def1154c",
+        "077fe64cb329e67ec27ba6b75e79ab8fab88b894",
+        "ef2cca254056747dcf8c1ed44e8d34187cbd7b20"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

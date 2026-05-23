@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/mozzpop/ichatsdk-evolution.git",
+  "crawlDateTime": "2022-01-18T21:18:34.901008",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-c-language.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2020-10-18T22:53:40Z",
+      "lastCommit": "2020-10-18T22:53:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d8a13b1d6417ff2fbdc91c8a6a7d17ddbf915c7a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-10-18T22:53:40Z",
+      "lastCommit": "2020-10-18T22:53:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d8a13b1d6417ff2fbdc91c8a6a7d17ddbf915c7a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-18T22:53:40Z",
+  "lastAdrCommit": "2020-10-18T22:53:40Z",
+  "firstCommit": "2020-10-18T22:38:14Z",
+  "lastCommit": "2020-10-18T22:55:02Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d8a13b1d6417ff2fbdc91c8a6a7d17ddbf915c7a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

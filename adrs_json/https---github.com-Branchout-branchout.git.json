@@ -1,0 +1,110 @@
+{
+  "repositoryUrl": "https://github.com/Branchout/branchout.git",
+  "crawlDateTime": "2022-01-18T23:18:02.021554",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-testing.md",
+      "template": "Nygard",
+      "status": "Accepted Testing [2. language](0002-language.md)",
+      "firstCommit": "2018-12-01T08:27:56Z",
+      "lastCommit": "2018-12-01T08:27:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a10856d17ab7147423a3d5c311d214da76217c0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-multiple-dot-files-to-make-it-simpler-to-contribute.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-01T08:27:56Z",
+      "lastCommit": "2018-12-01T08:27:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "208982ab04e244517562ffafa5bea935f022aabe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-language.md",
+      "template": "Nygard",
+      "status": "Accepted Testing [3. testing](0003-testing.md)",
+      "firstCommit": "2018-12-01T08:27:56Z",
+      "lastCommit": "2018-12-01T08:27:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a10856d17ab7147423a3d5c311d214da76217c0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-01T08:27:56Z",
+      "lastCommit": "2018-12-01T08:27:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a10856d17ab7147423a3d5c311d214da76217c0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-12-01T08:27:56Z",
+  "lastAdrCommit": "2018-12-01T08:27:56Z",
+  "firstCommit": "2018-09-02T06:33:19Z",
+  "lastCommit": "2022-01-10T05:15:04Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4a10856d17ab7147423a3d5c311d214da76217c0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "208982ab04e244517562ffafa5bea935f022aabe"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

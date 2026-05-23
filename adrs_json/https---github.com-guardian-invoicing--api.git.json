@@ -1,0 +1,49 @@
+{
+  "repositoryUrl": "https://github.com/guardian/invoicing-api.git",
+  "crawlDateTime": "2022-01-18T21:00:56.445902",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "lightweight-architecture.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-04-24T12:36:49Z",
+      "lastCommit": "2020-04-27T10:08:41Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72ee1e0fd7c2b7952f830cb06a83895d4a2bd107",
+            "245a509b5ae1270250093e9a6dc85f44733c04ea",
+            "8e9653f3d41efd560638a7e9095159197320ee0e"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-24T12:36:49Z",
+  "lastAdrCommit": "2020-04-27T10:08:41Z",
+  "firstCommit": "2020-04-20T15:36:50Z",
+  "lastCommit": "2022-01-14T09:28:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "72ee1e0fd7c2b7952f830cb06a83895d4a2bd107",
+        "245a509b5ae1270250093e9a6dc85f44733c04ea",
+        "8e9653f3d41efd560638a7e9095159197320ee0e"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

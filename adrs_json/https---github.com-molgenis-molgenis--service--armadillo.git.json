@@ -1,0 +1,263 @@
+{
+  "repositoryUrl": "https://github.com/molgenis/molgenis-service-armadillo.git",
+  "crawlDateTime": "2022-01-18T19:26:42.604502",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-use-roles-to-authorise-users-to-use-data.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-08T08:36:53Z",
+      "lastCommit": "2020-05-08T08:36:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "97d56bd45a13770b37abcec5d778f7ef2a80a133",
+            "83c08e0ddfa72166f901244567c3525739294f17"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-implement-method-security-using-datashield4j.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-01T15:15:40Z",
+      "lastCommit": "2020-04-09T12:50:36Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "268ea73c61506d751b2d62377aecf007aa930604"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "33e0a4132567d5f96a3f16dc6a299c90dccece42",
+            "cdc8c9a48c4aab7f6845807c7257a19f3cef8bf6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-implement-asynchronicity-in-requestflow.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-01T15:15:40Z",
+      "lastCommit": "2020-04-09T12:50:36Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d932c517cd27e46f542fce1099c90d7212a6c7c0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "33e0a4132567d5f96a3f16dc6a299c90dccece42",
+            "cdc8c9a48c4aab7f6845807c7257a19f3cef8bf6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-load-multiple-rdata-files.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-08T08:36:53Z",
+      "lastCommit": "2020-05-08T08:36:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "feaadc0f4edd72a73371db95b76355cefd15c7be",
+            "97d56bd45a13770b37abcec5d778f7ef2a80a133"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-rdata-format-as-data-input.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-08T08:36:53Z",
+      "lastCommit": "2020-05-08T08:36:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ddccaf410a40098f2655475be6e8914874783067",
+            "97d56bd45a13770b37abcec5d778f7ef2a80a133"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-use-adr-to-describe-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-01T15:15:40Z",
+      "lastCommit": "2020-04-09T12:50:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "33e0a4132567d5f96a3f16dc6a299c90dccece42",
+            "cdc8c9a48c4aab7f6845807c7257a19f3cef8bf6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-use-bean-scope-for-profiles.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-10-07T06:59:09Z",
+      "lastCommit": "2021-10-22T15:22:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "557b4aa75976862aa68727c86ac306ea5cf63ad0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "acc1147d2cdd523146513108c4939999abf8bfc3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-deploy-on-both-vm-and-kubernetes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-01T15:15:40Z",
+      "lastCommit": "2020-04-09T12:50:36Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26be9f28901489f282b4885f0a1a70cddf2935d3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "33e0a4132567d5f96a3f16dc6a299c90dccece42",
+            "cdc8c9a48c4aab7f6845807c7257a19f3cef8bf6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-implement-authentication-using-openid.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-01T15:15:40Z",
+      "lastCommit": "2020-04-09T12:52:14Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "80b49509c60bd80c47953cc004002814c986858e",
+            "33e0a4132567d5f96a3f16dc6a299c90dccece42",
+            "cdc8c9a48c4aab7f6845807c7257a19f3cef8bf6"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-01T15:15:40Z",
+  "lastAdrCommit": "2021-10-22T15:22:05Z",
+  "firstCommit": "2020-02-14T13:18:58Z",
+  "lastCommit": "2021-12-24T14:54:01Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "268ea73c61506d751b2d62377aecf007aa930604",
+        "d932c517cd27e46f542fce1099c90d7212a6c7c0",
+        "557b4aa75976862aa68727c86ac306ea5cf63ad0",
+        "26be9f28901489f282b4885f0a1a70cddf2935d3"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ddccaf410a40098f2655475be6e8914874783067",
+        "33e0a4132567d5f96a3f16dc6a299c90dccece42",
+        "cdc8c9a48c4aab7f6845807c7257a19f3cef8bf6",
+        "80b49509c60bd80c47953cc004002814c986858e",
+        "feaadc0f4edd72a73371db95b76355cefd15c7be",
+        "97d56bd45a13770b37abcec5d778f7ef2a80a133",
+        "83c08e0ddfa72166f901244567c3525739294f17"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "acc1147d2cdd523146513108c4939999abf8bfc3"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

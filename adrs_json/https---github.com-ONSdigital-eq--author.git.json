@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/ONSdigital/eq-author.git",
+  "crawlDateTime": "2022-01-18T21:09:43.498752",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc",
+      "path": "001-typescript.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-09-21T10:53:20Z",
+      "lastCommit": "2017-09-21T10:53:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a6234233951ebe880d6db925d7c14b7ca44a4190"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-09-21T10:53:20Z",
+  "lastAdrCommit": "2017-09-21T10:53:20Z",
+  "firstCommit": "2017-02-15T14:31:17Z",
+  "lastCommit": "2019-07-18T08:54:14Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a6234233951ebe880d6db925d7c14b7ca44a4190"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# [ADR-001] Layered Architecture for Multi-Agent AI System
+- **Status**: Accepted
+- **Context**: The project involves building a conversational, multi-agent AI system. The team needs to establish the foundational architectural pattern to logically organize the codebase and separate concerns across the UI, business logic (APIs), and data layers. The system must support both synchronous and asynchronous operations without introducing premature operational complexity.
+- **Decision**: Adopt a Layered Architecture, integrating principles of Hexagonal Architecture to enforce strict isolation between the core domain logic and external dependencies (APIs, repositories, external services).
+- **Considered Options**:
+  - *Option 1: Event-Driven Architecture.* Rejected. While highly effective for real-time reactive processing and analytics in conversational AI contexts, implementing a dedicated messaging infrastructure (routing events via topics/channels) introduces unnecessary complexity and overhead for the current phase of the project.
+  - *Option 2: Microservices.* Rejected. Splitting the application into independently deployable units based on domain boundaries was deemed excessive and too complex for the current scope.
+  - *Option 3: Microkernel Architecture.* Rejected. Building a highly decoupled core system with external plug-and-play modules does not align with the immediate goal of rapid, simplified development.
+- **Consequences**:
+  - *Pros:* Drastically simplifies the initial development model and operational architecture; enables straightforward unit testing by allowing isolated testing of data, business, and presentation layers without cross-dependency pollution.
+  - *Cons:* Foregoes native real-time pub/sub capabilities out of the box; might require architectural adjustments or migration to an event-driven model if multi-agent communication evolves to require heavy, real-time reactive streaming in the future.

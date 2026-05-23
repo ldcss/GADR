@@ -1,0 +1,257 @@
+{
+  "repositoryUrl": "https://github.com/nicoespeon/abracadabra.git",
+  "crawlDateTime": "2022-01-18T17:44:56.008504",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-integration-tests.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [2. No integration test](0002-no-integration-test.md)",
+      "firstCommit": "2021-01-21T13:33:19Z",
+      "lastCommit": "2021-01-21T13:33:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03334e6af1bb23239bc646585e785c27db1559cd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-no-integration-test.md",
+      "template": "Nygard",
+      "status": "Superceded by [10. Integration tests](0010-integration-tests.md)",
+      "firstCommit": "2019-05-24T05:05:57Z",
+      "lastCommit": "2021-01-21T13:33:19Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1268f8d65ef896d3541ef760c7561bf53b6a6a4d",
+            "03334e6af1bb23239bc646585e785c27db1559cd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-custom-testeach-instead-of-jest-it-each.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-14T22:54:47Z",
+      "lastCommit": "2019-07-14T22:54:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c20a67573e88a5a78f05e71607b137d54ac4a8d0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-use-custom-github-actions-to-deploy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-22T22:27:03Z",
+      "lastCommit": "2020-10-22T22:27:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "60aad0eed2a3faa010e20476ae82934ba82736ac"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-hosted-image-links-in-readme.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-04T03:42:49Z",
+      "lastCommit": "2019-07-04T03:42:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "076ce9747a800f6a8e2291c93f76456f7f5b0e4c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-usage-of-readthenwrite-vs-write.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-25T22:03:48Z",
+      "lastCommit": "2019-09-25T22:03:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d33d80e2f8fb0cc4c5b5578affb1437f70b8eb7a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-don-t-propose-quick-fix-for-react-convert-to-pure-component.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-28T03:04:37Z",
+      "lastCommit": "2021-08-20T11:39:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "033b97c43a04f0e8b7e6d83dcd824723b71f4430",
+            "ade3aff3a713ad07e8439f9f6f55bc74167705be"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-recast-for-ast-manipulation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-06T04:27:26Z",
+      "lastCommit": "2021-08-20T11:39:02Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "033b97c43a04f0e8b7e6d83dcd824723b71f4430",
+            "68c1fb61f7195c33db831280aa0d134d03361ba8",
+            "ce83c10662b935febbff85af30acdb200c431ac6"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-24T01:45:00Z",
+      "lastCommit": "2019-05-24T01:45:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "224558fafc2c9247b637a74a7f17fe3c62140d47"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-create-generator-to-bootstrap-new-refactorings.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-11T15:41:43Z",
+      "lastCommit": "2021-01-22T00:05:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f70eeddd098d09e89f82f3b4767c4047047eb1af"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e6826a6280de02ee66a3ed46ef24285754e7e18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-24T01:45:00Z",
+  "lastAdrCommit": "2021-08-20T11:39:02Z",
+  "firstCommit": "2019-05-24T01:45:00Z",
+  "lastCommit": "2022-01-18T15:29:41Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d33d80e2f8fb0cc4c5b5578affb1437f70b8eb7a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f70eeddd098d09e89f82f3b4767c4047047eb1af"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "60aad0eed2a3faa010e20476ae82934ba82736ac",
+        "033b97c43a04f0e8b7e6d83dcd824723b71f4430",
+        "0e6826a6280de02ee66a3ed46ef24285754e7e18",
+        "1268f8d65ef896d3541ef760c7561bf53b6a6a4d",
+        "68c1fb61f7195c33db831280aa0d134d03361ba8",
+        "ce83c10662b935febbff85af30acdb200c431ac6",
+        "c20a67573e88a5a78f05e71607b137d54ac4a8d0",
+        "03334e6af1bb23239bc646585e785c27db1559cd",
+        "224558fafc2c9247b637a74a7f17fe3c62140d47",
+        "076ce9747a800f6a8e2291c93f76456f7f5b0e4c",
+        "ade3aff3a713ad07e8439f9f6f55bc74167705be"
+      ],
+      "numberOfCommits": 11
+    }
+  ]
+}

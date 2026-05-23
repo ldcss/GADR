@@ -1,0 +1,175 @@
+{
+  "repositoryUrl": "https://github.com/cosmos/ibc-go.git",
+  "crawlDateTime": "2022-01-18T19:56:47.322407",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-025-ibc-passive-channels.md",
+      "template": "Nygard",
+      "status": "*deprecated*",
+      "firstCommit": "2021-04-26T13:42:28Z",
+      "lastCommit": "2021-04-26T13:42:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3561ddf7336f71cac3fe0f4cc5dd5a78f0e2769f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-015-ibc-packet-receiver.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-04-26T13:42:28Z",
+      "lastCommit": "2021-09-17T06:50:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f7051429e1cf833a6f65d51e6c3df1609290a549"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3561ddf7336f71cac3fe0f4cc5dd5a78f0e2769f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-027-ibc-wasm.md",
+      "template": "Nygard",
+      "status": "*Draft*",
+      "firstCommit": "2021-05-12T11:44:43Z",
+      "lastCommit": "2021-05-12T11:44:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6dbf32f38ee39b5948bb99362871e72eb9faef50"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-026-ibc-client-recovery-mechanisms.md",
+      "template": "Nygard",
+      "status": "*Accepted*",
+      "firstCommit": "2021-04-26T13:42:28Z",
+      "lastCommit": "2021-05-27T10:50:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3561ddf7336f71cac3fe0f4cc5dd5a78f0e2769f",
+            "c3f482086ad3591a12f113d78446fdf73cfc4a5c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-002-go-module-versioning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2022-01-07T10:21:54Z",
+      "lastCommit": "2022-01-07T10:21:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3ff09277078f5289ba01cfcf6bfef592bb428aaa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-001-coin-source-tracing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-26T13:42:28Z",
+      "lastCommit": "2021-09-17T06:50:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f7051429e1cf833a6f65d51e6c3df1609290a549"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3561ddf7336f71cac3fe0f4cc5dd5a78f0e2769f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-04-26T13:42:28Z",
+  "lastAdrCommit": "2022-01-07T10:21:54Z",
+  "firstCommit": "2021-02-10T15:22:12Z",
+  "lastCommit": "2022-01-18T16:00:49Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6dbf32f38ee39b5948bb99362871e72eb9faef50"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f7051429e1cf833a6f65d51e6c3df1609290a549"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3561ddf7336f71cac3fe0f4cc5dd5a78f0e2769f",
+        "3ff09277078f5289ba01cfcf6bfef592bb428aaa",
+        "c3f482086ad3591a12f113d78446fdf73cfc4a5c"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

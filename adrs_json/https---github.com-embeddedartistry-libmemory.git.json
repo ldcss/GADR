@@ -1,0 +1,87 @@
+{
+  "repositoryUrl": "https://github.com/embeddedartistry/libmemory.git",
+  "crawlDateTime": "2022-01-18T19:39:06.790531",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-expect-external-libc-to-be-supplied-through-subproject-or-cross-file.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-07T21:29:46Z",
+      "lastCommit": "2020-05-07T21:29:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d454b994e667d49207f2b4457e6bd73ecbf45967"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-locking-approach-for-malloc-freelist.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-07T21:29:46Z",
+      "lastCommit": "2020-05-07T21:29:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d454b994e667d49207f2b4457e6bd73ecbf45967"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-20T16:36:10Z",
+      "lastCommit": "2018-03-20T16:36:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7977590ade12c6ca5818e7016f32788a4c55bcf6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-03-20T16:36:10Z",
+  "lastAdrCommit": "2020-05-07T21:29:46Z",
+  "firstCommit": "2017-04-19T16:18:54Z",
+  "lastCommit": "2021-10-01T16:09:17Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7977590ade12c6ca5818e7016f32788a4c55bcf6",
+        "d454b994e667d49207f2b4457e6bd73ecbf45967"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

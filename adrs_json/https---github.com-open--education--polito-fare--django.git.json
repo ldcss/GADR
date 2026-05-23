@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/open-education-polito/fare-django.git",
+  "crawlDateTime": "2022-01-18T19:38:28.914664",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-dockerized-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-10T18:48:07Z",
+      "lastCommit": "2019-03-10T18:48:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "096f03b6b43c76655e24fc6defa9888f098191d3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-10T18:48:07Z",
+  "lastAdrCommit": "2019-03-10T18:48:07Z",
+  "firstCommit": "2019-02-19T21:15:58Z",
+  "lastCommit": "2020-03-16T05:43:28Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "096f03b6b43c76655e24fc6defa9888f098191d3"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

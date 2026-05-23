@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/geodocker/geodocker.git",
+  "crawlDateTime": "2022-01-18T20:23:24.764396",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-0001-deployment.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2016-07-14T14:45:09Z",
+      "lastCommit": "2016-07-14T14:45:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d36f587b5e6b13efe1d3f1c3cb90c217c6197b89"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-07-14T14:45:09Z",
+  "lastAdrCommit": "2016-07-14T14:45:09Z",
+  "firstCommit": "2016-07-14T14:45:09Z",
+  "lastCommit": "2017-07-14T09:41:14Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d36f587b5e6b13efe1d3f1c3cb90c217c6197b89"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

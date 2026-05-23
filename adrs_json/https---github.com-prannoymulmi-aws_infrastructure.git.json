@@ -1,0 +1,142 @@
+{
+  "repositoryUrl": "https://github.com/prannoymulmi/aws_infrastructure.git",
+  "crawlDateTime": "2022-01-18T19:56:42.001568",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-initial-test-user-manually-to-deploy-terraform-state-buckets.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-17T07:20:25Z",
+      "lastCommit": "2020-06-17T07:20:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4779df3133b1248c7d9f4398dd54959c10501205"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-use-terraform-as-infrastructure-as-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-20T12:58:10Z",
+      "lastCommit": "2020-06-20T12:58:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6125628c2c1204ee81f9dc9ef05705083f23d523"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-create-billing-alarm.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-20T12:58:10Z",
+      "lastCommit": "2020-06-20T12:58:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6125628c2c1204ee81f9dc9ef05705083f23d523"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-eu-west-1-as-default-region.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-17T07:20:25Z",
+      "lastCommit": "2020-06-17T07:20:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4779df3133b1248c7d9f4398dd54959c10501205"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-aws-budgets-to-create-budget-alarm.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-20T13:04:49Z",
+      "lastCommit": "2020-06-20T13:04:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "374a90e1bf4d29c49a71d9d3c7ba20ebae40ea49"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-17T07:20:25Z",
+      "lastCommit": "2020-06-17T07:20:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4779df3133b1248c7d9f4398dd54959c10501205"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-17T07:20:25Z",
+  "lastAdrCommit": "2020-06-20T13:04:49Z",
+  "firstCommit": "2020-06-17T07:20:25Z",
+  "lastCommit": "2020-06-21T11:23:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6125628c2c1204ee81f9dc9ef05705083f23d523",
+        "4779df3133b1248c7d9f4398dd54959c10501205",
+        "374a90e1bf4d29c49a71d9d3c7ba20ebae40ea49"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

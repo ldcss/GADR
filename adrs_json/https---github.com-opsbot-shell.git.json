@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/opsbot/shell.git",
+  "crawlDateTime": "2022-01-18T20:42:50.737766",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-design-goals.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-28T17:39:39Z",
+      "lastCommit": "2020-11-28T17:39:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "71359971b4c2a608a8bb2e43c98ac59e80afb79d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-28T17:39:39Z",
+      "lastCommit": "2020-11-28T17:39:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "71359971b4c2a608a8bb2e43c98ac59e80afb79d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-28T17:39:39Z",
+  "lastAdrCommit": "2020-11-28T17:39:39Z",
+  "firstCommit": "2020-11-26T18:59:22Z",
+  "lastCommit": "2021-08-05T12:59:48Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "71359971b4c2a608a8bb2e43c98ac59e80afb79d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

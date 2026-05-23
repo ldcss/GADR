@@ -1,0 +1,982 @@
+{
+  "repositoryUrl": "https://github.com/ldynia/archcolider.git",
+  "crawlDateTime": "2022-01-18T22:20:04.418443",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "4.ADRs"
+  ],
+  "numAdrFiles": 16,
+  "adrFiles": [
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "009 Rely on payment service provider.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-11-01T19:55:23Z",
+      "lastCommit": "2020-11-28T18:57:43Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d8c43b805e64cd56aa08588352c39999a87256c3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c7f68e61bd49f61fcd433a0fcf3479fa0aeddb57"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5d818bc5cca7e843b99b4a86ffb5b9936ff0224"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "690f8efb8d0a919eda31215400c0982eb0db8e4f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "006 Zero trust architecture.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-10-31T17:18:40Z",
+      "lastCommit": "2020-11-28T18:44:28Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b5df4cc61c2e80aae441ecbba11f5aa9a321fc76",
+            "6cd8748df12009d3a6935cf8f281c7b134e0e87c",
+            "cf9a5f6b4377c78d890dcadefec41b32bf9dfab7"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "076af5388ccd0a748b81ae117b8625f509ef9e12",
+            "be8272432b53f8d11372a08762191324183561fb"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "13b78c8fbd76ae8cdd004dc6232757f164b4bb49"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "34d9c627c146132f2a4cf8f767dc2acae7bb36a4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e87dd5f1aa5fb47d298d8f66ac4fea261a9f318"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "004 Health check endpoints.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-31T16:56:00Z",
+      "lastCommit": "2020-11-28T18:37:49Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7627448d109e1b0dd476133e9bff1ce3ae1080e5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ebf4f6aadbf8f06422d5459a9f22a9965dc65e3e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "13b78c8fbd76ae8cdd004dc6232757f164b4bb49"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "354c6e6c925834140e2a0530b8abe6ff789b97f4",
+            "fb483ce56c6495241bac0ecd35513cf4de07a2d8",
+            "6763bbeffa34db9094f41402265d57d0c77ff31b"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "545b2f3eabc90090a94beb0ff4157d8008301426"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "011 Every meal delivery has pick up pin code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-28T17:08:36Z",
+      "lastCommit": "2020-11-28T19:00:04Z",
+      "numberOfCommits": 14,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "69126b623b9af6b1c737d222fb53dc91def08a78",
+            "e0b236dbd0c6518428e1faa4d917cfa8daab5e0f"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "546d0eeabf6a4c203c6c550ab935bf78d00f7966",
+            "c80ca3abd7bea4d5b3d28df6fbf94b43350a9847",
+            "84599fc4db939bbd1989bef0b8df1eeb534f279f",
+            "fb1aa2738aa6b8dfe3c2c30b23c3ae3cfea6c06b"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "13b78c8fbd76ae8cdd004dc6232757f164b4bb49"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "07b74150cfb40c490126dddbf0678cd74a18a9d8",
+            "50485210082485f84bfe4ad4b9410eec4b1fb09a",
+            "0a9b9d303388a7945be30d5fbd3b8654b13cb818",
+            "5c9c83291e65a84861cc508b9eb9213da7ff6fe0",
+            "11008e7f196df9c3bc0886c4071556142f7bffd5",
+            "0fde3b145a7ac30ca5c39a2f54f0b775f930476a"
+          ],
+          "numberOfCommits": 6
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d64b559238e91ac334933dddb8d3cf9ac8148a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "001 We are using ADR (template).md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-26T20:07:39Z",
+      "lastCommit": "2020-11-19T18:48:14Z",
+      "numberOfCommits": 13,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c6656a151c345335a4990f09f265185a78af9c3b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3e5ac21a2273ab6f1ee2c44b1215acdd7b2e10a0",
+            "2a4bf179997f16f8516132296163ba3b4d0ab657",
+            "cc6a673c0656b74a4897b15f68f40084b1389fb0",
+            "aa0af0f61df7f9b20b45f0ae10aeb11bf5529d36"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "13b78c8fbd76ae8cdd004dc6232757f164b4bb49"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd9e016661c8b6329cc17f92dcba51ce810dc58b",
+            "3d9ce2ac08c797475d2fa18285a270445309681a",
+            "134688c38e36e626abb05eeb0fb65a94986e9f6c",
+            "bc99a67ac01c87c8d9b9b14a6e20cb46cfa418b9",
+            "c04728dbd60e48243f85f68df98522844b2dafdf",
+            "f0f0a887c6b8159cb4b9e04fcf15a40852b3ceca",
+            "9db41d9cf62151d6f3fe38f778c6fa626e72f8a6"
+          ],
+          "numberOfCommits": 7
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "013  Cache the meal catalogue.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-11-25T22:24:47Z",
+      "lastCommit": "2020-11-28T19:16:58Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb8720e67ce0a8161270335c09a46df230484755",
+            "8324e769045a8b7d3f663159474b326b22ea2694",
+            "6675ee16cc27e2b7561dae79d9719bdf86f1f0cc"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "251d7ae152a479ca1c6df2b46fb9b63e6defafe2",
+            "5ce1050d30603892a90a8f444e4a45fc8374367d"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "39e77ffeb3f7dc5d49ddfb8a6c4c134b7738a054"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1c2ac882dd98cca20844db215dc0f9c0074aa942"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "010 Feedback System separation.md",
+      "template": "Nygard",
+      "status": "Declined",
+      "firstCommit": "2020-10-30T12:49:40Z",
+      "lastCommit": "2020-11-28T16:04:07Z",
+      "numberOfCommits": 15,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e558c92c276d7fbcd22ded73b4eb27db5375a6be"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9af486c57ccf5a9bc1b8911f6cc387b0747ae5a0",
+            "a2f2e9cb6129e07e005c516cbc495088c18f48fd",
+            "06872c7c02c627019eae280ae20885fe5fa42883",
+            "9e02cf9faac5a00dfa2adda14cffc8ac8fef09f2",
+            "902c3387143c3e7dba9b2222dddc4a606eee9181",
+            "9c77c002e5e6f0468a24ee1e75896751a61ddffe",
+            "21c8516aec95944fcb127619b3e6a9aa7d72a7ad",
+            "b9b1af802430606f814ed1f129edbe5026b14b8c",
+            "9c7b55f99e179da9afcd425aea213f8a20148ad5",
+            "50970a13bd16bb725b7843529ade711edcc48c38",
+            "0c3817bf003d902b34c7116ee4534b4f33287fb0"
+          ],
+          "numberOfCommits": 11
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "13b78c8fbd76ae8cdd004dc6232757f164b4bb49"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e8ab1bf6b59fbbfafed465abaad8153f89ed7dd3",
+            "6ea67ae4817bca238b9f46cee36f7bf104117886"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "007 Event sourcing usage.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-10-31T18:32:03Z",
+      "lastCommit": "2020-11-28T18:52:05Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c9d08da073f6e309a92689441757a1fc883ea32"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d6af264bf8ad4c4cdc08946f6772a3da0c4c4340"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "13b78c8fbd76ae8cdd004dc6232757f164b4bb49"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9100325ca978412c63069895afc7e4421071bf97"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8d95f4e957ee64cf257300d5c06b13704cfa4e75"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "003 Tracing and Monitoring Sytem.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-10-29T18:59:08Z",
+      "lastCommit": "2020-11-28T19:42:57Z",
+      "numberOfCommits": 15,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cbef99e9a7721b5f956e43067360769e1c3b1c67"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "61105530eb4a21e0b16d1794838df80b84cba6cd",
+            "26f9da8b7fc1993cc8238894986f77f886844dce",
+            "d5c0c77d052b5363f111792415e9ac7bcc448dc0",
+            "b9a279cca73eb1f8a2627bc08c47052efb23a402",
+            "1d907b3f7a44f4166d9c6556193fce5c75dfa60c",
+            "ac59b2d00faafc85d5f6556ddfaf257da9d2ac26",
+            "1b50ba3927d2318a4451160583ec92963aa77d8e",
+            "c703b1db263554e2e693f3fd0118ec96b9eed85f"
+          ],
+          "numberOfCommits": 8
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "13b78c8fbd76ae8cdd004dc6232757f164b4bb49"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8d9270876005a2a0997a73ded2623918d577c23c",
+            "995c84421137f19b94e5c34a708894fc999ff975"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8dc9c59b1b0bac3bc5523dcaf5e4279bdd7ef8a2",
+            "49d9b9cd05bc7c61c570141fc2124febef31e0d6",
+            "120770db35704a3ea62ed6e4b97a39b13811554f"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "015 Integration with Map Providers.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-11-24T17:42:09Z",
+      "lastCommit": "2020-11-28T19:26:45Z",
+      "numberOfCommits": 11,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5de3cf792c612871be4c1ddbb89af29f8213be32",
+            "94da75266f764ebbc66d7900d2be891b9fff2c67",
+            "b776219385892ea578512ad4b6e089f93124a1dd",
+            "f0257d725f9d37945a995abf37b22564dcba0217"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2bed6b0b1df676c2d47e8c60bd958f3cff258f36",
+            "c845782abffbadb9832ddbe7efd24ab9eaeb7b61",
+            "6fc21c5f8018f9ee0295df4e44407b4f60429239",
+            "4d2a660e222dde4d646bb7fc80112a4757a9e3ff",
+            "1797a1ab8fb467760cbb11f9bd0baa156bbc50c8"
+          ],
+          "numberOfCommits": 5
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4fae736ae820dfb3931b94badf7e17676d6a2c60",
+            "c52349fce926d605419307c10783cb2a51d20e0b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "005 Service readiness checks.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-10-31T17:07:39Z",
+      "lastCommit": "2020-11-28T18:40:42Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4fe32c4384cd0db5d8d392501801594d1bf1238f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3650a4ce3e5273e7c15cc04f84b8e8a1a8fe006"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "13b78c8fbd76ae8cdd004dc6232757f164b4bb49"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "00c07869f27205656c58ed1fc6ca672be0924244",
+            "08b790731f607f43e2e9c76656eacff4774f6b7c"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2b410f4f34cda3289fce42fd41bc00ef6b9a0f9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "014 Deployment Strategy.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-11-20T23:28:19Z",
+      "lastCommit": "2020-11-28T19:25:23Z",
+      "numberOfCommits": 11,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b432ff4f631cc9ba07b3b5a6fae8c405d98e9f14"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b4932e808d6e53dba725dbdd4994063069291c7a",
+            "f93642417303d3accf8aadeb20e5a6adadee7613",
+            "e227ebb88ab67ade4881ae9db6a3d17937b59cbd",
+            "3d09a4947b333f54f3db6e789ab59252b0294e99",
+            "a8b6796df17565a9fc0e5de297733c65a94d727b",
+            "b9c5ba1559da674fb65446669342dede322ed711",
+            "c41116faae5009c8bde8e4c915dd77873481f281",
+            "7428d441ce0364f7735536ac3cd43805163196df",
+            "4e4f38bec567e6c9a3eca39405be21274da6e23a"
+          ],
+          "numberOfCommits": 9
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9234b64e6f1c7a884567f7cadaf89c341f254fad"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "016 Use of Infrastructure as Code.md",
+      "template": "Nygard",
+      "status": "Draft",
+      "firstCommit": "2020-11-24T20:45:56Z",
+      "lastCommit": "2020-11-28T19:29:27Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5cdf8f7de0a92c42b6a1b864264d9148b3efdb6b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "928dd6eb2b61cbd6ebb7e521187314856c9d203d",
+            "d3de9c850e092d10b4c424187e871ea1d96c2088",
+            "884930ff0050ddd9eb0248c7221ae3d29fec7f35",
+            "86316f674d5fb92bceb405ffcc46ec1f1b0c5a9b",
+            "195aaf72478a65c7195ac156d90913a3781fc3d9"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "008 At least once delivery for ready to pay order.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-11-01T14:18:16Z",
+      "lastCommit": "2020-11-28T18:54:46Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bb53a7f1908dde6de1085c5f21faac2a4e14dcb",
+            "90453afd526e1cb149e6328af56f8b1644b95073"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "180ded01f25679a6fd1be7eefc290a3bd826e076"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "16a02a52a4db67c6db941178ccd51f8a8764fd51",
+            "f07dd9bad3bcd0fb10dd82bc2c63377072fc5e1b"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2ddd3e59b8486f144355c81b9996e9a4943ab097",
+            "9f26aacf54e50c9007154e9b8efb744cea6f072a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "002 System approach.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-29T18:49:43Z",
+      "lastCommit": "2020-11-29T21:23:36Z",
+      "numberOfCommits": 11,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0f2b3b696979e92f0d21341d88615cd20e433c4",
+            "7cb830f66d5675be821c7ddf370ee6a0fda57259"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "511f6be55cad7486435b40b2c0af020af6eca164",
+            "f7eaf7588130c51d62a63a5e01a1ade42272cdca",
+            "180d94f3e852f451a0c120f2256a17a3432b6d77",
+            "2114f826279790b23f4753b5bff3a33ba2ef4a9d",
+            "869c5212f7f72d844f497a555f9bfc92d196517c"
+          ],
+          "numberOfCommits": 5
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "13b78c8fbd76ae8cdd004dc6232757f164b4bb49"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1318785a9c490b1570d1ee71e955b7bdc78ef673",
+            "c1d88a636752fe45ad8eb24857dbcb70baf646e1",
+            "4264fd8584a68cd7627f6518eaf2bb0daf7284ab"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "4.ADRs",
+      "path": "012 Stale data from fridges.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-11-19T19:36:27Z",
+      "lastCommit": "2020-11-28T19:09:32Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9fb7299cae19e48a952886728bb37af6c7bdca7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a6b2d2aa776956ca5f6979a674f9043aab6838f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "416c885512213c1c4836dffb6dd6736f3baed40d",
+            "c840a9714805cb2f1e44bca7e9c9300ad507a245",
+            "4b3cba8e26a5e354cf9627d4467ec1f6d675f1ef"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d673271d29c4844def6e7fade9ba641952234d08"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-26T20:07:39Z",
+  "lastAdrCommit": "2020-11-29T21:23:36Z",
+  "firstCommit": "2020-10-20T16:22:43Z",
+  "lastCommit": "2021-11-10T19:52:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fb8720e67ce0a8161270335c09a46df230484755",
+        "8324e769045a8b7d3f663159474b326b22ea2694",
+        "6675ee16cc27e2b7561dae79d9719bdf86f1f0cc",
+        "f0257d725f9d37945a995abf37b22564dcba0217",
+        "e0b236dbd0c6518428e1faa4d917cfa8daab5e0f",
+        "6cd8748df12009d3a6935cf8f281c7b134e0e87c",
+        "4fe32c4384cd0db5d8d392501801594d1bf1238f",
+        "b5df4cc61c2e80aae441ecbba11f5aa9a321fc76",
+        "69126b623b9af6b1c737d222fb53dc91def08a78",
+        "e558c92c276d7fbcd22ded73b4eb27db5375a6be",
+        "7cb830f66d5675be821c7ddf370ee6a0fda57259",
+        "cf9a5f6b4377c78d890dcadefec41b32bf9dfab7",
+        "cbef99e9a7721b5f956e43067360769e1c3b1c67",
+        "7627448d109e1b0dd476133e9bff1ce3ae1080e5",
+        "3bb53a7f1908dde6de1085c5f21faac2a4e14dcb",
+        "90453afd526e1cb149e6328af56f8b1644b95073",
+        "b776219385892ea578512ad4b6e089f93124a1dd",
+        "f9fb7299cae19e48a952886728bb37af6c7bdca7",
+        "5de3cf792c612871be4c1ddbb89af29f8213be32",
+        "94da75266f764ebbc66d7900d2be891b9fff2c67",
+        "c0f2b3b696979e92f0d21341d88615cd20e433c4",
+        "d8c43b805e64cd56aa08588352c39999a87256c3",
+        "5cdf8f7de0a92c42b6a1b864264d9148b3efdb6b",
+        "9c9d08da073f6e309a92689441757a1fc883ea32",
+        "b432ff4f631cc9ba07b3b5a6fae8c405d98e9f14"
+      ],
+      "numberOfCommits": 25
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c6656a151c345335a4990f09f265185a78af9c3b"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d5c0c77d052b5363f111792415e9ac7bcc448dc0",
+        "cc6a673c0656b74a4897b15f68f40084b1389fb0",
+        "c7f68e61bd49f61fcd433a0fcf3479fa0aeddb57",
+        "9c77c002e5e6f0468a24ee1e75896751a61ddffe",
+        "180d94f3e852f451a0c120f2256a17a3432b6d77",
+        "e227ebb88ab67ade4881ae9db6a3d17937b59cbd",
+        "869c5212f7f72d844f497a555f9bfc92d196517c",
+        "1b50ba3927d2318a4451160583ec92963aa77d8e",
+        "9e02cf9faac5a00dfa2adda14cffc8ac8fef09f2",
+        "ebf4f6aadbf8f06422d5459a9f22a9965dc65e3e",
+        "a8b6796df17565a9fc0e5de297733c65a94d727b",
+        "be8272432b53f8d11372a08762191324183561fb",
+        "3e5ac21a2273ab6f1ee2c44b1215acdd7b2e10a0",
+        "2a4bf179997f16f8516132296163ba3b4d0ab657",
+        "84599fc4db939bbd1989bef0b8df1eeb534f279f",
+        "f93642417303d3accf8aadeb20e5a6adadee7613",
+        "902c3387143c3e7dba9b2222dddc4a606eee9181",
+        "076af5388ccd0a748b81ae117b8625f509ef9e12",
+        "7428d441ce0364f7735536ac3cd43805163196df",
+        "5ce1050d30603892a90a8f444e4a45fc8374367d",
+        "8a6b2d2aa776956ca5f6979a674f9043aab6838f",
+        "546d0eeabf6a4c203c6c550ab935bf78d00f7966",
+        "e3650a4ce3e5273e7c15cc04f84b8e8a1a8fe006",
+        "9af486c57ccf5a9bc1b8911f6cc387b0747ae5a0",
+        "f7eaf7588130c51d62a63a5e01a1ade42272cdca",
+        "b4932e808d6e53dba725dbdd4994063069291c7a",
+        "b9b1af802430606f814ed1f129edbe5026b14b8c",
+        "b9c5ba1559da674fb65446669342dede322ed711",
+        "4e4f38bec567e6c9a3eca39405be21274da6e23a",
+        "61105530eb4a21e0b16d1794838df80b84cba6cd",
+        "511f6be55cad7486435b40b2c0af020af6eca164",
+        "b9a279cca73eb1f8a2627bc08c47052efb23a402",
+        "4d2a660e222dde4d646bb7fc80112a4757a9e3ff",
+        "1797a1ab8fb467760cbb11f9bd0baa156bbc50c8",
+        "c80ca3abd7bea4d5b3d28df6fbf94b43350a9847",
+        "21c8516aec95944fcb127619b3e6a9aa7d72a7ad",
+        "d6af264bf8ad4c4cdc08946f6772a3da0c4c4340",
+        "1d907b3f7a44f4166d9c6556193fce5c75dfa60c",
+        "9c7b55f99e179da9afcd425aea213f8a20148ad5",
+        "0c3817bf003d902b34c7116ee4534b4f33287fb0",
+        "180ded01f25679a6fd1be7eefc290a3bd826e076",
+        "c703b1db263554e2e693f3fd0118ec96b9eed85f",
+        "a2f2e9cb6129e07e005c516cbc495088c18f48fd",
+        "06872c7c02c627019eae280ae20885fe5fa42883",
+        "fb1aa2738aa6b8dfe3c2c30b23c3ae3cfea6c06b",
+        "aa0af0f61df7f9b20b45f0ae10aeb11bf5529d36",
+        "2114f826279790b23f4753b5bff3a33ba2ef4a9d",
+        "251d7ae152a479ca1c6df2b46fb9b63e6defafe2",
+        "ac59b2d00faafc85d5f6556ddfaf257da9d2ac26",
+        "50970a13bd16bb725b7843529ade711edcc48c38",
+        "2bed6b0b1df676c2d47e8c60bd958f3cff258f36",
+        "26f9da8b7fc1993cc8238894986f77f886844dce",
+        "c845782abffbadb9832ddbe7efd24ab9eaeb7b61",
+        "6fc21c5f8018f9ee0295df4e44407b4f60429239",
+        "3d09a4947b333f54f3db6e789ab59252b0294e99",
+        "c41116faae5009c8bde8e4c915dd77873481f281"
+      ],
+      "numberOfCommits": 56
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "13b78c8fbd76ae8cdd004dc6232757f164b4bb49"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "50485210082485f84bfe4ad4b9410eec4b1fb09a",
+        "c04728dbd60e48243f85f68df98522844b2dafdf",
+        "c1d88a636752fe45ad8eb24857dbcb70baf646e1",
+        "f07dd9bad3bcd0fb10dd82bc2c63377072fc5e1b",
+        "f5d818bc5cca7e843b99b4a86ffb5b9936ff0224",
+        "4264fd8584a68cd7627f6518eaf2bb0daf7284ab",
+        "39e77ffeb3f7dc5d49ddfb8a6c4c134b7738a054",
+        "08b790731f607f43e2e9c76656eacff4774f6b7c",
+        "4b3cba8e26a5e354cf9627d4467ec1f6d675f1ef",
+        "354c6e6c925834140e2a0530b8abe6ff789b97f4",
+        "fb483ce56c6495241bac0ecd35513cf4de07a2d8",
+        "0a9b9d303388a7945be30d5fbd3b8654b13cb818",
+        "416c885512213c1c4836dffb6dd6736f3baed40d",
+        "8d9270876005a2a0997a73ded2623918d577c23c",
+        "11008e7f196df9c3bc0886c4071556142f7bffd5",
+        "9100325ca978412c63069895afc7e4421071bf97",
+        "6763bbeffa34db9094f41402265d57d0c77ff31b",
+        "1318785a9c490b1570d1ee71e955b7bdc78ef673",
+        "134688c38e36e626abb05eeb0fb65a94986e9f6c",
+        "5c9c83291e65a84861cc508b9eb9213da7ff6fe0",
+        "f0f0a887c6b8159cb4b9e04fcf15a40852b3ceca",
+        "995c84421137f19b94e5c34a708894fc999ff975",
+        "dd9e016661c8b6329cc17f92dcba51ce810dc58b",
+        "e8ab1bf6b59fbbfafed465abaad8153f89ed7dd3",
+        "07b74150cfb40c490126dddbf0678cd74a18a9d8",
+        "3d9ce2ac08c797475d2fa18285a270445309681a",
+        "00c07869f27205656c58ed1fc6ca672be0924244",
+        "6ea67ae4817bca238b9f46cee36f7bf104117886",
+        "bc99a67ac01c87c8d9b9b14a6e20cb46cfa418b9",
+        "16a02a52a4db67c6db941178ccd51f8a8764fd51",
+        "c840a9714805cb2f1e44bca7e9c9300ad507a245",
+        "0fde3b145a7ac30ca5c39a2f54f0b775f930476a",
+        "34d9c627c146132f2a4cf8f767dc2acae7bb36a4",
+        "9db41d9cf62151d6f3fe38f778c6fa626e72f8a6"
+      ],
+      "numberOfCommits": 34
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8dc9c59b1b0bac3bc5523dcaf5e4279bdd7ef8a2",
+        "c52349fce926d605419307c10783cb2a51d20e0b",
+        "0e87dd5f1aa5fb47d298d8f66ac4fea261a9f318",
+        "1c2ac882dd98cca20844db215dc0f9c0074aa942",
+        "195aaf72478a65c7195ac156d90913a3781fc3d9",
+        "4fae736ae820dfb3931b94badf7e17676d6a2c60",
+        "545b2f3eabc90090a94beb0ff4157d8008301426",
+        "8d95f4e957ee64cf257300d5c06b13704cfa4e75",
+        "49d9b9cd05bc7c61c570141fc2124febef31e0d6",
+        "120770db35704a3ea62ed6e4b97a39b13811554f",
+        "d673271d29c4844def6e7fade9ba641952234d08",
+        "690f8efb8d0a919eda31215400c0982eb0db8e4f",
+        "928dd6eb2b61cbd6ebb7e521187314856c9d203d",
+        "d3de9c850e092d10b4c424187e871ea1d96c2088",
+        "884930ff0050ddd9eb0248c7221ae3d29fec7f35",
+        "2ddd3e59b8486f144355c81b9996e9a4943ab097",
+        "b2b410f4f34cda3289fce42fd41bc00ef6b9a0f9",
+        "86316f674d5fb92bceb405ffcc46ec1f1b0c5a9b",
+        "9f26aacf54e50c9007154e9b8efb744cea6f072a",
+        "9d64b559238e91ac334933dddb8d3cf9ac8148a6",
+        "9234b64e6f1c7a884567f7cadaf89c341f254fad"
+      ],
+      "numberOfCommits": 21
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/laa-court-data-adaptor.git",
+  "crawlDateTime": "2022-01-18T20:45:18.868082",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-store-common-platform-data-locally-for-event-replay.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-11T14:49:45Z",
+      "lastCommit": "2020-12-11T14:49:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7cf6532c3860c40bb13b9e00624f30f559730195"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-11T14:34:09Z",
+      "lastCommit": "2020-12-11T14:34:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de5665a89a3225197437c96d68c1f25ebc856bea"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-11T14:34:09Z",
+  "lastAdrCommit": "2020-12-11T14:49:45Z",
+  "firstCommit": "2019-11-07T13:58:36Z",
+  "lastCommit": "2022-01-18T18:32:25Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "de5665a89a3225197437c96d68c1f25ebc856bea",
+        "7cf6532c3860c40bb13b9e00624f30f559730195"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

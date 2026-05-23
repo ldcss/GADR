@@ -1,0 +1,86 @@
+{
+  "repositoryUrl": "https://github.com/chrishaverkate/time-diagnostics.git",
+  "crawlDateTime": "2022-01-18T23:03:21.760661",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-macro-for-creating-new-timer.md",
+      "template": "Nygard",
+      "status": "Implemented",
+      "firstCommit": "2020-11-15T21:00:01Z",
+      "lastCommit": "2020-11-15T21:00:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca2fb2fa1050a95cd529f7006184ebe0bc7453c7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-using-int-for-timer-id.md",
+      "template": "Nygard",
+      "status": "Implemented",
+      "firstCommit": "2020-11-15T21:00:01Z",
+      "lastCommit": "2020-11-15T21:00:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca2fb2fa1050a95cd529f7006184ebe0bc7453c7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-15T21:00:01Z",
+      "lastCommit": "2020-11-15T21:00:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca2fb2fa1050a95cd529f7006184ebe0bc7453c7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-15T21:00:01Z",
+  "lastAdrCommit": "2020-11-15T21:00:01Z",
+  "firstCommit": "2020-11-12T02:53:01Z",
+  "lastCommit": "2020-11-16T02:56:31Z",
+  "adrDirFile": {
+    "fileContent": "doc/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ca2fb2fa1050a95cd529f7006184ebe0bc7453c7"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

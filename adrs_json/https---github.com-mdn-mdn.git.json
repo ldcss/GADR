@@ -1,0 +1,197 @@
+{
+  "repositoryUrl": "https://github.com/mdn/mdn.git",
+  "crawlDateTime": "2022-01-18T19:38:18.315421",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "ADRs"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "ADRs",
+      "path": "003-use-emotion.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-05T05:14:53Z",
+      "lastCommit": "2019-02-05T21:05:12Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9e43ef67304f3fca02164addd58fd0ba395e919"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae66583b3b9c3a09bcf7bd3b1edae7f41330f634"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "34dfc20aa85686cf116e015f47f6cdfd070579c5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7191ace44f3e7295158c6b681a06f7897b200902",
+            "bd358ac35f01defc9f2066882d3e84030fc54aea"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "002-use-flow-for-typechecking.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-05T01:10:50Z",
+      "lastCommit": "2019-02-06T00:09:36Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4bf5555d6cec1825978dcbc490ef2e0624358901"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d621e594aaa5a22d8700479eedb54db44b766af4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b95cab9870bf04c3b22e2a56557c34120eef0ec7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "OLD/001-use-react.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-12T16:18:46Z",
+      "lastCommit": "2019-02-13T22:44:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "311fcc43a6c69ea72d509426bd61ec6af8ab5f0f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51d60a231e7f4a6e1f278abdc21b5efa167e4afe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADRs",
+      "path": "004-use-react.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-12T16:18:46Z",
+      "lastCommit": "2019-02-17T21:58:22Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d970be1d8b0ad224685c39aec2b53c58f23ece12",
+            "4871372371387f66bee74761a80960f220d0ce94",
+            "311fcc43a6c69ea72d509426bd61ec6af8ab5f0f",
+            "9c3188936d0d311851567e690ebd149604ca01f2"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51d60a231e7f4a6e1f278abdc21b5efa167e4afe",
+            "68fd9ee3461ce8608691921c7bc4e3db0649c651"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-05T01:10:50Z",
+  "lastAdrCommit": "2019-02-17T21:58:22Z",
+  "firstCommit": "2017-02-15T09:02:27Z",
+  "lastCommit": "2021-08-24T15:04:17Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d970be1d8b0ad224685c39aec2b53c58f23ece12",
+        "4bf5555d6cec1825978dcbc490ef2e0624358901",
+        "4871372371387f66bee74761a80960f220d0ce94",
+        "311fcc43a6c69ea72d509426bd61ec6af8ab5f0f",
+        "f9e43ef67304f3fca02164addd58fd0ba395e919",
+        "9c3188936d0d311851567e690ebd149604ca01f2"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d621e594aaa5a22d8700479eedb54db44b766af4",
+        "51d60a231e7f4a6e1f278abdc21b5efa167e4afe",
+        "68fd9ee3461ce8608691921c7bc4e3db0649c651",
+        "ae66583b3b9c3a09bcf7bd3b1edae7f41330f634"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "34dfc20aa85686cf116e015f47f6cdfd070579c5",
+        "b95cab9870bf04c3b22e2a56557c34120eef0ec7"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7191ace44f3e7295158c6b681a06f7897b200902",
+        "bd358ac35f01defc9f2066882d3e84030fc54aea"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

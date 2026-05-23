@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/xebia-france/xebikart-dashboard.git",
+  "crawlDateTime": "2022-01-18T19:29:20.621748",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "001-use-SSE-as-exchange-data-technology-between-back-and-front.md",
+      "template": "Madr",
+      "status": "[Accepted]",
+      "firstCommit": "2019-03-17T17:46:15Z",
+      "lastCommit": "2019-03-17T17:46:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "34845db4a4981259722c33e811b23914071d3e8b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-17T17:46:15Z",
+  "lastAdrCommit": "2019-03-17T17:46:15Z",
+  "firstCommit": "2019-03-11T17:50:16Z",
+  "lastCommit": "2021-03-19T17:05:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "34845db4a4981259722c33e811b23914071d3e8b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

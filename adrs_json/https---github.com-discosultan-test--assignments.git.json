@@ -1,0 +1,66 @@
+{
+  "repositoryUrl": "https://github.com/discosultan/test-assignments.git",
+  "crawlDateTime": "2022-01-18T18:02:51.463272",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "shopping-basket/doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "shopping-basket/doc/adr",
+      "path": "0002-command.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-24T16:56:10Z",
+      "lastCommit": "2018-06-25T07:22:19Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "60d7784fa4e60f7a7796659e07b7fac9390b6dc8",
+            "b11e2bf704d8fb7dc82b2d14e3170bd95d37fc0d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "shopping-basket/doc/adr",
+      "path": "0001-id-type.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-24T16:56:10Z",
+      "lastCommit": "2018-06-24T16:56:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "60d7784fa4e60f7a7796659e07b7fac9390b6dc8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-24T16:56:10Z",
+  "lastAdrCommit": "2018-06-25T07:22:19Z",
+  "firstCommit": "2016-05-30T12:11:00Z",
+  "lastCommit": "2020-08-04T11:05:39Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "60d7784fa4e60f7a7796659e07b7fac9390b6dc8",
+        "b11e2bf704d8fb7dc82b2d14e3170bd95d37fc0d"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/spullepu/jenkins-library-delete.git",
+  "crawlDateTime": "2022-01-18T17:58:35.537731",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "documentation/architecture/decisions"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "documentation/architecture/decisions",
+      "path": "nexusUpload.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-20T17:20:52Z",
+      "lastCommit": "2020-03-20T17:20:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20b65d5a2e83f776161fe14504bddb35db28258e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-20T17:20:52Z",
+  "lastAdrCommit": "2020-03-20T17:20:52Z",
+  "firstCommit": "2017-10-17T20:14:48Z",
+  "lastCommit": "2021-01-03T10:27:01Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "20b65d5a2e83f776161fe14504bddb35db28258e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

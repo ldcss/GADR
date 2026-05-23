@@ -1,0 +1,280 @@
+{
+  "repositoryUrl": "https://github.com/jgoerner/corona-hackathon.git",
+  "crawlDateTime": "2022-01-18T20:30:15.406175",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0002-hexagonal-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-19T21:40:10Z",
+      "lastCommit": "2020-03-19T21:40:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6d93840eda2f7aade2d29dd9e872035dd9b6fa0f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0004-backend-package-structure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-19T21:49:08Z",
+      "lastCommit": "2020-03-19T21:49:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4610c26e9cdce30a00389e2287bef9ed31b260d2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0007-knowledge-crunching.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-20T06:28:09Z",
+      "lastCommit": "2020-03-20T07:36:34Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c36b63d01f44d13192b9a89c719127d6570d6c73"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c45f5c79da91dca118f89f6ec9b5d36eb75718df",
+            "4cfa9e10410429a0b3509631ff3ae7683caf5d29"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0009-frontend-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-20T20:58:10Z",
+      "lastCommit": "2020-03-20T20:58:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e168222b432e8d12cc192462eaa40742df0b0d07"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0003-application-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-19T21:43:39Z",
+      "lastCommit": "2020-03-19T21:43:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bcceb0ab618ae561f05a71d628b9e507bd3d774"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0008-e-signature.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-20T20:35:00Z",
+      "lastCommit": "2020-03-20T20:35:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "07cb034b6df0468b281895554c40cab941267b5a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0006-web-controller.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-19T22:00:12Z",
+      "lastCommit": "2020-03-19T22:00:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cdfc0904a111406f07c1c12a1e34a8ce4bfb167e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0010-branching-strategy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-21T14:13:10Z",
+      "lastCommit": "2020-03-21T14:13:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8720c201ff4b1ffc35eb3e0412d991d3b358fe5a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0005-lombok.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-19T21:53:31Z",
+      "lastCommit": "2020-03-19T21:53:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8bd6728a0b554c7b738a2bae236480327c30b530"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0011-postgres.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-21T14:33:56Z",
+      "lastCommit": "2020-03-21T14:33:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc45018cb26fdc74908435f7ffa06fc64c3c5cad"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-19T21:23:33Z",
+      "lastCommit": "2020-03-19T21:23:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7130f2fe32c1b0470f38700e6d02d7ddd514be5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-19T21:23:33Z",
+  "lastAdrCommit": "2020-03-21T14:33:56Z",
+  "firstCommit": "2020-03-18T20:53:50Z",
+  "lastCommit": "2022-01-14T06:31:45Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "07cb034b6df0468b281895554c40cab941267b5a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e168222b432e8d12cc192462eaa40742df0b0d07"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c36b63d01f44d13192b9a89c719127d6570d6c73"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cdfc0904a111406f07c1c12a1e34a8ce4bfb167e",
+        "6d93840eda2f7aade2d29dd9e872035dd9b6fa0f",
+        "c45f5c79da91dca118f89f6ec9b5d36eb75718df",
+        "4cfa9e10410429a0b3509631ff3ae7683caf5d29",
+        "dc45018cb26fdc74908435f7ffa06fc64c3c5cad",
+        "4610c26e9cdce30a00389e2287bef9ed31b260d2",
+        "8720c201ff4b1ffc35eb3e0412d991d3b358fe5a",
+        "8bd6728a0b554c7b738a2bae236480327c30b530",
+        "a7130f2fe32c1b0470f38700e6d02d7ddd514be5",
+        "3bcceb0ab618ae561f05a71d628b9e507bd3d774"
+      ],
+      "numberOfCommits": 10
+    }
+  ]
+}

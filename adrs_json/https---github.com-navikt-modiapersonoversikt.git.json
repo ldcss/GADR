@@ -1,0 +1,165 @@
+{
+  "repositoryUrl": "https://github.com/navikt/modiapersonoversikt.git",
+  "crawlDateTime": "2022-01-18T19:55:30.676496",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-Typesafe-Rest-Redux-Store.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-11-16T08:54:41Z",
+      "lastCommit": "2019-02-27T13:33:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d256788a086a86db4fc980ea586f6b815933b33e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "566e3b4940f630b99b893cb05fc92f2cbf24c0c1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-selvstendig-visittkort-som-library.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-31T05:41:33Z",
+      "lastCommit": "2019-02-27T13:33:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dcf444086431756611727148238937bf69ee4499"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "566e3b4940f630b99b893cb05fc92f2cbf24c0c1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-Formatering-med-prettier.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-27T13:34:17Z",
+      "lastCommit": "2019-02-27T13:34:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "62b855e4fc4d69030e2fcee2090587ad75a2dd27"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-form-validering.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-28T13:21:59Z",
+      "lastCommit": "2019-02-27T13:33:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ecf46858c203504f8680ac3d723ab6360a4cdb5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "566e3b4940f630b99b893cb05fc92f2cbf24c0c1",
+            "a50dd6a2c9c2cd254a39355a5df0ef15e923c2a9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-31T05:41:33Z",
+      "lastCommit": "2018-05-31T05:41:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dcf444086431756611727148238937bf69ee4499"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-31T05:41:33Z",
+  "lastAdrCommit": "2019-02-27T13:34:17Z",
+  "firstCommit": "2018-02-21T08:43:11Z",
+  "lastCommit": "2022-01-18T07:29:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1ecf46858c203504f8680ac3d723ab6360a4cdb5",
+        "dcf444086431756611727148238937bf69ee4499"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d256788a086a86db4fc980ea586f6b815933b33e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "62b855e4fc4d69030e2fcee2090587ad75a2dd27",
+        "566e3b4940f630b99b893cb05fc92f2cbf24c0c1",
+        "a50dd6a2c9c2cd254a39355a5df0ef15e923c2a9"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "repositoryUrl": "https://github.com/Skyscanner/backpack-android.git",
+  "crawlDateTime": "2022-01-18T21:10:58.508444",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "decisions",
+      "path": "components-preview.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-18T11:13:36Z",
+      "lastCommit": "2019-03-20T13:27:17Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05519f4c0e2e892536cf8cc933715dd72e792bb2",
+            "fe30058e1dd39da824a9776bcebfed415c8edc1d",
+            "e338470a9c9e8c27b9fd2841792d94ce06e46391"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d2c7fa0d1d65ae097bb4dbb06c98836534bd3bb7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "event-listeners-and-state.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-02T12:30:03Z",
+      "lastCommit": "2019-04-02T12:30:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5fe6bb4240fb3fa4da8c15e54c7fea7e31b33130"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-18T11:13:36Z",
+  "lastAdrCommit": "2019-04-02T12:30:03Z",
+  "firstCommit": "2018-01-18T10:59:48Z",
+  "lastCommit": "2022-01-18T11:22:49Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "05519f4c0e2e892536cf8cc933715dd72e792bb2",
+        "fe30058e1dd39da824a9776bcebfed415c8edc1d",
+        "e338470a9c9e8c27b9fd2841792d94ce06e46391"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5fe6bb4240fb3fa4da8c15e54c7fea7e31b33130"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d2c7fa0d1d65ae097bb4dbb06c98836534bd3bb7"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

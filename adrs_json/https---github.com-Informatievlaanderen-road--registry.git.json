@@ -1,0 +1,151 @@
+{
+  "repositoryUrl": "https://github.com/Informatievlaanderen/road-registry.git",
+  "crawlDateTime": "2022-01-18T20:00:42.022375",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "002-track-municipalities.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-16T08:59:47Z",
+      "lastCommit": "2021-02-16T08:59:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2cba520e10201501e6a00d7820bd85bda4cf6e3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "004-temporary-and-permanent-identifiers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-16T08:59:47Z",
+      "lastCommit": "2021-02-16T08:59:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2cba520e10201501e6a00d7820bd85bda4cf6e3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-16T12:46:21Z",
+      "lastCommit": "2020-01-16T12:46:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5d27c8caba15f52ca988089a78baa7a0f324e70f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "006-provisional-changes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-01T15:08:49Z",
+      "lastCommit": "2021-04-01T15:13:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6686b75dd7b480494c6499f03aeb71056dd876c1",
+            "4dc98f39134c0b5512521cd9be01422d796647b8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "003-reusable-dynamic-attribute-identifiers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-16T08:59:47Z",
+      "lastCommit": "2021-02-16T08:59:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2cba520e10201501e6a00d7820bd85bda4cf6e3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "005-etl.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-01T15:08:49Z",
+      "lastCommit": "2021-04-01T15:08:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4dc98f39134c0b5512521cd9be01422d796647b8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-16T12:46:21Z",
+  "lastAdrCommit": "2021-04-01T15:13:23Z",
+  "firstCommit": "2020-01-16T12:46:21Z",
+  "lastCommit": "2022-01-10T12:02:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6686b75dd7b480494c6499f03aeb71056dd876c1",
+        "4dc98f39134c0b5512521cd9be01422d796647b8"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5d27c8caba15f52ca988089a78baa7a0f324e70f",
+        "b2cba520e10201501e6a00d7820bd85bda4cf6e3"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

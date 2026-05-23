@@ -1,0 +1,148 @@
+{
+  "repositoryUrl": "https://github.com/Controlix/akka-monitor.git",
+  "crawlDateTime": "2022-01-18T18:46:04.549373",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-use-dropwizard-metrics.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [4. Use Micrometer Prometheus](0004-use-micrometer-prometheus.md)",
+      "firstCommit": "2018-06-20T18:52:58Z",
+      "lastCommit": "2018-06-20T18:52:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "356a652930d7ec73459028c641a7938368ab5fa4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-scala-as-programming-language.md",
+      "template": "Nygard",
+      "status": "Accepted Amplified by [2. Use akka](0002-use-akka.md)",
+      "firstCommit": "2018-06-01T09:23:02Z",
+      "lastCommit": "2018-06-01T09:23:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd8c6eaa5b7caba04f135f011e67080156613e2f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-micrometer-prometheus.md",
+      "template": "Nygard",
+      "status": "Superceded by [5. Use Dropwizard Metrics](0005-use-dropwizard-metrics.md)",
+      "firstCommit": "2018-06-05T20:32:54Z",
+      "lastCommit": "2018-06-20T18:52:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "61d8611cdd6c9b3f05c45a52c068c6179e95a848"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "356a652930d7ec73459028c641a7938368ab5fa4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-akka.md",
+      "template": "Nygard",
+      "status": "Accepted Amplifies [3. Use Scala as programming language](0003-use-scala-as-programming-language.md)",
+      "firstCommit": "2018-06-01T09:00:59Z",
+      "lastCommit": "2018-06-01T09:23:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd8c6eaa5b7caba04f135f011e67080156613e2f",
+            "b67a3d3939fdd09b667c35de0a37da2202995297"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-01T08:49:55Z",
+      "lastCommit": "2018-06-01T08:49:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8c7df6ee7b185212eaa88667931d03ffa975c115"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-01T08:49:55Z",
+  "lastAdrCommit": "2018-06-20T18:52:58Z",
+  "firstCommit": "2018-05-23T20:10:34Z",
+  "lastCommit": "2018-06-20T18:52:58Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dd8c6eaa5b7caba04f135f011e67080156613e2f",
+        "8c7df6ee7b185212eaa88667931d03ffa975c115",
+        "b67a3d3939fdd09b667c35de0a37da2202995297"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "61d8611cdd6c9b3f05c45a52c068c6179e95a848"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "356a652930d7ec73459028c641a7938368ab5fa4"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

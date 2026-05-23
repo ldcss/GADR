@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/loligans/Playground.git",
+  "crawlDateTime": "2022-01-18T18:04:45.186549",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-002.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-04T21:11:43Z",
+      "lastCommit": "2020-09-04T21:11:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17f9808b1e6ac1971951be2e926cc7a45c20a901"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-000.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-08-22T05:23:26Z",
+      "lastCommit": "2020-08-22T05:23:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bf6289a3dd46723b898e2fc4c3c11da67aa4a2f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-22T05:23:26Z",
+      "lastCommit": "2020-09-04T21:11:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3bf6289a3dd46723b898e2fc4c3c11da67aa4a2f",
+            "17f9808b1e6ac1971951be2e926cc7a45c20a901"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-22T05:23:26Z",
+  "lastAdrCommit": "2020-09-04T21:11:43Z",
+  "firstCommit": "2020-07-27T21:50:30Z",
+  "lastCommit": "2021-08-25T15:02:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3bf6289a3dd46723b898e2fc4c3c11da67aa4a2f",
+        "17f9808b1e6ac1971951be2e926cc7a45c20a901"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

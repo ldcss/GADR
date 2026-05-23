@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/st3v3nhunt/asb-client-spa.git",
+  "crawlDateTime": "2022-01-18T17:58:42.27247",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-netlify-for-deployments-and-hosting.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-02T08:44:31Z",
+      "lastCommit": "2020-09-02T08:44:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c82fed989556e6efaa72343ae1186254283e2bbf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-02T08:14:55Z",
+      "lastCommit": "2020-09-02T08:14:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c8cd27a4297072e3b6427c4d662f99a509cb5bbe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-02T08:14:55Z",
+  "lastAdrCommit": "2020-09-02T08:44:31Z",
+  "firstCommit": "2020-07-31T22:20:01Z",
+  "lastCommit": "2021-08-13T06:46:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c8cd27a4297072e3b6427c4d662f99a509cb5bbe",
+        "c82fed989556e6efaa72343ae1186254283e2bbf"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "repositoryUrl": "https://github.com/azavea/grout.git",
+  "crawlDateTime": "2022-01-18T22:17:05.087953",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs",
+      "path": "adr-4-nosql-backends.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-08-23T20:34:29Z",
+      "lastCommit": "2018-08-28T17:34:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f83561a3636104dbfd666565a13087dfbc6eb85"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "375debd17a5cd7505dd399fbd662f6f56cbec942"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "adr-2-rename-package.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-08-23T20:34:29Z",
+      "lastCommit": "2018-08-28T17:34:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f83561a3636104dbfd666565a13087dfbc6eb85"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "375debd17a5cd7505dd399fbd662f6f56cbec942"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "adr-3-foreign-keys.md",
+      "template": "Nygard",
+      "status": "In review.",
+      "firstCommit": "2018-08-23T20:34:29Z",
+      "lastCommit": "2018-08-28T17:34:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f83561a3636104dbfd666565a13087dfbc6eb85"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "375debd17a5cd7505dd399fbd662f6f56cbec942"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-23T20:34:29Z",
+  "lastAdrCommit": "2018-08-28T17:34:51Z",
+  "firstCommit": "2015-04-14T13:45:38Z",
+  "lastCommit": "2019-01-24T19:55:37Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9f83561a3636104dbfd666565a13087dfbc6eb85"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "375debd17a5cd7505dd399fbd662f6f56cbec942"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

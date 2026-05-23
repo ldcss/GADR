@@ -1,0 +1,110 @@
+{
+  "repositoryUrl": "https://github.com/DFE-Digital/sdd-technical-documentation.git",
+  "crawlDateTime": "2022-01-18T17:58:44.010285",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adrs"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "adrs",
+      "path": "adr_a001_how-do-we-provide-access-to-data-in-TRAMS.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-29T11:22:35Z",
+      "lastCommit": "2021-03-30T09:46:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8536175283c423929954ce2aad3f4fb904868a7d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "459ea1341ff8a49dad04c2a8b3e1d01e7b893550"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "adr_a002_how-do-we-secure-the-TRAMS-data-API.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-02T14:25:26Z",
+      "lastCommit": "2021-06-02T14:25:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "114b047d7e9daee41ad6e12b06c60fbce6c7b208"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "adr_a003_how-do-we-version-the-Academies-data-API.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-26T13:19:34Z",
+      "lastCommit": "2021-07-27T08:29:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e2344b1b7ed86aee8ee0f17fb79f107902edee3b",
+            "ebd419a5d6ed0c21505676f4e93c99e3cbd1b81e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-03-29T11:22:35Z",
+  "lastAdrCommit": "2021-07-27T08:29:21Z",
+  "firstCommit": "2021-02-16T15:43:16Z",
+  "lastCommit": "2021-11-01T09:10:33Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8536175283c423929954ce2aad3f4fb904868a7d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "459ea1341ff8a49dad04c2a8b3e1d01e7b893550",
+        "114b047d7e9daee41ad6e12b06c60fbce6c7b208"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e2344b1b7ed86aee8ee0f17fb79f107902edee3b",
+        "ebd419a5d6ed0c21505676f4e93c99e3cbd1b81e"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

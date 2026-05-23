@@ -1,0 +1,224 @@
+{
+  "repositoryUrl": "https://github.com/aml-org/amf-core.git",
+  "crawlDateTime": "2022-01-18T20:45:59.822366",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adrs"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "adrs",
+      "path": "0004-domainelementmodel-isexternallink-field.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-04T15:08:46Z",
+      "lastCommit": "2021-01-04T15:08:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e565c0fddeeb2378b254425055d4759c3730ca64"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0007-no-spec-mediatypes-in-amf-operations.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-03T22:32:28Z",
+      "lastCommit": "2021-08-03T22:32:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9abbe2f73a62e5622dfa27031c3e5baef54cdc7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0009-source-information-node-storing-source-locations.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-11-01T12:51:56Z",
+      "lastCommit": "2021-11-01T12:51:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "09ce93081878c4947379c3b82f591c22fa8f5d33"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0005-expose-non-scalajs-types-in-amf-client-remote-content.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-27T19:13:44Z",
+      "lastCommit": "2021-04-27T19:13:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6211efadacf67e0a7034d694df2de547a9e3a422"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0003-flattened-json-ld-parsing-emission-for-self-encoded-dialects.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-14T16:59:43Z",
+      "lastCommit": "2020-09-14T16:59:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9401de44b67a4696c1976ef004c28731db870167"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0006-custom-domain-properties-json-ld-rendering.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-06-15T14:53:56Z",
+      "lastCommit": "2021-06-15T14:53:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "df5255cee9de81c369269c45f9ab5d6a63ed9801"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0002-extracttolink-in-json-ld-expanded-emission.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-03T16:24:38Z",
+      "lastCommit": "2020-09-03T16:24:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "74266685aeafd0b1cac78bde9cc0420c1fc2a7bb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0008-field-deprecation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-20T20:23:26Z",
+      "lastCommit": "2021-09-23T12:50:27Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "18388d91325fbc91a3c64e4c191d8c48de606e6d",
+            "83ed812b9655c4c78d77973ff7a22c9492eb3ff5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-03T16:23:52Z",
+      "lastCommit": "2020-09-03T16:23:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "94ba293a3483ce665f6b2df02d2157f9158468e1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-03T16:23:52Z",
+  "lastAdrCommit": "2021-11-01T12:51:56Z",
+  "firstCommit": "2017-11-30T14:11:53Z",
+  "lastCommit": "2022-01-18T20:07:42Z",
+  "adrDirFile": {
+    "fileContent": "adrs\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6211efadacf67e0a7034d694df2de547a9e3a422",
+        "b9abbe2f73a62e5622dfa27031c3e5baef54cdc7"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "09ce93081878c4947379c3b82f591c22fa8f5d33"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "94ba293a3483ce665f6b2df02d2157f9158468e1",
+        "e565c0fddeeb2378b254425055d4759c3730ca64",
+        "74266685aeafd0b1cac78bde9cc0420c1fc2a7bb",
+        "18388d91325fbc91a3c64e4c191d8c48de606e6d",
+        "df5255cee9de81c369269c45f9ab5d6a63ed9801",
+        "83ed812b9655c4c78d77973ff7a22c9492eb3ff5",
+        "9401de44b67a4696c1976ef004c28731db870167"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

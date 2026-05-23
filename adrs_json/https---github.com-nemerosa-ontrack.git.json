@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/nemerosa/ontrack.git",
+  "crawlDateTime": "2022-01-18T23:09:24.46916",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-extension-indicators-identifiers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-13T07:17:51Z",
+      "lastCommit": "2020-05-13T07:17:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcf648ae167af1a007d2488d4910994aa5930d7f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-03T14:55:41Z",
+      "lastCommit": "2019-01-03T14:55:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3cc8cb1c52602d533880087cefe17fc828234688"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-01-03T14:55:41Z",
+  "lastAdrCommit": "2020-05-13T07:17:51Z",
+  "firstCommit": "2014-05-01T17:08:33Z",
+  "lastCommit": "2022-01-18T16:51:55Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3cc8cb1c52602d533880087cefe17fc828234688",
+        "bcf648ae167af1a007d2488d4910994aa5930d7f"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

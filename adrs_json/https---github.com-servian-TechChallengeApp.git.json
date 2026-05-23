@@ -1,0 +1,181 @@
+{
+  "repositoryUrl": "https://github.com/servian/TechChallengeApp.git",
+  "crawlDateTime": "2022-01-18T20:08:52.890402",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-viper-for-config.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-08T01:34:24Z",
+      "lastCommit": "2018-08-08T07:08:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff62b14145e42d8d71b995e3d986853c97f6fc93",
+            "ef288913727cf8dac40e6caec31da488f95a0f36"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-skip-create-database.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-19T10:31:05Z",
+      "lastCommit": "2018-08-19T10:31:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fea0f139dc070e7187165d205419ea9adaae8412"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-environment-variables-overrides-config-file.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [4. config only in config file](0004-config-only-in-config-file.md)",
+      "firstCommit": "2018-08-22T01:27:05Z",
+      "lastCommit": "2020-07-30T05:15:49Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c59beb6edbbee9d001ba84afb3111ec27f79f0c3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0ceedb1c4410ee16b7d062537c2cbececc7f0401"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ba8935fc3739e41288aaf78cfb24902e28ebcb2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-removed-scaffolding.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-09T05:13:56Z",
+      "lastCommit": "2018-08-09T05:13:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "486a6661a896d05a72859798df6d2a500b450811"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-config-only-in-config-file.md",
+      "template": "Nygard",
+      "status": "Superceded by [6. environment variables overrides config file](0006-environment-variables-overrides-config-file.md)",
+      "firstCommit": "2018-08-12T03:47:25Z",
+      "lastCommit": "2018-08-22T01:27:05Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c212f90872faca50d98bcc149893e4423888da7f",
+            "9d911859e7704772ea6816796206c4e033119f55",
+            "c59beb6edbbee9d001ba84afb3111ec27f79f0c3"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-08T01:34:24Z",
+      "lastCommit": "2018-08-08T01:34:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ef288913727cf8dac40e6caec31da488f95a0f36"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-08T01:34:24Z",
+  "lastAdrCommit": "2020-07-30T05:15:49Z",
+  "firstCommit": "2018-02-11T10:38:08Z",
+  "lastCommit": "2021-11-14T23:28:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ff62b14145e42d8d71b995e3d986853c97f6fc93",
+        "486a6661a896d05a72859798df6d2a500b450811",
+        "c212f90872faca50d98bcc149893e4423888da7f",
+        "ef288913727cf8dac40e6caec31da488f95a0f36",
+        "9d911859e7704772ea6816796206c4e033119f55",
+        "fea0f139dc070e7187165d205419ea9adaae8412",
+        "c59beb6edbbee9d001ba84afb3111ec27f79f0c3"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0ceedb1c4410ee16b7d062537c2cbececc7f0401"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7ba8935fc3739e41288aaf78cfb24902e28ebcb2"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

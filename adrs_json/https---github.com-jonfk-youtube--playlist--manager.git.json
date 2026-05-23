@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/jonfk/youtube-playlist-manager.git",
+  "crawlDateTime": "2022-01-18T19:57:26.882878",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-chrome-identity-launchwebauthflow-instead-of-chrome-identity-getauthtoken.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-16T15:01:54Z",
+      "lastCommit": "2017-07-16T15:01:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2cb537cc2c2f1653124957584d7c21715791af1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-16T15:01:54Z",
+      "lastCommit": "2017-07-16T15:01:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2cb537cc2c2f1653124957584d7c21715791af1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-16T15:01:54Z",
+  "lastAdrCommit": "2017-07-16T15:01:54Z",
+  "firstCommit": "2017-06-21T04:17:29Z",
+  "lastCommit": "2019-11-16T17:03:24Z",
+  "adrDirFile": {
+    "fileContent": "doc/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b2cb537cc2c2f1653124957584d7c21715791af1"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

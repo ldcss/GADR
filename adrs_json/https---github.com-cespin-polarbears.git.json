@@ -1,0 +1,80 @@
+{
+  "repositoryUrl": "https://github.com/cespin/polarbears.git",
+  "crawlDateTime": "2022-01-18T19:43:20.231354",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "."
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": ".",
+      "path": "ADR-2.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-03T03:14:40Z",
+      "lastCommit": "2020-11-03T04:44:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d5801d71f212356342493aa4e2458164e0e1bad9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0559ccfda049faede4acfa2e4120a629ce9ee3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": ".",
+      "path": "ADR-1.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-03T04:44:52Z",
+      "lastCommit": "2020-11-03T04:44:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d5801d71f212356342493aa4e2458164e0e1bad9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-03T03:14:40Z",
+  "lastAdrCommit": "2020-11-03T04:44:52Z",
+  "firstCommit": "2020-10-20T16:22:04Z",
+  "lastCommit": "2020-11-03T04:53:19Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d5801d71f212356342493aa4e2458164e0e1bad9"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f0559ccfda049faede4acfa2e4120a629ce9ee3e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

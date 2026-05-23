@@ -1,0 +1,245 @@
+{
+  "repositoryUrl": "https://github.com/umd-lib/caia.git",
+  "crawlDateTime": "2022-01-18T19:13:12.494052",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-aleph-items-endpoint-behavior.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-30T12:02:58Z",
+      "lastCommit": "2020-06-30T12:02:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1d0593560b803aec3957b7218c1c7250ec08b3d8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-python-tooling.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-12T15:42:09Z",
+      "lastCommit": "2020-05-12T15:42:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ea4c26ecc8da5c025c2cb66c9bc36dfe7d8da3f8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-of-python.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-12T15:42:09Z",
+      "lastCommit": "2020-05-12T15:42:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ea4c26ecc8da5c025c2cb66c9bc36dfe7d8da3f8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-python-type-hinting.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-19T17:35:34Z",
+      "lastCommit": "2020-05-19T17:35:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e9a8997d7d449690d9a317ee44c79223669d243a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-of-files-for-data-persistence.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-19T17:35:34Z",
+      "lastCommit": "2020-05-19T17:35:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e9a8997d7d449690d9a317ee44c79223669d243a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-aleph-interaction-assumptions-for-circrequests.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-15T12:40:17Z",
+      "lastCommit": "2020-07-01T13:18:59Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "338282864ff2c859739a5d0c228187d7c72f06f0",
+            "b156102811722bc04444928629b9818bfe201062",
+            "d462e4e5c8271a675b4ce396a0b2c28c538ad03d"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-aleph-circrequests-denied-entries-resubmission.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-01T13:18:59Z",
+      "lastCommit": "2020-07-01T13:18:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "338282864ff2c859739a5d0c228187d7c72f06f0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-pin-mbtest-library-to-v2.5.1.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-26T13:44:40Z",
+      "lastCommit": "2021-03-26T13:44:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0472fcd359a775a958bc0205de2a0094c3c1b97e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-aleph-circrequests-denied-entries-handling.md",
+      "template": "Nygard",
+      "status": "Superseded by [0010-aleph-circrequests-denied-entries-resubmission.md][2]",
+      "firstCommit": "2020-06-26T12:23:10Z",
+      "lastCommit": "2020-07-01T13:18:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "338282864ff2c859739a5d0c228187d7c72f06f0",
+            "d462e4e5c8271a675b4ce396a0b2c28c538ad03d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-aleph-interaction-assumptions-for-items.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-24T17:42:09Z",
+      "lastCommit": "2020-06-24T17:42:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38d6e7629bbd333c5085f5f10011e62f4cc71e77"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-12T15:42:09Z",
+      "lastCommit": "2020-05-12T15:42:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ea4c26ecc8da5c025c2cb66c9bc36dfe7d8da3f8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-12T15:42:09Z",
+  "lastAdrCommit": "2021-03-26T13:44:40Z",
+  "firstCommit": "2020-05-11T18:52:11Z",
+  "lastCommit": "2021-08-12T17:27:25Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1d0593560b803aec3957b7218c1c7250ec08b3d8",
+        "338282864ff2c859739a5d0c228187d7c72f06f0",
+        "e9a8997d7d449690d9a317ee44c79223669d243a",
+        "38d6e7629bbd333c5085f5f10011e62f4cc71e77",
+        "ea4c26ecc8da5c025c2cb66c9bc36dfe7d8da3f8",
+        "b156102811722bc04444928629b9818bfe201062",
+        "0472fcd359a775a958bc0205de2a0094c3c1b97e",
+        "d462e4e5c8271a675b4ce396a0b2c28c538ad03d"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

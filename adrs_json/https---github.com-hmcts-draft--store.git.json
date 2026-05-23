@@ -1,0 +1,61 @@
+{
+  "repositoryUrl": "https://github.com/hmcts/draft-store.git",
+  "crawlDateTime": "2022-01-18T17:46:17.327043",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001-only-128-bit-encryption.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-13T10:27:28Z",
+      "lastCommit": "2018-01-18T19:41:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4ede8c19dd48383a821725ae2bf1b77fa86e826"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1080aa939f4d6251d4d5bf73c044d7bff0d12d7a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-12-13T10:27:28Z",
+  "lastAdrCommit": "2018-01-18T19:41:36Z",
+  "firstCommit": "2017-09-04T11:19:25Z",
+  "lastCommit": "2022-01-18T15:31:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a4ede8c19dd48383a821725ae2bf1b77fa86e826"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1080aa939f4d6251d4d5bf73c044d7bff0d12d7a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/opg-data-lpa-codes.git",
+  "crawlDateTime": "2022-01-18T20:25:43.316829",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-flask-in-aws-lambda-function.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-30T13:16:07Z",
+      "lastCommit": "2020-04-30T13:16:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "66a307868ec77cb2a9e85fb5a151a93e5adb0814"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-serverless-frameworks.md",
+      "template": "Nygard",
+      "status": "In progress",
+      "firstCommit": "2020-04-30T13:16:07Z",
+      "lastCommit": "2020-04-30T13:16:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "66a307868ec77cb2a9e85fb5a151a93e5adb0814"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-30T13:16:07Z",
+  "lastAdrCommit": "2020-04-30T13:16:07Z",
+  "firstCommit": "2020-04-24T11:10:57Z",
+  "lastCommit": "2021-11-29T11:15:03Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "66a307868ec77cb2a9e85fb5a151a93e5adb0814"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

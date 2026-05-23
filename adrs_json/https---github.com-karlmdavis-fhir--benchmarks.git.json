@@ -1,0 +1,104 @@
+{
+  "repositoryUrl": "https://github.com/karlmdavis/fhir-benchmarks.git",
+  "crawlDateTime": "2022-01-18T19:38:26.764264",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "dev/architecture"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "dev/architecture",
+      "path": "0004-locust-or-not.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-04T21:17:38Z",
+      "lastCommit": "2020-08-04T21:17:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "266f10bdcd144de9f8e6cc1d492294c097ee163a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dev/architecture",
+      "path": "0003-test-output.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-04T02:17:40Z",
+      "lastCommit": "2020-04-04T02:17:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25eba821c46514f777fe85919b28d5ee53142256"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dev/architecture",
+      "path": "0001-hardware.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-29T16:38:18Z",
+      "lastCommit": "2020-02-29T16:38:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd05d3b5ecae4025677405c03cad200106330329"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dev/architecture",
+      "path": "0002-test-error-output.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-04T02:17:40Z",
+      "lastCommit": "2020-04-04T02:17:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25eba821c46514f777fe85919b28d5ee53142256"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-29T16:38:18Z",
+  "lastAdrCommit": "2020-08-04T21:17:38Z",
+  "firstCommit": "2020-02-29T16:38:18Z",
+  "lastCommit": "2021-11-30T15:06:53Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dd05d3b5ecae4025677405c03cad200106330329",
+        "266f10bdcd144de9f8e6cc1d492294c097ee163a",
+        "25eba821c46514f777fe85919b28d5ee53142256"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

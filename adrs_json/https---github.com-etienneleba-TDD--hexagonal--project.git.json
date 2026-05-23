@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/etienneleba/TDD-hexagonal-project.git",
+  "crawlDateTime": "2022-01-18T20:54:57.094631",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "Docs/ADRS"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "Docs/ADRS",
+      "path": "2020_12_02_9_20_PROJECT.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-02T08:30:47Z",
+      "lastCommit": "2020-12-02T08:30:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1f27afae9ef38c2b0a6dfd3aa6a7fc78497b871"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Docs/ADRS",
+      "path": "2020_12_02_9_35_TECHNICAL.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-02T08:40:05Z",
+      "lastCommit": "2020-12-02T08:40:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "621e56e2c01bfe6cccfbd66907e6438372d4daea"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-02T08:30:47Z",
+  "lastAdrCommit": "2020-12-02T08:40:05Z",
+  "firstCommit": "2020-12-02T08:12:58Z",
+  "lastCommit": "2021-11-09T16:13:43Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "621e56e2c01bfe6cccfbd66907e6438372d4daea",
+        "d1f27afae9ef38c2b0a6dfd3aa6a7fc78497b871"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

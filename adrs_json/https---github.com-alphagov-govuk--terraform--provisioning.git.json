@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/govuk-terraform-provisioning.git",
+  "crawlDateTime": "2022-01-18T23:03:54.077604",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0002-project-centric-layout.md",
+      "template": "Nygard",
+      "status": "Proposed / Prototyped",
+      "firstCommit": "2016-03-01T10:58:02Z",
+      "lastCommit": "2016-03-03T15:57:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "57a0adbff4cbe518b42371e0c171a1f0685284c4",
+            "d576a8b8f4eea10c226eb5c6500571cec3a7b9a2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0003-statefile-management.md",
+      "template": "Nygard",
+      "status": "Proposed / Prototyped",
+      "firstCommit": "2016-03-01T10:58:02Z",
+      "lastCommit": "2016-03-01T10:58:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d576a8b8f4eea10c226eb5c6500571cec3a7b9a2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-03-01T10:58:02Z",
+      "lastCommit": "2016-03-01T10:58:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d576a8b8f4eea10c226eb5c6500571cec3a7b9a2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-03-01T10:58:02Z",
+  "lastAdrCommit": "2016-03-03T15:57:54Z",
+  "firstCommit": "2016-02-05T14:58:48Z",
+  "lastCommit": "2020-03-02T09:28:12Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "57a0adbff4cbe518b42371e0c171a1f0685284c4",
+        "d576a8b8f4eea10c226eb5c6500571cec3a7b9a2"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

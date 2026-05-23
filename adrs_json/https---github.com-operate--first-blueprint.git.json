@@ -1,0 +1,683 @@
+{
+  "repositoryUrl": "https://github.com/operate-first/blueprint.git",
+  "crawlDateTime": "2022-01-18T20:51:09.698596",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 19,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0008-secrets-management.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-19T15:53:28Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbb287692905389126a99ddb5238be70efd76eb4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0092667894652e36b0813808ade892de24b9cda"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0010-common-auth-for-applications.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-25T12:46:28Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "246e677cd96fe0abafa989476fbe9bf07e3e07b9"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0092667894652e36b0813808ade892de24b9cda"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-feature-selection-policy.md",
+      "template": "Madr",
+      "status": "approved",
+      "firstCommit": "2020-11-11T08:03:46Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a4a32a5a0b82c0437cc5b62b961795e86979230",
+            "011413603c412d1b48540d2119f7c1f10baea9cc"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcf8a87da7f5052412b8faadbfb5e5fa866efbef"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0019-org-management.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-10-05T14:19:40Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dace2fbf564611cb41565eba5bb52d52e91f3bee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0009-cluster-resources.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-19T16:15:41Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87b19933aa577d3e71872d7afcc71ce5894bd69f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0092667894652e36b0813808ade892de24b9cda"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0005-support-multi-environments-in-repos.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-12-14T11:44:27Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec",
+            "b3d0b0fae6914cfe9fcc8fc4b738775e3ce401f6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcf8a87da7f5052412b8faadbfb5e5fa866efbef"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0092667894652e36b0813808ade892de24b9cda"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0012-moc-infra-cluster-deployment-methods.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-25T17:00:38Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1eaabd4395b210fcf9531a8b8425cf5de2ba6d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0017-authentication-for-platform.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-06-17T12:44:32Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05a26972dd6b5849f39754177c961dbd386acc15"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0006-monitoring-structure.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-14T20:03:14Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "574528788b81158b95d77fc6a0f79e834bd0d8a3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0013-multicluster-environments.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-16T17:41:30Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3fafac0896dfa02bcd6580386d787b1fd9a1a7f",
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0011-operators.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-02-01T17:29:23Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "450629cefa28f043b2582fc26455d806c2dcdd18"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c293b8dcb34cca9cc4a10e9e392a69ed41ea2baf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0014-enforcing-resource-quotas.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-07T13:53:37Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f44ca13eaf0a385a50376af8dfc90fe649d4eac",
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0016-pr-review.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-06-02T15:47:36Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cb67c16d2f0c27ad56f1ce32b31c402b5fc50aa7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0015-cluster-resources-amendment.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-11T14:33:08Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dddf78db228ee5a78a6d89e45f92aac63f01f188",
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0007-alerting-setup.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-19T16:01:01Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3e3d1510f7c32f5d3b0661e9a12e7056952e35a2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0092667894652e36b0813808ade892de24b9cda"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-use-gpl3-as-license.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-05T10:58:37Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89af547ecb7d9735083219918a5bf9ce154ba503"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcf8a87da7f5052412b8faadbfb5e5fa866efbef"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0004-argocd-apps-of-apps-structure.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-11-24T14:05:58Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fdcc4113ad3d6ff5e5c43f010c6604602dc3adba",
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bcf8a87da7f5052412b8faadbfb5e5fa866efbef"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "74a1c839d31356d3e9d4e4b02ef1bc923e680411"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-11-05T10:58:37Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89af547ecb7d9735083219918a5bf9ce154ba503"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0018-migration-to-keycloak.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-07-19T14:45:46Z",
+      "lastCommit": "2021-11-04T16:42:06Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "401b97f24b7f5dd325eb50e788dacc95309e9fec"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd270cf0a555de4384c325aa75750e34c1566229",
+            "a273e14e16a2a2b882448e7b2676b91dc6215df3",
+            "2f1bbf22c6e4ab736bbdd52929f88c519075b21f"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-05T10:58:37Z",
+  "lastAdrCommit": "2021-11-04T16:42:06Z",
+  "firstCommit": "2020-11-03T11:15:32Z",
+  "lastCommit": "2021-11-04T16:42:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "05a26972dd6b5849f39754177c961dbd386acc15"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "87b19933aa577d3e71872d7afcc71ce5894bd69f",
+        "246e677cd96fe0abafa989476fbe9bf07e3e07b9",
+        "450629cefa28f043b2582fc26455d806c2dcdd18"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dddf78db228ee5a78a6d89e45f92aac63f01f188",
+        "fdcc4113ad3d6ff5e5c43f010c6604602dc3adba",
+        "2f44ca13eaf0a385a50376af8dfc90fe649d4eac",
+        "c3fafac0896dfa02bcd6580386d787b1fd9a1a7f",
+        "401b97f24b7f5dd325eb50e788dacc95309e9fec",
+        "b3d0b0fae6914cfe9fcc8fc4b738775e3ce401f6"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "89af547ecb7d9735083219918a5bf9ce154ba503",
+        "3a4a32a5a0b82c0437cc5b62b961795e86979230",
+        "011413603c412d1b48540d2119f7c1f10baea9cc"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3e3d1510f7c32f5d3b0661e9a12e7056952e35a2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bcf8a87da7f5052412b8faadbfb5e5fa866efbef",
+        "fbb287692905389126a99ddb5238be70efd76eb4"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c293b8dcb34cca9cc4a10e9e392a69ed41ea2baf",
+        "b0092667894652e36b0813808ade892de24b9cda",
+        "74a1c839d31356d3e9d4e4b02ef1bc923e680411"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dd270cf0a555de4384c325aa75750e34c1566229",
+        "cb67c16d2f0c27ad56f1ce32b31c402b5fc50aa7",
+        "dace2fbf564611cb41565eba5bb52d52e91f3bee",
+        "a273e14e16a2a2b882448e7b2676b91dc6215df3",
+        "2f1bbf22c6e4ab736bbdd52929f88c519075b21f"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0e1eaabd4395b210fcf9531a8b8425cf5de2ba6d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "574528788b81158b95d77fc6a0f79e834bd0d8a3"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

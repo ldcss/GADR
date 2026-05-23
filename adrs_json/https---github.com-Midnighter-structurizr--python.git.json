@@ -1,0 +1,281 @@
+{
+  "repositoryUrl": "https://github.com/Midnighter/structurizr-python.git",
+  "crawlDateTime": "2022-01-18T21:24:30.829714",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/development/adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/development/adr",
+      "path": "0002-version-control-our-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-05T16:29:28Z",
+      "lastCommit": "2020-11-27T15:18:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91fd991ffb5477e30027643457baf19e354f90a1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2d94ca655dbbae2581417bf8450173a3e611e76"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/development/adr",
+      "path": "0008-package-structure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-05T16:29:28Z",
+      "lastCommit": "2020-11-27T15:18:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91fd991ffb5477e30027643457baf19e354f90a1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2d94ca655dbbae2581417bf8450173a3e611e76"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/development/adr",
+      "path": "0004-python-package-versioning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-05T16:29:28Z",
+      "lastCommit": "2020-11-27T15:18:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91fd991ffb5477e30027643457baf19e354f90a1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2d94ca655dbbae2581417bf8450173a3e611e76"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/development/adr",
+      "path": "0009-use-pydantic-for-json-de-serialization.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T16:20:39Z",
+      "lastCommit": "2020-11-27T15:18:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91fd991ffb5477e30027643457baf19e354f90a1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e33b3cb23d6c40f8737c473f8755dfff6dfd52b9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/development/adr",
+      "path": "0005-code-quality-assurance.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-05T16:29:28Z",
+      "lastCommit": "2020-11-27T15:18:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91fd991ffb5477e30027643457baf19e354f90a1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2d94ca655dbbae2581417bf8450173a3e611e76"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/development/adr",
+      "path": "0007-unit-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-05T16:29:28Z",
+      "lastCommit": "2020-11-27T15:18:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91fd991ffb5477e30027643457baf19e354f90a1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2d94ca655dbbae2581417bf8450173a3e611e76"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/development/adr",
+      "path": "0003-python-3-6-only.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-05T16:29:28Z",
+      "lastCommit": "2020-11-27T15:18:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91fd991ffb5477e30027643457baf19e354f90a1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2d94ca655dbbae2581417bf8450173a3e611e76"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/development/adr",
+      "path": "0006-code-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-05T16:29:28Z",
+      "lastCommit": "2020-11-27T15:18:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91fd991ffb5477e30027643457baf19e354f90a1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2d94ca655dbbae2581417bf8450173a3e611e76"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/development/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-05T16:29:28Z",
+      "lastCommit": "2020-11-27T15:18:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91fd991ffb5477e30027643457baf19e354f90a1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2d94ca655dbbae2581417bf8450173a3e611e76"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-05T16:29:28Z",
+  "lastAdrCommit": "2020-11-27T15:18:08Z",
+  "firstCommit": "2020-04-05T16:29:28Z",
+  "lastCommit": "2021-12-01T10:28:00Z",
+  "adrDirFile": {
+    "fileContent": "docs/development/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "91fd991ffb5477e30027643457baf19e354f90a1"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b2d94ca655dbbae2581417bf8450173a3e611e76",
+        "e33b3cb23d6c40f8737c473f8755dfff6dfd52b9"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

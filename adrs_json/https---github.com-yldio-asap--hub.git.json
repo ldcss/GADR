@@ -1,0 +1,125 @@
+{
+  "repositoryUrl": "https://github.com/yldio/asap-hub.git",
+  "crawlDateTime": "2022-01-18T22:58:05.873156",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decision"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decision",
+      "path": "02-email-provider.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-19T10:43:10Z",
+      "lastCommit": "2020-05-27T17:21:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "04beaecf5a0edade46453de56ffec8eea92cec7a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b12ca240e675ee406142a5afee1fcf9abd11deb9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision",
+      "path": "03-data-storage.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-27T17:21:26Z",
+      "lastCommit": "2020-05-27T17:21:26Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "04beaecf5a0edade46453de56ffec8eea92cec7a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f1fa4b140fa72d48415a60c44fdc06be4ddffb7",
+            "db1a4978741b4ed18e952e2024bb1e63c8d4ed9e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decision",
+      "path": "01-frontend-setup.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-21T07:57:31Z",
+      "lastCommit": "2020-04-21T07:57:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6185351c4f446ba7f090ace5cb78dd9155bb6255"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-21T07:57:31Z",
+  "lastAdrCommit": "2020-05-27T17:21:26Z",
+  "firstCommit": "2020-04-15T14:42:15Z",
+  "lastCommit": "2022-01-18T17:53:57Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6185351c4f446ba7f090ace5cb78dd9155bb6255"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "04beaecf5a0edade46453de56ffec8eea92cec7a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b12ca240e675ee406142a5afee1fcf9abd11deb9"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1f1fa4b140fa72d48415a60c44fdc06be4ddffb7",
+        "db1a4978741b4ed18e952e2024bb1e63c8d4ed9e"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

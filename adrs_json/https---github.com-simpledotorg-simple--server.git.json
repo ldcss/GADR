@@ -1,0 +1,567 @@
+{
+  "repositoryUrl": "https://github.com/simpledotorg/simple-server.git",
+  "crawlDateTime": "2022-01-18T17:32:48.748326",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 21,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "010-user-permissions.md",
+      "template": "Nygard",
+      "status": "Superseded (by [012-simplified-user-permissions](012-simplified-user-permissions.md))",
+      "firstCommit": "2020-03-02T05:40:56Z",
+      "lastCommit": "2020-10-26T12:20:09Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5505479519cc39a6341540279988e237904b4658"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ef65f069ad1400e9e1500f3a886dd7d9dc8de26",
+            "838463b3c962558e9471dc79136375c5dae4fb2a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "017-ab-testing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-29T02:32:27Z",
+      "lastCommit": "2021-08-11T03:11:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b405fac4aca1108f3850c6490d513fe5b68f9c8e",
+            "9138553f8166752d0f92887e7f1f6e27b945183c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "014-region-level-sync.md",
+      "template": "Nygard",
+      "status": "Accepted. This feature was released to all users by Feb 2020.",
+      "firstCommit": "2021-05-03T13:19:48Z",
+      "lastCommit": "2021-05-03T13:19:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f5a3d616393988a55a8d29535f177c244d4428c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "003-api-versioning.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-11-21T10:14:39Z",
+      "lastCommit": "2018-11-21T10:14:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a02c49f2212b17aa52362d3085ec41caaecbf11e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "011-rollup-summary-tables-for-dashboards.md",
+      "template": "Nygard",
+      "status": "Superseded by [016 Reporting Schema](./016-reporting-schema.md)",
+      "firstCommit": "2020-06-10T20:32:40Z",
+      "lastCommit": "2021-05-17T17:25:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05a429607725cadde3b9a775dec3b6888baa08ac"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee10b2dc6b39f27a312721735ada3414aa57d4f2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "012-regions.md",
+      "template": "Nygard",
+      "status": "Accepted, implemented and in place as of March 2021. The backfill has completed and the ongoing sync is in place. We have not yet deprecated the legacy zone/state fields or the FacilityGroup model.",
+      "firstCommit": "2021-03-09T22:28:50Z",
+      "lastCommit": "2021-03-09T22:28:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b498e6bbce57beb0bc75bfc654c486b05be9d654"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "019-ab-testing-enhancements.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-11-02T08:24:46Z",
+      "lastCommit": "2021-11-02T08:24:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "da55f449dbfcd26771a9aee51b11e4817475bec9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "016-reporting-schema.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-17T17:25:45Z",
+      "lastCommit": "2021-05-17T17:25:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee10b2dc6b39f27a312721735ada3414aa57d4f2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "009-single-user-model.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-02T05:40:56Z",
+      "lastCommit": "2020-03-02T05:40:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5505479519cc39a6341540279988e237904b4658"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "007-robust-data-migrations.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-23T06:49:54Z",
+      "lastCommit": "2020-01-23T06:49:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9afd3c85dc52001f064ad694b9c82b31a945cc6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "006-no-op-updates-on-discarded-records.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-22T11:49:48Z",
+      "lastCommit": "2020-01-22T11:49:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0d0147dc892da13e0fd63bcbd3c6ca3349abe874"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "012-simplified-user-permissions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-26T12:20:09Z",
+      "lastCommit": "2020-10-26T12:20:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ef65f069ad1400e9e1500f3a886dd7d9dc8de26"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "015-online-patient-lookup.md",
+      "template": "Nygard",
+      "status": "Accepted on 2020-04-20 Proposed on 2020-04-12",
+      "firstCommit": "2021-04-20T11:25:47Z",
+      "lastCommit": "2021-05-24T07:02:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2fc31dad486c7f0615166dc895fcac33924182b4",
+            "5a6416760e016a2ba2d12f46e46135d11927497c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "013-repository-layer-for-reporting-data.md",
+      "template": "Nygard",
+      "status": "Proposed - partially implemented and used for region reports",
+      "firstCommit": "2021-03-29T03:20:38Z",
+      "lastCommit": "2021-05-17T17:25:45Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3aa950a4b780c6ec840cdfde678ec652fb4e9e2",
+            "a9d48b99dd5610ab8f04063ef36498a758911e18"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee10b2dc6b39f27a312721735ada3414aa57d4f2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "008-materialized-views-for-dashboards.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-26T09:13:38Z",
+      "lastCommit": "2020-02-26T09:13:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e80d1e130f38ccb663a7afb090706b45e42b5f85"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "005-patient-card-id.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-09T08:37:50Z",
+      "lastCommit": "2020-12-31T09:34:38Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7866da6cb772c8d55b92b93a8cbd549078d35195"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c11c6b615ae58adfc3b021fd1f2d7fd37b6ed009"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a5c650e195a66d05ca0178b56a80e29f73ac9f92"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "018-imo-messaging.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-14T17:35:58Z",
+      "lastCommit": "2021-10-14T17:35:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9da5c76ddc3497c8af9e0eb4aad35dbf86da57ee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "001-synchronization.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-24T10:51:33Z",
+      "lastCommit": "2018-05-30T09:54:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e245790da02ea1570003aac1e3c0b8eb4d4e0d4a",
+            "a4bcc871c39b75be638aa6cd54006101b1bac8f9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "002-validation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-30T09:37:47Z",
+      "lastCommit": "2018-05-30T09:37:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "014557a7f2a0b3c2e28a13ab43e2aa042da68180"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "004-reporting.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-11-27T11:26:54Z",
+      "lastCommit": "2020-12-31T09:34:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7866da6cb772c8d55b92b93a8cbd549078d35195"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76251af9cbfd296c73f2a2ff61f6b6b2eb7c7854"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "resources/reporting-repository.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-13T07:06:59Z",
+      "lastCommit": "2021-10-13T07:06:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "faa040eb7268406805b75d347b082ca163511500"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-24T10:51:33Z",
+  "lastAdrCommit": "2021-11-02T08:24:46Z",
+  "firstCommit": "2018-05-07T21:03:48Z",
+  "lastCommit": "2022-01-18T16:25:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7866da6cb772c8d55b92b93a8cbd549078d35195"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b498e6bbce57beb0bc75bfc654c486b05be9d654",
+        "faa040eb7268406805b75d347b082ca163511500",
+        "05a429607725cadde3b9a775dec3b6888baa08ac",
+        "a3aa950a4b780c6ec840cdfde678ec652fb4e9e2",
+        "a9d48b99dd5610ab8f04063ef36498a758911e18"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5505479519cc39a6341540279988e237904b4658",
+        "0d0147dc892da13e0fd63bcbd3c6ca3349abe874"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e80d1e130f38ccb663a7afb090706b45e42b5f85",
+        "da55f449dbfcd26771a9aee51b11e4817475bec9",
+        "2f5a3d616393988a55a8d29535f177c244d4428c"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2fc31dad486c7f0615166dc895fcac33924182b4",
+        "5a6416760e016a2ba2d12f46e46135d11927497c",
+        "e245790da02ea1570003aac1e3c0b8eb4d4e0d4a",
+        "76251af9cbfd296c73f2a2ff61f6b6b2eb7c7854",
+        "a4bcc871c39b75be638aa6cd54006101b1bac8f9",
+        "014557a7f2a0b3c2e28a13ab43e2aa042da68180",
+        "c11c6b615ae58adfc3b021fd1f2d7fd37b6ed009"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6ef65f069ad1400e9e1500f3a886dd7d9dc8de26",
+        "838463b3c962558e9471dc79136375c5dae4fb2a"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a5c650e195a66d05ca0178b56a80e29f73ac9f92"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a02c49f2212b17aa52362d3085ec41caaecbf11e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ee10b2dc6b39f27a312721735ada3414aa57d4f2",
+        "f9afd3c85dc52001f064ad694b9c82b31a945cc6"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b405fac4aca1108f3850c6490d513fe5b68f9c8e",
+        "9da5c76ddc3497c8af9e0eb4aad35dbf86da57ee",
+        "9138553f8166752d0f92887e7f1f6e27b945183c"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

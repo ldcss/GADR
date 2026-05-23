@@ -1,0 +1,231 @@
+{
+  "repositoryUrl": "https://github.com/PakkuDon/SoundCloudVisualizer.git",
+  "crawlDateTime": "2022-01-18T20:15:26.349271",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-use-jest-and-cypress-for-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-16T13:48:21Z",
+      "lastCommit": "2019-11-16T13:48:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24395b5ace2e7488a9e0bbdb522fce501cb2f9c3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-use-webpack-to-build-source-code.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [4. Use Gulp to build source code](0004-use-gulp-to-build-source-code.md)",
+      "firstCommit": "2019-11-11T12:28:36Z",
+      "lastCommit": "2019-11-11T12:28:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "00ff9a5c0c3dd52bda5a752caa0ac0995129c84f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-manage-client-side-dependencies-using-bower.md",
+      "template": "Nygard",
+      "status": "Superceded by [5. Manage dependencies using Yarn](0005-manage-dependencies-using-yarn.md)",
+      "firstCommit": "2019-11-10T12:41:28Z",
+      "lastCommit": "2019-11-10T13:27:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4133d31c858e96b7f19ce719d05b9314f22f0667",
+            "1db4aa25b0de150dceaa113baab6f0fcf3aecf49"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-use-react.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [3. Use AngularJS 1.x](0003-use-angularjs-1-x.md)",
+      "firstCommit": "2019-11-11T12:39:35Z",
+      "lastCommit": "2019-11-11T12:39:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "23583a8cd31a16906e0128a543c44488f9be3e29"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-manage-dependencies-using-yarn.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [2. Manage client-side dependencies using Bower](0002-manage-client-side-dependencies-using-bower.md)",
+      "firstCommit": "2019-11-10T13:27:50Z",
+      "lastCommit": "2019-11-10T13:27:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4133d31c858e96b7f19ce719d05b9314f22f0667"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-angularjs-1-x.md",
+      "template": "Nygard",
+      "status": "Superceded by [7. Use React](0007-use-react.md)",
+      "firstCommit": "2019-11-10T12:50:59Z",
+      "lastCommit": "2019-11-11T12:39:35Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58bb835a5f524c4024a07d4be42fe5e6779e0224",
+            "23583a8cd31a16906e0128a543c44488f9be3e29"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-use-gulp-to-build-source-code.md",
+      "template": "Nygard",
+      "status": "Superceded by [6. Use Webpack to build source code](0006-use-webpack-to-build-source-code.md)",
+      "firstCommit": "2019-11-10T13:06:50Z",
+      "lastCommit": "2019-11-11T12:28:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "00ff9a5c0c3dd52bda5a752caa0ac0995129c84f",
+            "2864ee1845da27a7afa1315b735e26aebc192349"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-use-css-modules-to-create-scoped-css-for-components.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-11T13:01:17Z",
+      "lastCommit": "2019-11-11T13:01:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a9dbb196de765a9aa24f55aa4a3af1551d0c339c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-10T08:54:34Z",
+      "lastCommit": "2019-11-10T08:54:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc7bb503edf30d4cb4ee00a4f381f0ca618e36ae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-use-postcss.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-16T13:17:11Z",
+      "lastCommit": "2019-11-16T13:17:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5868d4237f14a1e42a34f32d882dbff05e75a417"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-10T08:54:34Z",
+  "lastAdrCommit": "2019-11-16T13:48:21Z",
+  "firstCommit": "2015-05-26T13:46:01Z",
+  "lastCommit": "2022-01-14T20:23:30Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "24395b5ace2e7488a9e0bbdb522fce501cb2f9c3",
+        "bc7bb503edf30d4cb4ee00a4f381f0ca618e36ae",
+        "5868d4237f14a1e42a34f32d882dbff05e75a417",
+        "4133d31c858e96b7f19ce719d05b9314f22f0667",
+        "a9dbb196de765a9aa24f55aa4a3af1551d0c339c",
+        "00ff9a5c0c3dd52bda5a752caa0ac0995129c84f",
+        "2864ee1845da27a7afa1315b735e26aebc192349",
+        "58bb835a5f524c4024a07d4be42fe5e6779e0224",
+        "1db4aa25b0de150dceaa113baab6f0fcf3aecf49",
+        "23583a8cd31a16906e0128a543c44488f9be3e29"
+      ],
+      "numberOfCommits": 10
+    }
+  ]
+}

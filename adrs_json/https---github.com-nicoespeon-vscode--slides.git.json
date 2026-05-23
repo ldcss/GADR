@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/nicoespeon/vscode-slides.git",
+  "crawlDateTime": "2022-01-18T23:13:00.691831",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adrs"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "adrs",
+      "path": "0002-no-integration-test.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-22T06:30:05Z",
+      "lastCommit": "2019-10-22T06:30:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8fdc599d586b5ad4614d038d232c840eeebe2412"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-22T06:30:05Z",
+      "lastCommit": "2019-10-22T06:30:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8fdc599d586b5ad4614d038d232c840eeebe2412"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-22T06:30:05Z",
+  "lastAdrCommit": "2019-10-22T06:30:05Z",
+  "firstCommit": "2019-10-22T06:30:05Z",
+  "lastCommit": "2021-09-22T15:14:18Z",
+  "adrDirFile": {
+    "fileContent": "adrs\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8fdc599d586b5ad4614d038d232c840eeebe2412"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

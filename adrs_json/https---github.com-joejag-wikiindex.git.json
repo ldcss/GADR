@@ -1,0 +1,240 @@
+{
+  "repositoryUrl": "https://github.com/joejag/wikiindex.git",
+  "crawlDateTime": "2022-01-18T20:00:11.921792",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-002-routing_library.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2015-02-28T15:44:23Z",
+      "lastCommit": "2015-03-02T22:33:41Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c76c61536eae912d53fe9129a8a05c8dda58b56a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "63b4a72b89d8282114dfa6bcf594ac77be9389cc",
+            "ddee26b8015fe8c316058806b61b91a4af9b98de"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-007-search_and_indexing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2015-03-01T23:43:16Z",
+      "lastCommit": "2015-03-02T01:23:35Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "31866735924da441c2993e845fcf522fb8100f30",
+            "72b88abcc8eab47b4ec04cc9878e511b72098975",
+            "793e7b70890201ef4ab5741c432417aeb0169599"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001-search_and_indexing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2015-02-28T15:44:23Z",
+      "lastCommit": "2015-03-01T23:43:16Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72b88abcc8eab47b4ec04cc9878e511b72098975",
+            "459eda1a0ecb12258cf1889c3291d7775588f741",
+            "5471e17f7c6ee515305304b6f5aa685ea7fe2190",
+            "63b4a72b89d8282114dfa6bcf594ac77be9389cc",
+            "ddee26b8015fe8c316058806b61b91a4af9b98de"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-003-testing_library.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2015-02-28T15:44:23Z",
+      "lastCommit": "2015-02-28T15:46:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "63b4a72b89d8282114dfa6bcf594ac77be9389cc",
+            "ddee26b8015fe8c316058806b61b91a4af9b98de"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-006-config.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2015-03-01T22:47:27Z",
+      "lastCommit": "2015-03-01T22:47:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5471e17f7c6ee515305304b6f5aa685ea7fe2190"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-009-hosting.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2015-03-02T22:05:28Z",
+      "lastCommit": "2015-03-02T22:05:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8ba81c1dca973e7d337abcbc7689060a65a002ea"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-005-logging.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2015-03-01T15:52:41Z",
+      "lastCommit": "2015-03-01T15:52:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a42082031f47d1303137238883e211dcb9a1592"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-008-search_and_indexing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2015-03-02T01:23:35Z",
+      "lastCommit": "2015-03-02T22:31:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "699b18ac32441ee46df1c1f158dd4c5b177fc682"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "31866735924da441c2993e845fcf522fb8100f30",
+            "8ba81c1dca973e7d337abcbc7689060a65a002ea"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-004-xml_freshness.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2015-02-28T17:08:42Z",
+      "lastCommit": "2015-02-28T17:08:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4483bb72de926a1802cde9838a9372c2f484f44b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2015-02-28T15:44:23Z",
+  "lastAdrCommit": "2015-03-02T22:33:41Z",
+  "firstCommit": "2015-02-28T12:44:40Z",
+  "lastCommit": "2015-03-02T22:33:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c76c61536eae912d53fe9129a8a05c8dda58b56a",
+        "699b18ac32441ee46df1c1f158dd4c5b177fc682"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4483bb72de926a1802cde9838a9372c2f484f44b",
+        "31866735924da441c2993e845fcf522fb8100f30",
+        "72b88abcc8eab47b4ec04cc9878e511b72098975",
+        "459eda1a0ecb12258cf1889c3291d7775588f741",
+        "5471e17f7c6ee515305304b6f5aa685ea7fe2190",
+        "8ba81c1dca973e7d337abcbc7689060a65a002ea",
+        "63b4a72b89d8282114dfa6bcf594ac77be9389cc",
+        "ddee26b8015fe8c316058806b61b91a4af9b98de",
+        "8a42082031f47d1303137238883e211dcb9a1592",
+        "793e7b70890201ef4ab5741c432417aeb0169599"
+      ],
+      "numberOfCommits": 10
+    }
+  ]
+}

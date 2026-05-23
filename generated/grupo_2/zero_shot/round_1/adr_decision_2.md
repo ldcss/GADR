@@ -1,0 +1,11 @@
+# [ADR-002] Python-Based Simulation for Environmental Data Sourcing
+- **Status**: Accepted
+- **Context**: The routing and optimization logic heavily depends on continuous real-world data feeds (traffic conditions, accidents, weather). Relying on external third-party providers for this data presents major blockers for the MVP phase regarding budget and usage limits. 
+- **Decision**: Implement a standalone Python simulation script to autonomously generate randomized environmental state changes. This script will run on a scheduled interval (e.g., every 5-10 minutes) and push mock events directly into the message broker.
+- **Considered Options**:
+  - *Premium Commercial APIs (Google Maps, Waze)*: Rejected due to prohibitive financial costs.
+  - *Free-tier Public APIs*: Rejected due to poor data granularity and strict rate-limiting that prevents continuous real-time simulation.
+  - *Facade Pattern Integration*: Discussed as a theoretical wrapper for real APIs, but rejected for the current scope to completely eliminate external dependencies.
+- **Consequences**:
+  - **Pros**: Zero recurring API costs; completely eliminates external network latency during testing; allows for highly controllable, deterministic edge-case testing (e.g., forcing a mock accident).
+  - **Cons**: Loss of real-world data accuracy; introduces custom development and maintenance overhead for the simulation script itself.

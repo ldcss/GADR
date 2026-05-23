@@ -1,0 +1,358 @@
+{
+  "repositoryUrl": "https://github.com/agentframework/agentframework.git",
+  "crawlDateTime": "2022-01-18T18:37:21.58103",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-es6-proxy-to-provide-transparent-interceptor-layer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-08T10:40:11Z",
+      "lastCommit": "2017-12-08T10:41:09Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a42bc53f91836ae135eda24bed29458146eb8c81",
+            "7fb1d35e97af3916730fdec9b9a21b16efb74133",
+            "76933591edeb4430a7744270fa6b66dc5aef6c84"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-use-agent-to-describe-an-instance-of-class.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-15T03:45:56Z",
+      "lastCommit": "2021-04-15T03:45:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa8a310a673c311b5ab27f7d07ee0c43f273828b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-minify-build.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-04T14:42:52Z",
+      "lastCommit": "2019-01-07T16:21:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20b4fd4cf65da84b82befe0f82009d3f3ae22786",
+            "9118e6f5558aa62d4f5bd1781582dd29c582015d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-class-field-inject.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-18T08:03:48Z",
+      "lastCommit": "2020-10-18T08:06:42Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "284d4463784a1f3b34b0b3f7436d844df8e4379a",
+            "9e75bd6b33215baaee53512247f8cb01280e04ff",
+            "f43a689a067dd038d1122facf9e1a7274c20d4aa"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-use-property-field-to-get-interceptor-instead-of-use-method.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-26T05:13:55Z",
+      "lastCommit": "2018-12-26T05:16:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e27627f7e104135e8129584303d310e93754b81c",
+            "572e762b3ef6519727d88c86ce046b561292327a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-use-for-instead-of-callbacks-helpers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-08T10:41:09Z",
+      "lastCommit": "2018-12-21T09:53:53Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2c0f6e3e4f6a3e818bc5f192c76ede9d7ff3d7bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6f83206c998cb941c61aeef7318ff42f04d0a026",
+            "9ccb05b303098b482f92e95353dde96ed2298a53"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-use-lazy-function-to-create-dynamic-agent-type.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-08T10:41:09Z",
+      "lastCommit": "2018-12-21T09:53:53Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a01e9a6e79e910e037adf8ed5a48333bf139c458"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "414c6c61d3a869391c32dab767eaacbf519daf20",
+            "6f83206c998cb941c61aeef7318ff42f04d0a026",
+            "9ccb05b303098b482f92e95353dde96ed2298a53"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-cancel-adr-0002-and-use-codegen-to-generate-interceptor.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-26T05:22:10Z",
+      "lastCommit": "2018-12-26T05:22:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "677330b6ed7a81e0f7bb47445876a8d8ebdd8ce8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0013-interceptor-only-works-with-class-got-agent-decorator.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-11-08T13:45:11Z",
+      "lastCommit": "2021-11-08T13:45:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a0b4a48c26252d4b828de382298efd50308c798d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0012-use-tsmon-instead-of-ts-node.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-11-08T13:45:11Z",
+      "lastCommit": "2021-11-08T13:45:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a0b4a48c26252d4b828de382298efd50308c798d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0011-re-implement-decorate-metadata-param-to-improve-performance.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-07T03:10:59Z",
+      "lastCommit": "2021-11-08T13:45:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a0b4a48c26252d4b828de382298efd50308c798d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "55d1a3e2e98f97065659c6aa9c4a11ae91900230"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-use-rollup-instead-of-webpack-to-generate-release-build.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-08T10:40:11Z",
+      "lastCommit": "2019-01-04T14:42:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20b4fd4cf65da84b82befe0f82009d3f3ae22786"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76933591edeb4430a7744270fa6b66dc5aef6c84"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-performance-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-08T10:41:09Z",
+      "lastCommit": "2017-12-12T00:13:28Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "414c6c61d3a869391c32dab767eaacbf519daf20",
+            "01a755b2136b28e7c8827b495b6d1965c59fbfa6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-12-08T10:40:11Z",
+  "lastAdrCommit": "2021-11-08T13:45:11Z",
+  "firstCommit": "2016-10-04T08:49:50Z",
+  "lastCommit": "2021-12-24T05:10:23Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "20b4fd4cf65da84b82befe0f82009d3f3ae22786",
+        "9118e6f5558aa62d4f5bd1781582dd29c582015d"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a0b4a48c26252d4b828de382298efd50308c798d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2c0f6e3e4f6a3e818bc5f192c76ede9d7ff3d7bd",
+        "a01e9a6e79e910e037adf8ed5a48333bf139c458"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fa8a310a673c311b5ab27f7d07ee0c43f273828b",
+        "677330b6ed7a81e0f7bb47445876a8d8ebdd8ce8",
+        "284d4463784a1f3b34b0b3f7436d844df8e4379a",
+        "414c6c61d3a869391c32dab767eaacbf519daf20",
+        "9e75bd6b33215baaee53512247f8cb01280e04ff",
+        "76933591edeb4430a7744270fa6b66dc5aef6c84",
+        "f43a689a067dd038d1122facf9e1a7274c20d4aa",
+        "572e762b3ef6519727d88c86ce046b561292327a",
+        "55d1a3e2e98f97065659c6aa9c4a11ae91900230",
+        "01a755b2136b28e7c8827b495b6d1965c59fbfa6",
+        "a42bc53f91836ae135eda24bed29458146eb8c81",
+        "7fb1d35e97af3916730fdec9b9a21b16efb74133",
+        "e27627f7e104135e8129584303d310e93754b81c",
+        "6f83206c998cb941c61aeef7318ff42f04d0a026",
+        "9ccb05b303098b482f92e95353dde96ed2298a53"
+      ],
+      "numberOfCommits": 15
+    }
+  ]
+}

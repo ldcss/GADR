@@ -1,0 +1,114 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/govuk-docker.git",
+  "crawlDateTime": "2022-01-18T19:26:45.253763",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-versioned-database-services.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-24T16:14:37Z",
+      "lastCommit": "2020-11-24T16:14:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7d1b97d72c35afa4fdb0e4c67913c0acfc9e69f0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-docker-images-for-ruby-applications.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-25T10:07:57Z",
+      "lastCommit": "2020-11-25T10:07:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1ab9bd191ff66b58a913d1e119392c1f33f519f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-docker-volumes-for-improved-macos-performance.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-23T19:55:33Z",
+      "lastCommit": "2020-11-24T17:55:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "055760800c225a5b1adb6f4f51b4eb44eef1a2d7",
+            "3d0ae4ec7fb4c33bc130ec4352c15c37dda21024"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-19T11:01:36Z",
+      "lastCommit": "2019-09-19T11:01:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e72e03e4d2fe1425eb289955bfbd99fdc7f5dbfa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-09-19T11:01:36Z",
+  "lastAdrCommit": "2020-11-25T10:07:57Z",
+  "firstCommit": "2019-06-05T22:02:09Z",
+  "lastCommit": "2022-01-17T17:39:09Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a1ab9bd191ff66b58a913d1e119392c1f33f519f",
+        "055760800c225a5b1adb6f4f51b4eb44eef1a2d7",
+        "7d1b97d72c35afa4fdb0e4c67913c0acfc9e69f0",
+        "3d0ae4ec7fb4c33bc130ec4352c15c37dda21024"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e72e03e4d2fe1425eb289955bfbd99fdc7f5dbfa"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

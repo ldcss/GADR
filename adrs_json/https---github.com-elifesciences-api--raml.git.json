@@ -1,0 +1,94 @@
+{
+  "repositoryUrl": "https://github.com/elifesciences/api-raml.git",
+  "crawlDateTime": "2022-01-18T21:18:50.605947",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0003-use-raml-annotation-deprecated.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-09T13:04:08Z",
+      "lastCommit": "2017-10-09T13:04:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8c5927de299b225a9f9b35011b032e8a1b227fb8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-use-square-brackets-for-query-string-parameters-with-multiple-values.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-25T13:02:49Z",
+      "lastCommit": "2017-09-25T13:02:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b3276855f65478459b5ee068d3085b277b6e31a4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-use-raml-annotation-experimental.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-09T13:04:08Z",
+      "lastCommit": "2017-10-09T13:04:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8c5927de299b225a9f9b35011b032e8a1b227fb8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-09-25T13:02:49Z",
+  "lastAdrCommit": "2017-10-09T13:04:08Z",
+  "firstCommit": "2016-06-09T09:03:16Z",
+  "lastCommit": "2021-10-05T12:24:35Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b3276855f65478459b5ee068d3085b277b6e31a4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8c5927de299b225a9f9b35011b032e8a1b227fb8"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

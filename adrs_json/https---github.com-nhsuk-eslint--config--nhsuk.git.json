@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/eslint-config-nhsuk.git",
+  "crawlDateTime": "2022-01-18T21:10:19.037738",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-replace-istanbul-with-nyc-for-code-coverage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-23T14:12:23Z",
+      "lastCommit": "2019-09-23T14:12:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c4b0f6b27e9e28625764641219c565907e2652f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-replace-travis-ci-with-github-actions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-24T06:54:24Z",
+      "lastCommit": "2019-09-24T06:54:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4e038005097a4f85703927846e7582cd1659dfcf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-09-23T14:12:23Z",
+  "lastAdrCommit": "2019-09-24T06:54:24Z",
+  "firstCommit": "2017-06-16T07:17:10Z",
+  "lastCommit": "2022-01-05T17:05:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4e038005097a4f85703927846e7582cd1659dfcf",
+        "5c4b0f6b27e9e28625764641219c565907e2652f"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

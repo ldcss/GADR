@@ -1,0 +1,366 @@
+{
+  "repositoryUrl": "https://github.com/eikek/docspell.git",
+  "crawlDateTime": "2022-01-18T20:51:21.534573",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "website/site/content/docs/dev/adr"
+  ],
+  "numAdrFiles": 17,
+  "adrFiles": [
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0007_convert_html_files.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0005_job-executor.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0010_convert_image_files.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0013_archive_files.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0011_extract_text.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0000_use_markdown_architectural_decision_records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0001_components.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0015_convert_pdf_files.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0016_custom_fields.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-11-22T20:41:09Z",
+      "lastCommit": "2020-11-22T20:41:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0f45e1b097deea920447b9321c51446e1129fd2d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0006_more-file-types.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0003_encryption.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0002_component_interaction.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0004_iso8601vsEpoch.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0014_fulltext_search_engine.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2021-05-31T20:19:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bdc7822f50d13a4874d2c3ff88ed39641e4eb957"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0009_convert_office_docs.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0008_convert_plain_text.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "website/site/content/docs/dev/adr",
+      "path": "0012_periodic_tasks.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-07-30T18:33:26Z",
+      "lastCommit": "2020-07-30T18:33:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-30T18:33:26Z",
+  "lastAdrCommit": "2021-05-31T20:19:49Z",
+  "firstCommit": "2019-08-26T23:07:32Z",
+  "lastCommit": "2022-01-17T17:08:04Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bdc7822f50d13a4874d2c3ff88ed39641e4eb957"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0f45e1b097deea920447b9321c51446e1129fd2d",
+        "f8c6f79b10b65b498eb65a953a79c60d0b191087"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

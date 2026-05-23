@@ -1,0 +1,106 @@
+{
+  "repositoryUrl": "https://github.com/sratatata/plant-shop.git",
+  "crawlDateTime": "2022-01-18T17:47:30.160205",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "src/doc/docs/architecture/decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "src/doc/docs/architecture/decisions",
+      "path": "0005-use-mkdocs-for-maintaining-doc-pages.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-09T16:29:26Z",
+      "lastCommit": "2018-06-09T16:29:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cea55aea2c2755a95ba80fece9767e542a47847d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/doc/docs/architecture/decisions",
+      "path": "0004-use-the-plantuml-as-an-default-way-to-create-uml-diagrams.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-09T16:02:46Z",
+      "lastCommit": "2018-06-09T16:02:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d8217b8dd7dd3054e31e8f6ddc58263dcd3e4fc2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/doc/docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-09T16:02:46Z",
+      "lastCommit": "2018-06-09T16:02:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d8217b8dd7dd3054e31e8f6ddc58263dcd3e4fc2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/doc/docs/architecture/decisions",
+      "path": "0002-use-the-javadoc-to-document-classes-and-methods.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-09T16:02:46Z",
+      "lastCommit": "2018-06-09T16:02:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d8217b8dd7dd3054e31e8f6ddc58263dcd3e4fc2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-09T16:02:46Z",
+  "lastAdrCommit": "2018-06-09T16:29:26Z",
+  "firstCommit": "2018-06-09T16:02:46Z",
+  "lastCommit": "2018-06-14T13:47:24Z",
+  "adrDirFile": {
+    "fileContent": "src/doc/docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cea55aea2c2755a95ba80fece9767e542a47847d",
+        "d8217b8dd7dd3054e31e8f6ddc58263dcd3e4fc2"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

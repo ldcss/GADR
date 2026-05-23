@@ -1,0 +1,88 @@
+{
+  "repositoryUrl": "https://github.com/wfscheper/stentor.git",
+  "crawlDateTime": "2022-01-18T23:02:32.297811",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-all-cli-options-also-respect-environment-variables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-16T23:55:37Z",
+      "lastCommit": "2020-07-16T23:55:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "40d56426e55c8765830c509a301bf383cc4dc43c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-toml-for-config-file.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-12T18:08:39Z",
+      "lastCommit": "2020-07-12T18:08:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3135257210b12d3f0fbb12f58abc78f9aabbf7a1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-12T18:08:39Z",
+      "lastCommit": "2020-07-12T18:08:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "67bac42e23de39d4ca069fe291b8018c15e9561f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-12T18:08:39Z",
+  "lastAdrCommit": "2020-07-16T23:55:37Z",
+  "firstCommit": "2020-05-24T00:30:20Z",
+  "lastCommit": "2022-01-18T14:07:11Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "67bac42e23de39d4ca069fe291b8018c15e9561f",
+        "40d56426e55c8765830c509a301bf383cc4dc43c",
+        "3135257210b12d3f0fbb12f58abc78f9aabbf7a1"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

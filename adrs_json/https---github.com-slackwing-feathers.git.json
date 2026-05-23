@@ -1,0 +1,115 @@
+{
+  "repositoryUrl": "https://github.com/slackwing/feathers.git",
+  "crawlDateTime": "2022-01-18T17:58:09.586849",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "002-personal-assistant.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-21T03:13:16Z",
+      "lastCommit": "2020-09-29T10:49:27Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93170a8aafd68763314c149eaafcb5333961af8b",
+            "0171f6fe1e2f54e4b9b38e9c7214d962b8d9c41f",
+            "10f22bb4497da76e87b137fe8c8c366cc56f1b54",
+            "3bc69cac3d114165bd35a4fa4601d29bf3043874"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "001-tracking-external-files.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-20T11:44:10Z",
+      "lastCommit": "2021-09-19T00:14:31Z",
+      "numberOfCommits": 12,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ce41d5a0565bbffb444bd8ed44ac65ac6d1d9553",
+            "042a85e272a8137c48f55ada5d9f0c84d60b6c1b",
+            "6789347b469b9c09300e128028a8bff91b4b8ad8",
+            "714314f3546c596c830d2f2da96467381db0c51d",
+            "9cfabbeef0713a01980cd54e2efbfbee65dc10aa",
+            "10f124b9c1d45003f75006e877042be4621f273e",
+            "4c5524bf8b6a21611e72749534fd253c666c87d6",
+            "77d198c99f445b43ea1261e9fd718e65737bc96d",
+            "6a00731e949679468d535584277484bd09d07789",
+            "d7ca342c55077284615752cd4b5a9d52e4c2b2b0",
+            "e4f534e1c47049f07956fbdf4be5032a2daa2e65",
+            "0c6572e70fc23e34da016392a18728368ffefe48"
+          ],
+          "numberOfCommits": 12
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "003-tracking-external-files-revisited.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-09-19T00:13:27Z",
+      "lastCommit": "2021-09-19T00:14:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30e5d2e1f71071702c781da14c4686d810810ac3",
+            "45907626d2b22ba80a71210fdd7888af3e54b71a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-20T11:44:10Z",
+  "lastAdrCommit": "2021-09-19T00:14:46Z",
+  "firstCommit": "2020-04-25T07:33:51Z",
+  "lastCommit": "2021-09-23T22:39:46Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ce41d5a0565bbffb444bd8ed44ac65ac6d1d9553",
+        "6789347b469b9c09300e128028a8bff91b4b8ad8",
+        "714314f3546c596c830d2f2da96467381db0c51d",
+        "77d198c99f445b43ea1261e9fd718e65737bc96d",
+        "6a00731e949679468d535584277484bd09d07789",
+        "93170a8aafd68763314c149eaafcb5333961af8b",
+        "30e5d2e1f71071702c781da14c4686d810810ac3",
+        "0171f6fe1e2f54e4b9b38e9c7214d962b8d9c41f",
+        "0c6572e70fc23e34da016392a18728368ffefe48",
+        "3bc69cac3d114165bd35a4fa4601d29bf3043874",
+        "45907626d2b22ba80a71210fdd7888af3e54b71a",
+        "042a85e272a8137c48f55ada5d9f0c84d60b6c1b",
+        "9cfabbeef0713a01980cd54e2efbfbee65dc10aa",
+        "10f124b9c1d45003f75006e877042be4621f273e",
+        "4c5524bf8b6a21611e72749534fd253c666c87d6",
+        "d7ca342c55077284615752cd4b5a9d52e4c2b2b0",
+        "e4f534e1c47049f07956fbdf4be5032a2daa2e65",
+        "10f22bb4497da76e87b137fe8c8c366cc56f1b54"
+      ],
+      "numberOfCommits": 18
+    }
+  ]
+}

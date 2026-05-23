@@ -1,0 +1,92 @@
+{
+  "repositoryUrl": "https://github.com/geoadmin/web-mapviewer.git",
+  "crawlDateTime": "2022-01-18T23:14:27.680012",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "2021_03_16_url_param_structure.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-16T12:45:43Z",
+      "lastCommit": "2021-03-16T12:45:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ef3287351fdd1a8423507f10e925b00b2dcb23f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021_04_14_drawing_library.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-13T11:30:11Z",
+      "lastCommit": "2021-04-13T11:30:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "476d56a0e1a9e680c7a475e384c07c229b783e34"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020_05_28_test_framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-29T04:59:46Z",
+      "lastCommit": "2020-05-29T04:59:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bfb72a82c92ec8621355b51a48e86c687e59fb6b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-29T04:59:46Z",
+  "lastAdrCommit": "2021-04-13T11:30:11Z",
+  "firstCommit": "2020-04-08T13:59:10Z",
+  "lastCommit": "2022-01-18T15:39:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4ef3287351fdd1a8423507f10e925b00b2dcb23f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "476d56a0e1a9e680c7a475e384c07c229b783e34",
+        "bfb72a82c92ec8621355b51a48e86c687e59fb6b"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

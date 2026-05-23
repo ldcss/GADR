@@ -1,0 +1,115 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/backdrop.git",
+  "crawlDateTime": "2022-01-18T23:02:37.356843",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-003-web-framework.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2015-08-26T15:42:29Z",
+      "lastCommit": "2015-09-17T20:27:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3954140c74d182d5ad9884479902e38d8791352"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "202577a27fd05716918df880ce8f5853f5592b12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-002-persistent-storage.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2015-08-26T15:42:29Z",
+      "lastCommit": "2015-09-17T20:27:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3954140c74d182d5ad9884479902e38d8791352"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "202577a27fd05716918df880ce8f5853f5592b12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001-implementation-language.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2015-08-26T15:42:29Z",
+      "lastCommit": "2015-09-17T20:27:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3954140c74d182d5ad9884479902e38d8791352"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "202577a27fd05716918df880ce8f5853f5592b12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2015-08-26T15:42:29Z",
+  "lastAdrCommit": "2015-09-17T20:27:09Z",
+  "firstCommit": "2013-02-07T11:31:38Z",
+  "lastCommit": "2018-09-06T15:20:32Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e3954140c74d182d5ad9884479902e38d8791352"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "202577a27fd05716918df880ce8f5853f5592b12"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

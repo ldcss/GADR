@@ -1,0 +1,187 @@
+{
+  "repositoryUrl": "https://github.com/elifesciences/elife-base-images.git",
+  "crawlDateTime": "2022-01-18T19:16:24.560798",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0001-commit-tags.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-05T14:47:56Z",
+      "lastCommit": "2018-02-05T14:47:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0fb37d0280b4d6f57d360de731f70d0370dc7084"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0004-elife-user.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-05T14:47:56Z",
+      "lastCommit": "2018-03-01T09:08:53Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24205075797002aaf6c5dfc47ff6ede49c0c7fe9",
+            "0fb37d0280b4d6f57d360de731f70d0370dc7084",
+            "f85fed6d227deee6ec425ab4b5f90a8e195692a9",
+            "f818123c303ed4826599cbffb076718164a18467",
+            "cb18fee6856c814cc459afe6ef340ca8283fdc4d"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-image-labels.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-05T14:47:56Z",
+      "lastCommit": "2018-03-01T09:08:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24205075797002aaf6c5dfc47ff6ede49c0c7fe9",
+            "0fb37d0280b4d6f57d360de731f70d0370dc7084"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0005-provide-standard-bin.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-05T14:47:56Z",
+      "lastCommit": "2018-03-01T09:08:53Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4969e7dd1a5b1acd3069682c4b0c25912cd86de7",
+            "24205075797002aaf6c5dfc47ff6ede49c0c7fe9",
+            "0fb37d0280b4d6f57d360de731f70d0370dc7084"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0006-use-docker-cp-to-extract-files.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-15T15:18:20Z",
+      "lastCommit": "2018-03-01T09:08:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24205075797002aaf6c5dfc47ff6ede49c0c7fe9",
+            "ae4b9798394ac73795072ae8d204824a555374c2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0007-docker-vs-docker-compose.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-15T15:18:35Z",
+      "lastCommit": "2018-03-01T09:08:53Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "36cc7f800285e5f9035a1e69082132d499521729",
+            "15cd42e050088ee197acbe1d1bbee184ac552d05",
+            "24205075797002aaf6c5dfc47ff6ede49c0c7fe9",
+            "baaf4ee019789c7f3c8e5de8a536f54c69dd3d45",
+            "4e94fb9e473c0550b7c6f908348723d23970459f"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-extract-scripts.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-05T14:47:56Z",
+      "lastCommit": "2018-03-01T09:08:53Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24205075797002aaf6c5dfc47ff6ede49c0c7fe9",
+            "0fb37d0280b4d6f57d360de731f70d0370dc7084",
+            "3dff3c3898f22280afab1797df5e79a010e1aec6"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-02-05T14:47:56Z",
+  "lastAdrCommit": "2018-03-01T09:08:53Z",
+  "firstCommit": "2018-01-10T12:04:08Z",
+  "lastCommit": "2021-03-12T15:08:51Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4969e7dd1a5b1acd3069682c4b0c25912cd86de7",
+        "36cc7f800285e5f9035a1e69082132d499521729",
+        "15cd42e050088ee197acbe1d1bbee184ac552d05",
+        "0fb37d0280b4d6f57d360de731f70d0370dc7084",
+        "24205075797002aaf6c5dfc47ff6ede49c0c7fe9",
+        "baaf4ee019789c7f3c8e5de8a536f54c69dd3d45",
+        "ae4b9798394ac73795072ae8d204824a555374c2",
+        "f85fed6d227deee6ec425ab4b5f90a8e195692a9",
+        "f818123c303ed4826599cbffb076718164a18467",
+        "3dff3c3898f22280afab1797df5e79a010e1aec6",
+        "cb18fee6856c814cc459afe6ef340ca8283fdc4d",
+        "4e94fb9e473c0550b7c6f908348723d23970459f"
+      ],
+      "numberOfCommits": 12
+    }
+  ]
+}

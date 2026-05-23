@@ -1,0 +1,141 @@
+{
+  "repositoryUrl": "https://github.com/mozilla-mobile/firefox-tv.git",
+  "crawlDateTime": "2022-01-18T18:38:33.522966",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-0002-robot-pattern.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-10-25T16:22:17Z",
+      "lastCommit": "2018-10-30T23:36:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cb59364ed8c9c90ac8be23badb1dc7febd6dce54",
+            "da3146dfeb24072769169507aa89e311be92498f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-0004-fftv-release-versioning.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-05-16T02:16:08Z",
+      "lastCommit": "2019-06-10T21:11:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6fd25c4b352a61e06ea63bf6926a1bc6c4108e73"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a12e8904e91c54c6fea9083430b79068b8089ea9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-0001-dependency-injection.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-10-23T16:15:11Z",
+      "lastCommit": "2018-10-30T23:36:57Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e987bd9f98d3bf4ad541efa5b8235b8be8dc3496"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bbd7063176f3986319268cc22bb94b437f654f52",
+            "20145b3b609be51471076682cd52b90a12898acd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-0003-mvvm-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-11-09T23:07:30Z",
+      "lastCommit": "2018-11-09T23:07:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8cf5c27af383801319482141097693c9e757f1f4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-10-23T16:15:11Z",
+  "lastAdrCommit": "2019-06-10T21:11:58Z",
+  "firstCommit": "2016-12-09T01:31:11Z",
+  "lastCommit": "2021-04-08T18:38:29Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6fd25c4b352a61e06ea63bf6926a1bc6c4108e73",
+        "e987bd9f98d3bf4ad541efa5b8235b8be8dc3496",
+        "cb59364ed8c9c90ac8be23badb1dc7febd6dce54",
+        "da3146dfeb24072769169507aa89e311be92498f"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bbd7063176f3986319268cc22bb94b437f654f52",
+        "20145b3b609be51471076682cd52b90a12898acd"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8cf5c27af383801319482141097693c9e757f1f4",
+        "a12e8904e91c54c6fea9083430b79068b8089ea9"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

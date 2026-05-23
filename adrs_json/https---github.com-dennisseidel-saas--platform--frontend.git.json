@@ -1,0 +1,327 @@
+{
+  "repositoryUrl": "https://github.com/dennisseidel/saas-platform-frontend.git",
+  "crawlDateTime": "2022-01-18T19:57:23.209794",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0008-use-launchaco-com-to-generate-the-logo-for-free.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-03T12:02:03Z",
+      "lastCommit": "2019-06-19T12:13:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "915ead8f0ddeecf36bb3d340364eeb3d3403eb1d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbe98ae47719c815f8aa47011627e69b8528b5de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0007-use-ant-design-landing-to-create-the-landing-page.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-03T12:02:03Z",
+      "lastCommit": "2019-06-19T12:13:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "915ead8f0ddeecf36bb3d340364eeb3d3403eb1d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbe98ae47719c815f8aa47011627e69b8528b5de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-use-azure-pipeline-for-cicd.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-23T18:09:52Z",
+      "lastCommit": "2019-02-23T18:09:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77fb1595f8cc77ea85dedfc4487692cc15f5b57c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0006-use-antdesign-as-the-ui-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-03T12:02:03Z",
+      "lastCommit": "2019-06-19T12:13:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "915ead8f0ddeecf36bb3d340364eeb3d3403eb1d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbe98ae47719c815f8aa47011627e69b8528b5de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0004-use-client-side-rendering-create-react-app.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-03T12:02:03Z",
+      "lastCommit": "2019-06-19T12:13:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "915ead8f0ddeecf36bb3d340364eeb3d3403eb1d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbe98ae47719c815f8aa47011627e69b8528b5de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0009-use-cypress-for-e2e-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-03T12:02:03Z",
+      "lastCommit": "2019-06-19T12:13:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "915ead8f0ddeecf36bb3d340364eeb3d3403eb1d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbe98ae47719c815f8aa47011627e69b8528b5de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-use-javascript-over-typescript.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-03T12:02:03Z",
+      "lastCommit": "2019-06-19T12:13:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "915ead8f0ddeecf36bb3d340364eeb3d3403eb1d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbe98ae47719c815f8aa47011627e69b8528b5de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0005-use-storybook-to-build-self-contained-components-but-not-for-uis.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-03T12:02:03Z",
+      "lastCommit": "2019-06-19T12:13:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "915ead8f0ddeecf36bb3d340364eeb3d3403eb1d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbe98ae47719c815f8aa47011627e69b8528b5de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0010-use-aws-amplify-coginito-for-login-and-the-identity-provider.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-03T12:02:03Z",
+      "lastCommit": "2019-06-19T12:13:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "915ead8f0ddeecf36bb3d340364eeb3d3403eb1d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbe98ae47719c815f8aa47011627e69b8528b5de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-use-the-stack-from-react-the-complete-guide-to-keep-up-to-date-with-react.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-03T12:02:03Z",
+      "lastCommit": "2019-06-19T12:13:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "915ead8f0ddeecf36bb3d340364eeb3d3403eb1d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbe98ae47719c815f8aa47011627e69b8528b5de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0011-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-03T12:02:03Z",
+      "lastCommit": "2019-06-19T12:13:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "915ead8f0ddeecf36bb3d340364eeb3d3403eb1d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbe98ae47719c815f8aa47011627e69b8528b5de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-23T18:09:52Z",
+  "lastAdrCommit": "2019-06-19T12:13:49Z",
+  "firstCommit": "2019-02-19T16:18:56Z",
+  "lastCommit": "2019-06-22T16:02:40Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "915ead8f0ddeecf36bb3d340364eeb3d3403eb1d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fbe98ae47719c815f8aa47011627e69b8528b5de",
+        "77fb1595f8cc77ea85dedfc4487692cc15f5b57c"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

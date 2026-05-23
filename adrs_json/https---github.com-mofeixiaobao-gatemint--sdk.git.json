@@ -1,0 +1,520 @@
+{
+  "repositoryUrl": "https://github.com/mofeixiaobao/gatemint-sdk.git",
+  "crawlDateTime": "2022-01-18T19:10:32.851516",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 26,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-025-ibc-passive-channels.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-015-ibc-packet-receiver.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-007-specialization-groups.md",
+      "template": "Nygard",
+      "status": "> Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-027-deterministic-protobuf-serialization.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-008-dCERT-group.md",
+      "template": "Nygard",
+      "status": "> Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-020-protobuf-transaction-encoding.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-011-generalize-genesis-accounts.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-012-state-accessors.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-026-ibc-client-recovery-mechanisms.md",
+      "template": "Nygard",
+      "status": "*Proposed*",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-013-metrics.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-024-coin-metadata.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-022-custom-panic-handling.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-001-coin-source-tracing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-018-extendable-voting-period.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-006-secret-store-replacement.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-004-split-denomination-keys.md",
+      "template": "Nygard",
+      "status": "Proposed.",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-009-evidence-module.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-010-modular-antehandler.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-017-historical-header-module.md",
+      "template": "Nygard",
+      "status": "Proposed.",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-023-protobuf-naming.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-016-validator-consensus-key-rotation.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-014-proportional-slashing.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-003-dynamic-capability-store.md",
+      "template": "Nygard",
+      "status": "Proposed.",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-002-docs-structure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-019-protobuf-state-encoding.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-021-protobuf-query-encoding.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-08T03:36:28Z",
+      "lastCommit": "2020-09-08T03:36:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-08T03:36:28Z",
+  "lastAdrCommit": "2020-09-08T03:36:28Z",
+  "firstCommit": "2020-09-08T03:36:28Z",
+  "lastCommit": "2020-09-08T03:36:28Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9898951f6f9ba028438ea69c5bbaef2ca4860fd7"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

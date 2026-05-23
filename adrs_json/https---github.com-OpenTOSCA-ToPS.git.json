@@ -1,0 +1,69 @@
+{
+  "repositoryUrl": "https://github.com/OpenTOSCA/ToPS.git",
+  "crawlDateTime": "2022-01-18T19:55:40.804203",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-extra-test-class-for-junit-test-with-SWI-Prolog-involved.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2018-03-29T13:55:22Z",
+      "lastCommit": "2018-03-29T14:08:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "67e47227b7944336d1eb13e1c53338300c2ef7b0",
+            "9ca9d16fcbb5a35fdb7622e164851813de5830b9",
+            "1f4b303cf1724b35c7ae65f07005dc466b4b49d2"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-03-29T13:49:24Z",
+      "lastCommit": "2018-03-29T13:49:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25d0bbc1822bd6b248990bfad3acc864241b9b45"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-03-29T13:49:24Z",
+  "lastAdrCommit": "2018-03-29T14:08:23Z",
+  "firstCommit": "2018-02-28T15:46:50Z",
+  "lastCommit": "2022-01-14T09:36:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "67e47227b7944336d1eb13e1c53338300c2ef7b0",
+        "25d0bbc1822bd6b248990bfad3acc864241b9b45",
+        "9ca9d16fcbb5a35fdb7622e164851813de5830b9",
+        "1f4b303cf1724b35c7ae65f07005dc466b4b49d2"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

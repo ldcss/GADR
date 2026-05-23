@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/mallickhruday/JustRooms.git",
+  "crawlDateTime": "2022-01-18T19:09:50.343593",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-clean-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-04T15:35:34Z",
+      "lastCommit": "2019-08-04T15:35:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "761012670318a4f2e1fe04ee205f2af21726100a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-allow-converters-in-application-layer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-04T15:35:34Z",
+      "lastCommit": "2019-08-04T15:35:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "761012670318a4f2e1fe04ee205f2af21726100a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-04T15:35:34Z",
+      "lastCommit": "2019-08-04T15:35:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "761012670318a4f2e1fe04ee205f2af21726100a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-04T15:35:34Z",
+  "lastAdrCommit": "2019-08-04T15:35:34Z",
+  "firstCommit": "2019-03-28T16:53:49Z",
+  "lastCommit": "2019-09-11T14:14:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "761012670318a4f2e1fe04ee205f2af21726100a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

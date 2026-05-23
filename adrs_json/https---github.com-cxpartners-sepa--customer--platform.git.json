@@ -1,0 +1,368 @@
+{
+  "repositoryUrl": "https://github.com/cxpartners/sepa-customer-platform.git",
+  "crawlDateTime": "2022-01-18T21:07:31.035614",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-document-permissions.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-10-08T13:02:48Z",
+      "lastCommit": "2019-10-14T06:23:00Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7dd6d2ab4881e042f2a17137325c02fddb8f316b",
+            "76e1ef7b3a507191eed9392038758195ca024eb4"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0beba2d0900e3fcc5d5e774dd52bae65f6419d27",
+            "11e905547ea26990865e083af86385233703dd87",
+            "69b2f1747424a4167127a92d2c97322dc9fcf589"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-user-groups-roles-permissions.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-10-08T13:02:48Z",
+      "lastCommit": "2019-10-14T06:23:00Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7dd6d2ab4881e042f2a17137325c02fddb8f316b",
+            "73c9e58fbd21b0b98d67851b719e587f349b2378",
+            "76e1ef7b3a507191eed9392038758195ca024eb4"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d8f22dd0015aadee43d5ef89fd55ce8e0569495a",
+            "f1bc0e5b2d8e95d8f395bdc215e33827eeb5c893",
+            "47b53479f085304088eec75ada50afc56c893b89",
+            "fae681306e432b12df2ffec172f2c581142cee8e"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-custom-frontend-application-backstage-users.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-10-11T11:21:33Z",
+      "lastCommit": "2019-10-18T08:19:06Z",
+      "numberOfCommits": 9,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7dd6d2ab4881e042f2a17137325c02fddb8f316b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0d3b3c2d8a3e08513b903d49ad02e7002577a853",
+            "cd9ab021084f655ac893e6281c03734c31171d62",
+            "6a3c4f296eec1c96fbd4a4a3400e8651138e645e",
+            "de8bfe0ac893f7d7df19137882407f0ec3fa1178",
+            "27a58d3aebc8fa6eb4d97387fcdabe34ad3ecc9f",
+            "c903854a6d4c0c83d8392fe165f5571127a9cdee",
+            "ca21354081b0070057559216dcd58a9eda549d06",
+            "80994d320bf8b90adc450d69ba5f21e719a064ec"
+          ],
+          "numberOfCommits": 8
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-relating-documents-to-cases.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-10-08T13:02:48Z",
+      "lastCommit": "2019-10-14T06:23:00Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7dd6d2ab4881e042f2a17137325c02fddb8f316b",
+            "76e1ef7b3a507191eed9392038758195ca024eb4"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6c3e7035f5d0cf448ed357589d616f72350ec011",
+            "ea4888dcae9096e1562d75299f4ac2a0600dfcc5",
+            "d5bee768545565fef6b5c575bf895cb24f493aa6"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-custom-frontend-application-frontstage-users.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-10-08T13:02:48Z",
+      "lastCommit": "2019-10-14T06:23:00Z",
+      "numberOfCommits": 9,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7dd6d2ab4881e042f2a17137325c02fddb8f316b",
+            "76e1ef7b3a507191eed9392038758195ca024eb4"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6c9a91f645f25f3f793ff58505820046ac26bbf5",
+            "8371b1e7106b88bb182305954622bc9ccae7d779",
+            "c8a045b56c4bf4a7f5fe5429b2bf830c9855bb4d",
+            "257a1922671c86d04f9814eb4ed33e03c2949ba8",
+            "6a34c54c6b8612cfe135ac8b1198ca66d6bd10d6",
+            "e68ed3f1a8bddaa177a285fa93be229e5d8b855a",
+            "53967f669e3c36e84d76a0a90fe96acf6a184c31"
+          ],
+          "numberOfCommits": 7
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-azure-blob-storage-file-chunking-containers.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-10-17T17:41:30Z",
+      "lastCommit": "2019-10-18T08:13:34Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d44f1bb306c5ca9756f5f9240dcf86535e83f95a",
+            "b57d0c90171212a49eea9e50fae555275a2514c9",
+            "0c314d8d055fa257a0d960a303817848ff70cbcf",
+            "840bdc6f0bd8c984d5f7116fdcdb76f6d8a711d6",
+            "d78202e11ea2cadc3a28b0fcd0fe3fa49fae325c",
+            "e961d141263a66baf5ea5b0b1aa641f9df3e6b56",
+            "9d308601196ee0277d0639a4a9253d47fcadda39",
+            "66b079125ef7b5a020e9c517a0ecef9466666b70"
+          ],
+          "numberOfCommits": 8
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-authenticate-backstage-users-azure-ad.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-08T13:02:48Z",
+      "lastCommit": "2019-10-14T06:23:00Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7dd6d2ab4881e042f2a17137325c02fddb8f316b",
+            "73c9e58fbd21b0b98d67851b719e587f349b2378",
+            "76e1ef7b3a507191eed9392038758195ca024eb4"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a965e7cf70e6533517959edc85880510595ee66d",
+            "bb93e8e2ddf75ed9ddb5b2b472e8f32229584549",
+            "e6487b16604c88002f9c992dcf6a523e2305e0e3",
+            "406ed988a5a19188fd5c085c2472c9d39e94cdab"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-user-ms-dynamics-for-contact-case-document-management.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-09-19T15:33:55Z",
+      "lastCommit": "2019-09-19T15:33:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "40e66b442376c35d817aa74193eabc1c4be61d73"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-azure-blob-storage-store-large-supporting-data-files.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-09-19T15:33:55Z",
+      "lastCommit": "2019-09-19T15:33:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "40e66b442376c35d817aa74193eabc1c4be61d73"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-authenticate-frontstage-users-azure-b2c.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-19T15:33:55Z",
+      "lastCommit": "2019-10-14T06:23:00Z",
+      "numberOfCommits": 9,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7dd6d2ab4881e042f2a17137325c02fddb8f316b",
+            "aa3e67419ab37276194503159740b6f84dc832f8",
+            "73c9e58fbd21b0b98d67851b719e587f349b2378",
+            "40e66b442376c35d817aa74193eabc1c4be61d73",
+            "76e1ef7b3a507191eed9392038758195ca024eb4",
+            "f9277585df997dfe69453374a3f21c6e23ee82b6"
+          ],
+          "numberOfCommits": 6
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "88e91a91c439596a4b13e36a4f1fc5c606ac535b",
+            "9e009f0e0b047e1f1b2e5f94b5f55fb0fa23e393",
+            "5282d2afdbb015fea80f0227e4146cc4f27b2a32"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-09-19T15:33:55Z",
+  "lastAdrCommit": "2019-10-18T08:19:06Z",
+  "firstCommit": "2019-09-11T10:45:29Z",
+  "lastCommit": "2021-10-06T04:42:50Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7dd6d2ab4881e042f2a17137325c02fddb8f316b",
+        "aa3e67419ab37276194503159740b6f84dc832f8",
+        "73c9e58fbd21b0b98d67851b719e587f349b2378",
+        "40e66b442376c35d817aa74193eabc1c4be61d73",
+        "76e1ef7b3a507191eed9392038758195ca024eb4",
+        "f9277585df997dfe69453374a3f21c6e23ee82b6"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "88e91a91c439596a4b13e36a4f1fc5c606ac535b",
+        "ea4888dcae9096e1562d75299f4ac2a0600dfcc5",
+        "0c314d8d055fa257a0d960a303817848ff70cbcf",
+        "cd9ab021084f655ac893e6281c03734c31171d62",
+        "6a3c4f296eec1c96fbd4a4a3400e8651138e645e",
+        "d5bee768545565fef6b5c575bf895cb24f493aa6",
+        "9d308601196ee0277d0639a4a9253d47fcadda39",
+        "e6487b16604c88002f9c992dcf6a523e2305e0e3",
+        "d8f22dd0015aadee43d5ef89fd55ce8e0569495a",
+        "0beba2d0900e3fcc5d5e774dd52bae65f6419d27",
+        "8371b1e7106b88bb182305954622bc9ccae7d779",
+        "d44f1bb306c5ca9756f5f9240dcf86535e83f95a",
+        "840bdc6f0bd8c984d5f7116fdcdb76f6d8a711d6",
+        "69b2f1747424a4167127a92d2c97322dc9fcf589",
+        "53967f669e3c36e84d76a0a90fe96acf6a184c31",
+        "406ed988a5a19188fd5c085c2472c9d39e94cdab",
+        "9e009f0e0b047e1f1b2e5f94b5f55fb0fa23e393",
+        "47b53479f085304088eec75ada50afc56c893b89",
+        "fae681306e432b12df2ffec172f2c581142cee8e",
+        "ca21354081b0070057559216dcd58a9eda549d06",
+        "80994d320bf8b90adc450d69ba5f21e719a064ec",
+        "6c3e7035f5d0cf448ed357589d616f72350ec011",
+        "c8a045b56c4bf4a7f5fe5429b2bf830c9855bb4d",
+        "de8bfe0ac893f7d7df19137882407f0ec3fa1178",
+        "27a58d3aebc8fa6eb4d97387fcdabe34ad3ecc9f",
+        "6c9a91f645f25f3f793ff58505820046ac26bbf5",
+        "0d3b3c2d8a3e08513b903d49ad02e7002577a853",
+        "b57d0c90171212a49eea9e50fae555275a2514c9",
+        "11e905547ea26990865e083af86385233703dd87",
+        "a965e7cf70e6533517959edc85880510595ee66d",
+        "257a1922671c86d04f9814eb4ed33e03c2949ba8",
+        "6a34c54c6b8612cfe135ac8b1198ca66d6bd10d6",
+        "bb93e8e2ddf75ed9ddb5b2b472e8f32229584549",
+        "d78202e11ea2cadc3a28b0fcd0fe3fa49fae325c",
+        "e961d141263a66baf5ea5b0b1aa641f9df3e6b56",
+        "f1bc0e5b2d8e95d8f395bdc215e33827eeb5c893",
+        "e68ed3f1a8bddaa177a285fa93be229e5d8b855a",
+        "c903854a6d4c0c83d8392fe165f5571127a9cdee",
+        "66b079125ef7b5a020e9c517a0ecef9466666b70",
+        "5282d2afdbb015fea80f0227e4146cc4f27b2a32"
+      ],
+      "numberOfCommits": 40
+    }
+  ]
+}

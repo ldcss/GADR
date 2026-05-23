@@ -1,0 +1,57 @@
+{
+  "repositoryUrl": "https://github.com/return-tosleep/checkout.git",
+  "crawlDateTime": "2022-01-18T17:47:43.358354",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adrs"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "adrs",
+      "path": "0153-checkout-v2.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-13T19:43:20Z",
+      "lastCommit": "2020-05-27T13:54:28Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b4626ce19ce1106186ddf9bb20e706842f11a7c3",
+            "096e9277500008410ac4dd98a7bb0d9052330de8",
+            "06218e4404b044c23590a921fa858fb632a41afe",
+            "e52d022eb52c224e5f2201beb687a66849e3b200",
+            "204620207c9669dc859681b83d09302c7deb97ce",
+            "58070a9fc3a91197fc9cbf24841ea31a2ab19980",
+            "f858c22e963bc60bc9d01c3d105c52a45a7deb6e"
+          ],
+          "numberOfCommits": 7
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-13T19:43:20Z",
+  "lastAdrCommit": "2020-05-27T13:54:28Z",
+  "firstCommit": "2019-07-19T17:15:34Z",
+  "lastCommit": "2021-09-22T03:28:08Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b4626ce19ce1106186ddf9bb20e706842f11a7c3",
+        "096e9277500008410ac4dd98a7bb0d9052330de8",
+        "06218e4404b044c23590a921fa858fb632a41afe",
+        "e52d022eb52c224e5f2201beb687a66849e3b200",
+        "204620207c9669dc859681b83d09302c7deb97ce",
+        "58070a9fc3a91197fc9cbf24841ea31a2ab19980",
+        "f858c22e963bc60bc9d01c3d105c52a45a7deb6e"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

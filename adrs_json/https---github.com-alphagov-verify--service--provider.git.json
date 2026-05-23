@@ -1,0 +1,922 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/verify-service-provider.git",
+  "crawlDateTime": "2022-01-18T19:57:21.360862",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 26,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0013-we-will-write-acceptance-tests-against-compliance-tool.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-28T14:34:27Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0019-we-will-validate-assertion-details.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-08-09T11:28:02Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "df86aab090d89b6fccbe3e76ab4c6537e824c8f9",
+            "95c7b9c3d0c88e5a57865045c180f22459f500c1"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0017-we-will-pass-the-request-id-to-the-client.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-28T14:34:27Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "61ac2600ce61ee526d364dd89d6ac8bdc161ff26"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0012-we-will-use-the-full-profile.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-28T14:34:27Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0026-development-mode-for-the-verify-service-provider.md",
+      "template": "Nygard",
+      "status": "Accepted Supersedes [8. Provide an End To End Stub](0008-provide-an-end-to-end-stub.md)",
+      "firstCommit": "2019-01-21T13:50:27Z",
+      "lastCommit": "2019-01-21T17:53:39Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9714e1125d9337c45757d3a1d43d4c8057f9e9fe",
+            "d7efca6bb808bb9d0ca0b8ed89a7434786d0dd88"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0018-we-will-have-hubssolocation-as-a-configuration.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2017-08-01T13:07:34Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3c1e363ceb2aec7570ec02e570c2883968f46864"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0014-html-will-not-be-generated-by-the-verify-service-provider.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-28T14:34:27Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0024-release-process-for-verify-service-provider.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-27T12:30:31Z",
+      "lastCommit": "2017-10-27T12:30:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d426dbe4d457d695e8a1cb966a6807a76ff2cd70"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-sp-will-generate-request-id.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-02T15:39:24Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0baee0b74462faa188c426e1f22aa052400b7124",
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f77e4d2809bfddf396e67f108eb028dff2b876d0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d77200bff55a931b423b86c468de21697ae7b754"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0021-we-will-use-http-200-for-valid-saml.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-08-16T09:53:55Z",
+      "lastCommit": "2017-10-10T11:15:27Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bbcbc8b8d3b780a4a17abb1d95cc74b0e92a4cb7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "61ac2600ce61ee526d364dd89d6ac8bdc161ff26"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-we-will-keep-the-config-as-simple-as-possible.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-28T14:34:27Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-we-will-use-a-secure-token-to-validate-inresponseto.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2017-07-28T14:34:27Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-files-to-store-private-keys.md",
+      "template": "Nygard",
+      "status": "Superseded",
+      "firstCommit": "2017-06-02T15:39:24Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0baee0b74462faa188c426e1f22aa052400b7124",
+            "09f4c6f671d0ccf41d684df970041d639f441132",
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f77e4d2809bfddf396e67f108eb028dff2b876d0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d77200bff55a931b423b86c468de21697ae7b754"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-we-will-document-a-strawman-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-02T15:39:24Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0baee0b74462faa188c426e1f22aa052400b7124",
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f77e4d2809bfddf396e67f108eb028dff2b876d0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d77200bff55a931b423b86c468de21697ae7b754"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-provide-an-end-to-end-stub.md",
+      "template": "Nygard",
+      "status": "Accepted Superseded by [26. Development mode for the Verify Service Provider](0026-development-mode-for-the-verify-service-provider.md)",
+      "firstCommit": "2017-06-12T11:06:28Z",
+      "lastCommit": "2019-01-21T13:50:27Z",
+      "numberOfCommits": 9,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "326becafde841c4ee80aa36ebccc62c3d26cbbc3",
+            "ea5c28e41870772def4608b28f3e570ad38a4108"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0baee0b74462faa188c426e1f22aa052400b7124",
+            "307b96e626a59f6c4405ea0b51328805635d1bf8",
+            "b9f7834c4b26769d535781bf1e755a13b8980cad"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f77e4d2809bfddf396e67f108eb028dff2b876d0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f2d0b17ed1c5e016a4a333a173f7be09c8821ec1",
+            "d7efca6bb808bb9d0ca0b8ed89a7434786d0dd88"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0025-we-will-only-release-one-configuration-file.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-06T15:23:15Z",
+      "lastCommit": "2018-03-23T11:50:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4f530a4858ecde1f792eebd4e619e79f5363126b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1187acdc44d352a8d284f3e83e0041a3dc43101"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0015-we-will-depend-on-a-minimal-set-of-verify-saml-libs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-28T14:34:27Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-we-will-build-a-js-client.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-02T15:39:24Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0baee0b74462faa188c426e1f22aa052400b7124",
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f77e4d2809bfddf396e67f108eb028dff2b876d0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d77200bff55a931b423b86c468de21697ae7b754"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0022-we-will-not-validate-the-recipient.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-26T14:41:27Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4eb515633e0f0ad3e02f75c6c7e29e181e4257b8",
+            "4027f02bd2d579d39ce14851843624fd700354b3",
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-we-will-not-use-a-dependency-injection-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-28T14:34:27Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-how-do-we-secure-the-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-02T15:39:24Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0baee0b74462faa188c426e1f22aa052400b7124",
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f77e4d2809bfddf396e67f108eb028dff2b876d0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d77200bff55a931b423b86c468de21697ae7b754"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0023-we-will-report-the-version-in-a-saml-extension.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-10T11:15:27Z",
+      "lastCommit": "2017-10-10T11:15:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bbcbc8b8d3b780a4a17abb1d95cc74b0e92a4cb7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-users-will-be-able-to-provide-relay-state.md",
+      "template": "Nygard",
+      "status": "Pending (may want to change if the added complexity is high)",
+      "firstCommit": "2017-06-02T15:39:24Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0baee0b74462faa188c426e1f22aa052400b7124"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f77e4d2809bfddf396e67f108eb028dff2b876d0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d77200bff55a931b423b86c468de21697ae7b754"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0016-we-will-have-a-healthcheck-endpoint.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-28T14:34:27Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0020-we-will-put-verified-status-inside-json-object.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-08-09T14:26:35Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3",
+            "d5b8f91087369820d98e6804fdb6f1b5d7fee99b"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "61ac2600ce61ee526d364dd89d6ac8bdc161ff26"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-28T14:34:27Z",
+      "lastCommit": "2017-10-09T14:04:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f608c00104d1d52834efaea187bcebfb15058b3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "586b1984d33c9a5529be88e33c403d79625fe17b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-06-02T15:39:24Z",
+  "lastAdrCommit": "2019-01-21T17:53:39Z",
+  "firstCommit": "2017-06-02T15:39:24Z",
+  "lastCommit": "2022-01-12T14:11:12Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "326becafde841c4ee80aa36ebccc62c3d26cbbc3",
+        "4f530a4858ecde1f792eebd4e619e79f5363126b",
+        "ea5c28e41870772def4608b28f3e570ad38a4108"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4eb515633e0f0ad3e02f75c6c7e29e181e4257b8",
+        "4027f02bd2d579d39ce14851843624fd700354b3",
+        "3f608c00104d1d52834efaea187bcebfb15058b3",
+        "d5b8f91087369820d98e6804fdb6f1b5d7fee99b"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "df86aab090d89b6fccbe3e76ab4c6537e824c8f9",
+        "95c7b9c3d0c88e5a57865045c180f22459f500c1"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0baee0b74462faa188c426e1f22aa052400b7124",
+        "307b96e626a59f6c4405ea0b51328805635d1bf8",
+        "bbcbc8b8d3b780a4a17abb1d95cc74b0e92a4cb7",
+        "09f4c6f671d0ccf41d684df970041d639f441132",
+        "586b1984d33c9a5529be88e33c403d79625fe17b",
+        "b1187acdc44d352a8d284f3e83e0041a3dc43101",
+        "b9f7834c4b26769d535781bf1e755a13b8980cad"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d426dbe4d457d695e8a1cb966a6807a76ff2cd70"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3c1e363ceb2aec7570ec02e570c2883968f46864",
+        "f77e4d2809bfddf396e67f108eb028dff2b876d0"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d77200bff55a931b423b86c468de21697ae7b754",
+        "f2d0b17ed1c5e016a4a333a173f7be09c8821ec1",
+        "9714e1125d9337c45757d3a1d43d4c8057f9e9fe",
+        "d7efca6bb808bb9d0ca0b8ed89a7434786d0dd88"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "61ac2600ce61ee526d364dd89d6ac8bdc161ff26"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

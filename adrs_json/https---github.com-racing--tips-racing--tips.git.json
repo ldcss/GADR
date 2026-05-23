@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/racing-tips/racing-tips.git",
+  "crawlDateTime": "2022-01-18T19:09:11.570088",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-kubernetes-and-docker.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-18T20:56:11Z",
+      "lastCommit": "2018-10-18T20:56:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7bf2f22e6f2eeb24e7dbe6120ce70a5589d1c9fd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-18T20:56:11Z",
+      "lastCommit": "2018-10-18T20:56:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7bf2f22e6f2eeb24e7dbe6120ce70a5589d1c9fd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-10-18T20:56:11Z",
+  "lastAdrCommit": "2018-10-18T20:56:11Z",
+  "firstCommit": "2018-10-11T21:35:43Z",
+  "lastCommit": "2022-01-14T21:12:25Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7bf2f22e6f2eeb24e7dbe6120ce70a5589d1c9fd"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

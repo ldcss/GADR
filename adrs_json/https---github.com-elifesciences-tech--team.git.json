@@ -1,0 +1,219 @@
+{
+  "repositoryUrl": "https://github.com/elifesciences/tech-team.git",
+  "crawlDateTime": "2022-01-18T20:45:58.883462",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0002-use-containers-for-foreign-languages.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2017-11-09T11:49:01Z",
+      "lastCommit": "2017-11-09T11:49:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d4334530eb73ca7b6f16d8f664513cc4ed2505c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-pull-request-workflow.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-25T15:01:37Z",
+      "lastCommit": "2017-10-25T15:01:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6fc2d03fb461b08bebcf4783f6a470ceb88a558b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0009-supported-python-versions-containers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-01T08:54:36Z",
+      "lastCommit": "2018-03-01T08:54:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5836090110262da974a4833802949f3f64fb800c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0008-civi.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-18T10:51:00Z",
+      "lastCommit": "2018-01-18T10:51:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7d7f8abb04792356580980c23e9cdef1f2262bfd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0005-supported-php-versions.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2017-12-20T11:55:44Z",
+      "lastCommit": "2017-12-20T11:55:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "270c23a7b3d0834f54304ca947176b7f1945c52c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0006-supported-node-and-npm-versions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-08T10:59:43Z",
+      "lastCommit": "2018-01-09T14:38:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "75dcfe32d361407647f0c3c80f4bab999acb7970",
+            "f451b58b9781aa2e833f2d45562bd6d82308448b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0004-supported-python-versions.md",
+      "template": "Nygard",
+      "status": "Superseded by [0009-supported-python-versions-containers](adr/0009-supported-python-versions-containers.md)",
+      "firstCommit": "2017-11-22T11:46:04Z",
+      "lastCommit": "2018-03-01T08:54:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5836090110262da974a4833802949f3f64fb800c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "761df245136c8350cf88421e3039b3532b6a24e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-rds-postgresql-permissions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-11-13T09:51:38Z",
+      "lastCommit": "2017-11-13T09:51:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "62350d5930d7f98e92b08e46de70d4b76bb435c4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-10-25T15:01:37Z",
+  "lastAdrCommit": "2018-03-01T08:54:36Z",
+  "firstCommit": "2017-10-20T10:27:23Z",
+  "lastCommit": "2022-01-04T16:20:10Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5836090110262da974a4833802949f3f64fb800c",
+        "270c23a7b3d0834f54304ca947176b7f1945c52c",
+        "6fc2d03fb461b08bebcf4783f6a470ceb88a558b",
+        "2d4334530eb73ca7b6f16d8f664513cc4ed2505c",
+        "7d7f8abb04792356580980c23e9cdef1f2262bfd"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "75dcfe32d361407647f0c3c80f4bab999acb7970",
+        "f451b58b9781aa2e833f2d45562bd6d82308448b"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "761df245136c8350cf88421e3039b3532b6a24e5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "62350d5930d7f98e92b08e46de70d4b76bb435c4"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

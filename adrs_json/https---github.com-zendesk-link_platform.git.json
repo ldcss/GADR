@@ -1,0 +1,591 @@
+{
+  "repositoryUrl": "https://github.com/zendesk/link_platform.git",
+  "crawlDateTime": "2022-01-18T23:09:52.448402",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 20,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0018-put-openreferral-resources-in-an-api-namespace.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-20T22:18:04Z",
+      "lastCommit": "2019-02-20T22:18:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8344c7f67a89a55fade53bae3c3ab38894e3d920"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-postgresql.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-06T23:20:50Z",
+      "lastCommit": "2018-06-06T23:20:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d9ed55786786421fbfac42b8b591165f4bc91d26"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-the-adr-tools-kit-to-manage-adr-docs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-25T19:03:40Z",
+      "lastCommit": "2018-06-27T20:19:15Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "69774142fbd5928e3dd629c9765efd685d5ba6a6"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "654471e33c41bc7d3ea50d85d682104d80117153"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-use-garden-to-rewrite-admin-ui.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-06T23:35:45Z",
+      "lastCommit": "2018-06-06T23:35:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "464a33ce80f2ec49f89e3ac718eb7a7f5eb1c166"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-use-openreferal-api.md",
+      "template": "Nygard",
+      "status": "Proposed Amended by [17. Use string (uuid) for all model id fields](0017-use-strings-for-all-model-id-fields.md)",
+      "firstCommit": "2018-06-13T21:29:26Z",
+      "lastCommit": "2019-02-20T21:58:02Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3921f9d07bb158a243dcecb4a489c87cc4e428a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76a1ee3e75c044c723beab1af2f503996ea82aad",
+            "b6c66e9a2145f63a3f4246a307f6f543fd903352"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-create-react-app-npm-no-yarn.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-06T23:51:56Z",
+      "lastCommit": "2018-06-06T23:51:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9a87650a89670d0cacbba740f226bc788ef5ad36"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0015-use-storybook.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2018-07-19T16:27:13Z",
+      "lastCommit": "2018-08-08T22:47:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6aa0a23fbe0ed9e8183f12428ce69c304c058d6b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1da571c76269315a19eb7a9afb25aeea3dac69b5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-use-docker-images-to-deploy-the-application.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-06-07T21:12:12Z",
+      "lastCommit": "2018-06-07T21:12:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77fef273c959baedf1d0720fe0e4a354498f8682"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0014-use-redux.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-01T22:52:28Z",
+      "lastCommit": "2018-08-22T20:26:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f6314b4b979ae8605189eecdcf4bd2b980ae0464"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ace27f9de03093456277ba53ca19722b99f75f77"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0013-use-fela-css-in-js-for-styling.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-21T00:48:39Z",
+      "lastCommit": "2018-08-08T22:46:31Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b77ebe0256db0e59e6f56f9f808465aaa4b43a11",
+            "e9e3c2d5217783fca9e7d03e85863b8471393a14"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bfa98d790650f84c1b13460bb24e8c83e78cad5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-use-preact-for-the-end-user-website.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-20T23:54:17Z",
+      "lastCommit": "2018-08-08T19:51:27Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f138c18735c79f3efd60c66933d2e485ed87c956",
+            "bad69fdef6e7d10bb657e8424c4a0099a3ac7457"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "84ffe73780e2eb86bae1dc6a682849523ee70f3d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0018-use-activestorage-and-s3-for-image-upload-functionality.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-28T16:37:24Z",
+      "lastCommit": "2019-02-28T16:37:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8d002b1ac025a1205ef45e51bf619776adebfdcc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0016-use-devise-for-admin-authentication.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2018-08-01T20:56:46Z",
+      "lastCommit": "2018-08-01T21:15:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77d91d364c9fc7c4e0cf5520671adb7cb6c6119f",
+            "64fc91b8a069339d7b1d6ae6afa2c57dfb53c927"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0017-use-strings-for-all-model-id-fields.md",
+      "template": "Nygard",
+      "status": "Proposed Amends [9. Use OpenReferal API](0009-use-openreferal-api.md)",
+      "firstCommit": "2018-08-09T19:48:41Z",
+      "lastCommit": "2019-02-20T21:58:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3921f9d07bb158a243dcecb4a489c87cc4e428a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76a1ee3e75c044c723beab1af2f503996ea82aad"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0012-use-jest-and-enzyme-for-unit-testing.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2018-06-20T22:31:33Z",
+      "lastCommit": "2018-07-25T20:09:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "250c82f4818c34d4d39826c9f1ae39ad476d8685"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b32fbf7aae780be08ef8d4954bd87d18c6abc9e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-use-rspec-and-factorybot-for-unit-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-06T23:50:22Z",
+      "lastCommit": "2018-06-06T23:50:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d0ee98b1fb533efbebaf6813bac62f0b270fc9cb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0011-use-rails-for-backend.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-13T21:02:21Z",
+      "lastCommit": "2018-06-13T21:02:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ba5eb2b483aaea00b18fa18883b9ece53e91407f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0019-react-api-client-library.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-20T21:16:02Z",
+      "lastCommit": "2019-03-20T21:16:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb6dc827a3cec106bfde073f17831e79398444ee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-25T19:03:40Z",
+      "lastCommit": "2018-05-25T19:03:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "654471e33c41bc7d3ea50d85d682104d80117153"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0020-background-job-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-10T22:37:50Z",
+      "lastCommit": "2019-07-17T23:07:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "17ef89ec43883fc5879248bb0add39a2aeda39ad",
+            "df2099f092297a1e4899f3625cbff02f4f451147"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-25T19:03:40Z",
+  "lastAdrCommit": "2019-07-17T23:07:03Z",
+  "firstCommit": "2018-05-23T23:43:21Z",
+  "lastCommit": "2022-01-15T06:56:17Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f6314b4b979ae8605189eecdcf4bd2b980ae0464"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f138c18735c79f3efd60c66933d2e485ed87c956",
+        "bad69fdef6e7d10bb657e8424c4a0099a3ac7457"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8344c7f67a89a55fade53bae3c3ab38894e3d920",
+        "d9ed55786786421fbfac42b8b591165f4bc91d26"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fb6dc827a3cec106bfde073f17831e79398444ee",
+        "17ef89ec43883fc5879248bb0add39a2aeda39ad",
+        "77d91d364c9fc7c4e0cf5520671adb7cb6c6119f",
+        "64fc91b8a069339d7b1d6ae6afa2c57dfb53c927",
+        "df2099f092297a1e4899f3625cbff02f4f451147"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "250c82f4818c34d4d39826c9f1ae39ad476d8685"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4b32fbf7aae780be08ef8d4954bd87d18c6abc9e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6aa0a23fbe0ed9e8183f12428ce69c304c058d6b"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1da571c76269315a19eb7a9afb25aeea3dac69b5",
+        "8d002b1ac025a1205ef45e51bf619776adebfdcc",
+        "9a87650a89670d0cacbba740f226bc788ef5ad36",
+        "b77ebe0256db0e59e6f56f9f808465aaa4b43a11",
+        "ace27f9de03093456277ba53ca19722b99f75f77",
+        "ba5eb2b483aaea00b18fa18883b9ece53e91407f",
+        "e9e3c2d5217783fca9e7d03e85863b8471393a14"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f3921f9d07bb158a243dcecb4a489c87cc4e428a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "69774142fbd5928e3dd629c9765efd685d5ba6a6",
+        "464a33ce80f2ec49f89e3ac718eb7a7f5eb1c166"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "76a1ee3e75c044c723beab1af2f503996ea82aad",
+        "b6c66e9a2145f63a3f4246a307f6f543fd903352",
+        "1bfa98d790650f84c1b13460bb24e8c83e78cad5"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "654471e33c41bc7d3ea50d85d682104d80117153",
+        "77fef273c959baedf1d0720fe0e4a354498f8682",
+        "d0ee98b1fb533efbebaf6813bac62f0b270fc9cb"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "84ffe73780e2eb86bae1dc6a682849523ee70f3d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/modernisation-platform.git",
+  "crawlDateTime": "2022-01-18T21:03:53.363993",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decision-record"
+  ],
+  "numAdrFiles": 17,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0011-use-vpc-flow-logs-to-gain-insight-into-network-state.md",
+      "template": "Nygard",
+      "status": "\u274c Rejected",
+      "firstCommit": "2021-09-24T16:03:55Z",
+      "lastCommit": "2021-09-24T16:03:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "34db3316f08d0e5d371ce090984fab8728a90f39"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0013-use-iac-network-tester-to-test-connectivity-rules.md",
+      "template": "Nygard",
+      "status": "\u274c Rejected",
+      "firstCommit": "2021-09-24T16:03:55Z",
+      "lastCommit": "2021-09-24T16:03:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "34db3316f08d0e5d371ce090984fab8728a90f39"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0010-terraform-module-strategy.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2021-06-18T14:42:17Z",
+      "lastCommit": "2021-11-02T12:19:41Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "34db3316f08d0e5d371ce090984fab8728a90f39"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7e850593df1e026de98b8be001986644b8073c8d",
+            "02dc64e8372b1623466d11107ded9dd85e268c82"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0009-use-secrets-manager-for-secrets.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2021-06-18T11:47:16Z",
+      "lastCommit": "2021-09-24T16:03:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "34db3316f08d0e5d371ce090984fab8728a90f39"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b2129a7532da92d7b5d2b554b4a968a8d4ab2be5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0007-use-terratest-opa-and-go-for-testing.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2021-04-15T10:14:53Z",
+      "lastCommit": "2021-06-18T09:33:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f15a5b4703279c4ae1a28dfaa2e007d9a5f5e16",
+            "28bf593f7a3f997747b2ac5e6f9765cac58ac82a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0005-use-github-actions.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2020-11-19T11:40:33Z",
+      "lastCommit": "2021-01-21T10:33:55Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "43f4fa0da6d2b3ac7abd8421ff1348e1596e395d",
+            "edb07a7fe8094ab113a2fd2e79a815998ada89d0",
+            "00dfc4d79931408ed730ef7fc8535219afd7af65"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0002-use-iam-federated-access.md",
+      "template": "Nygard",
+      "status": "\u274c Rejected",
+      "firstCommit": "2020-09-15T14:36:16Z",
+      "lastCommit": "2020-11-19T10:48:55Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "db3385ef0c90374d39d8f05b3d11ffd239577d22",
+            "ac18d4394f86b7a750f053109f782cf4bf6f7e3f",
+            "23f97c14cab6fcf05520c012edac18ad1027fb77"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0003-use-aws-sso.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2020-10-21T11:18:37Z",
+      "lastCommit": "2020-11-19T11:02:03Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "74c7f2ae5e29b5c57c56954ccd17207ba54f6c1b",
+            "ac18d4394f86b7a750f053109f782cf4bf6f7e3f",
+            "505fbca2c93f6187babe4d871a5545249f21deaa"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0016-ip-address-range-allocation.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2021-11-18T10:57:04Z",
+      "lastCommit": "2021-11-18T10:57:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91584351ade471757ca99974e8fdf06e3c53baf7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0004-use-bash-node-python-as-core-languages.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2020-11-19T11:17:36Z",
+      "lastCommit": "2020-11-19T11:17:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f030c4f8646f5430242acfcab1486df00fc4073"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0012-use-tgw-route-analyzer-to-check-desired-state-for-route-tables.md",
+      "template": "Nygard",
+      "status": "\u274c Rejected",
+      "firstCommit": "2021-09-24T16:03:55Z",
+      "lastCommit": "2021-09-24T16:03:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "34db3316f08d0e5d371ce090984fab8728a90f39"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0014-create-ecr-in-the-shared-services-account.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2021-09-27T16:04:14Z",
+      "lastCommit": "2021-11-02T13:09:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f2b255a83d3c185a1ad2add2395430cece8f53d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5e618c7fd275cfb0faf3762c5518a27cfc8ff8fe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0017-monitoring-and-alerting.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2021-12-08T15:57:27Z",
+      "lastCommit": "2021-12-08T15:57:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "89377fce778fc8099802f8429bd1097629c54734"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0008-use-kms-in-shared-services-for-cross-account-encryption.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2021-06-18T09:33:23Z",
+      "lastCommit": "2021-06-18T09:33:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f15a5b4703279c4ae1a28dfaa2e007d9a5f5e16"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2020-09-04T15:10:09Z",
+      "lastCommit": "2020-09-08T08:33:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3e30142241be8f716fe66a5bb2ee00286630ffe",
+            "1eb6508718194c26668145d1dabf37fe565fda78"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0015-use-aws-image-builder-for-managing-amis.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2021-11-02T13:09:38Z",
+      "lastCommit": "2021-11-02T13:09:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f2b255a83d3c185a1ad2add2395430cece8f53d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-record",
+      "path": "0006-use-a-multi-account-strategy-for-applications.md",
+      "template": "Nygard",
+      "status": "\u2705 Accepted",
+      "firstCommit": "2021-01-21T10:33:55Z",
+      "lastCommit": "2021-09-17T10:45:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "edb07a7fe8094ab113a2fd2e79a815998ada89d0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "064ee4b7d0f1be750ad1274852e9ef65049f9eb8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-04T15:10:09Z",
+  "lastAdrCommit": "2021-12-08T15:57:27Z",
+  "firstCommit": "2020-08-05T13:32:30Z",
+  "lastCommit": "2022-01-18T10:20:49Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2f2b255a83d3c185a1ad2add2395430cece8f53d",
+        "34db3316f08d0e5d371ce090984fab8728a90f39"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "db3385ef0c90374d39d8f05b3d11ffd239577d22",
+        "43f4fa0da6d2b3ac7abd8421ff1348e1596e395d",
+        "edb07a7fe8094ab113a2fd2e79a815998ada89d0",
+        "74c7f2ae5e29b5c57c56954ccd17207ba54f6c1b",
+        "1f030c4f8646f5430242acfcab1486df00fc4073",
+        "00dfc4d79931408ed730ef7fc8535219afd7af65",
+        "ac18d4394f86b7a750f053109f782cf4bf6f7e3f",
+        "23f97c14cab6fcf05520c012edac18ad1027fb77",
+        "e3e30142241be8f716fe66a5bb2ee00286630ffe",
+        "505fbca2c93f6187babe4d871a5545249f21deaa",
+        "1eb6508718194c26668145d1dabf37fe565fda78"
+      ],
+      "numberOfCommits": 11
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "064ee4b7d0f1be750ad1274852e9ef65049f9eb8",
+        "7f15a5b4703279c4ae1a28dfaa2e007d9a5f5e16",
+        "b2129a7532da92d7b5d2b554b4a968a8d4ab2be5",
+        "91584351ade471757ca99974e8fdf06e3c53baf7",
+        "7e850593df1e026de98b8be001986644b8073c8d",
+        "02dc64e8372b1623466d11107ded9dd85e268c82",
+        "89377fce778fc8099802f8429bd1097629c54734",
+        "28bf593f7a3f997747b2ac5e6f9765cac58ac82a",
+        "5e618c7fd275cfb0faf3762c5518a27cfc8ff8fe"
+      ],
+      "numberOfCommits": 9
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/opg-metrics.git",
+  "crawlDateTime": "2022-01-18T20:40:24.834121",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "diagrams/0002-aws-infrastructure.md",
+      "template": "Nygard",
+      "status": "Accepted diagrams [1. Record architecture decisions](0001-record-architecture-decisions.md)",
+      "firstCommit": "2021-02-09T09:22:17Z",
+      "lastCommit": "2021-02-09T09:22:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "722c8aa54ddfdaffc751e14035152ab9d4aa6cab"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "diagrams/0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted diagrams [2. AWS Infrastructure](0002-aws-infrastructure.md)",
+      "firstCommit": "2021-02-09T09:22:17Z",
+      "lastCommit": "2021-02-09T09:22:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "722c8aa54ddfdaffc751e14035152ab9d4aa6cab"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "decisions/0005-aws-api-keys.md",
+      "template": "Nygard",
+      "status": "Accepted decisions [1. Record architecture decisions](0001-record-architecture-decisions.md)",
+      "firstCommit": "2021-03-30T12:50:24Z",
+      "lastCommit": "2021-03-30T12:50:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e03198187dd00e291dc26ed0f7185aa4d9533568"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "decisions/0004-use-grafana-for-our-data-visualisation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-12T15:26:27Z",
+      "lastCommit": "2021-02-09T09:22:17Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3296811db4fd7bb79afbfaa9f74cf89142a05b0a",
+            "722c8aa54ddfdaffc751e14035152ab9d4aa6cab"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "decisions/0003-use-timestream-for-time-series-data-store.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-12T15:26:27Z",
+      "lastCommit": "2021-02-09T09:22:17Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3296811db4fd7bb79afbfaa9f74cf89142a05b0a",
+            "722c8aa54ddfdaffc751e14035152ab9d4aa6cab"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "decisions/0002-opg-metrics-has-it-s-own-vpc.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-11-06T12:45:09Z",
+      "lastCommit": "2020-11-06T13:06:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d057cdc3067a194cff834f042374f70f6525e089",
+            "2fe04d617a5f621dc24bb1a9c9ecc80333acb0e8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "decisions/0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-06T12:45:09Z",
+      "lastCommit": "2020-11-06T13:06:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d057cdc3067a194cff834f042374f70f6525e089",
+            "2fe04d617a5f621dc24bb1a9c9ecc80333acb0e8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-06T12:45:09Z",
+  "lastAdrCommit": "2021-03-30T12:50:24Z",
+  "firstCommit": "2020-08-20T14:16:34Z",
+  "lastCommit": "2021-12-31T14:27:54Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": false
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3296811db4fd7bb79afbfaa9f74cf89142a05b0a",
+        "722c8aa54ddfdaffc751e14035152ab9d4aa6cab"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d057cdc3067a194cff834f042374f70f6525e089",
+        "e03198187dd00e291dc26ed0f7185aa4d9533568",
+        "2fe04d617a5f621dc24bb1a9c9ecc80333acb0e8"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/mongodb-updater.git",
+  "crawlDateTime": "2022-01-18T22:20:51.466489",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-host-two-mongodb-updaters-in-stack.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-05T17:32:01Z",
+      "lastCommit": "2017-07-11T08:24:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5625c38feb64b31741d7590c3753ca3ce243c81"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b51d8f4606e4418b77c335a01766e014b66b4b93"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-store-common-database-configuration-in-the-repository.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-05T17:32:01Z",
+      "lastCommit": "2017-07-11T08:24:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5625c38feb64b31741d7590c3753ca3ce243c81"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b51d8f4606e4418b77c335a01766e014b66b4b93"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-05T17:32:01Z",
+      "lastCommit": "2017-07-11T08:24:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5625c38feb64b31741d7590c3753ca3ce243c81"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b51d8f4606e4418b77c335a01766e014b66b4b93"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-05T17:32:01Z",
+  "lastAdrCommit": "2017-07-11T08:24:31Z",
+  "firstCommit": "2017-06-13T10:38:31Z",
+  "lastCommit": "2017-11-01T10:43:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c5625c38feb64b31741d7590c3753ca3ce243c81"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b51d8f4606e4418b77c335a01766e014b66b4b93"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

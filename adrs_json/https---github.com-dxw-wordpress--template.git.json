@@ -1,0 +1,204 @@
+{
+  "repositoryUrl": "https://github.com/dxw/wordpress-template.git",
+  "crawlDateTime": "2022-01-18T18:50:03.926861",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "Documentation/decisions"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "Documentation/decisions",
+      "path": "0004-use-a-version-tag-to-make-updating-wordpress-easier.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-25T10:49:07Z",
+      "lastCommit": "2021-02-25T10:49:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5aec25198781f4d1fc127e69afa798024368c971"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Documentation/decisions",
+      "path": "0003-theme-namespace-naming-convention.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-14T18:11:23Z",
+      "lastCommit": "2020-08-14T18:11:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "035131c48a6f29b21424225553149404e257da1d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Documentation/decisions",
+      "path": "0005-use-this-repo-as-source-of-setup-scripts.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-06-01T10:56:29Z",
+      "lastCommit": "2021-06-01T10:56:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8419a39cf469bba41ced4e5c757672919652abd9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Documentation/decisions",
+      "path": "0006-use-roave-security-advisories-package.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-07-13T10:55:37Z",
+      "lastCommit": "2021-07-13T10:55:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9885b9c0e4925ceb61b1e19865d7cc9e66c2955"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Documentation/decisions",
+      "path": "0007-validate-whippet-files-in-CI.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-10-04T11:58:28Z",
+      "lastCommit": "2021-11-10T11:15:00Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "659ed1b0aca1828c5bfffdb600f0c997d4792036",
+            "a4f199c4e73e882c49565ced6fcb8d120af6465c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Documentation/decisions",
+      "path": "0008-use-dependabot-yml-to-configure-security-alerts.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-11-10T12:11:10Z",
+      "lastCommit": "2021-11-10T12:11:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "920b9282a2c9dea015a937339050c14503f7db82"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Documentation/decisions",
+      "path": "0002-use-acf-pro.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-14T17:42:33Z",
+      "lastCommit": "2020-08-14T17:42:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9c67531533dea2398925a9957028dd9dc62e2916"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Documentation/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-12T13:08:19Z",
+      "lastCommit": "2020-08-12T13:08:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca89f2733e4aed0820c8bc8b1283262194e19306"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-12T13:08:19Z",
+  "lastAdrCommit": "2021-11-10T12:11:10Z",
+  "firstCommit": "2020-08-12T12:18:12Z",
+  "lastCommit": "2021-12-22T16:19:53Z",
+  "adrDirFile": {
+    "fileContent": "Documentation/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9c67531533dea2398925a9957028dd9dc62e2916",
+        "035131c48a6f29b21424225553149404e257da1d",
+        "ca89f2733e4aed0820c8bc8b1283262194e19306"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "659ed1b0aca1828c5bfffdb600f0c997d4792036",
+        "8419a39cf469bba41ced4e5c757672919652abd9",
+        "f9885b9c0e4925ceb61b1e19865d7cc9e66c2955",
+        "a4f199c4e73e882c49565ced6fcb8d120af6465c",
+        "920b9282a2c9dea015a937339050c14503f7db82"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5aec25198781f4d1fc127e69afa798024368c971"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "repositoryUrl": "https://github.com/Sylius/Sylius.git",
+  "crawlDateTime": "2022-01-18T21:07:40.258396",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "2020_11_18_sending_emails_via_api.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2020-11-18T12:30:43Z",
+      "lastCommit": "2020-11-19T08:04:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02ca9e6085e79eb6062abf59ff3a74bcbc0270bd",
+            "e537bd4a50a939867027427fd1d3bdfce5c2a22f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020_03_03_api_translations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-17T14:14:26Z",
+      "lastCommit": "2020-03-17T14:14:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0558c47e64fbf557c6b2267db2be44558fc5e1a4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f22ae8222222f3b0ae8cf8d19939ed12e780f26e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021_07_05_api_providing_locales_available_in_active_channel.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2021-07-06T07:04:26Z",
+      "lastCommit": "2021-07-07T07:39:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "90ceff637e55f24c8ee9870bc55d7ec2f911fed4",
+            "bc2d6e8cf40ce2c66797304da66987f3be6dc211"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020_03_03_feature_coverage_in_api.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2020-03-17T14:14:33Z",
+      "lastCommit": "2020-03-17T14:14:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f22ae8222222f3b0ae8cf8d19939ed12e780f26e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021_02_05_unified_api_prefix.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-02-17T15:49:29Z",
+      "lastCommit": "2021-02-17T15:49:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e6544b0a8f4206fb8e175a616e64bd36d8feebb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020_11_12_registration_of_handlers_in_message_buses.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-12T14:27:22Z",
+      "lastCommit": "2020-11-12T14:27:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32db781829e80cfa3159f65905f4c36ea0d771f5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021_06_15_api_platform_config_customization.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-06-15T10:58:14Z",
+      "lastCommit": "2021-11-17T11:32:24Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d93a6fb1775aff1c6be6ca8621e1509a5425a859",
+            "f90c20cf0f8a183c3387d18fff8c07e266fb671e",
+            "384f99d188f5ddbba33a1bbcd0f45a040692b824",
+            "e48d14e363a359815f0fc948fbcdc30b303c74b7"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ad65088c5997e9e497b12d10eff30f583e33d06"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3045bf5af82d884335de3efe650c360dc7bc84f4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020_03_03_api_product_option_values.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-17T14:14:26Z",
+      "lastCommit": "2020-03-17T14:14:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0558c47e64fbf557c6b2267db2be44558fc5e1a4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f22ae8222222f3b0ae8cf8d19939ed12e780f26e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020_09_01_admin_and_shop_split.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-09-03T08:11:57Z",
+      "lastCommit": "2020-09-08T09:40:18Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a81ac9ccb7f22b1a5ea48972a165292ef4cdd16d",
+            "b770995b6cca9313a647f4df52e8668b8daf84ec"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021_05_06_command_bus_unification.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-13T18:06:16Z",
+      "lastCommit": "2021-05-13T18:06:16Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb0c807c6713309c07c7b55f7b2210578cac80b5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a9565424b52c9815b93dd73d267a2e8ac620f295",
+            "4b9cfc951a9eadad12005289f78e80cd9d916579",
+            "6ed6307669578c86fc27adc47a249a7c18f22976"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2020_05_13_handling_non_crud_operations_in_api.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-08-31T15:48:42Z",
+      "lastCommit": "2020-08-31T15:49:00Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f34ad58c5964ddf7f2f12c8fe9409ce76cf7c89",
+            "667258b2e925e8b5ac505ca46ceec70e79226664",
+            "9559abeb0b24f154e2d29e4669ce1c8503d44c5b"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "2021_04_15_using_iri_as_api_resource_identifier_in_request_instead_of_code_id.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2021-04-29T06:51:48Z",
+      "lastCommit": "2021-04-29T11:39:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f7b6f2d485fe737427216b8bae4b857010cbcfa6"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "786a7d630444f48f11db319a7488d6fe3f9b7523"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-17T14:14:26Z",
+  "lastAdrCommit": "2021-11-17T11:32:24Z",
+  "firstCommit": "2011-09-09T14:12:24Z",
+  "lastCommit": "2022-01-18T14:37:51Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d93a6fb1775aff1c6be6ca8621e1509a5425a859",
+        "f90c20cf0f8a183c3387d18fff8c07e266fb671e",
+        "384f99d188f5ddbba33a1bbcd0f45a040692b824",
+        "e48d14e363a359815f0fc948fbcdc30b303c74b7"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "02ca9e6085e79eb6062abf59ff3a74bcbc0270bd",
+        "e537bd4a50a939867027427fd1d3bdfce5c2a22f"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0558c47e64fbf557c6b2267db2be44558fc5e1a4",
+        "7ad65088c5997e9e497b12d10eff30f583e33d06"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fb0c807c6713309c07c7b55f7b2210578cac80b5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a9565424b52c9815b93dd73d267a2e8ac620f295",
+        "4b9cfc951a9eadad12005289f78e80cd9d916579",
+        "6ed6307669578c86fc27adc47a249a7c18f22976"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3045bf5af82d884335de3efe650c360dc7bc84f4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "90ceff637e55f24c8ee9870bc55d7ec2f911fed4",
+        "bc2d6e8cf40ce2c66797304da66987f3be6dc211"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a81ac9ccb7f22b1a5ea48972a165292ef4cdd16d",
+        "7f34ad58c5964ddf7f2f12c8fe9409ce76cf7c89",
+        "667258b2e925e8b5ac505ca46ceec70e79226664",
+        "9559abeb0b24f154e2d29e4669ce1c8503d44c5b",
+        "1e6544b0a8f4206fb8e175a616e64bd36d8feebb",
+        "32db781829e80cfa3159f65905f4c36ea0d771f5",
+        "b770995b6cca9313a647f4df52e8668b8daf84ec"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "786a7d630444f48f11db319a7488d6fe3f9b7523"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f7b6f2d485fe737427216b8bae4b857010cbcfa6"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f22ae8222222f3b0ae8cf8d19939ed12e780f26e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

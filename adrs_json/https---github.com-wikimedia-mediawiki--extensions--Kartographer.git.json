@@ -1,0 +1,72 @@
+{
+  "repositoryUrl": "https://github.com/wikimedia/mediawiki-extensions-Kartographer.git",
+  "crawlDateTime": "2022-01-18T17:45:27.336954",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "tile_storage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-18T14:47:56Z",
+      "lastCommit": "2021-02-18T14:47:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "43c9cd416abcede25238842645a2c465d1ca930e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "webgl_renderer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-16T12:07:42Z",
+      "lastCommit": "2021-02-16T12:07:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b05f75027c8d6fb17c898ad62ea13732b96deaf7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-02-16T12:07:42Z",
+  "lastAdrCommit": "2021-02-18T14:47:56Z",
+  "firstCommit": "2015-10-06T19:22:08Z",
+  "lastCommit": "2022-01-17T07:12:22Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b05f75027c8d6fb17c898ad62ea13732b96deaf7"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "43c9cd416abcede25238842645a2c465d1ca930e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

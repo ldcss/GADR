@@ -1,0 +1,121 @@
+{
+  "repositoryUrl": "https://github.com/bhb/expound.git",
+  "crawlDateTime": "2022-01-18T21:29:46.101139",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-002.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-10-16T02:02:27Z",
+      "lastCommit": "2017-10-20T01:30:50Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e86960140d7938be6e2cf5870fc295124c40175",
+            "659e43d2ee851a9891287abf60de61a9617f3fee",
+            "54f50d2fca613862fd326146bd07c005f6b8de47",
+            "beb57e36bc44cbe96ab1614fdf887e0e3cc79f5a"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-000.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-08-24T02:55:55Z",
+      "lastCommit": "2017-08-26T01:15:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "229a7683bec374f5350c75070e25a9a2ad602826",
+            "ad18322cd09b442ee45c300dfed72a4fa360c246",
+            "d732f43692b1d04006b83b81a2e3cd0119c7dd34"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-003.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-28T03:00:15Z",
+      "lastCommit": "2020-02-02T16:08:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f28a675611e1bd9124f2add7ca3947952f0d9c9a",
+            "8c23e66831bd3ad944b4ed0e804bb1ec4579f1b1"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-08-24T03:42:11Z",
+      "lastCommit": "2017-08-30T03:44:19Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "229a7683bec374f5350c75070e25a9a2ad602826",
+            "0b8f7810446af37ffbe307a4e90e3dae95e6497e",
+            "f2e967ed29789e424ea8561b07303cd2279cad7f",
+            "ad18322cd09b442ee45c300dfed72a4fa360c246"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-08-24T02:55:55Z",
+  "lastAdrCommit": "2020-02-02T16:08:21Z",
+  "firstCommit": "2017-06-25T23:27:59Z",
+  "lastCommit": "2022-01-15T17:39:06Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f28a675611e1bd9124f2add7ca3947952f0d9c9a",
+        "1e86960140d7938be6e2cf5870fc295124c40175",
+        "229a7683bec374f5350c75070e25a9a2ad602826",
+        "0b8f7810446af37ffbe307a4e90e3dae95e6497e",
+        "659e43d2ee851a9891287abf60de61a9617f3fee",
+        "ad18322cd09b442ee45c300dfed72a4fa360c246",
+        "f2e967ed29789e424ea8561b07303cd2279cad7f",
+        "54f50d2fca613862fd326146bd07c005f6b8de47",
+        "8c23e66831bd3ad944b4ed0e804bb1ec4579f1b1",
+        "d732f43692b1d04006b83b81a2e3cd0119c7dd34",
+        "beb57e36bc44cbe96ab1614fdf887e0e3cc79f5a"
+      ],
+      "numberOfCommits": 11
+    }
+  ]
+}

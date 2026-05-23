@@ -1,0 +1,587 @@
+{
+  "repositoryUrl": "https://github.com/nationalarchives/tdr-dev-documentation.git",
+  "crawlDateTime": "2022-01-18T17:47:35.389722",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decision-records"
+  ],
+  "numAdrFiles": 23,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0014-govuk-notify-multi-environment-configuration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-07T13:21:58Z",
+      "lastCommit": "2021-04-09T09:21:00Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77a4d03eb0c57f545a446cad7a23adc48a8a4ccb",
+            "f33a901cc0daac14e8f6783f2950c92cd09d4bdf",
+            "2188e1c40f36ec1507f0b7b03720d493e7b94766"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0023-judgment-transfer-urls-scheme.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-28T09:49:54Z",
+      "lastCommit": "2021-11-02T06:00:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a46f94e27b23fc097906881f1a12f69de6990e91",
+            "755fa85621b0ce6210b1e14fb8ddb321b99fb0f2",
+            "d1ef52c0fbd2456b6d8a5075af529eab2e326529"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0018-govkuk-notify-staging-configuration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-22T08:13:16Z",
+      "lastCommit": "2021-04-22T08:13:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5d1f318cde3388a4575b63bf228c1701fc24a7d4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0011-base25-encoding-for-consignment-reference.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-13T16:20:07Z",
+      "lastCommit": "2020-11-18T14:46:19Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e2c5202a0ecc3af26021c9541241f53acbfce65",
+            "9dbdc6d5a8ed57f85c1d53fb1285e056c04846b7",
+            "409791750a48813fff1e39fc03d9dcc7cf161763",
+            "d476d7ecb2d76b9183aa1b436a853727884c0bf4"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0022-cloudfront-upload-proxy.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-01T11:28:33Z",
+      "lastCommit": "2021-10-01T11:28:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6e52a704fb5ec2f89265a37e714b132f00865855"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0010-file-format-identification-software.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-01T09:23:57Z",
+      "lastCommit": "2020-09-01T09:23:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "320ed465052638afa28c0e03e3ea11147e1af071"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0007-s3-user-access-to-objects.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-24T09:22:43Z",
+      "lastCommit": "2021-10-01T11:28:33Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ba0184335174432442f1b244f950f4d2600020f",
+            "ea96688ee3bbd55dbc0d6b7a994e5f305bf5cac3",
+            "9e55ea6ba41b04353bdde021f50f835f86f295d5",
+            "1794a7c0c18dc3c82174122c6fa0e13863ffa5a2",
+            "5c897b6dc246a16b1266e234d47f7dc39d499530"
+          ],
+          "numberOfCommits": 5
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6e52a704fb5ec2f89265a37e714b132f00865855"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0005-user-authentication.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-11T14:52:41Z",
+      "lastCommit": "2020-03-11T14:52:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51f069e1446c36324f990cdb380985cc498216d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0001-multi-account-terraform.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-11T14:52:41Z",
+      "lastCommit": "2020-03-11T14:52:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b38b76b99d99dd43f404e75e4ac79b8a04c6246e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0004-api-structure.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-11T14:52:41Z",
+      "lastCommit": "2020-12-17T13:47:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "720d2f9b74c149764923d44eeeb5da1700de32a3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aa09208d5fb733e62349a1e38e8709c2c2b6b38a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0008-keycloak-user-administrators-configuration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-17T07:46:07Z",
+      "lastCommit": "2020-07-21T13:21:02Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4d3693f19ea686cbf5bc3f54ae559e781fbec910",
+            "098b5bf005d2bd31efdbac4bd84920f47837ec0e",
+            "4092e2c5661fe5a0c9ee697b06e6a26a32a4e0c2",
+            "f951be49016d55d2e7d725ffb3d0dd4e9b22c95a",
+            "84d62533f030c9a7b5fdd546e955caeb8b21e52b",
+            "d4aa5e0534fffbfa4bd80345d397cf02d1c5c459"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0015-govuk-notify-staging-configuration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-09T09:21:00Z",
+      "lastCommit": "2021-04-26T05:35:13Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5da72da3ac6b68b5b86f8e7ad8553a612ae1b0d6",
+            "5257450522f91e0fd39f26468f54897f90af0f5e",
+            "2188e1c40f36ec1507f0b7b03720d493e7b94766"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0003-frontend-framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-11T14:52:41Z",
+      "lastCommit": "2020-03-11T14:52:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3cbbe6c47c94f2492ba096f1bcaeeee3a7dc1b93"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0006-user-data-model.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-11T14:52:41Z",
+      "lastCommit": "2020-03-11T14:52:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f4414dc6b539de6f883927c9e1af19c16cd980b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0017-govuk-notify-keycloak-message.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-09T09:21:00Z",
+      "lastCommit": "2021-04-09T09:21:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2188e1c40f36ec1507f0b7b03720d493e7b94766"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0002-versioning-and-deployments.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-11T14:52:41Z",
+      "lastCommit": "2020-04-17T08:11:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3b6c8a3f123cbbe7edda71c6576b556cda68689",
+            "cd108e0fd0cabf41de0f361134fd6970ebdd0017"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0009-keycloak-user-administrators-configuration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-21T13:04:55Z",
+      "lastCommit": "2020-07-21T13:16:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "78a9bab8a8bc1f2a5b528a0f16f96e7e51911c1c",
+            "30ed280330b2ce3994cd5f600ed54cf98c5cbccf"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0012-keycloak-email-provider.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-16T15:19:21Z",
+      "lastCommit": "2020-11-18T13:15:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "09918ae7b0684e7b16893bf8d83c7ad8122022d6",
+            "399fe5ad91a553e19351e50ed6257075c337583f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0016-govuk-notify-local-development-stack.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-09T09:21:00Z",
+      "lastCommit": "2021-04-09T09:21:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2188e1c40f36ec1507f0b7b03720d493e7b94766"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0021-service-unavailable-page.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-14T12:05:14Z",
+      "lastCommit": "2021-07-20T10:47:53Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5757ff2bb78c2bcaf6933f258f13ce448305df54",
+            "7293c7869d70cb355f0bda03131e1c65bb4ed0d8",
+            "6e64f791a31a81fc7217a6c9fd30086624d41589",
+            "660d1d9b8cb37504db5b097222debff3efa9ced7",
+            "b242fcbe5568310d86ed466b8ddf0c3c668893d8"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0019-remove-frontend-messages-file.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-16T08:03:44Z",
+      "lastCommit": "2021-06-16T08:03:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f86af9ec75908e14834646a85a4037f7062530fe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0013-file-check-queues-and-lambdas.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-17T14:34:26Z",
+      "lastCommit": "2021-07-13T07:32:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4c28de475b544d40ad73ec074cfb12f21ab49738",
+            "3bbb37cbb4f284501a953e396bfb3179036d48ae"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "0020-sqs-visibility-timeout.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-13T07:32:40Z",
+      "lastCommit": "2021-08-12T09:33:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f08b9a0035555457fceb675648465078cf24a663",
+            "3bbb37cbb4f284501a953e396bfb3179036d48ae"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-11T14:52:41Z",
+  "lastAdrCommit": "2021-11-02T06:00:23Z",
+  "firstCommit": "2019-06-19T14:21:53Z",
+  "lastCommit": "2022-01-10T10:10:54Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "098b5bf005d2bd31efdbac4bd84920f47837ec0e",
+        "77a4d03eb0c57f545a446cad7a23adc48a8a4ccb",
+        "5d1f318cde3388a4575b63bf228c1701fc24a7d4",
+        "5257450522f91e0fd39f26468f54897f90af0f5e",
+        "2188e1c40f36ec1507f0b7b03720d493e7b94766",
+        "9e55ea6ba41b04353bdde021f50f835f86f295d5",
+        "30ed280330b2ce3994cd5f600ed54cf98c5cbccf",
+        "5c897b6dc246a16b1266e234d47f7dc39d499530",
+        "d1ef52c0fbd2456b6d8a5075af529eab2e326529",
+        "4d3693f19ea686cbf5bc3f54ae559e781fbec910",
+        "5da72da3ac6b68b5b86f8e7ad8553a612ae1b0d6",
+        "09918ae7b0684e7b16893bf8d83c7ad8122022d6",
+        "a46f94e27b23fc097906881f1a12f69de6990e91",
+        "f33a901cc0daac14e8f6783f2950c92cd09d4bdf",
+        "78a9bab8a8bc1f2a5b528a0f16f96e7e51911c1c",
+        "4092e2c5661fe5a0c9ee697b06e6a26a32a4e0c2",
+        "399fe5ad91a553e19351e50ed6257075c337583f",
+        "f951be49016d55d2e7d725ffb3d0dd4e9b22c95a",
+        "84d62533f030c9a7b5fdd546e955caeb8b21e52b",
+        "9ba0184335174432442f1b244f950f4d2600020f",
+        "ea96688ee3bbd55dbc0d6b7a994e5f305bf5cac3",
+        "1794a7c0c18dc3c82174122c6fa0e13863ffa5a2",
+        "d4aa5e0534fffbfa4bd80345d397cf02d1c5c459",
+        "755fa85621b0ce6210b1e14fb8ddb321b99fb0f2"
+      ],
+      "numberOfCommits": 24
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "720d2f9b74c149764923d44eeeb5da1700de32a3"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5757ff2bb78c2bcaf6933f258f13ce448305df54",
+        "7293c7869d70cb355f0bda03131e1c65bb4ed0d8",
+        "6e64f791a31a81fc7217a6c9fd30086624d41589",
+        "660d1d9b8cb37504db5b097222debff3efa9ced7",
+        "b242fcbe5568310d86ed466b8ddf0c3c668893d8"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8f4414dc6b539de6f883927c9e1af19c16cd980b",
+        "aa09208d5fb733e62349a1e38e8709c2c2b6b38a",
+        "e3b6c8a3f123cbbe7edda71c6576b556cda68689",
+        "3cbbe6c47c94f2492ba096f1bcaeeee3a7dc1b93",
+        "b38b76b99d99dd43f404e75e4ac79b8a04c6246e",
+        "cd108e0fd0cabf41de0f361134fd6970ebdd0017",
+        "f86af9ec75908e14834646a85a4037f7062530fe",
+        "51f069e1446c36324f990cdb380985cc498216d6",
+        "f08b9a0035555457fceb675648465078cf24a663",
+        "4c28de475b544d40ad73ec074cfb12f21ab49738",
+        "6e52a704fb5ec2f89265a37e714b132f00865855",
+        "3bbb37cbb4f284501a953e396bfb3179036d48ae"
+      ],
+      "numberOfCommits": 12
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0e2c5202a0ecc3af26021c9541241f53acbfce65",
+        "9dbdc6d5a8ed57f85c1d53fb1285e056c04846b7",
+        "409791750a48813fff1e39fc03d9dcc7cf161763",
+        "d476d7ecb2d76b9183aa1b436a853727884c0bf4"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "320ed465052638afa28c0e03e3ea11147e1af071"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

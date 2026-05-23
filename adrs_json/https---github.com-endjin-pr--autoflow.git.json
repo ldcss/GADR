@@ -1,0 +1,63 @@
+{
+  "repositoryUrl": "https://github.com/endjin/pr-autoflow.git",
+  "crawlDateTime": "2022-01-18T19:16:20.196105",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-automated-dependency-release-management.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-12-18T18:24:12Z",
+      "lastCommit": "2020-12-22T17:19:18Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f051c6ab830d7e7d5a49827de9d6f5ba606819e",
+            "fc0b96af749d2dc8ab5c095605c3c6b4de7d0982"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d13f473f6c3cac9944806ff4972a186387297a0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-18T18:24:12Z",
+  "lastAdrCommit": "2020-12-22T17:19:18Z",
+  "firstCommit": "2020-07-21T08:11:18Z",
+  "lastCommit": "2021-02-19T14:28:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7f051c6ab830d7e7d5a49827de9d6f5ba606819e",
+        "fc0b96af749d2dc8ab5c095605c3c6b4de7d0982"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3d13f473f6c3cac9944806ff4972a186387297a0"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

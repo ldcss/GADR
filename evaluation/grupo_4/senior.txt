@@ -1,0 +1,6 @@
+Senior 3: 6 anos de experiência. Conhecia, mas nunca utilizou ADRs profissionalmente.
+
+- Comunicação baseada em eventos e assíncrona
+- Proposta de mudança para uso de microserviços
+- Uso de modularização no código
+

@@ -1,0 +1,66 @@
+{
+  "repositoryUrl": "https://github.com/learnitmyway/nd9990-serverless.git",
+  "crawlDateTime": "2022-01-18T17:31:29.971761",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "backend/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "backend/adr",
+      "path": "2020-04-13_request-validation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-13T10:52:20Z",
+      "lastCommit": "2020-04-13T18:22:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5805cdcd1bdafba51df8fc110177c3012d59fe93",
+            "f138c656ff85c0a6f2df41fd896a0bc1ec48842f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "backend/adr",
+      "path": "2020-03-13_middy.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-13T18:22:03Z",
+      "lastCommit": "2020-04-13T18:22:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5805cdcd1bdafba51df8fc110177c3012d59fe93"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-13T10:52:20Z",
+  "lastAdrCommit": "2020-04-13T18:22:03Z",
+  "firstCommit": "2020-03-30T14:52:24Z",
+  "lastCommit": "2021-03-31T21:06:16Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5805cdcd1bdafba51df8fc110177c3012d59fe93",
+        "f138c656ff85c0a6f2df41fd896a0bc1ec48842f"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

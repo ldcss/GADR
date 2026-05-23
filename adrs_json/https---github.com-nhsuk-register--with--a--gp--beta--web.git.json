@@ -1,0 +1,131 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/register-with-a-gp-beta-web.git",
+  "crawlDateTime": "2022-01-18T17:58:28.406804",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-add-synthetic-max-age-to-session-cookie.md",
+      "template": "Nygard",
+      "status": "Proposal Supercedes [4. Cookie Encryption](0004-cookies-encryption.md)",
+      "firstCommit": "2017-04-27T09:57:21Z",
+      "lastCommit": "2017-04-27T09:57:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46e46ba9d212e2a5ee3dfa79a7328395dd7b4493"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-cookies-encryption.md",
+      "template": "Nygard",
+      "status": "Superceded by [5. Add Synthetic max-age to Session Cookie](0005-add-synthetic-max-age-to-session-cookie.md)",
+      "firstCommit": "2017-03-16T23:10:37Z",
+      "lastCommit": "2017-04-27T09:57:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0785e6dbcbd40312a2b18e49975b8c78f5a9d9e6",
+            "46e46ba9d212e2a5ee3dfa79a7328395dd7b4493"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-hapi-js-framework-for-http.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-01-30T20:17:58Z",
+      "lastCommit": "2017-01-30T20:17:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8d98bfc18409206d37f9a56bacbe8a83a6bcd8fc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-use-persistant-cookies.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-03-16T21:48:26Z",
+      "lastCommit": "2017-03-16T21:50:01Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91e705e86747ec7f03b08cbce860793bbd669ca4",
+            "42330a7a66d62f4c3564d825ab13c7b7ad7bc09e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-01-30T14:40:02Z",
+      "lastCommit": "2017-01-30T14:40:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "278c092934fa6f0ad0226095f52ae4117e7abb72"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-01-30T14:40:02Z",
+  "lastAdrCommit": "2017-04-27T09:57:21Z",
+  "firstCommit": "2017-01-18T15:16:09Z",
+  "lastCommit": "2018-03-13T11:35:56Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "91e705e86747ec7f03b08cbce860793bbd669ca4",
+        "0785e6dbcbd40312a2b18e49975b8c78f5a9d9e6",
+        "278c092934fa6f0ad0226095f52ae4117e7abb72",
+        "46e46ba9d212e2a5ee3dfa79a7328395dd7b4493",
+        "42330a7a66d62f4c3564d825ab13c7b7ad7bc09e",
+        "8d98bfc18409206d37f9a56bacbe8a83a6bcd8fc"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

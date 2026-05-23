@@ -1,0 +1,154 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/verify-hub.git",
+  "crawlDateTime": "2022-01-18T20:08:15.115419",
+  "numAdrDirectories": 2,
+  "adrDirectories": [
+    "doc/adr",
+    "hub/policy/doc/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-simple-saml-profile.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-08T16:54:17Z",
+      "lastCommit": "2018-01-18T15:00:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c67de9c0d9b240cba9298f7c746146dfb57ff1a3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ba258178d3ec332792e655dfb052b3423fd6e980"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-08T16:54:17Z",
+      "lastCommit": "2018-01-18T15:00:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c67de9c0d9b240cba9298f7c746146dfb57ff1a3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ba258178d3ec332792e655dfb052b3423fd6e980"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-accept-eidas-assertions-in-verify.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-12-08T16:54:17Z",
+      "lastCommit": "2018-01-18T15:00:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c67de9c0d9b240cba9298f7c746146dfb57ff1a3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ba258178d3ec332792e655dfb052b3423fd6e980"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "hub/policy/doc/adr",
+      "path": "0001-record-architechture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-08T16:54:17Z",
+      "lastCommit": "2017-12-08T16:54:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c67de9c0d9b240cba9298f7c746146dfb57ff1a3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "hub/policy/doc/adr",
+      "path": "0002-extend-policy-session-length.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-08T16:54:17Z",
+      "lastCommit": "2017-12-08T16:54:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c67de9c0d9b240cba9298f7c746146dfb57ff1a3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-12-08T16:54:17Z",
+  "lastAdrCommit": "2018-01-18T15:00:43Z",
+  "firstCommit": "2017-07-11T15:41:48Z",
+  "lastCommit": "2022-01-17T01:11:19Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c67de9c0d9b240cba9298f7c746146dfb57ff1a3"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ba258178d3ec332792e655dfb052b3423fd6e980"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

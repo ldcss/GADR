@@ -1,0 +1,95 @@
+{
+  "repositoryUrl": "https://github.com/thi-ng/umbrella.git",
+  "crawlDateTime": "2022-01-18T21:01:01.97087",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "packages/hdom-components/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "packages/hdom-components/adr",
+      "path": "0003-component-configuration-via-context.md",
+      "template": "Nygard",
+      "status": "WIP Amends [ADR-0002](0002-component-configuration.md)",
+      "firstCommit": "2018-05-09T22:18:55Z",
+      "lastCommit": "2018-08-01T15:14:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0f01cc363abf85f6436376487452a977f6673b97",
+            "5af437c1325eea4a6e0ccd8b8f67f0162a3edc61"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/hdom-components/adr",
+      "path": "0002-component-configuration.md",
+      "template": "Nygard",
+      "status": "WIP Amended by [3. Component configuration via context](0003-component-configuration-via-context.md)",
+      "firstCommit": "2018-05-05T15:01:41Z",
+      "lastCommit": "2020-01-24T02:19:06Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5e815256636353793233e5e547d6d9323092bdd3",
+            "c0fef3d39e6742375869400b9bbecbe90c4f97a3",
+            "fadf7496be07a99b1dfeb493a874c5041263d1d4",
+            "5416887a760ee121f058b71802aca5497422de1a",
+            "d2d7952e5ba9eb479fcfd87d080fd1d10488a47f",
+            "5af437c1325eea4a6e0ccd8b8f67f0162a3edc61"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/hdom-components/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-05T15:01:41Z",
+      "lastCommit": "2018-05-05T15:01:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5e815256636353793233e5e547d6d9323092bdd3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-05T15:01:41Z",
+  "lastAdrCommit": "2020-01-24T02:19:06Z",
+  "firstCommit": "2018-01-24T02:20:52Z",
+  "lastCommit": "2022-01-05T12:14:04Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5e815256636353793233e5e547d6d9323092bdd3",
+        "0f01cc363abf85f6436376487452a977f6673b97",
+        "c0fef3d39e6742375869400b9bbecbe90c4f97a3",
+        "fadf7496be07a99b1dfeb493a874c5041263d1d4",
+        "5416887a760ee121f058b71802aca5497422de1a",
+        "5af437c1325eea4a6e0ccd8b8f67f0162a3edc61",
+        "d2d7952e5ba9eb479fcfd87d080fd1d10488a47f"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

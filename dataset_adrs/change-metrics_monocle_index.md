@@ -1,0 +1,8 @@
+* [Use Markdown Architectural Decision Records](0001-record-architecture-decisions.md)
+* [Choice of Elasticsearch](0002-choice-of-elasticsearch.md)
+* [Choice of React](0003-choice-of-react.md)
+* [High Level Components](0004-high-level-components.md)
+* [Design of ES documents](0005-design-of-es-documents.md)
+* [Cache ES queries](0006-cache-es-queries.md)
+* [Production ready services in all-in-one setup](0007-production-ready-in-all-in-one-setup.md)
+* [Unify idents across code review systems](unify-idents-across-code-review-systems.md)

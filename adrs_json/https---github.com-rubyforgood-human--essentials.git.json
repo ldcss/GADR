@@ -1,0 +1,143 @@
+{
+  "repositoryUrl": "https://github.com/rubyforgood/human-essentials.git",
+  "crawlDateTime": "2022-01-18T21:13:03.545669",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-extract-all-partner-operations-into-a-separate-application-intended-for-partners.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-03T21:27:35Z",
+      "lastCommit": "2020-04-03T21:27:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "94a4e5193a69f97f23f76c5a02388859bafa6703"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-multitenancy-instead-of-multiple-instances.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-03T21:27:35Z",
+      "lastCommit": "2020-04-03T21:27:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "94a4e5193a69f97f23f76c5a02388859bafa6703"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-items-are-tracked-using-associative-models-as-they-move-through-the-system.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-03T21:27:35Z",
+      "lastCommit": "2020-04-03T21:27:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "94a4e5193a69f97f23f76c5a02388859bafa6703"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-instantiating-items-from-base-items.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-03T21:27:35Z",
+      "lastCommit": "2020-04-03T21:27:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "94a4e5193a69f97f23f76c5a02388859bafa6703"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-barcode-querying.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-03T21:27:35Z",
+      "lastCommit": "2020-04-03T21:27:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "94a4e5193a69f97f23f76c5a02388859bafa6703"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-03T21:27:35Z",
+      "lastCommit": "2020-04-03T21:27:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "94a4e5193a69f97f23f76c5a02388859bafa6703"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-03T21:27:35Z",
+  "lastAdrCommit": "2020-04-03T21:27:35Z",
+  "firstCommit": "2017-04-22T18:05:57Z",
+  "lastCommit": "2022-01-18T20:54:16Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "94a4e5193a69f97f23f76c5a02388859bafa6703"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

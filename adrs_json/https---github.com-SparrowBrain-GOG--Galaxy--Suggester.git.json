@@ -1,0 +1,93 @@
+{
+  "repositoryUrl": "https://github.com/SparrowBrain/GOG-Galaxy-Suggester.git",
+  "crawlDateTime": "2022-01-18T21:13:15.731893",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-app-tech-stack.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-08-27T15:16:09Z",
+      "lastCommit": "2020-08-27T15:16:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14674dcc5cfe541b3e1c18e0d381b09f6e00ca0d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-removed-python.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-02-18T19:01:41Z",
+      "lastCommit": "2021-03-07T21:36:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b141d90b42a93f6be61770171ba02e3583d6be6",
+            "01854ec23bcc6d8af190c660542870cf8c23a63b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-08-27T15:16:09Z",
+      "lastCommit": "2020-08-27T15:16:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14674dcc5cfe541b3e1c18e0d381b09f6e00ca0d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-27T15:16:09Z",
+  "lastAdrCommit": "2021-03-07T21:36:50Z",
+  "firstCommit": "2020-08-26T19:06:40Z",
+  "lastCommit": "2022-01-18T12:06:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "14674dcc5cfe541b3e1c18e0d381b09f6e00ca0d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5b141d90b42a93f6be61770171ba02e3583d6be6",
+        "01854ec23bcc6d8af190c660542870cf8c23a63b"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

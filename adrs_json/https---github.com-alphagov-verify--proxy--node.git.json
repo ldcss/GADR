@@ -1,0 +1,205 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/verify-proxy-node.git",
+  "crawlDateTime": "2022-01-18T21:30:35.629708",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "20190327-hashing-attributes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-28T11:23:01Z",
+      "lastCommit": "2019-03-28T11:23:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "04bffd057c881a27f8d41e8df7febc73bec319c6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "20190318-multiple-proxy-nodes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-20T12:18:07Z",
+      "lastCommit": "2019-03-20T15:15:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65ac2b34622f9c7a2b8a90bf0bea12728695ae24"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "04bb1a411ea1f9d6e80f1e3fc36a7443fbdffa2b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "20190320-additional-tracing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-28T12:12:57Z",
+      "lastCommit": "2019-03-28T12:12:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c2f4c1970f4f6f6ef730f001664423a59aab2a93"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "20190318-deploy-to-gsp.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-20T12:18:07Z",
+      "lastCommit": "2019-03-20T15:15:50Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b88871b1cef7f21bd82e17d337a3457661b4dc87"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ac19bc9c93b40d99579c55a0f34c024bc116ee0",
+            "cae68ff91fc7d0baf0686747e74a35f9d7c1a192"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "20190320-anti-affinity.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-28T12:12:57Z",
+      "lastCommit": "2019-03-28T12:12:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c2f4c1970f4f6f6ef730f001664423a59aab2a93"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "20190321-separation-of-concerns.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-29T13:00:13Z",
+      "lastCommit": "2019-03-29T13:00:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc67a98efdb9a2a7a5ec0c5d65709fdbdfdc901a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "20190318-automatic-metadata.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-20T12:18:07Z",
+      "lastCommit": "2019-03-20T12:18:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0bdaddbf134e182d3c72dac4e28016b807161c65"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-20T12:18:07Z",
+  "lastAdrCommit": "2019-03-29T13:00:13Z",
+  "firstCommit": "2017-10-31T15:21:21Z",
+  "lastCommit": "2021-07-08T02:55:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "65ac2b34622f9c7a2b8a90bf0bea12728695ae24",
+        "b88871b1cef7f21bd82e17d337a3457661b4dc87",
+        "0bdaddbf134e182d3c72dac4e28016b807161c65",
+        "dc67a98efdb9a2a7a5ec0c5d65709fdbdfdc901a"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "04bffd057c881a27f8d41e8df7febc73bec319c6"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c2f4c1970f4f6f6ef730f001664423a59aab2a93"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1ac19bc9c93b40d99579c55a0f34c024bc116ee0",
+        "04bb1a411ea1f9d6e80f1e3fc36a7443fbdffa2b",
+        "cae68ff91fc7d0baf0686747e74a35f9d7c1a192"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

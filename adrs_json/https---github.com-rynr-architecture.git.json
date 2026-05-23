@@ -1,0 +1,195 @@
+{
+  "repositoryUrl": "https://github.com/rynr/architecture.git",
+  "crawlDateTime": "2022-01-18T21:08:37.861962",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    ""
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "",
+      "path": "0006-use-and-close-todos.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-04T12:42:37Z",
+      "lastCommit": "2018-07-04T12:42:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fbc94927a6bbed787fce926661ed3c0878fd1287"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0004-waiting-is-waste.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-18T14:39:23Z",
+      "lastCommit": "2018-05-18T14:39:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cdb9e92563e541eebe4d117d5d4752b5e38553bf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0003-have-the-master-documentation-in-the-readme.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-17T19:37:53Z",
+      "lastCommit": "2018-05-17T19:37:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7fc3d1e668b4a047caacf0e07395dbff66fbffd3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0002-apply-clean-code-guidelines.md",
+      "template": "Nygard",
+      "status": "Accepted Is related to [7. Use static code analysis](0007-use-static-code-analysis.md)",
+      "firstCommit": "2018-05-17T19:18:12Z",
+      "lastCommit": "2018-07-06T09:19:41Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d9322981294b795d2e0affb0833abcae6fcc430"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30e5e6f23d6e39560f3c85c9e3891fff83d83ea1",
+            "bb2f4c9a7f138f6f1f593249f1b8332e4101c263"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0007-use-static-code-analysis.md",
+      "template": "Nygard",
+      "status": "Accepted Is related to [2. Apply clean code guidelines](0002-apply-clean-code-guidelines.md)",
+      "firstCommit": "2018-07-06T08:24:16Z",
+      "lastCommit": "2018-07-06T09:22:37Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b5d18f1ee37e4c990d07a52d311609b1b1a3cc85",
+            "9d9322981294b795d2e0affb0833abcae6fcc430",
+            "478f88394b1f9c302f95b1998320bbaadfe55923"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0005-provide-test-builders.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-06-06T09:10:48Z",
+      "lastCommit": "2018-06-27T06:08:21Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "512dd88ef4cbfb9099dde5091b078b7a775da20f",
+            "91fd69b6cdccf170bbd48ebf1209436e0daa57ea",
+            "ba6eaf05c86b6a56e715e4f9464c8383a719697e",
+            "8ce28fb759d583b177858bd6285c9528ce515dbb"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-17T18:49:08Z",
+      "lastCommit": "2018-05-17T18:49:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "22282c531d562675bec5bf1fc4ee719fbdee8bcc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-17T18:49:08Z",
+  "lastAdrCommit": "2018-07-06T09:22:37Z",
+  "firstCommit": "2018-05-17T18:49:08Z",
+  "lastCommit": "2018-07-06T09:22:37Z",
+  "adrDirFile": {
+    "fileContent": ".\n",
+    "matchesActualAdrDirectory": false
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b5d18f1ee37e4c990d07a52d311609b1b1a3cc85",
+        "512dd88ef4cbfb9099dde5091b078b7a775da20f",
+        "cdb9e92563e541eebe4d117d5d4752b5e38553bf",
+        "91fd69b6cdccf170bbd48ebf1209436e0daa57ea",
+        "9d9322981294b795d2e0affb0833abcae6fcc430",
+        "fbc94927a6bbed787fce926661ed3c0878fd1287",
+        "ba6eaf05c86b6a56e715e4f9464c8383a719697e",
+        "478f88394b1f9c302f95b1998320bbaadfe55923",
+        "8ce28fb759d583b177858bd6285c9528ce515dbb"
+      ],
+      "numberOfCommits": 9
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "22282c531d562675bec5bf1fc4ee719fbdee8bcc",
+        "7fc3d1e668b4a047caacf0e07395dbff66fbffd3",
+        "30e5e6f23d6e39560f3c85c9e3891fff83d83ea1",
+        "bb2f4c9a7f138f6f1f593249f1b8332e4101c263"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/DevMaverickTeam/ADR-structure.git",
+  "crawlDateTime": "2022-01-18T20:39:42.352074",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-RegularSessionLastSeen.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-09-16T09:39:45Z",
+      "lastCommit": "2020-09-16T09:39:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c216fb00a3049d146866ffd7d36883ef853dc35e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-16T09:39:45Z",
+  "lastAdrCommit": "2020-09-16T09:39:45Z",
+  "firstCommit": "2020-09-16T08:46:04Z",
+  "lastCommit": "2020-09-21T08:47:54Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c216fb00a3049d146866ffd7d36883ef853dc35e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

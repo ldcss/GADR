@@ -1,0 +1,105 @@
+{
+  "repositoryUrl": "https://github.com/kiwicom/konfetti.git",
+  "crawlDateTime": "2022-01-18T22:57:14.734248",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0003-support-python-2-7.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-01T21:25:31Z",
+      "lastCommit": "2019-07-01T21:25:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4828fe271de8c810b10e7a997fa09e8d2828673b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0004-use-lazy-loading.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-01T21:25:31Z",
+      "lastCommit": "2019-07-01T21:25:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4828fe271de8c810b10e7a997fa09e8d2828673b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-use-src-layout.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-01T21:25:31Z",
+      "lastCommit": "2019-07-01T21:25:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4828fe271de8c810b10e7a997fa09e8d2828673b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-01T21:25:31Z",
+      "lastCommit": "2019-07-01T21:25:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4828fe271de8c810b10e7a997fa09e8d2828673b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-07-01T21:25:31Z",
+  "lastAdrCommit": "2019-07-01T21:25:31Z",
+  "firstCommit": "2019-06-26T13:47:48Z",
+  "lastCommit": "2021-10-21T18:30:09Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4828fe271de8c810b10e7a997fa09e8d2828673b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

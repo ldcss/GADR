@@ -1,0 +1,88 @@
+{
+  "repositoryUrl": "https://github.com/phiroict/poc-terraform-aws-web-cluster.git",
+  "crawlDateTime": "2022-01-18T17:36:56.597307",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/doc/adr",
+      "path": "0002-infrastructure-layout.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-12T02:17:23Z",
+      "lastCommit": "2019-11-12T04:37:09Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4276c813b4523f58a43d1287d234de0bbe077d6",
+            "2494dbc24f932bfae4b2946c20c31ef90cfd4bb8",
+            "7c095948e0d2b5af3c02949696d5892adff7d7ac"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/doc/adr",
+      "path": "0001-pos-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-12T02:17:23Z",
+      "lastCommit": "2019-11-12T02:17:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7c095948e0d2b5af3c02949696d5892adff7d7ac"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/doc/adr",
+      "path": "0003-packer-as-builder.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-13T05:51:09Z",
+      "lastCommit": "2019-11-13T05:51:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ddb72fd80ef85f2f1e25c02e39c41699677ce606"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-12T02:17:23Z",
+  "lastAdrCommit": "2019-11-13T05:51:09Z",
+  "firstCommit": "2019-11-12T01:27:32Z",
+  "lastCommit": "2019-11-20T00:37:50Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ddb72fd80ef85f2f1e25c02e39c41699677ce606",
+        "a4276c813b4523f58a43d1287d234de0bbe077d6",
+        "2494dbc24f932bfae4b2946c20c31ef90cfd4bb8",
+        "7c095948e0d2b5af3c02949696d5892adff7d7ac"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

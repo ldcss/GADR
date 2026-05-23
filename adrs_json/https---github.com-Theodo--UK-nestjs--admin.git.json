@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/Theodo-UK/nestjs-admin.git",
+  "crawlDateTime": "2022-01-18T18:03:18.392158",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "01-admin-authentication.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-08-21T16:56:37Z",
+      "lastCommit": "2019-08-21T16:59:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e7202cb6f6c023fb4d7eab7acc86e444268bf9a6",
+            "2ab92b03d6fb9df02f0e2c903b139d9ad4d3bedc"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "02-design-library.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-26T14:23:16Z",
+      "lastCommit": "2019-09-26T14:23:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7115756f2e546c3486522f8b469a78d7e15452e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-21T16:56:37Z",
+  "lastAdrCommit": "2019-09-26T14:23:16Z",
+  "firstCommit": "2019-07-21T14:16:26Z",
+  "lastCommit": "2022-01-15T05:27:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e7202cb6f6c023fb4d7eab7acc86e444268bf9a6",
+        "2ab92b03d6fb9df02f0e2c903b139d9ad4d3bedc",
+        "a7115756f2e546c3486522f8b469a78d7e15452e"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

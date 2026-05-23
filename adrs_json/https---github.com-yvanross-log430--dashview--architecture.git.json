@@ -1,0 +1,88 @@
+{
+  "repositoryUrl": "https://github.com/yvanross/log430-dashview-architecture.git",
+  "crawlDateTime": "2022-01-18T18:02:50.732592",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "documentation/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "documentation/decisions",
+      "path": "0003-systemvehicule-this-is-a-test.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [1. Record architecture decisions](0001-record-architecture-decisions.md)",
+      "firstCommit": "2020-05-31T15:52:52Z",
+      "lastCommit": "2020-05-31T15:52:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5351dcc71be718d369117f13a05e06976fa11cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/decisions",
+      "path": "0002-use-java-to-implement-complete-solution.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-31T15:52:52Z",
+      "lastCommit": "2020-05-31T15:52:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5351dcc71be718d369117f13a05e06976fa11cf3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Superceded by [3. SystemVehicule this is a test](0003-sysvehicule-this-is-a-test.md)",
+      "firstCommit": "2020-05-31T15:52:52Z",
+      "lastCommit": "2020-06-06T19:01:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5351dcc71be718d369117f13a05e06976fa11cf3",
+            "c96ff48c9992e9e8efdaa82eea952306adcd560a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-31T15:52:52Z",
+  "lastAdrCommit": "2020-06-06T19:01:23Z",
+  "firstCommit": "2020-05-16T19:49:36Z",
+  "lastCommit": "2021-09-16T16:28:22Z",
+  "adrDirFile": {
+    "fileContent": "documentation/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5351dcc71be718d369117f13a05e06976fa11cf3",
+        "c96ff48c9992e9e8efdaa82eea952306adcd560a"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/marcusholmgren/crispy-dragon.git",
+  "crawlDateTime": "2022-01-18T22:22:57.719319",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-1-Serverless-Framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-03T19:42:04Z",
+      "lastCommit": "2021-02-03T19:42:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29c609cb5bbdf28e543ad705a0603c08838d8852"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-2-Frontend-Framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-03T19:42:04Z",
+      "lastCommit": "2021-02-03T19:42:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29c609cb5bbdf28e543ad705a0603c08838d8852"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "OPM-1-Decision-Tracking.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-03T19:42:04Z",
+      "lastCommit": "2021-02-03T19:42:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29c609cb5bbdf28e543ad705a0603c08838d8852"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-02-03T19:42:04Z",
+  "lastAdrCommit": "2021-02-03T19:42:04Z",
+  "firstCommit": "2020-11-27T20:17:15Z",
+  "lastCommit": "2021-02-08T20:07:25Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "29c609cb5bbdf28e543ad705a0603c08838d8852"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

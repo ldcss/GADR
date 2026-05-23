@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/thingful/decode-demo.git",
+  "crawlDateTime": "2022-01-18T21:09:11.445448",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "app/docs"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "app/docs",
+      "path": "0003-remove-spectre-css-and-replace-with-bootstrap.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-04T02:41:17Z",
+      "lastCommit": "2019-01-04T02:41:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb44d2ce91ba3c1f073e61814fdaf77017ab36d9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "app/docs",
+      "path": "0002-implement-using-phoenix.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-04T02:35:02Z",
+      "lastCommit": "2019-01-04T02:35:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1562896fbf2d9bb3a928659b29f8cc8d5fb13c6a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "app/docs",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-04T02:27:39Z",
+      "lastCommit": "2019-01-04T02:27:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab438f0e812fd5f2499c86392cb6bffa2807c008"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-01-04T02:27:39Z",
+  "lastAdrCommit": "2019-01-04T02:41:17Z",
+  "firstCommit": "2018-12-23T00:53:02Z",
+  "lastCommit": "2019-03-13T09:55:15Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1562896fbf2d9bb3a928659b29f8cc8d5fb13c6a",
+        "fb44d2ce91ba3c1f073e61814fdaf77017ab36d9",
+        "ab438f0e812fd5f2499c86392cb6bffa2807c008"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

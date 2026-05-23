@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/lucentminds/sshfsa.git",
+  "crawlDateTime": "2022-01-18T18:20:17.256657",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "001-sshfs-assistant.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-02T23:00:53Z",
+      "lastCommit": "2018-05-02T23:00:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d3b99674987f7ae9c3bf93ec544679d0220c6cd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-02T23:00:53Z",
+  "lastAdrCommit": "2018-05-02T23:00:53Z",
+  "firstCommit": "2018-05-02T22:24:32Z",
+  "lastCommit": "2021-05-11T20:11:38Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9d3b99674987f7ae9c3bf93ec544679d0220c6cd"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

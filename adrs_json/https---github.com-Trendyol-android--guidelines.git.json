@@ -1,0 +1,330 @@
+{
+  "repositoryUrl": "https://github.com/Trendyol/android-guidelines.git",
+  "crawlDateTime": "2022-01-18T19:10:13.225301",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture_decision_records/adr"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture_decision_records/adr",
+      "path": "0003-update-adr-template-with-madr.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-14T08:06:38Z",
+      "lastCommit": "2020-04-14T12:15:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4473edfe8f1e6105edb283b6c3ff1c27769365a",
+            "897bdbec5346d82e0872489a005f2e2407477ef2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decision_records/adr",
+      "path": "0012-multi-module-navigation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-24T13:57:30Z",
+      "lastCommit": "2021-06-24T13:57:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0b5fe0aecb40eca8d6ecc6487f70f6f1ad032b36"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decision_records/adr",
+      "path": "0011-resource-management.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-22T14:54:05Z",
+      "lastCommit": "2021-06-22T14:54:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d4b550fdfe3b60b3ee70c6e4caf612726cfc59f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decision_records/adr",
+      "path": "0006-no-repository-implemantation-to-view-model.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-20T14:14:13Z",
+      "lastCommit": "2020-06-10T12:00:29Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bd158f3249cc0d18ed464205554b43a72ac212da",
+            "5652ec69a3dcbf1dd691c0d162c22a0fcc7377a4"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0cf1080c65d7c915a571831a79d1f609101ba833"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decision_records/adr",
+      "path": "0002-custom-views-should-have-their-own-models.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-13T15:29:57Z",
+      "lastCommit": "2020-04-13T15:29:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a840a386363c602aacf6e5c83a42a241fa9b5c59"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decision_records/adr",
+      "path": "0004-use-template-for-mapper-class.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-20T14:07:29Z",
+      "lastCommit": "2021-06-22T14:54:05Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "040197b2216f3731973b77669320be8439cb2374",
+            "b56902ab8f4c27ec331480b03f44587137a1530d"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d4b550fdfe3b60b3ee70c6e4caf612726cfc59f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decision_records/adr",
+      "path": "0007-use-deprecated-annotation-with-description.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-18T12:50:40Z",
+      "lastCommit": "2020-07-01T20:21:11Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "98b58a93a32c5e1100d38c2f6142867e298143cc",
+            "9d6c0ed122046e137fe018ebb5e6d38a029af2b1",
+            "64d98d6f986f7de45e5087f4910f1b7d8bcfa924"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decision_records/adr",
+      "path": "0009-gradle-rules.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-22T14:54:05Z",
+      "lastCommit": "2021-06-22T14:54:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d4b550fdfe3b60b3ee70c6e4caf612726cfc59f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decision_records/adr",
+      "path": "0008-module-package-naming.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-22T14:54:05Z",
+      "lastCommit": "2021-06-22T14:54:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d4b550fdfe3b60b3ee70c6e4caf612726cfc59f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decision_records/adr",
+      "path": "0010-dependency-rules.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-22T14:54:05Z",
+      "lastCommit": "2021-06-22T14:54:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d4b550fdfe3b60b3ee70c6e4caf612726cfc59f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decision_records/adr",
+      "path": "0000-create-multiple-ui-network-models.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-13T13:39:35Z",
+      "lastCommit": "2020-04-13T13:39:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "90152978317ef7e4056fe33c27bdd5ad5868e3c8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decision_records/adr",
+      "path": "0001-create-item-view-states-in-adapters.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-13T14:30:27Z",
+      "lastCommit": "2020-04-13T14:30:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee6a6135259904e57b4468cc369a80821c8d0ec2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture_decision_records/adr",
+      "path": "0005-use-same-mapper-for-library-and-ui-model.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-20T14:13:54Z",
+      "lastCommit": "2020-05-20T14:13:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc99aedfce1b80060c8349e3ce3b09491fdb2e0c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-13T13:39:35Z",
+  "lastAdrCommit": "2021-06-24T13:57:30Z",
+  "firstCommit": "2018-06-22T14:39:29Z",
+  "lastCommit": "2021-11-19T07:45:55Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bd158f3249cc0d18ed464205554b43a72ac212da",
+        "5652ec69a3dcbf1dd691c0d162c22a0fcc7377a4",
+        "040197b2216f3731973b77669320be8439cb2374",
+        "fc99aedfce1b80060c8349e3ce3b09491fdb2e0c",
+        "b56902ab8f4c27ec331480b03f44587137a1530d"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0b5fe0aecb40eca8d6ecc6487f70f6f1ad032b36",
+        "2d4b550fdfe3b60b3ee70c6e4caf612726cfc59f"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "98b58a93a32c5e1100d38c2f6142867e298143cc",
+        "9d6c0ed122046e137fe018ebb5e6d38a029af2b1",
+        "64d98d6f986f7de45e5087f4910f1b7d8bcfa924"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a4473edfe8f1e6105edb283b6c3ff1c27769365a",
+        "a840a386363c602aacf6e5c83a42a241fa9b5c59",
+        "0cf1080c65d7c915a571831a79d1f609101ba833",
+        "ee6a6135259904e57b4468cc369a80821c8d0ec2",
+        "90152978317ef7e4056fe33c27bdd5ad5868e3c8",
+        "897bdbec5346d82e0872489a005f2e2407477ef2"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

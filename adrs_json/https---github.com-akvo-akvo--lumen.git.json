@@ -1,0 +1,226 @@
+{
+  "repositoryUrl": "https://github.com/akvo/akvo-lumen.git",
+  "crawlDateTime": "2022-01-18T23:09:07.516432",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-006-gke.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-11-28T06:51:36Z",
+      "lastCommit": "2016-11-28T06:51:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "86823d8630416cd9f728f2e17d416496b8715414"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-002-elasticsearch.md",
+      "template": "Nygard",
+      "status": "Superseded. See [ADR-004](ADR-004.md)",
+      "firstCommit": "2016-10-03T07:18:34Z",
+      "lastCommit": "2016-10-19T08:22:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5595824dc4867833f1cdf2bf0cb83e36d8b6082e",
+            "028930e7f1c234b39122616d27b8b4f8741f4b44"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-005-transforms-in-js.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2016-10-19T07:42:21Z",
+      "lastCommit": "2016-10-19T08:52:15Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5595824dc4867833f1cdf2bf0cb83e36d8b6082e",
+            "8289f892e9177065b87604887b6e064525fc7943"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a48ade3cdd5429b4d057d3245a619b8bfc1f349d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-007-stackdriver.md",
+      "template": "Nygard",
+      "status": "Preliminary decision by head of software development after discussion with lead operations engineer and platform architect. Alos Needs review before final decision.",
+      "firstCommit": "2017-08-08T07:40:13Z",
+      "lastCommit": "2017-08-09T07:24:43Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d6b08399ded5102428c95c12e9ec85089064b27f",
+            "dec6d51b4d89d2b7b635678cf99bd7b2ceb7c321",
+            "f7219c7c6b6ae11c04b476321431df821bc0b7c8"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38cfd7352b3d376197411dad9d5a55f5b49f9bbc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001-react.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-10-03T07:18:34Z",
+      "lastCommit": "2016-10-19T08:22:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5595824dc4867833f1cdf2bf0cb83e36d8b6082e",
+            "028930e7f1c234b39122616d27b8b4f8741f4b44"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-003-clojure-for-etl.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-10-03T07:18:34Z",
+      "lastCommit": "2016-10-19T08:22:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5595824dc4867833f1cdf2bf0cb83e36d8b6082e",
+            "028930e7f1c234b39122616d27b8b4f8741f4b44"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-004-postgresql-for-data.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-10-03T07:18:34Z",
+      "lastCommit": "2016-10-19T08:52:15Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5595824dc4867833f1cdf2bf0cb83e36d8b6082e",
+            "028930e7f1c234b39122616d27b8b4f8741f4b44"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a48ade3cdd5429b4d057d3245a619b8bfc1f349d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-10-03T07:18:34Z",
+  "lastAdrCommit": "2017-08-09T07:24:43Z",
+  "firstCommit": "2015-10-19T11:25:53Z",
+  "lastCommit": "2021-11-29T11:16:30Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5595824dc4867833f1cdf2bf0cb83e36d8b6082e",
+        "028930e7f1c234b39122616d27b8b4f8741f4b44",
+        "8289f892e9177065b87604887b6e064525fc7943"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "86823d8630416cd9f728f2e17d416496b8715414"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d6b08399ded5102428c95c12e9ec85089064b27f",
+        "dec6d51b4d89d2b7b635678cf99bd7b2ceb7c321",
+        "f7219c7c6b6ae11c04b476321431df821bc0b7c8"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a48ade3cdd5429b4d057d3245a619b8bfc1f349d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "38cfd7352b3d376197411dad9d5a55f5b49f9bbc"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

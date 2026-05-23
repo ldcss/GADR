@@ -1,0 +1,86 @@
+{
+  "repositoryUrl": "https://github.com/bbc/programmes-frontend.git",
+  "crawlDateTime": "2022-01-18T20:51:10.983305",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-001-routing-find-by-pid-pages.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-08-01T12:55:39Z",
+      "lastCommit": "2017-08-01T12:55:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "22ebc55ac5e97d6c06ba172f9362a4db3630ce09"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-003-serving-programme-options-redirects.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-23T18:05:53Z",
+      "lastCommit": "2018-01-23T18:05:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dfaa37d66775e98feb299871031244911d1a5723"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-002-routing-pid-context-pages.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-08-01T12:55:39Z",
+      "lastCommit": "2018-01-22T18:34:17Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d2fb29f87a139f4e5b093b3dfd4647312da74852",
+            "22ebc55ac5e97d6c06ba172f9362a4db3630ce09"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-08-01T12:55:39Z",
+  "lastAdrCommit": "2018-01-23T18:05:53Z",
+  "firstCommit": "2017-03-13T17:48:54Z",
+  "lastCommit": "2021-10-21T13:32:36Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d2fb29f87a139f4e5b093b3dfd4647312da74852",
+        "dfaa37d66775e98feb299871031244911d1a5723",
+        "22ebc55ac5e97d6c06ba172f9362a4db3630ce09"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

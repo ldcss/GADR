@@ -1,0 +1,265 @@
+{
+  "repositoryUrl": "https://github.com/hyprnz/terraform-aws-msk-module.git",
+  "crawlDateTime": "2022-01-18T21:23:16.925921",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0009-msk-client-instance.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-06T03:52:12Z",
+      "lastCommit": "2020-04-06T03:55:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3088eebaf14d77b0adc822bf830a909f3144220f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca2ace7575ecc67aa7e0df5e92a5a219c7a760f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-support-terraform-v0-11-and-v0-12.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-18T22:16:56Z",
+      "lastCommit": "2020-04-06T03:55:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3088eebaf14d77b0adc822bf830a909f3144220f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65211733a3a941e5097bb641e990e6062b4ea0b6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-internal-vpc.md",
+      "template": "Nygard",
+      "status": "In Review",
+      "firstCommit": "2020-04-06T03:32:17Z",
+      "lastCommit": "2020-04-06T03:32:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b0acec5a6b8317f3f03e003d869813d582fff96"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-broker-cloudwatch-alarms.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-06T03:50:53Z",
+      "lastCommit": "2020-04-06T03:50:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b96d295d0f6de1198ae5214c80b01bbb2fb11acb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0010-use-session-manager-for-shell-access-to-instances.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [8. Key Pair Utility](0008-key-pair-utility.md)",
+      "firstCommit": "2020-04-08T01:51:50Z",
+      "lastCommit": "2020-04-08T01:51:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a631cd6973861924ffa07fab562ddec5ae4ad48"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-feature-flags.md",
+      "template": "Nygard",
+      "status": "In Review",
+      "firstCommit": "2020-04-06T03:32:17Z",
+      "lastCommit": "2020-04-06T03:32:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b0acec5a6b8317f3f03e003d869813d582fff96"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-key-pair-utility.md",
+      "template": "Nygard",
+      "status": "Superceded by [10. Use Session Manager for shell access to instances](0010-use-session-manager-for-shell-access-to-instances.md)",
+      "firstCommit": "2020-04-06T03:51:52Z",
+      "lastCommit": "2020-04-08T01:51:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a631cd6973861924ffa07fab562ddec5ae4ad48"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "248b1a58ef3f584ff8761e0210ebbca96043ce72"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-configurable-internal-vpc.md",
+      "template": "Nygard",
+      "status": "In Review",
+      "firstCommit": "2020-04-06T03:32:17Z",
+      "lastCommit": "2020-04-06T03:32:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b0acec5a6b8317f3f03e003d869813d582fff96"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-cloudwatch-dashboards.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-06T03:50:11Z",
+      "lastCommit": "2020-04-06T03:55:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3088eebaf14d77b0adc822bf830a909f3144220f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "542851bdaff57733faa89787295136adbba90fb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-18T22:16:56Z",
+      "lastCommit": "2019-12-18T22:16:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65211733a3a941e5097bb641e990e6062b4ea0b6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-12-18T22:16:56Z",
+  "lastAdrCommit": "2020-04-08T01:51:50Z",
+  "firstCommit": "2019-12-12T19:49:38Z",
+  "lastCommit": "2020-04-28T23:48:14Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2a631cd6973861924ffa07fab562ddec5ae4ad48",
+        "3088eebaf14d77b0adc822bf830a909f3144220f"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "65211733a3a941e5097bb641e990e6062b4ea0b6",
+        "5b0acec5a6b8317f3f03e003d869813d582fff96",
+        "542851bdaff57733faa89787295136adbba90fb6",
+        "ca2ace7575ecc67aa7e0df5e92a5a219c7a760f6",
+        "b96d295d0f6de1198ae5214c80b01bbb2fb11acb",
+        "248b1a58ef3f584ff8761e0210ebbca96043ce72"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

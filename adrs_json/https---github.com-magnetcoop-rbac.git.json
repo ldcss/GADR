@@ -1,0 +1,63 @@
+{
+  "repositoryUrl": "https://github.com/magnetcoop/rbac.git",
+  "crawlDateTime": "2022-01-18T19:01:30.687943",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "",
+      "firstCommit": "2019-12-18T11:15:21Z",
+      "lastCommit": "2021-06-21T16:47:14Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c82ed80687e02e7effa9ea19c4aa319079e18665"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a6162942ea5a9beaf70443c06fb7155c0f2ce220",
+            "e79a906b62d590215720add4a4ca7cbaaf3ad7d2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-12-18T11:15:21Z",
+  "lastAdrCommit": "2021-06-21T16:47:14Z",
+  "firstCommit": "2019-11-26T15:59:46Z",
+  "lastCommit": "2021-06-23T15:59:54Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c82ed80687e02e7effa9ea19c4aa319079e18665"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a6162942ea5a9beaf70443c06fb7155c0f2ce220",
+        "e79a906b62d590215720add4a4ca7cbaaf3ad7d2"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

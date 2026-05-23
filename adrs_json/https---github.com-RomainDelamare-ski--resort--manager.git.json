@@ -1,0 +1,102 @@
+{
+  "repositoryUrl": "https://github.com/RomainDelamare/ski-resort-manager.git",
+  "crawlDateTime": "2022-01-18T17:45:31.48179",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture-decision-log"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0001-record-architecture_decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-20T14:54:54Z",
+      "lastCommit": "2020-10-20T14:54:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "381b02732d0e1bb1c368b02c35fa07c03aeb97ad"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0003-use-identity-server.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-20T14:54:54Z",
+      "lastCommit": "2020-10-20T14:54:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "381b02732d0e1bb1c368b02c35fa07c03aeb97ad"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0002-use-modular-monolith-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-20T14:54:54Z",
+      "lastCommit": "2020-10-20T14:54:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "381b02732d0e1bb1c368b02c35fa07c03aeb97ad"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0004-backend-for-frontend.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-20T14:54:54Z",
+      "lastCommit": "2020-10-20T14:54:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "381b02732d0e1bb1c368b02c35fa07c03aeb97ad"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-20T14:54:54Z",
+  "lastAdrCommit": "2020-10-20T14:54:54Z",
+  "firstCommit": "2020-06-17T16:29:57Z",
+  "lastCommit": "2020-10-24T13:51:15Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "381b02732d0e1bb1c368b02c35fa07c03aeb97ad"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

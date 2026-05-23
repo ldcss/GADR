@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/danskernesdigitalebibliotek/ddb-react.git",
+  "crawlDateTime": "2022-01-18T20:47:25.90781",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture",
+      "path": "adr-001-rehydration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-02T13:35:54Z",
+      "lastCommit": "2020-09-04T12:21:50Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "262364f9cca2accde504fc212c9f618cf15da2b7",
+            "5053ad842a2c165e82163d912c9f92d4b4f621cd",
+            "118fdf951c60c5b1008267410b3739a3ac3deead",
+            "83ec8879b3e02c023927c03763072f0302ef3e39"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "187b89daff962bb3681bbd89a88174c637e8e066"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-02T13:35:54Z",
+  "lastAdrCommit": "2020-09-04T12:21:50Z",
+  "firstCommit": "2019-11-22T12:52:27Z",
+  "lastCommit": "2022-01-15T05:39:45Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "262364f9cca2accde504fc212c9f618cf15da2b7",
+        "5053ad842a2c165e82163d912c9f92d4b4f621cd",
+        "118fdf951c60c5b1008267410b3739a3ac3deead",
+        "83ec8879b3e02c023927c03763072f0302ef3e39"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "187b89daff962bb3681bbd89a88174c637e8e066"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

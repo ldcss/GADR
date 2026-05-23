@@ -1,0 +1,248 @@
+{
+  "repositoryUrl": "https://github.com/jmoratilla/sre-challenge.git",
+  "crawlDateTime": "2022-01-18T20:31:02.096168",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-use-a-ci-cd-tool-to-ease-provisioning-workflow.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T12:33:07Z",
+      "lastCommit": "2020-06-01T12:33:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5d03c6a48fcce7480d025a50cb223d33f127cc8c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-etcd-cluster-mode.md",
+      "template": "Nygard",
+      "status": "Draft",
+      "firstCommit": "2020-06-01T11:44:26Z",
+      "lastCommit": "2020-06-01T11:44:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "73459407df5d24c18fc1f87c7dbb084a30f31c77"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-using-aws-ecs-as-platform.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T11:45:01Z",
+      "lastCommit": "2020-06-01T11:45:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "062a4fc30c3201369111eb0ae4fa9b94cec951ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-use-terraform-to-provision-infrastruture-as-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T12:24:52Z",
+      "lastCommit": "2020-06-01T12:24:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca868e9e72fb3f6dbde18038411d5752f3e29735"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-prometheus-as-monitoring-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T12:23:37Z",
+      "lastCommit": "2020-06-01T12:23:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e786345b342ee610b1563983eb1fffdcb5c2636"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-use-a-dashboard-for-etcd.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T12:23:37Z",
+      "lastCommit": "2020-06-02T10:04:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c587f42c23429853e7c481afe0dbaca0b9fa8ee4",
+            "1e786345b342ee610b1563983eb1fffdcb5c2636"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-using-aws-ec2-as-platform.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T12:15:24Z",
+      "lastCommit": "2020-06-01T12:15:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a71b0c0a3b39932e0c5fea826507ade7c4e613aa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-use-ansible-for-configuration-management.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T12:25:16Z",
+      "lastCommit": "2020-06-01T12:25:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87f0b80f053109a587dad15e07553d845ec357d9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-20T10:26:02Z",
+      "lastCommit": "2020-05-20T10:26:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "efcc7cb566291814752d7586e884f5e814bedf64"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-use-taurus-for-benchmark-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T12:24:15Z",
+      "lastCommit": "2020-06-01T12:24:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d969ddfaf424e0ff551a162bb90c26b3e1beefed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-docker-for-12factor-app-goal.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-26T04:55:56Z",
+      "lastCommit": "2020-06-01T11:43:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "11eae21ec7b51036aacd07d57395b2559d2654b4",
+            "81796a47ddc24be04fe59fba4538ad81fd02a124"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-20T10:26:02Z",
+  "lastAdrCommit": "2020-06-02T10:04:59Z",
+  "firstCommit": "2020-05-20T10:26:02Z",
+  "lastCommit": "2020-06-02T10:04:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "11eae21ec7b51036aacd07d57395b2559d2654b4",
+        "73459407df5d24c18fc1f87c7dbb084a30f31c77",
+        "c587f42c23429853e7c481afe0dbaca0b9fa8ee4",
+        "a71b0c0a3b39932e0c5fea826507ade7c4e613aa",
+        "efcc7cb566291814752d7586e884f5e814bedf64",
+        "5d03c6a48fcce7480d025a50cb223d33f127cc8c",
+        "d969ddfaf424e0ff551a162bb90c26b3e1beefed",
+        "81796a47ddc24be04fe59fba4538ad81fd02a124",
+        "1e786345b342ee610b1563983eb1fffdcb5c2636",
+        "87f0b80f053109a587dad15e07553d845ec357d9",
+        "062a4fc30c3201369111eb0ae4fa9b94cec951ed",
+        "ca868e9e72fb3f6dbde18038411d5752f3e29735"
+      ],
+      "numberOfCommits": 12
+    }
+  ]
+}

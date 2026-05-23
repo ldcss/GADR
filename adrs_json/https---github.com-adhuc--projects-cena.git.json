@@ -1,0 +1,294 @@
+{
+  "repositoryUrl": "https://github.com/adhuc-projects/cena.git",
+  "crawlDateTime": "2022-01-18T21:04:40.347083",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 14,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-use-spring-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T22:26:58Z",
+      "lastCommit": "2020-03-05T22:26:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed48db2e500759e00f191f6096a6291fdd751bc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0011-expose-resources-as-hal.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T22:26:58Z",
+      "lastCommit": "2020-03-05T22:26:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed48db2e500759e00f191f6096a6291fdd751bc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0012-document-apis-with-spring-rest-docs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T22:26:58Z",
+      "lastCommit": "2020-03-05T22:26:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed48db2e500759e00f191f6096a6291fdd751bc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-use-java-as-language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T22:26:58Z",
+      "lastCommit": "2020-03-05T22:26:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed48db2e500759e00f191f6096a6291fdd751bc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-package-application-in-docker-image.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T22:26:58Z",
+      "lastCommit": "2020-03-05T22:26:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed48db2e500759e00f191f6096a6291fdd751bc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-adopt-ddd-approach.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T22:26:58Z",
+      "lastCommit": "2020-05-09T20:29:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed48db2e500759e00f191f6096a6291fdd751bc0",
+            "daabdb7e5b793fbe407cbdc37910177b5ae28f13"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0014-adopt-commmand-query-separation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-09T20:29:43Z",
+      "lastCommit": "2020-05-09T20:29:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "daabdb7e5b793fbe407cbdc37910177b5ae28f13"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-manage-build-with-gradle.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T22:26:58Z",
+      "lastCommit": "2020-03-05T22:26:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed48db2e500759e00f191f6096a6291fdd751bc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-expose-services-through-rest-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T22:26:58Z",
+      "lastCommit": "2020-03-05T22:26:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed48db2e500759e00f191f6096a6291fdd751bc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-adopt-hexagonal-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T22:26:58Z",
+      "lastCommit": "2020-03-05T22:26:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed48db2e500759e00f191f6096a6291fdd751bc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0013-adopt-contract-first-with-openapi.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T22:26:58Z",
+      "lastCommit": "2020-03-05T22:26:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed48db2e500759e00f191f6096a6291fdd751bc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-implement-acceptance-tests-with-serenity.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T22:26:58Z",
+      "lastCommit": "2020-03-05T22:26:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed48db2e500759e00f191f6096a6291fdd751bc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-execute-build-tasks-with-make.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T22:26:58Z",
+      "lastCommit": "2020-03-05T22:26:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed48db2e500759e00f191f6096a6291fdd751bc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-test-features-with-cucumber.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-05T22:26:58Z",
+      "lastCommit": "2020-03-05T22:26:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ed48db2e500759e00f191f6096a6291fdd751bc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-05T22:26:58Z",
+  "lastAdrCommit": "2020-05-09T20:29:43Z",
+  "firstCommit": "2018-12-27T12:49:11Z",
+  "lastCommit": "2021-05-26T15:31:18Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ed48db2e500759e00f191f6096a6291fdd751bc0",
+        "daabdb7e5b793fbe407cbdc37910177b5ae28f13"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

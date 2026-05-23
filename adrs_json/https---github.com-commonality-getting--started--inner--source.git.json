@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/commonality/getting-started-inner-source.git",
+  "crawlDateTime": "2022-01-18T18:50:12.547167",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-gitlab-for-web-based-scm-with-devsecops-integration.md",
+      "template": "Nygard",
+      "status": "| ADR Status | TechRadar: Ring | | :---------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | | ![ADR Status: Proposed][label-adr-proposed-img] | [![TechRadar: Tools][label-tools-img]][tw-tech-radar-tools-url] <hr>![Adopt][label-tech-radar-tools-trial-img] |",
+      "firstCommit": "2018-06-06T18:58:15Z",
+      "lastCommit": "2018-06-06T18:58:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d009d6e3c563f9e007c6890fea4411546dd43972"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "| ADR Status | Capability - Category | TechRadar: Ring | |:-------------:|:----------------------:|:----------------:| | ![ADR Status: Accepted][label-adr-accepted-img] | [Evolutionary Architecture ![External link][icon-octicon-link-external]][tw-tech-radar-evolutionary-architecture]<hr>[Architecture Decision Records ![External link][icon-octicon-link-external]][tw-tech-radar-adrs] | [![TechRadar: Techniques][label-techniques-img]][tw-tech-radar-techniques-url]<hr>![Adopt][label-tech-radar-techniques-adopt-img] |",
+      "firstCommit": "2018-06-06T18:58:15Z",
+      "lastCommit": "2018-06-06T18:58:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d009d6e3c563f9e007c6890fea4411546dd43972"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-06T18:58:15Z",
+  "lastAdrCommit": "2018-06-06T18:58:15Z",
+  "firstCommit": "2018-03-02T06:41:37Z",
+  "lastCommit": "2018-07-19T20:40:33Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d009d6e3c563f9e007c6890fea4411546dd43972"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

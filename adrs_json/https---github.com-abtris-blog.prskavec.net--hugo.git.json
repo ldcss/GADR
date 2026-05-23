@@ -1,0 +1,84 @@
+{
+  "repositoryUrl": "https://github.com/abtris/blog.prskavec.net-hugo.git",
+  "crawlDateTime": "2022-01-18T21:17:06.850289",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-choose-deployment-platform.md",
+      "template": "Nygard",
+      "status": "Status: Accepted on 2020-08-17",
+      "firstCommit": "2020-08-17T14:00:39Z",
+      "lastCommit": "2020-08-17T14:00:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aac3b7318df79081be0dd4e6715d741da2d14d0b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0000-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Status: Accepted on 2020-08-17",
+      "firstCommit": "2020-08-17T11:48:38Z",
+      "lastCommit": "2020-08-17T11:48:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1c5597575bd7112d12ae0f5259d71421250c1663"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-choose-static-generator.md",
+      "template": "Nygard",
+      "status": "Status: Accepted on 2020-08-17",
+      "firstCommit": "2020-08-17T11:48:38Z",
+      "lastCommit": "2020-08-17T11:48:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1c5597575bd7112d12ae0f5259d71421250c1663"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-17T11:48:38Z",
+  "lastAdrCommit": "2020-08-17T14:00:39Z",
+  "firstCommit": "2017-09-11T18:33:18Z",
+  "lastCommit": "2022-01-17T14:03:49Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1c5597575bd7112d12ae0f5259d71421250c1663",
+        "aac3b7318df79081be0dd4e6715d741da2d14d0b"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

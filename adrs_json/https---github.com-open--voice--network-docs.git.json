@@ -1,0 +1,129 @@
+{
+  "repositoryUrl": "https://github.com/open-voice-network/docs.git",
+  "crawlDateTime": "2022-01-18T18:03:36.272481",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0002-vrs-type.md",
+      "template": "Nygard",
+      "status": "In Progress Supercedes [1. Record architecture decisions](0001-record-architecture-decisions.md) Superceded by [3. vrs-integration](0003-vrs-integration.md)",
+      "firstCommit": "2021-02-04T22:28:06Z",
+      "lastCommit": "2021-03-18T12:52:02Z",
+      "numberOfCommits": 12,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4313db7ce7d9c762705a7935558b4f08a679e48f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e702ef44ff65264080eaffb65d0d0a2d121505bb",
+            "f8d723e60acff84c0535905a3e49158f8f12880c",
+            "4c306b806e7cc97997c9810c86f933564430d4aa",
+            "10d649638096080a1eae366a2502f128bd250d4a",
+            "33c481680e7a6c034f4264ce44b16a7ca9ef3bb9",
+            "f7ea9f83a127f608e9b944ec121ba463a3633196",
+            "29c1513292d109f74818def348b53da79a5b1210",
+            "6c013515cc2f6ab25ec14df37744e412d9c76ff3",
+            "70833557999e086eefe6642490e842436f61b4e8",
+            "fc144bf2b93acc66178f11862b0d73dbca90ed28",
+            "24af8ac6b23b864680bb1ed33b0abdb770f33672"
+          ],
+          "numberOfCommits": 11
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0003-vrs-integration.md",
+      "template": "Nygard",
+      "status": "In progress Supercedes [](0002-vrs-type.md)",
+      "firstCommit": "2021-04-01T14:54:09Z",
+      "lastCommit": "2021-04-29T14:54:28Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "939f66dcfcf99a976cfee079662505eab43705d2",
+            "b515a3ddc156dbcc97a021fe7dd38fb6e89c677f",
+            "3258746e3202aaf1d08955457e2152054bff6cd4",
+            "da2b1d64347a60149ded417151db86c637c4ebc8"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Superceded by [2. vrs-type](0002-vrs-type.md)",
+      "firstCommit": "2021-02-04T22:28:06Z",
+      "lastCommit": "2021-02-04T22:28:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24af8ac6b23b864680bb1ed33b0abdb770f33672"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-02-04T22:28:06Z",
+  "lastAdrCommit": "2021-04-29T14:54:28Z",
+  "firstCommit": "2020-04-10T17:08:18Z",
+  "lastCommit": "2022-01-17T21:14:36Z",
+  "adrDirFile": {
+    "fileContent": "architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4313db7ce7d9c762705a7935558b4f08a679e48f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "939f66dcfcf99a976cfee079662505eab43705d2",
+        "f8d723e60acff84c0535905a3e49158f8f12880c",
+        "b515a3ddc156dbcc97a021fe7dd38fb6e89c677f",
+        "33c481680e7a6c034f4264ce44b16a7ca9ef3bb9",
+        "6c013515cc2f6ab25ec14df37744e412d9c76ff3",
+        "fc144bf2b93acc66178f11862b0d73dbca90ed28",
+        "e702ef44ff65264080eaffb65d0d0a2d121505bb",
+        "4c306b806e7cc97997c9810c86f933564430d4aa",
+        "10d649638096080a1eae366a2502f128bd250d4a",
+        "f7ea9f83a127f608e9b944ec121ba463a3633196",
+        "29c1513292d109f74818def348b53da79a5b1210",
+        "3258746e3202aaf1d08955457e2152054bff6cd4",
+        "70833557999e086eefe6642490e842436f61b4e8",
+        "da2b1d64347a60149ded417151db86c637c4ebc8",
+        "24af8ac6b23b864680bb1ed33b0abdb770f33672"
+      ],
+      "numberOfCommits": 15
+    }
+  ]
+}

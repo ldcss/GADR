@@ -1,0 +1,128 @@
+{
+  "repositoryUrl": "https://github.com/slacgismo/openfido-workflow-service.git",
+  "crawlDateTime": "2022-01-18T17:28:53.461276",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-authentication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-01T16:54:49Z",
+      "lastCommit": "2020-10-06T14:15:45Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1a5e1f56b94e53778df8fcbad1ffbd57f48da3d",
+            "d71c913c05dab3e74c11bbf8b091f7546340d1b3",
+            "457735502ac9ec7d1e44bf523ea127418f773a83",
+            "8bdc90cf299db0453df5ebefa7df47c71b461077"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-pipelines.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-19T15:17:44Z",
+      "lastCommit": "2020-09-15T14:53:38Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8735291e66b8838c93a932db5701d14148360a9a",
+            "2101d8dc363ca4a82b1d69c18fbaa2630f7e5ca6",
+            "9bfef591a2a665d97997ffa2b62ef5a5abb8cd7e",
+            "b96a162abde146478a17a45bcf30d859f329e991",
+            "5c34843372710ec85bfa18221562bc32c0bd316d"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-deployment.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-21T13:55:53Z",
+      "lastCommit": "2020-12-08T19:58:57Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c77bf5d2cbd19827497adba9ebb6a176eac3408a",
+            "93d5621b750e5931bf62f8ec985daf3ece6fa809",
+            "4949957cdfbb0aa3f318d72a372eaa6d4c8e2957",
+            "5dc939eb02ba20c667435153c34eb5db2ff0171f"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-17T19:17:05Z",
+      "lastCommit": "2020-08-17T19:17:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d8ba10690337d564349f62a820119d9069b4400b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-17T19:17:05Z",
+  "lastAdrCommit": "2020-12-08T19:58:57Z",
+  "firstCommit": "2019-11-22T20:08:32Z",
+  "lastCommit": "2022-01-11T18:23:00Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8735291e66b8838c93a932db5701d14148360a9a",
+        "2101d8dc363ca4a82b1d69c18fbaa2630f7e5ca6",
+        "c77bf5d2cbd19827497adba9ebb6a176eac3408a",
+        "93d5621b750e5931bf62f8ec985daf3ece6fa809",
+        "d8ba10690337d564349f62a820119d9069b4400b",
+        "9bfef591a2a665d97997ffa2b62ef5a5abb8cd7e",
+        "d71c913c05dab3e74c11bbf8b091f7546340d1b3",
+        "5c34843372710ec85bfa18221562bc32c0bd316d",
+        "b1a5e1f56b94e53778df8fcbad1ffbd57f48da3d",
+        "457735502ac9ec7d1e44bf523ea127418f773a83",
+        "b96a162abde146478a17a45bcf30d859f329e991",
+        "4949957cdfbb0aa3f318d72a372eaa6d4c8e2957",
+        "5dc939eb02ba20c667435153c34eb5db2ff0171f",
+        "8bdc90cf299db0453df5ebefa7df47c71b461077"
+      ],
+      "numberOfCommits": 14
+    }
+  ]
+}

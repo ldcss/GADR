@@ -1,0 +1,84 @@
+{
+  "repositoryUrl": "https://github.com/wolframkriesing/site-stitcher.git",
+  "crawlDateTime": "2022-01-18T23:18:04.62554",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-generate-static-pages.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-08T08:02:48Z",
+      "lastCommit": "2020-05-08T08:02:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7731c03f3e3b543ba511ebad7916c2495632cca7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "002-use-the-singular-for-file-names.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-07T15:47:33Z",
+      "lastCommit": "2020-06-07T15:47:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ac7922d31a708fe3738d16e8fd98a987f753f23e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "000-use-adrs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-08T08:02:48Z",
+      "lastCommit": "2020-05-08T08:02:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7731c03f3e3b543ba511ebad7916c2495632cca7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-08T08:02:48Z",
+  "lastAdrCommit": "2020-06-07T15:47:33Z",
+  "firstCommit": "2020-03-29T17:47:37Z",
+  "lastCommit": "2022-01-15T02:18:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7731c03f3e3b543ba511ebad7916c2495632cca7",
+        "ac7922d31a708fe3738d16e8fd98a987f753f23e"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

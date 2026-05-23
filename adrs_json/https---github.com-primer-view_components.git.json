@@ -1,0 +1,105 @@
+{
+  "repositoryUrl": "https://github.com/primer/view_components.git",
+  "crawlDateTime": "2022-01-18T19:09:21.487976",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0250-developing-and-publishing-clientside-behaviours.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-18T17:59:07Z",
+      "lastCommit": "2022-01-14T15:33:36Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45a918c2f6da8a21121c1bfde0f0e6d6c7fbf3da",
+            "6fa2a47c4a5772a2b133e574e74aa89c3fe85302",
+            "6d444f70ffe95e553b33b3fe9ebd2ab630ee2c99",
+            "bac87dc499ec87f9e2254dd53fbdb688345b882b",
+            "d5c6e7cd021edb74d609944e3eaf5de85390fb5d",
+            "288005c8ff6883a54e62d4b1a4df00a185426e2e"
+          ],
+          "numberOfCommits": 6
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "71fa65de7a846e72e8e8557727c2d3c66810c846"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0246-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-18T16:20:03Z",
+      "lastCommit": "2022-01-14T15:33:36Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c08589c8dcd37ad55f920f12771c471d19ef47ca",
+            "33c04e0a20d85ea6df71edacd54505164f9612df",
+            "1a7dd002802878d1725a0aca50a9067d0c081030",
+            "b8f163f523dd841c6c0162224333bf75fbe317e3"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "71fa65de7a846e72e8e8557727c2d3c66810c846"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-02-18T16:20:03Z",
+  "lastAdrCommit": "2022-01-14T15:33:36Z",
+  "firstCommit": "2020-08-03T20:57:38Z",
+  "lastCommit": "2022-01-18T17:00:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c08589c8dcd37ad55f920f12771c471d19ef47ca",
+        "33c04e0a20d85ea6df71edacd54505164f9612df",
+        "45a918c2f6da8a21121c1bfde0f0e6d6c7fbf3da",
+        "1a7dd002802878d1725a0aca50a9067d0c081030",
+        "6fa2a47c4a5772a2b133e574e74aa89c3fe85302",
+        "6d444f70ffe95e553b33b3fe9ebd2ab630ee2c99",
+        "bac87dc499ec87f9e2254dd53fbdb688345b882b",
+        "d5c6e7cd021edb74d609944e3eaf5de85390fb5d",
+        "288005c8ff6883a54e62d4b1a4df00a185426e2e",
+        "b8f163f523dd841c6c0162224333bf75fbe317e3"
+      ],
+      "numberOfCommits": 10
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "71fa65de7a846e72e8e8557727c2d3c66810c846"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

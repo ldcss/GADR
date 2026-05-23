@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/marcusholmgren/udagram.git",
+  "crawlDateTime": "2022-01-18T17:47:26.731917",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs",
+      "path": "OPM-1-Decision-Tracking.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-09T17:32:10Z",
+      "lastCommit": "2020-12-09T17:32:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "513ebd4af9f9d797f63d5ce6a29734f1f93689e9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-1-Kubernetes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-14T18:58:56Z",
+      "lastCommit": "2021-02-14T18:58:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "466e55a71f6d3adcd5d99d5fdbcf7ed8adf444af"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-09T17:32:10Z",
+  "lastAdrCommit": "2021-02-14T18:58:56Z",
+  "firstCommit": "2020-11-09T07:31:19Z",
+  "lastCommit": "2021-02-21T10:06:50Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "513ebd4af9f9d797f63d5ce6a29734f1f93689e9",
+        "466e55a71f6d3adcd5d99d5fdbcf7ed8adf444af"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

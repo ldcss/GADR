@@ -1,0 +1,249 @@
+{
+  "repositoryUrl": "https://github.com/ijmccallum/life-dashboard.git",
+  "crawlDateTime": "2022-01-18T21:10:14.899354",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch decisions"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch decisions",
+      "path": "20200307 yarn workspaces.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-07T13:23:33Z",
+      "lastCommit": "2021-10-07T13:23:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7119d10f566831f2aaad27fd2e9942d6d982e0f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch decisions",
+      "path": "20191026 arch.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-26T09:01:15Z",
+      "lastCommit": "2019-12-07T09:42:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25741361edbaa38a7f95d6049348b8a1ce78818d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3dee2348c9f128f22f177229f57ca9bfc459a22"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch decisions",
+      "path": "20191017 Language.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-18T08:17:31Z",
+      "lastCommit": "2019-12-07T09:42:16Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3dee2348c9f128f22f177229f57ca9bfc459a22"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "22c0077fa52293b08e603750d413420981170b44",
+            "1f7f1186f991bd3513e68e17534f711a3b4fb995"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch decisions",
+      "path": "20191123 tech revisit.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-07T09:15:24Z",
+      "lastCommit": "2020-01-22T12:43:32Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2303db576fd7ff775de461810a87744aac6454b9",
+            "eb891ac22f407a82aea46c3c2c59b26a2cbdd6ed",
+            "f3dee2348c9f128f22f177229f57ca9bfc459a22",
+            "be7aaffd006719da98b6ffbf5dbcb076adf906b3",
+            "4d055825b83dbfebb5795de736d47da7de4b5400",
+            "81677762e65e9c257c6f89a802247021e1e817bd",
+            "f8e3e805d9a2223a6d3b3b40c6ee195fb7062aad"
+          ],
+          "numberOfCommits": 7
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "95b6985316555ab5a51f481592e4146764126c25"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch decisions",
+      "path": "20191028 api spec.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-02T10:07:40Z",
+      "lastCommit": "2019-12-07T09:42:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3303c85f7e02883ca6883be09ba78507b903dae1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3dee2348c9f128f22f177229f57ca9bfc459a22"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch decisions",
+      "path": "20191111 electron builder.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-10T11:33:13Z",
+      "lastCommit": "2019-12-07T09:42:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3dee2348c9f128f22f177229f57ca9bfc459a22"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "febf727ea39bb17bfac08911a13f02251c9ecf0f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch decisions",
+      "path": "20191019 GUI lib.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-26T06:53:56Z",
+      "lastCommit": "2019-12-07T09:42:16Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25741361edbaa38a7f95d6049348b8a1ce78818d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3dee2348c9f128f22f177229f57ca9bfc459a22"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f7f1186f991bd3513e68e17534f711a3b4fb995"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-18T08:17:31Z",
+  "lastAdrCommit": "2021-10-07T13:23:33Z",
+  "firstCommit": "2019-10-16T05:21:57Z",
+  "lastCommit": "2021-10-07T13:23:33Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3303c85f7e02883ca6883be09ba78507b903dae1",
+        "25741361edbaa38a7f95d6049348b8a1ce78818d"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2303db576fd7ff775de461810a87744aac6454b9",
+        "eb891ac22f407a82aea46c3c2c59b26a2cbdd6ed",
+        "f3dee2348c9f128f22f177229f57ca9bfc459a22",
+        "be7aaffd006719da98b6ffbf5dbcb076adf906b3",
+        "4d055825b83dbfebb5795de736d47da7de4b5400",
+        "81677762e65e9c257c6f89a802247021e1e817bd",
+        "f8e3e805d9a2223a6d3b3b40c6ee195fb7062aad"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7119d10f566831f2aaad27fd2e9942d6d982e0f7",
+        "febf727ea39bb17bfac08911a13f02251c9ecf0f",
+        "95b6985316555ab5a51f481592e4146764126c25",
+        "22c0077fa52293b08e603750d413420981170b44",
+        "1f7f1186f991bd3513e68e17534f711a3b4fb995"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

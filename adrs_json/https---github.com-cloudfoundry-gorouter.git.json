@@ -1,0 +1,75 @@
+{
+  "repositoryUrl": "https://github.com/cloudfoundry/gorouter.git",
+  "crawlDateTime": "2022-01-18T22:56:03.359204",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0002-change-tls-route-pruning-behavior.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-14T00:14:00Z",
+      "lastCommit": "2018-09-14T00:14:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "19a2e2aae95a39f23db37493bf630e3d6aeaede0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-12T21:00:47Z",
+      "lastCommit": "2018-09-12T21:00:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "924bd7c2a55bdb0d3636bed08a9116aabfaf00f1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-12T21:00:47Z",
+  "lastAdrCommit": "2018-09-14T00:14:00Z",
+  "firstCommit": "2012-08-23T13:18:42Z",
+  "lastCommit": "2022-01-14T21:04:19Z",
+  "adrDirFile": {
+    "fileContent": "docs/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "924bd7c2a55bdb0d3636bed08a9116aabfaf00f1"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "19a2e2aae95a39f23db37493bf630e3d6aeaede0"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

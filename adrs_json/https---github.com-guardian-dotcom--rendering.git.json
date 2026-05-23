@@ -1,0 +1,948 @@
+{
+  "repositoryUrl": "https://github.com/guardian/dotcom-rendering.git",
+  "crawlDateTime": "2022-01-18T23:04:11.122749",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "dotcom-rendering/docs/architecture"
+  ],
+  "numAdrFiles": 34,
+  "adrFiles": [
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "3rd party technical review/000-technical-review-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "3rd party technical review/002-ipsos-mori.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "3rd party technical review/003-gracenote.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "3rd party technical review/001-modi-poc.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "005-monorepo.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "000-architecture-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "012-amp.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "002-componentisation.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "024-script-loading.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "009-static-types.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "019-remove-monorepo.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "004-emotion.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "014-testing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "025-click-to-view.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "017-javascript-loading.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "027-pictures.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-29T09:57:49Z",
+      "lastCommit": "2021-12-09T12:06:15Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "61fe36a5b75ea7374ee0da17b05a7ba96c1e2fa4",
+            "2059d7f05117f41aa10b814fe79162438bea4eca",
+            "d7921a458446a455278db137c72eb0a9bfe691ba",
+            "ca2f82f79bfdb50b8ab6863d6bd5823a0a63ab7f",
+            "b883d762a99b9c993dce4048023a11d929e700b0"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "021-react-portals.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "001-dotcom-rendering.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "027-better-partial-hydration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-15T08:46:03Z",
+      "lastCommit": "2021-12-23T09:29:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "843b561012680eb399f46ad3389eaaffa4d78cb5",
+            "212633b3db6fe5679622a17563cab3af1feb21a6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "020-react-hooks.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "amp/000-structure-for-initial-milestone.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "023-dynamic-imports.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "016-client-side-computation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "006-multiple-sites.md",
+      "template": "Nygard",
+      "status": "Superseded by [007-multiple-sites-revisited.md](007-multiple-sites-revisited.md).",
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "007-support-for-frontend-only.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "026-interactive-pressing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-07T09:45:03Z",
+      "lastCommit": "2021-10-07T09:45:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7529ab60b5b7d7aaa64ed6ed256f8eaf4224cc74"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "011-capi-elements-as-components.md",
+      "template": "Nygard",
+      "status": "Adopted.",
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "013-new-elements-models-in-frontend.md",
+      "template": "Nygard",
+      "status": "Approved/Merged",
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "008-css-in-js.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "010-storybook.md",
+      "template": "Nygard",
+      "status": "Proposed _People are generally in favour, but there doesn't seem like an obvious time to implement it. This should be revisted before we have too many elements._",
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "018-react-context-api.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "022-NoJS-navigation-and-accessibility.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "003-react.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "dotcom-rendering/docs/architecture",
+      "path": "020-react-to-preact.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-17T09:46:02Z",
+      "lastCommit": "2021-08-17T10:02:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "150fc2d81e6a66d9c3336185e874fc8cd0288546"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e503b1ee43153bcbf40de1f37a808e70c7bdf767"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-08-17T09:46:02Z",
+  "lastAdrCommit": "2021-12-23T09:29:12Z",
+  "firstCommit": "2017-10-16T10:13:33Z",
+  "lastCommit": "2022-01-18T16:52:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7529ab60b5b7d7aaa64ed6ed256f8eaf4224cc74"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "61fe36a5b75ea7374ee0da17b05a7ba96c1e2fa4",
+        "2059d7f05117f41aa10b814fe79162438bea4eca",
+        "150fc2d81e6a66d9c3336185e874fc8cd0288546",
+        "d7921a458446a455278db137c72eb0a9bfe691ba",
+        "ca2f82f79bfdb50b8ab6863d6bd5823a0a63ab7f",
+        "b883d762a99b9c993dce4048023a11d929e700b0"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "843b561012680eb399f46ad3389eaaffa4d78cb5",
+        "e503b1ee43153bcbf40de1f37a808e70c7bdf767",
+        "212633b3db6fe5679622a17563cab3af1feb21a6"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

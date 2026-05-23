@@ -1,0 +1,86 @@
+{
+  "repositoryUrl": "https://github.com/vibes/push-sdk-ios.git",
+  "crawlDateTime": "2022-01-18T20:08:53.997718",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-test-network-stack-via-injected-protocols.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-10-04T14:50:06Z",
+      "lastCommit": "2021-10-04T14:50:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "22afd20cb25e880a15350a15525f0f278781f1f5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-avoid-runtime-dependencies.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-10-04T14:50:06Z",
+      "lastCommit": "2021-10-04T14:50:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "22afd20cb25e880a15350a15525f0f278781f1f5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-10-04T14:50:06Z",
+      "lastCommit": "2021-10-04T14:50:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "22afd20cb25e880a15350a15525f0f278781f1f5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-10-04T14:50:06Z",
+  "lastAdrCommit": "2021-10-04T14:50:06Z",
+  "firstCommit": "2021-10-04T14:50:06Z",
+  "lastCommit": "2021-10-04T15:48:23Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "22afd20cb25e880a15350a15525f0f278781f1f5"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

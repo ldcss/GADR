@@ -1,0 +1,66 @@
+{
+  "repositoryUrl": "https://github.com/ADDC-IAAS-prototyping/adr-generation-tool.git",
+  "crawlDateTime": "2022-01-18T19:06:07.137725",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "service-mesh-patterns/doc/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "service-mesh-patterns/doc/architecture/decisions",
+      "path": "rate_limit_adr_0001.md",
+      "template": "Nygard",
+      "status": "None",
+      "firstCommit": "2019-09-18T16:54:55Z",
+      "lastCommit": "2019-09-26T14:24:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aca5079cb3a8e903514f6cb8b5aaaec4b13ca9",
+            "720b80dde2bcc448d08edd8745b11a389b3f8f2c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "service-mesh-patterns/doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-18T16:54:55Z",
+      "lastCommit": "2019-09-18T16:54:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aca5079cb3a8e903514f6cb8b5aaaec4b13ca9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-09-18T16:54:55Z",
+  "lastAdrCommit": "2019-09-26T14:24:07Z",
+  "firstCommit": "2019-08-16T19:39:58Z",
+  "lastCommit": "2021-08-09T20:49:53Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b7aca5079cb3a8e903514f6cb8b5aaaec4b13ca9",
+        "720b80dde2bcc448d08edd8745b11a389b3f8f2c"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

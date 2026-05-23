@@ -1,0 +1,10 @@
+# [ADR-002] Asynchronous Event Processing and Predictive Caching
+- **Status**: Accepted
+- **Context**: The system is bound by a strict Service Level Agreement (SLA): it must authenticate a user, load their workout, and display the session in under 3 seconds. Concurrently, gym equipment acts as continuous sensor nodes, streaming execution events. Handling sensor ingestion synchronously on the main thread will block user identification and violate the latency SLA during peak hours.
+- **Decision**: Implement BullMQ backed by AWS ElastiCache (Redis) to serve both as a message broker for asynchronous event processing and as a predictive caching layer. Event ingestion will be decoupled using dedicated queues isolated per gym facility.
+- **Considered Options**:
+  - *Option 1: Synchronous API processing for sensor events.* Rejected because processing heavy telemetry data synchronously alongside authentication requests will inevitably cause database deadlocks and system timeouts, failing the 3-second response requirement.
+  - *Option 2: Independent queuing and caching technologies (e.g., SQS/RabbitMQ for queues, Memcached for cache).* Rejected because consolidating both the message broker (BullMQ) and the cache onto a single high-performance Redis cluster (AWS ElastiCache) significantly reduces infrastructure complexity and operational overhead.
+- **Consequences**:
+  - *Pros:* Strictly decouples high-volume sensor ingestion from latency-sensitive user authentication flows. Allows for predictive caching of workout data (e.g., caching users' profiles based on historical attendance patterns). Isolating queues per gym prevents noisy-neighbor bottlenecks.
+  - *Cons:* Introduces eventual consistency into the telemetry data pipeline. Requires careful configuration of BullMQ workers (worker-to-CPU ratio) to ensure queues do not back up during extreme peak usage, adding complexity to the application layer.

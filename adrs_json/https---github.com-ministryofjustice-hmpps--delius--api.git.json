@@ -1,0 +1,244 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/hmpps-delius-api.git",
+  "crawlDateTime": "2022-01-18T18:33:32.247949",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-be-specific-in-community-api-and-general-in-delius-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-05T12:06:13Z",
+      "lastCommit": "2021-03-05T12:06:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7068c43a690c6090aadee0e710e90ea0b7775ece"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-follow-gds-and-hmpps-api-standards.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-09T13:11:35Z",
+      "lastCommit": "2021-04-09T13:11:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6f9e4d41651e2f3fe64527f91f83dd95b54dc909"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-copy-ndelius-application-logic.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-03T17:34:14Z",
+      "lastCommit": "2021-02-04T11:41:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4efed4d6939d894d99b4acf056213d44767c67c4",
+            "5a414998e0034b7183bf4d77c6d9abb1efcef17a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-use-digital-studio-standard-technologies-where-possible.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-10T12:56:17Z",
+      "lastCommit": "2021-02-10T12:56:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4d6c333374dbd01ac694188b5dabd256600a5ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-ensure-consistent-urls.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-11-10T14:47:53Z",
+      "lastCommit": "2021-11-10T14:47:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f6520603b0b4a4bdc52b5d2759c91673dd34a8f1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-authenticate-using-oauth2-client-credentials-grant.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-26T17:01:52Z",
+      "lastCommit": "2021-03-02T12:00:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c690766e8516a5b481450b21e706ede2fa13b63a",
+            "75889cbde0b560b327cd3dc33541f292b4408ca8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-existing-ndelius-aws-infrastructure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-01T14:29:21Z",
+      "lastCommit": "2021-02-01T14:29:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "db42652197fe8bcf1c0d40799267c4e56852a07e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-create-generic-rather-than-application-specific-endpoints.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-01T17:38:24Z",
+      "lastCommit": "2021-02-01T17:38:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6b097120380ac3d124932d8feec829dbc69ce06b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-01T14:29:21Z",
+      "lastCommit": "2021-02-01T14:29:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "db42652197fe8bcf1c0d40799267c4e56852a07e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-use-delius-authorisation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-26T17:01:52Z",
+      "lastCommit": "2022-01-14T09:37:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14fbe4a5866481f8a44dc17b495d70a6db2ba9d1",
+            "3c8455a0fca7f3984130b72ab3651e58331dec12"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-02-01T14:29:21Z",
+  "lastAdrCommit": "2022-01-14T09:37:49Z",
+  "firstCommit": "2021-02-01T11:48:53Z",
+  "lastCommit": "2022-01-18T13:50:13Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4efed4d6939d894d99b4acf056213d44767c67c4",
+        "c690766e8516a5b481450b21e706ede2fa13b63a",
+        "6b097120380ac3d124932d8feec829dbc69ce06b",
+        "5a414998e0034b7183bf4d77c6d9abb1efcef17a",
+        "a4d6c333374dbd01ac694188b5dabd256600a5ed",
+        "db42652197fe8bcf1c0d40799267c4e56852a07e",
+        "75889cbde0b560b327cd3dc33541f292b4408ca8"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "14fbe4a5866481f8a44dc17b495d70a6db2ba9d1",
+        "3c8455a0fca7f3984130b72ab3651e58331dec12"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6f9e4d41651e2f3fe64527f91f83dd95b54dc909",
+        "7068c43a690c6090aadee0e710e90ea0b7775ece",
+        "f6520603b0b4a4bdc52b5d2759c91673dd34a8f1"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

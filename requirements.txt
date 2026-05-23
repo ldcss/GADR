@@ -1,0 +1,6 @@
+langchain_tavily
+langchain_text_splitters
+google-genai
+chromadb
+langgraph
+python-dotenv

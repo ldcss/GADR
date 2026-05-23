@@ -1,0 +1,69 @@
+{
+  "repositoryUrl": "https://github.com/contently/html-diff-service.git",
+  "crawlDateTime": "2022-01-18T23:09:41.623356",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-implement-using-spring-boot.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-23T15:57:56Z",
+      "lastCommit": "2018-12-17T15:31:28Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56cf4a0cf8418c310161a862d2fffa005818b898",
+            "acdf15b532e8d4c4ec71d56494eeb3dee13703e5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-23T15:57:56Z",
+      "lastCommit": "2018-10-23T15:57:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "acdf15b532e8d4c4ec71d56494eeb3dee13703e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-10-23T15:57:56Z",
+  "lastAdrCommit": "2018-12-17T15:31:28Z",
+  "firstCommit": "2018-07-01T15:59:25Z",
+  "lastCommit": "2019-12-06T10:27:52Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "56cf4a0cf8418c310161a862d2fffa005818b898",
+        "acdf15b532e8d4c4ec71d56494eeb3dee13703e5"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

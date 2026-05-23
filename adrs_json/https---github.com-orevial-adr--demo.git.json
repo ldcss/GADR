@@ -1,0 +1,126 @@
+{
+  "repositoryUrl": "https://github.com/orevial/adr-demo.git",
+  "crawlDateTime": "2022-01-18T18:50:14.190202",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-use-gcs-as-storage-backend/0005-use-gcs-as-storage-backend.md",
+      "template": "Nygard",
+      "status": "Accepted (Supersedes [ADR-0003](../0003-use-cassandra-as-storage-backend/0003-use-cassandra-as-storage-backend.md))",
+      "firstCommit": "2018-12-27T16:42:02Z",
+      "lastCommit": "2018-12-27T16:42:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ab9c53d28ada49372aa323dc67bd9333c3acb45"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-elastic-search-for-image-search/0004-use-elastic-search-for-image-search.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-27T14:46:15Z",
+      "lastCommit": "2018-12-27T14:46:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0f7c4a9ecf35a485ac21d24db41f4187d7858633"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-microservices-architecture/0002-use-microservices-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-27T13:28:44Z",
+      "lastCommit": "2018-12-27T13:28:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "833ce66ea2de9b7af4b4e243f46dc562bbc5e9be"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-cassandra-as-storage-backend/0003-use-cassandra-as-storage-backend.md",
+      "template": "Nygard",
+      "status": "Accepted (Superseded by [ADR-0005](../0005-use-gcs-as-storage-backend/0005-use-gcs-as-storage-backend.md))",
+      "firstCommit": "2018-12-27T14:34:27Z",
+      "lastCommit": "2018-12-27T16:42:02Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ab9c53d28ada49372aa323dc67bd9333c3acb45",
+            "361d448ae9ced550f0cb5ce0a8f6c9dff1eee624"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions/0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-27T10:17:06Z",
+      "lastCommit": "2018-12-27T10:17:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "349f0a889e0b53188edd4c15712f96cdc75a2a0b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-12-27T10:17:06Z",
+  "lastAdrCommit": "2018-12-27T16:42:02Z",
+  "firstCommit": "2018-12-27T08:42:09Z",
+  "lastCommit": "2018-12-27T16:42:02Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9ab9c53d28ada49372aa323dc67bd9333c3acb45",
+        "0f7c4a9ecf35a485ac21d24db41f4187d7858633",
+        "833ce66ea2de9b7af4b4e243f46dc562bbc5e9be",
+        "361d448ae9ced550f0cb5ce0a8f6c9dff1eee624",
+        "349f0a889e0b53188edd4c15712f96cdc75a2a0b"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "repositoryUrl": "https://github.com/adoble/semplate.git",
+  "crawlDateTime": "2022-01-18T20:42:51.41175",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2021-03-05T16:10:57Z",
+      "lastCommit": "2021-03-05T16:10:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8249e5a15b1913033575af1c32905bb23f072f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-components.md",
+      "template": "Madr",
+      "status": "Rejected",
+      "firstCommit": "2021-03-05T16:10:57Z",
+      "lastCommit": "2021-04-30T13:12:02Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f112b9205574f826d4e98daa8be9e5c63db89ffb",
+            "f8249e5a15b1913033575af1c32905bb23f072f7",
+            "dc25f1a6dba87f7cd55aa127caa06204610f6f7b"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-not-to-use-semantic-triples.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2021-03-05T16:10:57Z",
+      "lastCommit": "2021-03-05T16:10:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8249e5a15b1913033575af1c32905bb23f072f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-representation-of-semantic-metadata-in-markdown-documents.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2021-03-05T16:10:57Z",
+      "lastCommit": "2021-03-05T16:10:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8249e5a15b1913033575af1c32905bb23f072f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-fluid-interface.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2021-04-24T16:13:24Z",
+      "lastCommit": "2021-04-24T16:13:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f112b9205574f826d4e98daa8be9e5c63db89ffb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-agnostic-as-to-markdown-type.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2021-03-05T16:10:57Z",
+      "lastCommit": "2021-03-05T16:10:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8249e5a15b1913033575af1c32905bb23f072f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-type-representation-in-markdown-documents.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2021-03-05T16:10:57Z",
+      "lastCommit": "2021-03-05T16:10:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8249e5a15b1913033575af1c32905bb23f072f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-supports-a-limited-number-of-java-data-types.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2021-03-05T16:10:57Z",
+      "lastCommit": "2021-03-05T16:10:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8249e5a15b1913033575af1c32905bb23f072f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-easily-integrated-with-java-projects.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2021-03-05T16:10:57Z",
+      "lastCommit": "2021-03-05T16:10:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8249e5a15b1913033575af1c32905bb23f072f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-03-05T16:10:57Z",
+  "lastAdrCommit": "2021-04-30T13:12:02Z",
+  "firstCommit": "2020-03-25T11:59:07Z",
+  "lastCommit": "2021-06-30T14:19:39Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f112b9205574f826d4e98daa8be9e5c63db89ffb",
+        "f8249e5a15b1913033575af1c32905bb23f072f7",
+        "dc25f1a6dba87f7cd55aa127caa06204610f6f7b"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

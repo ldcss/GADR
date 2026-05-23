@@ -1,0 +1,286 @@
+{
+  "repositoryUrl": "https://github.com/bbc/react-transcript-editor.git",
+  "crawlDateTime": "2022-01-18T20:04:52.026051",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "2018-10-01-timed-editor-choice.md",
+      "template": "Madr",
+      "status": "**accepted** <!-- optional -->",
+      "firstCommit": "2018-11-06T14:13:01Z",
+      "lastCommit": "2018-12-10T12:22:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "465aee9c9d23b06b169f8dc2f818066c752e65da"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "50f2988afacc010939f5f59b56681df80f3aa4e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "2018-10-05-component-development-setup.md",
+      "template": "Madr",
+      "status": "**accepted** <!-- optional -->",
+      "firstCommit": "2018-11-06T14:13:01Z",
+      "lastCommit": "2018-11-06T14:13:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "465aee9c9d23b06b169f8dc2f818066c752e65da"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "2018-10-05-components-comunication.md",
+      "template": "Madr",
+      "status": "being evaluated <!-- optional -->",
+      "firstCommit": "2018-11-06T14:13:01Z",
+      "lastCommit": "2018-11-06T14:13:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "465aee9c9d23b06b169f8dc2f818066c752e65da"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "2018-10-02-css-setup.md",
+      "template": "Madr",
+      "status": "**accepted** <!-- optional -->",
+      "firstCommit": "2018-11-06T14:13:01Z",
+      "lastCommit": "2018-11-06T14:13:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "465aee9c9d23b06b169f8dc2f818066c752e65da"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "2018-01-24-frequency-of-local-storage-save.md",
+      "template": "Madr",
+      "status": "**accepted** <!-- optional -->",
+      "firstCommit": "2019-01-24T00:16:29Z",
+      "lastCommit": "2019-01-24T00:16:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd3d6f4e1b0d9c3fed41b0b06ed7bab6a62029db"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "2018-10-12-keyboard-shortcuts-in-react-notes.md",
+      "template": "Madr",
+      "status": "being evaluated <!-- optional -->",
+      "firstCommit": "2018-11-12T14:04:31Z",
+      "lastCommit": "2018-11-12T14:04:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e11a47104e8d6858facbe5bf65dec918b117537c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "2018-11-20-save-to-server.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2018-11-20T14:47:43Z",
+      "lastCommit": "2018-12-12T10:50:25Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "073bb6bcdb860cb33b89a249c057671c63df3183",
+            "395fda2ab0d546795eddbf8524a5fbef0309e50a"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6f37cf27e3c9dafb669e7d5e212443f2e132ee3c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "2018-12-06-analytics.md",
+      "template": "Madr",
+      "status": "being evaluated",
+      "firstCommit": "2019-01-03T10:08:36Z",
+      "lastCommit": "2019-01-03T13:26:35Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51a6f3cae0d2b836aa6a00712a7fd3e3a1089a12",
+            "8bb755579fac6eb168cc6081ba958830df435337",
+            "9525a74da5805876a8f9c703e265d2d9658dab5c"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "2018-12-10-re-aligning-timed-text.md",
+      "template": "Madr",
+      "status": "being evaluated",
+      "firstCommit": "2018-12-12T10:52:02Z",
+      "lastCommit": "2018-12-12T10:52:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c47babc97330bfa45c1642eff66da793d4001237"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "2018-11-20-local-storage-save.md",
+      "template": "Madr",
+      "status": "being evaluated",
+      "firstCommit": "2018-11-20T14:47:43Z",
+      "lastCommit": "2018-11-20T16:13:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "073bb6bcdb860cb33b89a249c057671c63df3183"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6f37cf27e3c9dafb669e7d5e212443f2e132ee3c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "2018-10-02-component-fonts.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-11-06T14:13:01Z",
+      "lastCommit": "2018-11-06T14:13:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "465aee9c9d23b06b169f8dc2f818066c752e65da"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-11-06T14:13:01Z",
+  "lastAdrCommit": "2019-01-24T00:16:29Z",
+  "firstCommit": "2018-11-01T14:33:03Z",
+  "lastCommit": "2022-01-15T05:58:34Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "50f2988afacc010939f5f59b56681df80f3aa4e5",
+        "e11a47104e8d6858facbe5bf65dec918b117537c",
+        "51a6f3cae0d2b836aa6a00712a7fd3e3a1089a12",
+        "073bb6bcdb860cb33b89a249c057671c63df3183",
+        "8bb755579fac6eb168cc6081ba958830df435337",
+        "395fda2ab0d546795eddbf8524a5fbef0309e50a",
+        "9525a74da5805876a8f9c703e265d2d9658dab5c",
+        "c47babc97330bfa45c1642eff66da793d4001237"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "465aee9c9d23b06b169f8dc2f818066c752e65da",
+        "dd3d6f4e1b0d9c3fed41b0b06ed7bab6a62029db"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6f37cf27e3c9dafb669e7d5e212443f2e132ee3c"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

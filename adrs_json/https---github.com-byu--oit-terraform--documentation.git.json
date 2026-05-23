@@ -1,0 +1,95 @@
+{
+  "repositoryUrl": "https://github.com/byu-oit/terraform-documentation.git",
+  "crawlDateTime": "2022-01-18T23:18:02.913631",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/adr",
+      "path": "0002-pull-acs-info-out-of-modules.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-02-21T19:03:16Z",
+      "lastCommit": "2020-02-21T19:42:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd892fb43cd4be6d745fd51177bdb039eca8693e",
+            "bb85c6e45b5adba54da91649f45cce44459e0579"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/adr",
+      "path": "0001-discard-component-modules.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-02-21T17:48:26Z",
+      "lastCommit": "2020-02-21T19:55:27Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "11c7f93345df2a690c1cf1d338379ee2e7f57cb9",
+            "782e59800142cf128eedff66f0649203b4b8730d",
+            "a0843bc559d8641f9a9f8e8639bb0914e9a2ec3b",
+            "7ce2f93567df1c04cc42226f09f7f057d41b0355",
+            "a986f747c123314dffb5bb6aced5aa9b7767478e"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-02-21T16:50:20Z",
+      "lastCommit": "2020-02-21T16:50:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "249ad94a38c4062071483002b1a3df24130b98a4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-21T16:50:20Z",
+  "lastAdrCommit": "2020-02-21T19:55:27Z",
+  "firstCommit": "2020-01-16T22:11:18Z",
+  "lastCommit": "2020-04-30T23:10:47Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "dd892fb43cd4be6d745fd51177bdb039eca8693e",
+        "11c7f93345df2a690c1cf1d338379ee2e7f57cb9",
+        "249ad94a38c4062071483002b1a3df24130b98a4",
+        "782e59800142cf128eedff66f0649203b4b8730d",
+        "a0843bc559d8641f9a9f8e8639bb0914e9a2ec3b",
+        "7ce2f93567df1c04cc42226f09f7f057d41b0355",
+        "a986f747c123314dffb5bb6aced5aa9b7767478e",
+        "bb85c6e45b5adba54da91649f45cce44459e0579"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

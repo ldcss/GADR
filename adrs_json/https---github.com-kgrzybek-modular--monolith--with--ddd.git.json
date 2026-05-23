@@ -1,0 +1,388 @@
+{
+  "repositoryUrl": "https://github.com/kgrzybek/modular-monolith-with-ddd.git",
+  "crawlDateTime": "2022-01-18T19:10:17.206425",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture-decision-log"
+  ],
+  "numAdrFiles": 17,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0002-use_modular-monolith-system-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-28T23:01:30Z",
+      "lastCommit": "2019-10-28T23:01:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "326841c18bfb4f836c3bb9e93f56f87b17c03271"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0011-create-rich-domain-models.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-09T21:17:02Z",
+      "lastCommit": "2019-11-09T21:17:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adb6d9844ccd2f7f8e4772bce84f4aabfbfe4cf8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0013-protect-business-invariants-using-exceptions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-09T21:17:02Z",
+      "lastCommit": "2019-11-09T21:17:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adb6d9844ccd2f7f8e4772bce84f4aabfbfe4cf8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0014-event-driven-communication-between-modules.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-09T21:17:02Z",
+      "lastCommit": "2019-11-09T21:17:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adb6d9844ccd2f7f8e4772bce84f4aabfbfe4cf8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0008-allow-return-result-after-command-processing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-09T21:17:02Z",
+      "lastCommit": "2019-11-09T21:17:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adb6d9844ccd2f7f8e4772bce84f4aabfbfe4cf8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0007-use-cqrs-architectural-style.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-09T21:17:02Z",
+      "lastCommit": "2019-11-09T21:17:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adb6d9844ccd2f7f8e4772bce84f4aabfbfe4cf8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0016-create-ioc-container-per-module.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-09T21:17:02Z",
+      "lastCommit": "2019-11-24T22:07:17Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "15190e51027f361de70a65762a91ff460f78f1fa",
+            "adb6d9844ccd2f7f8e4772bce84f4aabfbfe4cf8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0009-use-2-layered-architectural-style-for-reads.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-09T21:17:02Z",
+      "lastCommit": "2019-11-09T21:17:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adb6d9844ccd2f7f8e4772bce84f4aabfbfe4cf8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0010-use-clean-architecture-for-writes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-09T21:17:02Z",
+      "lastCommit": "2019-12-13T23:20:43Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de6e0b5bb4a70a0b3fde48de1b5df6e6490aa1ea"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adb6d9844ccd2f7f8e4772bce84f4aabfbfe4cf8",
+            "bc0f6c64f3bebe6d2b91ca3e5d4a6416e85b1ff2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0012-use-domain-driven-design-tactical-patterns.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-09T21:17:02Z",
+      "lastCommit": "2019-11-09T21:17:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adb6d9844ccd2f7f8e4772bce84f4aabfbfe4cf8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0006-create-facade-between-api-and-business-module.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-09T21:17:02Z",
+      "lastCommit": "2019-11-09T21:17:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adb6d9844ccd2f7f8e4772bce84f4aabfbfe4cf8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0003-use_dotnetcore_and_csharp.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-28T23:01:30Z",
+      "lastCommit": "2019-11-02T20:52:46Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f8c8f3aaa54bca06bdb0830356557911a48cbc44"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "326841c18bfb4f836c3bb9e93f56f87b17c03271",
+            "6778fdd14430dc54d9e407a38223527583fac974"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0015-use-in-memory-events-bus.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-09T21:17:02Z",
+      "lastCommit": "2019-11-09T21:17:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adb6d9844ccd2f7f8e4772bce84f4aabfbfe4cf8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0017-implement-archictecture-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-24T22:07:17Z",
+      "lastCommit": "2019-11-24T22:07:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "15190e51027f361de70a65762a91ff460f78f1fa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0004-divide-the-system-into-4-modules.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-02T20:52:46Z",
+      "lastCommit": "2019-11-02T20:52:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6778fdd14430dc54d9e407a38223527583fac974"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0005-create-one-rest-api-module.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-09T21:17:02Z",
+      "lastCommit": "2019-11-09T21:17:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "adb6d9844ccd2f7f8e4772bce84f4aabfbfe4cf8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decision-log",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-28T23:01:30Z",
+      "lastCommit": "2019-10-28T23:01:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "326841c18bfb4f836c3bb9e93f56f87b17c03271"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-28T23:01:30Z",
+  "lastAdrCommit": "2019-12-13T23:20:43Z",
+  "firstCommit": "2019-08-23T00:12:03Z",
+  "lastCommit": "2021-06-15T20:26:44Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "de6e0b5bb4a70a0b3fde48de1b5df6e6490aa1ea"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f8c8f3aaa54bca06bdb0830356557911a48cbc44"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "326841c18bfb4f836c3bb9e93f56f87b17c03271",
+        "15190e51027f361de70a65762a91ff460f78f1fa",
+        "6778fdd14430dc54d9e407a38223527583fac974",
+        "adb6d9844ccd2f7f8e4772bce84f4aabfbfe4cf8",
+        "bc0f6c64f3bebe6d2b91ca3e5d4a6416e85b1ff2"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

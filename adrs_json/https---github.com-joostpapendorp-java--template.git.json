@@ -1,0 +1,109 @@
+{
+  "repositoryUrl": "https://github.com/joostpapendorp/java-template.git",
+  "crawlDateTime": "2022-01-18T20:04:59.469712",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-05-20T12:02:24Z",
+      "lastCommit": "2020-05-28T20:10:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7c7e6dffc455983df158d319228f292b45124e9f",
+            "d6d9ff41289cdb73a4b7d86933547395ead5e683"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-hexagonal-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-20T12:17:25Z",
+      "lastCommit": "2020-05-20T12:17:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ac08e921fb246a52ef2c528150c86c20d1a60556"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-git-branching-model.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-20T12:19:23Z",
+      "lastCommit": "2020-05-21T11:54:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d32e4583927f93075d7679a36358cf37f493bbf9",
+            "989439f711b0c0e295ba5953b75a45aa970d9df5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-test-driven-development.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-20T12:09:33Z",
+      "lastCommit": "2020-05-20T12:09:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c00d01cbae0e9bbacde7534e2a3007137bff0f77"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-20T12:02:24Z",
+  "lastAdrCommit": "2020-05-28T20:10:47Z",
+  "firstCommit": "2014-12-24T13:12:59Z",
+  "lastCommit": "2022-01-04T16:43:48Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7c7e6dffc455983df158d319228f292b45124e9f",
+        "ac08e921fb246a52ef2c528150c86c20d1a60556",
+        "d32e4583927f93075d7679a36358cf37f493bbf9",
+        "989439f711b0c0e295ba5953b75a45aa970d9df5",
+        "d6d9ff41289cdb73a4b7d86933547395ead5e683",
+        "c00d01cbae0e9bbacde7534e2a3007137bff0f77"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

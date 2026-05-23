@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/antonvolkoff/kosmos.git",
+  "crawlDateTime": "2022-01-18T20:54:55.661821",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-app-db.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-14T09:24:50Z",
+      "lastCommit": "2020-10-14T09:24:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2dc88ed7601b4109667d99ed825dd1cd009293ee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-14T09:24:50Z",
+  "lastAdrCommit": "2020-10-14T09:24:50Z",
+  "firstCommit": "2020-03-29T13:46:31Z",
+  "lastCommit": "2021-12-09T02:03:07Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2dc88ed7601b4109667d99ed825dd1cd009293ee"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

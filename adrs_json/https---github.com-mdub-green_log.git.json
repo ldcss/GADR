@@ -1,0 +1,150 @@
+{
+  "repositoryUrl": "https://github.com/mdub/green_log.git",
+  "crawlDateTime": "2022-01-18T20:42:33.642269",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-lock-free-io.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-23T20:20:13Z",
+      "lastCommit": "2019-12-23T20:20:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "726b9469944d2137da903aaba52e83236cdebd25"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-stacked-handlers-to-solve-many-problems.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-19T06:28:28Z",
+      "lastCommit": "2019-12-19T06:51:22Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "21fb88082c4d6577f6eb2e32dc7744a9514db0f8",
+            "76f2806c175e8f9c17c5c20fef7eaeb3c9720a4f",
+            "1fcac61269e1778d5a2cef99ea2bc79fcc8f7600"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-restrict-data-types-allowable-in-log-entries.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-21T11:00:25Z",
+      "lastCommit": "2019-12-21T11:00:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1bb0eca3472c5df6a84c2cbaac37afa7fcde655d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-avoid-global-configuration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-18T06:37:15Z",
+      "lastCommit": "2019-12-18T06:37:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76f4d87d70e4ca87592099cc0f2716c5b32b04d4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-decouple-generation-and-handling.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-19T06:28:18Z",
+      "lastCommit": "2019-12-19T06:51:22Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "21fb88082c4d6577f6eb2e32dc7744a9514db0f8",
+            "2d8c5e5c09116a1c4764027be41a86703f768356"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-18T06:08:50Z",
+      "lastCommit": "2019-12-18T06:08:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d2a8e0a8e0a28174c5f325613b771df5fae18dce"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-12-18T06:08:50Z",
+  "lastAdrCommit": "2019-12-23T20:20:13Z",
+  "firstCommit": "2019-12-12T04:09:34Z",
+  "lastCommit": "2020-06-25T09:47:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "726b9469944d2137da903aaba52e83236cdebd25",
+        "76f4d87d70e4ca87592099cc0f2716c5b32b04d4",
+        "1bb0eca3472c5df6a84c2cbaac37afa7fcde655d",
+        "21fb88082c4d6577f6eb2e32dc7744a9514db0f8",
+        "76f2806c175e8f9c17c5c20fef7eaeb3c9720a4f",
+        "1fcac61269e1778d5a2cef99ea2bc79fcc8f7600",
+        "d2a8e0a8e0a28174c5f325613b771df5fae18dce",
+        "2d8c5e5c09116a1c4764027be41a86703f768356"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

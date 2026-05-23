@@ -1,0 +1,163 @@
+{
+  "repositoryUrl": "https://github.com/ec-europa/europa-component-library.git",
+  "crawlDateTime": "2022-01-18T20:15:28.859983",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decisions"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "002-browsers.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-08-06T12:47:13Z",
+      "lastCommit": "2019-08-06T12:47:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7634ff215cd59e9d6a48c33081a16794aaefc643"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "001-print.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-29T09:36:03Z",
+      "lastCommit": "2019-04-30T07:12:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4eba13a1490bc869cc99ad8e42d1c71078b839fd",
+            "1a0530878b7674566d66813ddb517d857b8d9b1a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "006-html-tag-style.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-26T12:29:22Z",
+      "lastCommit": "2021-05-26T12:29:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a550c0ac942627bca91408b647e9f0cde6ebb348"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "005-themes.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-19T08:25:01Z",
+      "lastCommit": "2020-10-26T08:10:18Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ac49f8cc91d59e199aa9c1636e06ff5411c1ac9f",
+            "6c1be946319bca994ff91de8d34f812536c2f7ba"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "003-editor.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-18T10:40:57Z",
+      "lastCommit": "2019-11-18T10:40:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8b4d3c1a3e89cd45213bfc08c7c4fefa5444004c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "004-datepicker.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-23T12:34:17Z",
+      "lastCommit": "2020-01-23T12:34:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "40d6b3653f0830a74bdf46b4c0f08048a6120747"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-04-29T09:36:03Z",
+  "lastAdrCommit": "2021-05-26T12:29:22Z",
+  "firstCommit": "2017-01-30T14:58:08Z",
+  "lastCommit": "2022-01-18T17:45:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7634ff215cd59e9d6a48c33081a16794aaefc643"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ac49f8cc91d59e199aa9c1636e06ff5411c1ac9f",
+        "6c1be946319bca994ff91de8d34f812536c2f7ba"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4eba13a1490bc869cc99ad8e42d1c71078b839fd",
+        "8b4d3c1a3e89cd45213bfc08c7c4fefa5444004c",
+        "40d6b3653f0830a74bdf46b4c0f08048a6120747",
+        "a550c0ac942627bca91408b647e9f0cde6ebb348",
+        "1a0530878b7674566d66813ddb517d857b8d9b1a"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

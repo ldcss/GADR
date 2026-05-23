@@ -1,0 +1,87 @@
+{
+  "repositoryUrl": "https://github.com/hyprnz/terraform-aws-elasticsearch-module.git",
+  "crawlDateTime": "2022-01-18T21:18:35.462851",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-do-not-specify-maximum-version-constraints-for-required-providers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-21T03:40:27Z",
+      "lastCommit": "2020-12-21T03:40:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c8657c7525c3aa00e0cfe1bd46d33fe563d850d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-provisoning-service-link-role-is-outside-the-scope-of-this-module.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-07T23:54:47Z",
+      "lastCommit": "2021-01-07T23:54:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "544658b63f8cd5951deec54c4ebe786a69466775"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-21T03:40:27Z",
+      "lastCommit": "2020-12-21T03:40:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c8657c7525c3aa00e0cfe1bd46d33fe563d850d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-21T03:40:27Z",
+  "lastAdrCommit": "2021-01-07T23:54:47Z",
+  "firstCommit": "2020-12-16T02:14:49Z",
+  "lastCommit": "2021-01-26T02:48:04Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c8657c7525c3aa00e0cfe1bd46d33fe563d850d6",
+        "544658b63f8cd5951deec54c4ebe786a69466775"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

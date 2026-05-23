@@ -1,0 +1,373 @@
+{
+  "repositoryUrl": "https://github.com/Alfresco/alfresco-anaxes-shipyard.git",
+  "crawlDateTime": "2022-01-18T21:18:12.822756",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0006-helm-chart-repository.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-30T11:58:49Z",
+      "lastCommit": "2018-01-30T11:58:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ce4bf0ce3d7eb4f45475855c8b3adef5eb85cc2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0005-base-java-docker-image-composition.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-23T17:15:38Z",
+      "lastCommit": "2017-12-22T12:47:32Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "654db49c2885402ff73df137a7d999df49cf5ce0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3fa0e3de2aa43b55f86e0de582d9a9c4268e1c8a",
+            "914e554fc81545f8e612cb713a50df545c97b043",
+            "4b3bba77a5d77a3660a491116ea1d58dd230b287"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c19ffac8519b76cee6e4fb5c1d016ae9b315c91b",
+            "87c06ed23e32260c50856278e615b6263dd25d2f",
+            "8659ab66d9db2bbccb9f74f1c4b082ed4ddf1315"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f6066d6f7958d4045ea7bfad853159d6922c697"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0003-benchmark-framework-APS.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-04T11:57:50Z",
+      "lastCommit": "2017-12-22T11:13:00Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3fa0e3de2aa43b55f86e0de582d9a9c4268e1c8a",
+            "4b3bba77a5d77a3660a491116ea1d58dd230b287"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6f8893ed395f30430b168f38d586065100b98c94"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0002-docker-registry-for-internal-and-protected-images.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-29T21:29:27Z",
+      "lastCommit": "2017-12-22T11:13:00Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3fa0e3de2aa43b55f86e0de582d9a9c4268e1c8a",
+            "4b3bba77a5d77a3660a491116ea1d58dd230b287"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3c6b26088901b75bc7013b93a63207cc84a34d0",
+            "6f95dec709d24366f16783c924433ad7c3d64b23",
+            "7bb3c7e4a7a1e5750d48ca3b1f70dfdac47bc358",
+            "efa6fc5de5bbfbc09ab8e195f4273169383c1a34",
+            "b9f328b24cdd110a9b1240c1c23a774e5e3f4a2c"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0007-naming-and-versioning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-23T06:04:46Z",
+      "lastCommit": "2018-01-30T11:58:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b60ea761530bf815ada4c0d8ea1918fb0365f07d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ce4bf0ce3d7eb4f45475855c8b3adef5eb85cc2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0010-managing-secrets-used-by-dbp.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-06T08:48:17Z",
+      "lastCommit": "2018-06-06T08:48:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7bb5e769ef640388f0ef861a2b8b8299b36fb0b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0009-using-one-db-per-service.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-23T06:04:46Z",
+      "lastCommit": "2018-01-30T11:58:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b60ea761530bf815ada4c0d8ea1918fb0365f07d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ce4bf0ce3d7eb4f45475855c8b3adef5eb85cc2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0008-applying-extensions-to-docker-images.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-23T06:04:46Z",
+      "lastCommit": "2018-01-30T11:58:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b60ea761530bf815ada4c0d8ea1918fb0365f07d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ce4bf0ce3d7eb4f45475855c8b3adef5eb85cc2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0004-k8s-cluster-creation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-02T18:40:41Z",
+      "lastCommit": "2017-10-04T10:52:08Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58d36ff8774fe5c2c89a94e1e7e9c3f1bd504419",
+            "52f818f1f7715cbab93eecffae0336a4f234118e",
+            "5cf34492cad1b7c8e7a008a1712030e28cc67141",
+            "55ad4729b7a72f2fd315692de5e53a2b635e3a05"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-29T19:13:41Z",
+      "lastCommit": "2017-09-29T19:13:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03bd3dcf9510266ac5c775a6c74c4ca2dad5473a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-09-29T19:13:41Z",
+  "lastAdrCommit": "2018-06-06T08:48:17Z",
+  "firstCommit": "2017-09-08T09:27:46Z",
+  "lastCommit": "2020-05-14T09:23:56Z",
+  "adrDirFile": {
+    "fileContent": "docs/adrs\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7bb5e769ef640388f0ef861a2b8b8299b36fb0b0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3fa0e3de2aa43b55f86e0de582d9a9c4268e1c8a",
+        "914e554fc81545f8e612cb713a50df545c97b043",
+        "4b3bba77a5d77a3660a491116ea1d58dd230b287"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "654db49c2885402ff73df137a7d999df49cf5ce0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b60ea761530bf815ada4c0d8ea1918fb0365f07d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c3c6b26088901b75bc7013b93a63207cc84a34d0",
+        "c19ffac8519b76cee6e4fb5c1d016ae9b315c91b",
+        "6f95dec709d24366f16783c924433ad7c3d64b23",
+        "7bb3c7e4a7a1e5750d48ca3b1f70dfdac47bc358",
+        "03bd3dcf9510266ac5c775a6c74c4ca2dad5473a",
+        "87c06ed23e32260c50856278e615b6263dd25d2f",
+        "8659ab66d9db2bbccb9f74f1c4b082ed4ddf1315",
+        "efa6fc5de5bbfbc09ab8e195f4273169383c1a34",
+        "b9f328b24cdd110a9b1240c1c23a774e5e3f4a2c"
+      ],
+      "numberOfCommits": 9
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6ce4bf0ce3d7eb4f45475855c8b3adef5eb85cc2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5f6066d6f7958d4045ea7bfad853159d6922c697"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6f8893ed395f30430b168f38d586065100b98c94"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "58d36ff8774fe5c2c89a94e1e7e9c3f1bd504419",
+        "52f818f1f7715cbab93eecffae0336a4f234118e",
+        "5cf34492cad1b7c8e7a008a1712030e28cc67141",
+        "55ad4729b7a72f2fd315692de5e53a2b635e3a05"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

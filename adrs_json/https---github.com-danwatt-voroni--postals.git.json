@@ -1,0 +1,103 @@
+{
+  "repositoryUrl": "https://github.com/danwatt/voroni-postals.git",
+  "crawlDateTime": "2022-01-18T22:20:25.46251",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-switch-to-spring-boot.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-10T02:18:48Z",
+      "lastCommit": "2020-05-10T02:18:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6140ef16d02519210906acdb7b005f850520d8d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-rest-standards.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-12T03:04:55Z",
+      "lastCommit": "2020-05-12T03:04:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b85c2db5f41778b5a37febe33c4001defaf2c19e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-rapidoid.md",
+      "template": "Nygard",
+      "status": "Superceded by [3. Switch to Spring Boot](0003-switch-to-spring-boot.md)",
+      "firstCommit": "2020-05-10T02:18:48Z",
+      "lastCommit": "2020-05-10T02:18:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6140ef16d02519210906acdb7b005f850520d8d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-10T02:18:48Z",
+      "lastCommit": "2020-05-10T02:18:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6140ef16d02519210906acdb7b005f850520d8d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-10T02:18:48Z",
+  "lastAdrCommit": "2020-05-12T03:04:55Z",
+  "firstCommit": "2016-06-11T04:56:46Z",
+  "lastCommit": "2021-07-23T11:13:25Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b85c2db5f41778b5a37febe33c4001defaf2c19e",
+        "6140ef16d02519210906acdb7b005f850520d8d6"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

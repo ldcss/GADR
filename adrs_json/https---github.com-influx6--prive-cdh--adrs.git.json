@@ -1,0 +1,260 @@
+{
+  "repositoryUrl": "https://github.com/influx6-prive/cdh-adrs.git",
+  "crawlDateTime": "2022-01-18T17:58:16.174969",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-uploaders.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-29T06:47:41Z",
+      "lastCommit": "2020-10-29T06:47:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "562e57cf9dcab43822f6b0df355bb64fc972f4a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-feed-parsers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-29T06:47:41Z",
+      "lastCommit": "2020-10-29T06:47:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "562e57cf9dcab43822f6b0df355bb64fc972f4a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0012-feed-parsing-dependencies.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-29T06:47:41Z",
+      "lastCommit": "2020-10-29T06:56:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "562e57cf9dcab43822f6b0df355bb64fc972f4a6"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f80892c1901bb5516dfe23cccd6c6dca87cdd111"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-cdh-tenants.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-29T06:47:41Z",
+      "lastCommit": "2020-10-29T06:47:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "562e57cf9dcab43822f6b0df355bb64fc972f4a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-etl_feed_synchronization_and_delivery.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-29T06:47:41Z",
+      "lastCommit": "2020-10-29T06:47:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "562e57cf9dcab43822f6b0df355bb64fc972f4a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-etl_cdh_communication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-29T06:47:41Z",
+      "lastCommit": "2020-10-29T06:47:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "562e57cf9dcab43822f6b0df355bb64fc972f4a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-etl_tenancy_relationship.md",
+      "template": "Nygard",
+      "status": "Proposing",
+      "firstCommit": "2020-10-29T06:47:41Z",
+      "lastCommit": "2020-10-29T06:47:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "562e57cf9dcab43822f6b0df355bb64fc972f4a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-pentaho.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-29T06:47:41Z",
+      "lastCommit": "2020-10-29T06:47:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "562e57cf9dcab43822f6b0df355bb64fc972f4a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-etl-monolith-migration.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-29T06:47:41Z",
+      "lastCommit": "2020-10-29T06:47:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "562e57cf9dcab43822f6b0df355bb64fc972f4a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-cdh-etl-logic-boundaries.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-29T06:47:41Z",
+      "lastCommit": "2020-10-29T06:54:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "562e57cf9dcab43822f6b0df355bb64fc972f4a6"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a243e8fb680d74dd8f394ed83dcae226e382eb0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-etl_feed_parsers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-29T06:47:41Z",
+      "lastCommit": "2020-10-29T06:47:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "562e57cf9dcab43822f6b0df355bb64fc972f4a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-29T06:47:41Z",
+  "lastAdrCommit": "2020-10-29T06:56:13Z",
+  "firstCommit": "2020-09-07T09:16:02Z",
+  "lastCommit": "2020-10-29T06:57:37Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "562e57cf9dcab43822f6b0df355bb64fc972f4a6"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f80892c1901bb5516dfe23cccd6c6dca87cdd111",
+        "4a243e8fb680d74dd8f394ed83dcae226e382eb0"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

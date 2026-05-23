@@ -1,0 +1,142 @@
+{
+  "repositoryUrl": "https://github.com/hmrc/tech-radar.git",
+  "crawlDateTime": "2022-01-18T20:23:25.280317",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decision-records"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "adr-4-structure_of_principle.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-02-21T12:35:38Z",
+      "lastCommit": "2019-03-14T14:06:34Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "049ad9692ec4b0fc3a580bdd5185f9d21106e2fd",
+            "b60e52c07463b462948f58161355fba37187d5da"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5952dea3a407d6d09af1718750ca666c348f8a97",
+            "d767d589b6e2742b957cf20ee48b11915e5f54b3",
+            "6bbf3ce023fe2c1915cc1048c83e76bb16ae5e77",
+            "961328b95fb60bcb159d1b0fe3201b662c456689",
+            "35cb14c13bfc6cb25686bdc0bcabc619b40d0c31",
+            "5485669e2875494059d61d075bd39f44e4b900bb"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "adr-1_create-hybrid-tech-radar.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2019-02-01T16:42:10Z",
+      "lastCommit": "2019-02-01T16:42:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "520c33f706a3ad2fe8819e6f3c9f617e594daf1c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "adr-3_structure_of_pattern.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-02-15T11:53:49Z",
+      "lastCommit": "2019-02-15T11:53:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "defdb5ef319cca41af626cabbb10e3a67296783e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decision-records",
+      "path": "adr-2_identify-architecture-components.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2019-02-01T17:30:58Z",
+      "lastCommit": "2019-02-01T17:32:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0b337b9804a0ca2aa5c1839074682f8613d0308c",
+            "f0e5d5f8be6c5be83b4d878d9dab5f46d3b78e20"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-01T16:42:10Z",
+  "lastAdrCommit": "2019-03-14T14:06:34Z",
+  "firstCommit": "2018-12-01T16:36:02Z",
+  "lastCommit": "2019-04-03T14:47:38Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0b337b9804a0ca2aa5c1839074682f8613d0308c",
+        "520c33f706a3ad2fe8819e6f3c9f617e594daf1c",
+        "f0e5d5f8be6c5be83b4d878d9dab5f46d3b78e20"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5952dea3a407d6d09af1718750ca666c348f8a97",
+        "d767d589b6e2742b957cf20ee48b11915e5f54b3",
+        "6bbf3ce023fe2c1915cc1048c83e76bb16ae5e77",
+        "961328b95fb60bcb159d1b0fe3201b662c456689",
+        "35cb14c13bfc6cb25686bdc0bcabc619b40d0c31",
+        "defdb5ef319cca41af626cabbb10e3a67296783e",
+        "5485669e2875494059d61d075bd39f44e4b900bb"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "049ad9692ec4b0fc3a580bdd5185f9d21106e2fd",
+        "b60e52c07463b462948f58161355fba37187d5da"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "repositoryUrl": "https://github.com/LBHackney-IT/lbh-frontend-react.git",
+  "crawlDateTime": "2022-01-18T17:50:36.130839",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-build-lbh-frontend-and-govuk-frontend-dependencies-into-the-distributables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-14T10:47:52Z",
+      "lastCommit": "2019-11-14T10:47:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "68b0ed4e0e743b87f9a6207d2c359c338260b3f3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-use-jest.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-29T13:33:05Z",
+      "lastCommit": "2019-10-29T13:33:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "995fcdb0b27816a9f97719c1736615bf27bd95ee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-build-off-lbh-frontend-rather-than-govuk-react.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-04T13:05:54Z",
+      "lastCommit": "2019-11-04T13:05:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "92b389b5bc30f40d40b156b010db2839d422de8e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-use-typedoc-to-generate-api-documentation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-13T15:40:41Z",
+      "lastCommit": "2019-11-13T17:33:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0fa80f164a8b7600b2ee6f306b51ebc3c11b05f8",
+            "332dd11ed41a07358e031685b19fec41344c6cdc"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0012-insulate-importers-of-this-library-from-classes-in-lbh-frontend.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-02T08:38:27Z",
+      "lastCommit": "2019-12-02T08:38:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53ec4c07fe260f76fb9e53c50c433bbfc50684b5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-typescript.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-29T13:16:06Z",
+      "lastCommit": "2019-10-29T13:16:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f8aedc09dd5fae7bc448a9a9c1a924fafa42f2c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0012-reimplement-gov-uk-frontend-javascript-internally-to-this-library.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-02T08:54:49Z",
+      "lastCommit": "2019-12-02T08:54:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "63f502b4a34680e07abf42b46084717df108bb48"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-rollup-to-build-distributables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-29T13:16:06Z",
+      "lastCommit": "2019-10-29T13:16:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f8aedc09dd5fae7bc448a9a9c1a924fafa42f2c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-eslint.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-29T13:16:08Z",
+      "lastCommit": "2019-10-29T13:16:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "540e8b4ea158fdbb4ad89e4e5635ede4fa8cd4ec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-build-a-component-register.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-12T11:35:52Z",
+      "lastCommit": "2019-11-12T11:35:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1b32056c7621e374b1333e8ba8aeb475ef6719d3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-use-dependabot-to-keep-dependencies-up-to-date.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-30T16:00:31Z",
+      "lastCommit": "2019-10-30T16:00:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d4759b9748d10aff84303c84db4a6c6854ddd4b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-prettier-to-format-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-29T13:16:08Z",
+      "lastCommit": "2019-10-29T13:16:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51dff1e36cfd7d85dcf895948288c404694c5641"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-29T13:15:46Z",
+      "lastCommit": "2019-10-29T13:15:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d28437c1d298fffa7f25f92416a50895e79afe65"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-29T13:15:46Z",
+  "lastAdrCommit": "2019-12-02T08:54:49Z",
+  "firstCommit": "2019-10-29T13:15:42Z",
+  "lastCommit": "2021-03-01T16:29:49Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8f8aedc09dd5fae7bc448a9a9c1a924fafa42f2c",
+        "d4759b9748d10aff84303c84db4a6c6854ddd4b0",
+        "51dff1e36cfd7d85dcf895948288c404694c5641",
+        "0fa80f164a8b7600b2ee6f306b51ebc3c11b05f8",
+        "332dd11ed41a07358e031685b19fec41344c6cdc",
+        "995fcdb0b27816a9f97719c1736615bf27bd95ee",
+        "d28437c1d298fffa7f25f92416a50895e79afe65",
+        "540e8b4ea158fdbb4ad89e4e5635ede4fa8cd4ec",
+        "68b0ed4e0e743b87f9a6207d2c359c338260b3f3"
+      ],
+      "numberOfCommits": 9
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "92b389b5bc30f40d40b156b010db2839d422de8e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "63f502b4a34680e07abf42b46084717df108bb48",
+        "53ec4c07fe260f76fb9e53c50c433bbfc50684b5",
+        "1b32056c7621e374b1333e8ba8aeb475ef6719d3"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

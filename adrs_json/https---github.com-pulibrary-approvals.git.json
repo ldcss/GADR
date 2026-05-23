@@ -1,0 +1,61 @@
+{
+  "repositoryUrl": "https://github.com/pulibrary/approvals.git",
+  "crawlDateTime": "2022-01-18T19:56:45.981027",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture/decisions"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture/decisions",
+      "path": "001_structure_classes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-12T20:56:29Z",
+      "lastCommit": "2020-02-14T12:56:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d19f8bde38a0109c6b3c1af815ec6c6167f08c03"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "49bf8ae82dc86ffd1159867e25edc73a9195d3db"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-12T20:56:29Z",
+  "lastAdrCommit": "2020-02-14T12:56:57Z",
+  "firstCommit": "2019-04-18T14:34:18Z",
+  "lastCommit": "2021-10-12T19:03:33Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d19f8bde38a0109c6b3c1af815ec6c6167f08c03"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "49bf8ae82dc86ffd1159867e25edc73a9195d3db"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

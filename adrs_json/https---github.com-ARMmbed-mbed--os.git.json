@@ -1,0 +1,47 @@
+{
+  "repositoryUrl": "https://github.com/ARMmbed/mbed-os.git",
+  "crawlDateTime": "2022-01-18T17:37:03.018666",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001_cmsis_component_source_structure_recommendations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-28T18:31:07Z",
+      "lastCommit": "2020-09-01T14:55:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5eb72853242f4980713c5302b946752bb16fbac1",
+            "834e530abd2c97145d0627a4d9e1083040958976"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-28T18:31:07Z",
+  "lastAdrCommit": "2020-09-01T14:55:13Z",
+  "firstCommit": "2013-02-18T15:23:12Z",
+  "lastCommit": "2022-01-17T15:39:01Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5eb72853242f4980713c5302b946752bb16fbac1",
+        "834e530abd2c97145d0627a4d9e1083040958976"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

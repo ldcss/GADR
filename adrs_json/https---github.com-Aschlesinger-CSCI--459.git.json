@@ -1,0 +1,91 @@
+{
+  "repositoryUrl": "https://github.com/Aschlesinger/CSCI-459.git",
+  "crawlDateTime": "2022-01-18T19:09:10.941297",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "ADR"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "ADR",
+      "path": "database.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-22T04:05:22Z",
+      "lastCommit": "2019-01-23T02:38:03Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c81036e098792ac9dd15d9837e77c1e1b6f504d1",
+            "c4ec7001acec692f5b8715fa1e5a8a552b72bb70",
+            "f244d22f85fd8452911f6df1936b46480e454a99"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADR",
+      "path": "webserver.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-22T04:05:22Z",
+      "lastCommit": "2019-01-23T02:38:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c81036e098792ac9dd15d9837e77c1e1b6f504d1",
+            "f244d22f85fd8452911f6df1936b46480e454a99"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADR",
+      "path": "whyDocker.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-05T02:09:00Z",
+      "lastCommit": "2019-02-05T18:20:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "617cb851efe30dc1fbe25629726fe9ea8a40a568",
+            "2c02712655de31497c638931411275f529c12c45"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-01-22T04:05:22Z",
+  "lastAdrCommit": "2019-02-05T18:20:11Z",
+  "firstCommit": "2019-01-22T04:05:22Z",
+  "lastCommit": "2019-02-05T18:21:54Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "617cb851efe30dc1fbe25629726fe9ea8a40a568",
+        "2c02712655de31497c638931411275f529c12c45",
+        "c81036e098792ac9dd15d9837e77c1e1b6f504d1",
+        "c4ec7001acec692f5b8715fa1e5a8a552b72bb70",
+        "f244d22f85fd8452911f6df1936b46480e454a99"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

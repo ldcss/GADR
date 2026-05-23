@@ -1,0 +1,177 @@
+{
+  "repositoryUrl": "https://github.com/marain-dotnet/Marain.Instance.git",
+  "crawlDateTime": "2022-01-18T19:43:23.664372",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-services-use-arm-and-aad-indirectly-through-common-mechanisms.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-02-21T18:23:45Z",
+      "lastCommit": "2020-02-21T18:23:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4be8d6bcc16bc454908407197ec62e46d31dc1af"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-powershell-core-6-deployment-scripts.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-02-21T18:23:45Z",
+      "lastCommit": "2020-02-21T18:23:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4be8d6bcc16bc454908407197ec62e46d31dc1af"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-azure-pipeline-security-model.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-07-22T09:55:53Z",
+      "lastCommit": "2020-07-22T09:55:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5e7d66cf1f89647f2aaeabc245368f5819fa3cd6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-shared-application-insights.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-02-21T18:23:45Z",
+      "lastCommit": "2020-02-21T18:23:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4be8d6bcc16bc454908407197ec62e46d31dc1af"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-multitenancy-approach-for-marain.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-27T15:55:40Z",
+      "lastCommit": "2020-04-08T13:17:37Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "786161c10e5cc2f3ac198b7528e4fb72dea126c5",
+            "603773a9e4f63095fae0605ec995bd20c617cf59"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-process-for-onboarding-new-tenants.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-04-08T13:17:37Z",
+      "lastCommit": "2020-04-08T13:17:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "786161c10e5cc2f3ac198b7528e4fb72dea126c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-marain-service-list-and-instance-manifests.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-02-21T18:23:45Z",
+      "lastCommit": "2020-02-21T18:23:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4be8d6bcc16bc454908407197ec62e46d31dc1af"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-21T18:23:45Z",
+  "lastAdrCommit": "2020-07-22T09:55:53Z",
+  "firstCommit": "2020-02-12T18:16:54Z",
+  "lastCommit": "2021-12-08T18:32:13Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5e7d66cf1f89647f2aaeabc245368f5819fa3cd6"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "786161c10e5cc2f3ac198b7528e4fb72dea126c5",
+        "603773a9e4f63095fae0605ec995bd20c617cf59"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4be8d6bcc16bc454908407197ec62e46d31dc1af"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

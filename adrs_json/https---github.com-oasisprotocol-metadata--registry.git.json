@@ -1,0 +1,84 @@
+{
+  "repositoryUrl": "https://github.com/oasisprotocol/metadata-registry.git",
+  "crawlDateTime": "2022-01-18T20:07:20.002736",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-architectural-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-05T11:47:00Z",
+      "lastCommit": "2020-08-05T11:47:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f7fe9efe55bb602b19e282431709413bcb303e5b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-entity-metadata.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-08-05T11:47:00Z",
+      "lastCommit": "2021-02-08T13:26:35Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2bd8b97fb44f82a9f19088009a2f623b69d10944",
+            "cfdec6333cf45741e7a3c3434e68c585c5206cae",
+            "f7fe9efe55bb602b19e282431709413bcb303e5b"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "365b1a7b9a8686b825bb37dfc14c79fe0aa50349"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-05T11:47:00Z",
+  "lastAdrCommit": "2021-02-08T13:26:35Z",
+  "firstCommit": "2020-08-05T10:45:45Z",
+  "lastCommit": "2022-01-17T09:39:34Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "365b1a7b9a8686b825bb37dfc14c79fe0aa50349"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2bd8b97fb44f82a9f19088009a2f623b69d10944",
+        "cfdec6333cf45741e7a3c3434e68c585c5206cae",
+        "f7fe9efe55bb602b19e282431709413bcb303e5b"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

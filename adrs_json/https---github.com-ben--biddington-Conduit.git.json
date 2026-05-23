@@ -1,0 +1,107 @@
+{
+  "repositoryUrl": "https://github.com/ben-biddington/Conduit.git",
+  "crawlDateTime": "2022-01-18T21:08:43.000031",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-try-the-xunit-target.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-24T07:23:25Z",
+      "lastCommit": "2016-02-24T07:23:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c38cb3a90cd90e89a87239bf1314a0a84d914b7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-postpone-xunit-msbuild.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-24T09:42:04Z",
+      "lastCommit": "2016-02-24T09:42:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ca1ece237fb1d56616db77149e85762e42034e9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-solve-the-xunit-msbuild-problem-with-assembly-merging.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-22T06:25:56Z",
+      "lastCommit": "2016-02-22T07:58:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "70b91dbdfdd3cb6748065885259c779176449e17",
+            "804b61871d556a10c0edcc26747153113baf2956"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-22T06:20:56Z",
+      "lastCommit": "2016-02-22T06:20:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d6ec22a02d95b42e24bbdd3fe43dc11538a64da"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-02-22T06:20:56Z",
+  "lastAdrCommit": "2016-02-24T09:42:04Z",
+  "firstCommit": "2015-05-30T08:52:52Z",
+  "lastCommit": "2017-06-12T23:45:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "70b91dbdfdd3cb6748065885259c779176449e17",
+        "0c38cb3a90cd90e89a87239bf1314a0a84d914b7",
+        "804b61871d556a10c0edcc26747153113baf2956",
+        "9d6ec22a02d95b42e24bbdd3fe43dc11538a64da",
+        "1ca1ece237fb1d56616db77149e85762e42034e9"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

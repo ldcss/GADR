@@ -1,0 +1,127 @@
+{
+  "repositoryUrl": "https://github.com/carlpaton/DunkMe.git",
+  "crawlDateTime": "2022-01-18T18:17:46.897934",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "Docs/ADR"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "Docs/ADR",
+      "path": "0001-front-end.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-10-18T01:31:28Z",
+      "lastCommit": "2018-10-24T03:45:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1e1766ddd0e04a13643d7da1850c650558e029b",
+            "53e315cb2ebc1ac35421b4eca1d0ec635e02ec38"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Docs/ADR",
+      "path": "0000-use-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-10-18T01:31:28Z",
+      "lastCommit": "2018-10-24T03:45:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1e1766ddd0e04a13643d7da1850c650558e029b",
+            "53e315cb2ebc1ac35421b4eca1d0ec635e02ec38"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Docs/ADR",
+      "path": "0004-game-database-fields.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-11-03T02:55:56Z",
+      "lastCommit": "2018-11-03T02:55:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ae21f850cca0839189593399cbdf29b51379c27"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Docs/ADR",
+      "path": "0002-data-access-api.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-10-18T01:31:28Z",
+      "lastCommit": "2018-10-24T03:45:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1e1766ddd0e04a13643d7da1850c650558e029b",
+            "53e315cb2ebc1ac35421b4eca1d0ec635e02ec38"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Docs/ADR",
+      "path": "0003-relational-database.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-10-18T01:31:28Z",
+      "lastCommit": "2018-10-24T03:45:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1e1766ddd0e04a13643d7da1850c650558e029b",
+            "53e315cb2ebc1ac35421b4eca1d0ec635e02ec38"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-10-18T01:31:28Z",
+  "lastAdrCommit": "2018-11-03T02:55:56Z",
+  "firstCommit": "2018-10-17T20:51:26Z",
+  "lastCommit": "2018-11-25T19:52:39Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d1e1766ddd0e04a13643d7da1850c650558e029b",
+        "7ae21f850cca0839189593399cbdf29b51379c27",
+        "53e315cb2ebc1ac35421b4eca1d0ec635e02ec38"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

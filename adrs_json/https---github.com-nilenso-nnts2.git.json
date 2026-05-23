@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/nilenso/nnts2.git",
+  "crawlDateTime": "2022-01-18T23:05:26.480453",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/ADR"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/ADR",
+      "path": "001_choose_directory_schema.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-09-16T09:34:50Z",
+      "lastCommit": "2019-09-16T09:34:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e03b492b925f01250f0075bbd6556abdf12048d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-09-16T09:34:50Z",
+  "lastAdrCommit": "2019-09-16T09:34:50Z",
+  "firstCommit": "2019-08-12T06:12:30Z",
+  "lastCommit": "2019-10-23T06:03:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2e03b492b925f01250f0075bbd6556abdf12048d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

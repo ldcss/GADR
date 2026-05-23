@@ -1,0 +1,188 @@
+{
+  "repositoryUrl": "https://github.com/buildit/digitalrig-metal-aws.git",
+  "crawlDateTime": "2022-01-18T18:16:26.791334",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-use-aws-rds-aurora-mysql-for-database-persistence.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-20T15:42:36Z",
+      "lastCommit": "2017-10-20T15:42:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "611c5f2ead41f3c278eae32c92e8c0896ca61be4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-aws-bare-metal-rig-approach.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [3. Use AWS CodePipeline and CodeBuild instead of Travis](0003-use-aws-codepipeline-and-codebuild-instead-of-travis.md)",
+      "firstCommit": "2017-09-27T23:05:08Z",
+      "lastCommit": "2017-09-28T03:00:36Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3814a36d58acd65d53deb4cdc9aa8a15b84094c4",
+            "3942076a31e440affb8a206f2fa10ac16fb1da27",
+            "2e41d05995977af91de091add14be9b4d268d740"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-use-cloudwatch-logs-for-log-aggregation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-10-11T19:37:52Z",
+      "lastCommit": "2017-10-17T03:57:18Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f948ad623418b9ca1b1e4160d1fef77aa5c932dc",
+            "06918c1f1953dfa922b477fdcc3b16dc0588559e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-create-reference-implementation-repository.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-14T21:44:36Z",
+      "lastCommit": "2019-01-14T21:44:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d11f9c54140872ddbc7edc4646797fdb8bc21876"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-use-aws-codepipeline-and-codebuild-instead-of-travis.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [2. Use AWS Bare Metal Rig approach](0002-use-aws-bare-metal-rig-approach.md)",
+      "firstCommit": "2017-09-28T03:00:36Z",
+      "lastCommit": "2017-09-28T15:05:15Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8e74da579f1c03072e4435cabd2bebaff2ff0aa2",
+            "3942076a31e440affb8a206f2fa10ac16fb1da27"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-build-and-deploy-pipelines-separate.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-29T19:53:59Z",
+      "lastCommit": "2019-01-29T19:53:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "956366f14eb0403aaf67a2d8a34f7e1a536d10d5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-27T23:05:08Z",
+      "lastCommit": "2017-09-27T23:05:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3814a36d58acd65d53deb4cdc9aa8a15b84094c4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-09-27T23:05:08Z",
+  "lastAdrCommit": "2019-01-29T19:53:59Z",
+  "firstCommit": "2017-09-27T03:28:25Z",
+  "lastCommit": "2019-06-14T00:28:44Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f948ad623418b9ca1b1e4160d1fef77aa5c932dc",
+        "06918c1f1953dfa922b477fdcc3b16dc0588559e",
+        "d11f9c54140872ddbc7edc4646797fdb8bc21876",
+        "611c5f2ead41f3c278eae32c92e8c0896ca61be4"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "956366f14eb0403aaf67a2d8a34f7e1a536d10d5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3814a36d58acd65d53deb4cdc9aa8a15b84094c4",
+        "8e74da579f1c03072e4435cabd2bebaff2ff0aa2",
+        "3942076a31e440affb8a206f2fa10ac16fb1da27",
+        "2e41d05995977af91de091add14be9b4d268d740"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "repositoryUrl": "https://github.com/LBHackney-IT/social-care-architecture.git",
+  "crawlDateTime": "2022-01-18T18:24:30.791695",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0003-prefer-open-source-software.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-12T13:21:28Z",
+      "lastCommit": "2021-07-27T07:55:48Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "408851a2083fabd4a3652d7297497882e68f6c2e",
+            "af379d51e1eaf2ef2272b8550c51f3ceee3c4e1f"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ee2e5ef66d60240e38aaa25f7699296ccc6d51e3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0002-use-iso-8601-format-for-dates.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-25T17:13:28Z",
+      "lastCommit": "2021-07-27T07:55:48Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "408851a2083fabd4a3652d7297497882e68f6c2e",
+            "af379d51e1eaf2ef2272b8550c51f3ceee3c4e1f"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eaea61e857b114f8135df3bfcbf6dad3409411a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-25T17:13:28Z",
+      "lastCommit": "2021-07-27T07:55:48Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "408851a2083fabd4a3652d7297497882e68f6c2e",
+            "af379d51e1eaf2ef2272b8550c51f3ceee3c4e1f"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eaea61e857b114f8135df3bfcbf6dad3409411a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-03-25T17:13:28Z",
+  "lastAdrCommit": "2021-07-27T07:55:48Z",
+  "firstCommit": "2021-03-24T09:21:17Z",
+  "lastCommit": "2021-11-23T12:34:25Z",
+  "adrDirFile": {
+    "fileContent": "docs/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "408851a2083fabd4a3652d7297497882e68f6c2e",
+        "af379d51e1eaf2ef2272b8550c51f3ceee3c4e1f"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ee2e5ef66d60240e38aaa25f7699296ccc6d51e3",
+        "eaea61e857b114f8135df3bfcbf6dad3409411a6"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

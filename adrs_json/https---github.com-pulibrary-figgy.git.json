@@ -1,0 +1,246 @@
+{
+  "repositoryUrl": "https://github.com/pulibrary/figgy.git",
+  "crawlDateTime": "2022-01-18T19:07:43.836527",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decisions"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0004-preservation-fixity.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-05-15T16:32:55Z",
+      "lastCommit": "2021-09-22T16:01:08Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e164d3178f650d021825ddf1458dab21873f178d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "90e9f174f8b11ad6496edbd14d1765a45764f433"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c3f3d2c05b2a22001c0999abe4b44aa88a59615f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0007-pyramidal-tiffs.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-27T20:37:37Z",
+      "lastCommit": "2020-03-27T20:41:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "58e0f59cb7a34f016b196bc791f75cd2970f489e",
+            "cbe9e5bbae9338798f8049c42fc05732f917d5fd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0002-queues.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-08T18:11:39Z",
+      "lastCommit": "2019-02-08T18:11:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1ccbc61305247513305692c144230e21c03281a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0008-jpeg2000-ingest.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-27T13:22:14Z",
+      "lastCommit": "2020-04-27T13:22:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ecdae61e3bd6e327c982ed6790d27fb270f6346"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0006-preservation-tombstones.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-09-05T16:51:52Z",
+      "lastCommit": "2019-09-05T16:51:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5c5646e23280414ed7a944aed8bbc43e57b7cb7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0005-data-migrations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-05-22T18:09:25Z",
+      "lastCommit": "2019-05-22T18:09:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a25d9831b53f4df6399f4e4009b425d44f532ddf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0001-document-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-07T18:27:23Z",
+      "lastCommit": "2019-02-07T18:27:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e20ae1f0974320380ef85f02d8cb3ccaf53c184c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0009-unlinked-files.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-25T18:12:35Z",
+      "lastCommit": "2020-08-25T18:12:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9e6b7c576b28ec03167a57a81b485503c4ef7cc9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0003-preservation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-11T19:19:17Z",
+      "lastCommit": "2019-04-11T19:19:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "49466618133ea9e05973d57c0096b7f32aa952d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-07T18:27:23Z",
+  "lastAdrCommit": "2021-09-22T16:01:08Z",
+  "firstCommit": "2017-07-24T18:38:38Z",
+  "lastCommit": "2022-01-14T21:38:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e164d3178f650d021825ddf1458dab21873f178d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9ecdae61e3bd6e327c982ed6790d27fb270f6346"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "90e9f174f8b11ad6496edbd14d1765a45764f433",
+        "c5c5646e23280414ed7a944aed8bbc43e57b7cb7",
+        "9e6b7c576b28ec03167a57a81b485503c4ef7cc9",
+        "49466618133ea9e05973d57c0096b7f32aa952d6",
+        "58e0f59cb7a34f016b196bc791f75cd2970f489e",
+        "cbe9e5bbae9338798f8049c42fc05732f917d5fd"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c3f3d2c05b2a22001c0999abe4b44aa88a59615f",
+        "a25d9831b53f4df6399f4e4009b425d44f532ddf",
+        "e20ae1f0974320380ef85f02d8cb3ccaf53c184c",
+        "b1ccbc61305247513305692c144230e21c03281a"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

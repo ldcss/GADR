@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/sbanwart/containers.git",
+  "crawlDateTime": "2022-01-18T20:59:04.988302",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adrs"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "adrs",
+      "path": "2-.md",
+      "template": "Nygard",
+      "status": "====== Accepted",
+      "firstCommit": "2021-04-24T19:55:45Z",
+      "lastCommit": "2021-04-24T19:55:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "685ea263543b22ea17e9a9ab3ec2310a48065d92"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "1-.md",
+      "template": "Nygard",
+      "status": "====== Proposed",
+      "firstCommit": "2020-04-27T00:52:26Z",
+      "lastCommit": "2021-04-24T19:55:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5ab7a8ca34d302ab77261cb73a249cf683799b34",
+            "c5a2687817b3e5818680377f56652a14d28b94da"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-27T00:52:26Z",
+  "lastAdrCommit": "2021-04-24T19:55:45Z",
+  "firstCommit": "2019-03-10T00:46:16Z",
+  "lastCommit": "2021-07-25T18:01:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5ab7a8ca34d302ab77261cb73a249cf683799b34",
+        "c5a2687817b3e5818680377f56652a14d28b94da",
+        "685ea263543b22ea17e9a9ab3ec2310a48065d92"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

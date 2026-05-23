@@ -1,0 +1,169 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/sexual-health-service-finder.git",
+  "crawlDateTime": "2022-01-18T20:24:34.289418",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-elasticsearch.md",
+      "template": "Nygard",
+      "status": "Superceded by [4. Use Azure Search](0004-use-azure-search.md)",
+      "firstCommit": "2018-03-21T12:18:20Z",
+      "lastCommit": "2018-11-28T10:29:10Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ba278c9451bbeef9bb702a7e776327dc748d76e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5fa2ee4b0fc95eb8b7880cf40f092c7408c96675",
+            "ec4e2793784f59121a522739b795a7fb436516c5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decision-records.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-26T14:24:27Z",
+      "lastCommit": "2018-02-26T14:24:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "437dd7d0d02ef73672c8f8261ab7cfd72fc3d6e2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-express-web-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-26T16:37:52Z",
+      "lastCommit": "2018-02-26T16:37:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "638207641acfe0a473f928a89a394f554144407f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-in-house-postcodes-search-rather-than-postcodes-io.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-01-07T11:05:50Z",
+      "lastCommit": "2019-01-07T11:05:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b1cd1cf4539a783f55f022ebd2f0cc4aaf00dc36"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-calculate-distance-between-origin-and-result-items-within-the-application.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-05T08:13:41Z",
+      "lastCommit": "2018-12-05T08:13:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ba206854b7abb4664180777340759c1db5c537d8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-azure-search.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-28T10:29:10Z",
+      "lastCommit": "2018-11-28T10:29:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ba278c9451bbeef9bb702a7e776327dc748d76e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-02-26T14:24:27Z",
+  "lastAdrCommit": "2019-01-07T11:05:50Z",
+  "firstCommit": "2018-02-16T11:23:58Z",
+  "lastCommit": "2020-06-01T01:04:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "638207641acfe0a473f928a89a394f554144407f",
+        "437dd7d0d02ef73672c8f8261ab7cfd72fc3d6e2"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1ba278c9451bbeef9bb702a7e776327dc748d76e",
+        "b1cd1cf4539a783f55f022ebd2f0cc4aaf00dc36",
+        "ba206854b7abb4664180777340759c1db5c537d8"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5fa2ee4b0fc95eb8b7880cf40f092c7408c96675",
+        "ec4e2793784f59121a522739b795a7fb436516c5"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

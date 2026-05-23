@@ -1,0 +1,505 @@
+{
+  "repositoryUrl": "https://github.com/elastisys/compliantkubernetes.git",
+  "crawlDateTime": "2022-01-18T20:13:09.160638",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/compliantkubernetes/adr"
+  ],
+  "numAdrFiles": 19,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0010-run-managed-services-in-workload-cluster.md",
+      "template": "Madr",
+      "status": "proposed. **This ADR did not reach consensus, with strong arguments on both sides.** However, due to needing a decision in a timely manner, this ADR is actually followed. Therefore, this ADR serves both for visibility and to document a *[fait accompli](https://en.wikipedia.org/wiki/Glossary_of_French_expressions_in_English#F)*.",
+      "firstCommit": "2021-06-07T19:18:47Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "78ee1ec168147679912c59ccf11b9b4a037c8330",
+            "32fd65b07b1c3fbd5178df9026222cdc33dc2ce4",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0012-do-not-persist-dex.md",
+      "template": "Madr",
+      "status": "superseded by [ADR-0017](0017-persist-dex.md)",
+      "firstCommit": "2021-06-08T07:50:49Z",
+      "lastCommit": "2021-11-16T13:39:12Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3a0a6a056329006ab9782bf6727a551220d9e52",
+            "e833f13f9214c81fa378712d3dbc8e6b4ec386ac",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0001-use-rook-storage-orchestrator.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-16T16:26:02Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "78ee1ec168147679912c59ccf11b9b4a037c8330",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9",
+            "4f7767de667c4af19ba434c4f12df7a64f85f260"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0002-use-kubespray-for-cluster-lifecycle.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-19T13:52:50Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9",
+            "325c6fdab6fa3bc46b065d0c9ada8191074a53b7",
+            "561dfa69529ca3212d9c06596013a777d174fa78"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0013-configure-alerts-in-omt.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-06-04T12:04:45Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a684592a820b84c6dee366bbcacb1440c0168828",
+            "78ee1ec168147679912c59ccf11b9b4a037c8330",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0005-use-individual-ssh-keys.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-28T10:48:36Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 11,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aa0625a1c64642fd8df765fa04066f0e6b1bf8ee",
+            "78ee1ec168147679912c59ccf11b9b4a037c8330",
+            "784e7b99486c0d3e3b5002f99ec876bb9cf3af0d",
+            "7afa1e09f81639c5a4a4957ed289e749659147c8",
+            "cb576766c27e28d8536a1ec45813afa151e1fe44",
+            "37a9a36e8ff6366e092e85ebad57e9250417febf",
+            "0a32039b6e1a9449744f4b11fe7c3e6c537ab688",
+            "b2668210d0928ef39826464b94892c8236a5e93f",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9",
+            "2cdc02b2fe04b5787daf5c0123ff9f3b3eda9b4b",
+            "3474b9842cbf590259c6109a3c678eca063434fe"
+          ],
+          "numberOfCommits": 11
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0017-persist-dex.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-11-16T13:39:12Z",
+      "lastCommit": "2021-11-16T13:39:12Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f3a0a6a056329006ab9782bf6727a551220d9e52",
+            "2693e7612d5e5829fce5ce459311b2e6af5f145b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0008-use-hostnetwork-or-loadbalancer-for-ingress.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-02-08T16:12:29Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6e004567ebc9fc711e5142aca9593200eb85fb5c",
+            "7fff79815067414cee19bb5df9f0c1b13d40f1e8",
+            "03067a2b09d76d8cac2529ea63ac37ad8126d6a6",
+            "bbcf1af415aa9efc604542a633d6f590dbb62f8e",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0003-push-metrics-via-influxdb.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-19T16:58:06Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "94c3715ccf983ed6467955b25f2d362d94293f85",
+            "fd29d21ae335b9e9a8a2de2ea8c3dfa7a41fce0b",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0011-let-upstream-projects-handle-crds.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-06-07T19:29:14Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5160509169958a23a19fc517ba44eb06af25f2be",
+            "290b42cc910d32490fe8b91d97a9692f8250830c",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9",
+            "a608ff0049710a39b787476924bb2272514b8f20"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0009-use-cluster-issuers-for-letsencrypt.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-04-15T17:18:24Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "78ee1ec168147679912c59ccf11b9b4a037c8330",
+            "a5e988ef421c7d87d380090601d1b120a320b324",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9",
+            "1874d80ef0038f5b374a2bca9354b29d3df10338"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0004-plan-for-usage-without-wrapper-scripts.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-24T20:16:11Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f619fa09fd099d17cc2fc61ba5244eda1754478",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0016-gid-0-is-okey-but-not-by-default.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-08-23T14:14:04Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "952dde56470c3dd2d8ea41e9be4f801038387be2",
+            "76c58e24c1f1051e6b4ff5c60a08a4a0062a87c9",
+            "55153c5037da94f7f61da14902c0df276553097a",
+            "701c4383c41a1fd0ceccbe470431fd212c2e3324",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9",
+            "3a41587cf79cdf8477c420b7269677bfdb4a99ba"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0007-make-monitoring-forwarders-storage-independent.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-02-22T11:03:05Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1383eb203d41f305c730b45ad1622311c3e23726",
+            "20def91656ac5200d60924f6783b4bebac46fbaa",
+            "f94b92c4eb71befc047f9185478da65fe9f85652",
+            "cad33757aec7c5b54d7e1278fcda8b09e6730ba2",
+            "b619af6cd0de89bb92a2e54eb9c26d76e226d0cb",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9",
+            "1ee7d1adac3cf6090fcaed285dff626123e4ffae",
+            "1f2ad9fdb0cde17a0484cefb02de0234562a61af"
+          ],
+          "numberOfCommits": 8
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0006-use-standard-kubeconfig-mechanisms.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-01-29T16:37:52Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "78ee1ec168147679912c59ccf11b9b4a037c8330",
+            "d9cedb736b8df0c03482f90d1794749073e40ed0",
+            "53384030e95b21b2db606da7359a86f24cb4fdae",
+            "99fa39ab98f22306d87a0adea9f0a8e4e54531c4",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9",
+            "ba396c45fb4b9fb6841bf8785e64a3603d788b77"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0015-we-believe-in-community-driven-open-source.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-08-19T13:55:59Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f429491d622dd99ece415602d6fde97c2ef36234",
+            "2c22b7efb94ab718aaa0aa2d7173468511993cff",
+            "f933c43aa4b46b249c6b1b8ca70c5acf6ef97ef7",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9",
+            "49dd3ce4ee1027018c0642e5337c04f3270c540e"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0018-use-probe-to-measure-internal-uptime.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-11-30T10:07:35Z",
+      "lastCommit": "2021-11-30T10:07:35Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ddd92e478636184b2f83d7268c8b153dce2cdb39",
+            "16ecd4c3a06710d887f5d8654a07e9f99aeceb5a",
+            "4a2e071feea2b7c51439c6cf6f21e2719df7d810"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-11-16T16:06:01Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6a75d44e01a530a5b8d9b798508e587d7de9d81e",
+            "02b55015fa51115cd52e107223460f248cb215db",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/compliantkubernetes/adr",
+      "path": "0014-use-bats-for-testing-bash-wrappers.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-06-04T11:57:58Z",
+      "lastCommit": "2021-11-09T21:22:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6f699498dda86f7599695b0d4dd05844c0d10f23",
+            "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9",
+            "dd8770783717a5b3ae9809324abc839250ca8dd2"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-16T16:06:01Z",
+  "lastAdrCommit": "2021-11-30T10:07:35Z",
+  "firstCommit": "2020-09-03T08:31:48Z",
+  "lastCommit": "2022-01-17T09:56:17Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f933c43aa4b46b249c6b1b8ca70c5acf6ef97ef7",
+        "a608ff0049710a39b787476924bb2272514b8f20",
+        "dd8770783717a5b3ae9809324abc839250ca8dd2",
+        "3474b9842cbf590259c6109a3c678eca063434fe",
+        "f429491d622dd99ece415602d6fde97c2ef36234",
+        "6a75d44e01a530a5b8d9b798508e587d7de9d81e",
+        "37a9a36e8ff6366e092e85ebad57e9250417febf",
+        "4a2e071feea2b7c51439c6cf6f21e2719df7d810",
+        "2cdc02b2fe04b5787daf5c0123ff9f3b3eda9b4b",
+        "a684592a820b84c6dee366bbcacb1440c0168828",
+        "78ee1ec168147679912c59ccf11b9b4a037c8330",
+        "fd29d21ae335b9e9a8a2de2ea8c3dfa7a41fce0b",
+        "99fa39ab98f22306d87a0adea9f0a8e4e54531c4",
+        "2c22b7efb94ab718aaa0aa2d7173468511993cff",
+        "03067a2b09d76d8cac2529ea63ac37ad8126d6a6",
+        "d9cedb736b8df0c03482f90d1794749073e40ed0",
+        "76c58e24c1f1051e6b4ff5c60a08a4a0062a87c9",
+        "f94b92c4eb71befc047f9185478da65fe9f85652",
+        "e833f13f9214c81fa378712d3dbc8e6b4ec386ac",
+        "6f699498dda86f7599695b0d4dd05844c0d10f23",
+        "0a32039b6e1a9449744f4b11fe7c3e6c537ab688",
+        "77cacac6682ddb4f4508bc34ab3b1b2388bb17b9",
+        "1874d80ef0038f5b374a2bca9354b29d3df10338",
+        "1383eb203d41f305c730b45ad1622311c3e23726",
+        "20def91656ac5200d60924f6783b4bebac46fbaa",
+        "8f619fa09fd099d17cc2fc61ba5244eda1754478",
+        "16ecd4c3a06710d887f5d8654a07e9f99aeceb5a",
+        "b2668210d0928ef39826464b94892c8236a5e93f",
+        "290b42cc910d32490fe8b91d97a9692f8250830c",
+        "3a41587cf79cdf8477c420b7269677bfdb4a99ba",
+        "561dfa69529ca3212d9c06596013a777d174fa78",
+        "7fff79815067414cee19bb5df9f0c1b13d40f1e8",
+        "ddd92e478636184b2f83d7268c8b153dce2cdb39",
+        "32fd65b07b1c3fbd5178df9026222cdc33dc2ce4",
+        "cad33757aec7c5b54d7e1278fcda8b09e6730ba2",
+        "55153c5037da94f7f61da14902c0df276553097a",
+        "b619af6cd0de89bb92a2e54eb9c26d76e226d0cb",
+        "49dd3ce4ee1027018c0642e5337c04f3270c540e",
+        "325c6fdab6fa3bc46b065d0c9ada8191074a53b7",
+        "4f7767de667c4af19ba434c4f12df7a64f85f260",
+        "1f2ad9fdb0cde17a0484cefb02de0234562a61af",
+        "f3a0a6a056329006ab9782bf6727a551220d9e52",
+        "952dde56470c3dd2d8ea41e9be4f801038387be2",
+        "6e004567ebc9fc711e5142aca9593200eb85fb5c",
+        "53384030e95b21b2db606da7359a86f24cb4fdae",
+        "2693e7612d5e5829fce5ce459311b2e6af5f145b",
+        "02b55015fa51115cd52e107223460f248cb215db",
+        "5160509169958a23a19fc517ba44eb06af25f2be",
+        "701c4383c41a1fd0ceccbe470431fd212c2e3324",
+        "1ee7d1adac3cf6090fcaed285dff626123e4ffae",
+        "aa0625a1c64642fd8df765fa04066f0e6b1bf8ee",
+        "784e7b99486c0d3e3b5002f99ec876bb9cf3af0d",
+        "94c3715ccf983ed6467955b25f2d362d94293f85",
+        "7afa1e09f81639c5a4a4957ed289e749659147c8",
+        "a5e988ef421c7d87d380090601d1b120a320b324",
+        "cb576766c27e28d8536a1ec45813afa151e1fe44",
+        "bbcf1af415aa9efc604542a633d6f590dbb62f8e",
+        "ba396c45fb4b9fb6841bf8785e64a3603d788b77"
+      ],
+      "numberOfCommits": 58
+    }
+  ]
+}

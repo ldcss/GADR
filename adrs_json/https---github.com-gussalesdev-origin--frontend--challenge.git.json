@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/gussalesdev/origin-frontend-challenge.git",
+  "crawlDateTime": "2022-01-18T23:02:49.268439",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-architecture-decision-records.md",
+      "template": "Nygard",
+      "status": "2020-02-18 Accepted",
+      "firstCommit": "2020-02-19T02:45:07Z",
+      "lastCommit": "2020-02-19T02:45:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4e72dab31f7364a1aaf511833df4520aa5e86286"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-testcafe-for-end-to-end-tests.md",
+      "template": "Nygard",
+      "status": "2020-02-18 Accepted",
+      "firstCommit": "2020-02-19T02:45:07Z",
+      "lastCommit": "2020-02-19T02:45:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4e72dab31f7364a1aaf511833df4520aa5e86286"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-19T02:45:07Z",
+  "lastAdrCommit": "2020-02-19T02:45:07Z",
+  "firstCommit": "2020-02-14T00:03:11Z",
+  "lastCommit": "2021-09-21T17:43:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4e72dab31f7364a1aaf511833df4520aa5e86286"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "repositoryUrl": "https://github.com/frittinger/summits.git",
+  "crawlDateTime": "2022-01-18T21:09:50.502133",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-move-services-to-top-level.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-01T19:27:23Z",
+      "lastCommit": "2019-11-01T19:27:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56958d6bdd34acbf30a9e6e02a5c2c54f286911c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-java-newer-than-java-8.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-01T18:57:57Z",
+      "lastCommit": "2019-11-01T18:57:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ce5d438ab7653c08fe287f50d9e03dbb1929efdb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-01T18:57:57Z",
+      "lastCommit": "2019-11-01T18:57:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ce5d438ab7653c08fe287f50d9e03dbb1929efdb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-docker-as-runtime-for-services.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-01T18:57:57Z",
+      "lastCommit": "2019-11-01T18:57:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ce5d438ab7653c08fe287f50d9e03dbb1929efdb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-01T18:57:57Z",
+  "lastAdrCommit": "2019-11-01T19:27:23Z",
+  "firstCommit": "2019-04-16T13:33:08Z",
+  "lastCommit": "2021-09-21T02:41:29Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ce5d438ab7653c08fe287f50d9e03dbb1929efdb",
+        "56958d6bdd34acbf30a9e6e02a5c2c54f286911c"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

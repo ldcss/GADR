@@ -1,0 +1,113 @@
+{
+  "repositoryUrl": "https://github.com/18F/identity-site.git",
+  "crawlDateTime": "2022-01-18T18:38:18.67119",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs",
+      "path": "0003-remove-basscss.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-15T22:10:16Z",
+      "lastCommit": "2021-07-20T18:38:25Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5250ea00e81fc491f33efac3718b4f7943cf839d",
+            "67bd3f58ef4a660a36a70d57c36dd727439bb9d2",
+            "e46393bd548c5e6e00a4b10ad3f9c1e6943ee779",
+            "f0f97368c09f9a17d029bb674eb3670d07adc650"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b507212e83a6d8e0c47908cba3a78226bd5dca94"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "0002-add-netlifycms.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-15T22:10:16Z",
+      "lastCommit": "2021-04-15T22:20:27Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "67bd3f58ef4a660a36a70d57c36dd727439bb9d2",
+            "e46393bd548c5e6e00a4b10ad3f9c1e6943ee779",
+            "c8ebce11d0fab63124fd91896b6b333a91cab55b"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-15T22:10:16Z",
+      "lastCommit": "2021-04-15T22:10:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "67bd3f58ef4a660a36a70d57c36dd727439bb9d2",
+            "38acb5b61bd5f6b109c10a9345c2b12b4d5845c5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-04-15T22:10:16Z",
+  "lastAdrCommit": "2021-07-20T18:38:25Z",
+  "firstCommit": "2017-03-09T19:26:29Z",
+  "lastCommit": "2022-01-18T14:46:10Z",
+  "adrDirFile": {
+    "fileContent": "docs\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5250ea00e81fc491f33efac3718b4f7943cf839d",
+        "67bd3f58ef4a660a36a70d57c36dd727439bb9d2",
+        "e46393bd548c5e6e00a4b10ad3f9c1e6943ee779",
+        "c8ebce11d0fab63124fd91896b6b333a91cab55b",
+        "38acb5b61bd5f6b109c10a9345c2b12b4d5845c5",
+        "f0f97368c09f9a17d029bb674eb3670d07adc650"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b507212e83a6d8e0c47908cba3a78226bd5dca94"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

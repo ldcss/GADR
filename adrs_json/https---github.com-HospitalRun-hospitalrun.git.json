@@ -1,0 +1,47 @@
+{
+  "repositoryUrl": "https://github.com/HospitalRun/hospitalrun.git",
+  "crawlDateTime": "2022-01-18T18:53:06.257786",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "redux_to_react_query.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-17T04:06:56Z",
+      "lastCommit": "2020-07-18T00:00:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "503f5065911ff87aca9dd652ab3348202c05fb85",
+            "87acd0e4780078f2338755fcc816831613927ed2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-17T04:06:56Z",
+  "lastAdrCommit": "2020-07-18T00:00:13Z",
+  "firstCommit": "2019-08-06T21:39:35Z",
+  "lastCommit": "2021-02-05T10:48:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "503f5065911ff87aca9dd652ab3348202c05fb85",
+        "87acd0e4780078f2338755fcc816831613927ed2"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

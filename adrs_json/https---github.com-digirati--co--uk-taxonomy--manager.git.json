@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/digirati-co-uk/taxonomy-manager.git",
+  "crawlDateTime": "2022-01-18T20:15:24.830519",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-graph-database.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-05-23T15:35:23Z",
+      "lastCommit": "2019-05-23T15:35:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a2de016ce3d7cdb5d8b56b3f8c250ca20f8843b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-23T15:35:23Z",
+  "lastAdrCommit": "2019-05-23T15:35:23Z",
+  "firstCommit": "2019-05-13T10:15:00Z",
+  "lastCommit": "2021-01-26T12:27:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1a2de016ce3d7cdb5d8b56b3f8c250ca20f8843b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

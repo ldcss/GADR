@@ -1,0 +1,72 @@
+{
+  "repositoryUrl": "https://github.com/corvus-dotnet/Corvus.Extensions.Newtonsoft.Json.git",
+  "crawlDateTime": "2022-01-18T19:48:04.666069",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-json-framework-independence.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-04-17T15:54:55Z",
+      "lastCommit": "2020-04-17T15:54:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8477ae1d4d8ddd1e3b197ff36f73dff093a0e77b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-separation-of-concerns-in-component-registration.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-02-11T18:38:17Z",
+      "lastCommit": "2021-02-11T18:38:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "391d85cb3bcc8cd307aa30e8f07b6f38c6c3cfef"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-17T15:54:55Z",
+  "lastAdrCommit": "2021-02-11T18:38:17Z",
+  "firstCommit": "2019-08-24T21:11:56Z",
+  "lastCommit": "2021-12-10T08:21:18Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "391d85cb3bcc8cd307aa30e8f07b6f38c6c3cfef"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8477ae1d4d8ddd1e3b197ff36f73dff093a0e77b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

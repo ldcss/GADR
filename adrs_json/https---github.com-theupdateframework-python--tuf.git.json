@@ -1,0 +1,318 @@
+{
+  "repositoryUrl": "https://github.com/theupdateframework/python-tuf.git",
+  "crawlDateTime": "2022-01-18T22:20:52.119303",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-where-to-develop-TUF-1-0-0.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-27T10:26:48Z",
+      "lastCommit": "2021-09-01T10:15:33Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3dc55942423c1d7c297ab614b9e49e2f71857493"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e24977677a94f9ce626f0a67bb94333d253d311",
+            "3370005e7dddcabe191c5a57305370371c0480f4",
+            "3a1ec87d52aff9870115086f5bb5cfa1f9d8d9b9"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-accept-unrecognised-fields.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-04-14T10:51:55Z",
+      "lastCommit": "2021-09-08T10:05:14Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3dc55942423c1d7c297ab614b9e49e2f71857493"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5714885df92f6e7784d7e73bc6f0aa3e37fafb2a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ba812581bf8584dfe4c486626a2187ec0808eda",
+            "d0fa8fc8caf2b71c1cd6abf32532c02eb2d61a5a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-python-version-3-6-plus.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-10-26T16:26:52Z",
+      "lastCommit": "2021-09-01T10:15:33Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3dc55942423c1d7c297ab614b9e49e2f71857493",
+            "1b3f580dc9ab61fe682fa7b14c4762ab4823b1c1",
+            "71de3f64efe39c5de3011c4a86fe758d85def973"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-what-is-a-reference-implementation.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-08-30T17:27:45Z",
+      "lastCommit": "2021-08-30T17:27:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3877e24346b4cb6ae7f8aaac6a70a9261af27ec6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-where-to-implemenent-model-serialization.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-03-18T09:57:27Z",
+      "lastCommit": "2021-09-01T10:15:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3dc55942423c1d7c297ab614b9e49e2f71857493"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "164074dbd314a8cfba6b4337af74ae01ea776a3e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-extent-of-OOP-in-metadata-model.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-30T13:59:56Z",
+      "lastCommit": "2021-09-01T10:15:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3dc55942423c1d7c297ab614b9e49e2f71857493"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "229e9df63051460304d8bebbc56c5a591650b48c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-pre-1-0-deprecation-strategy.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-11-24T15:26:51Z",
+      "lastCommit": "2021-09-01T10:15:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3dc55942423c1d7c297ab614b9e49e2f71857493",
+            "35177fbe9c63236a5321768da3bfd5f2446adc75"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-google-python-style-guide.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-12-04T09:39:24Z",
+      "lastCommit": "2021-09-01T10:15:33Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3dc55942423c1d7c297ab614b9e49e2f71857493"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2385ebe7b044dcfcc0dc2fff43d303de712b4412",
+            "b5252fed65e71eede7ddef917a5e12993f92938f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-10-26T16:26:52Z",
+      "lastCommit": "2021-09-01T10:15:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3d84391b4242d6c9e3c986ffe956124e6f37de3",
+            "3dc55942423c1d7c297ab614b9e49e2f71857493"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-repository-library-design.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2021-11-24T08:57:16Z",
+      "lastCommit": "2021-12-01T08:32:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "845f3070d0f41ea297ff260496046e8a3da53166",
+            "bcab2e96b03abd28aa180c7ad51b90e000fbc1dd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-26T16:26:52Z",
+  "lastAdrCommit": "2021-12-01T08:32:46Z",
+  "firstCommit": "2013-01-31T18:54:15Z",
+  "lastCommit": "2022-01-18T09:10:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "845f3070d0f41ea297ff260496046e8a3da53166",
+        "5714885df92f6e7784d7e73bc6f0aa3e37fafb2a",
+        "bcab2e96b03abd28aa180c7ad51b90e000fbc1dd"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e3d84391b4242d6c9e3c986ffe956124e6f37de3",
+        "3dc55942423c1d7c297ab614b9e49e2f71857493",
+        "1b3f580dc9ab61fe682fa7b14c4762ab4823b1c1",
+        "71de3f64efe39c5de3011c4a86fe758d85def973",
+        "3877e24346b4cb6ae7f8aaac6a70a9261af27ec6",
+        "35177fbe9c63236a5321768da3bfd5f2446adc75"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1e24977677a94f9ce626f0a67bb94333d253d311",
+        "3370005e7dddcabe191c5a57305370371c0480f4",
+        "3a1ec87d52aff9870115086f5bb5cfa1f9d8d9b9"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "164074dbd314a8cfba6b4337af74ae01ea776a3e",
+        "2385ebe7b044dcfcc0dc2fff43d303de712b4412",
+        "229e9df63051460304d8bebbc56c5a591650b48c",
+        "b5252fed65e71eede7ddef917a5e12993f92938f"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1ba812581bf8584dfe4c486626a2187ec0808eda",
+        "d0fa8fc8caf2b71c1cd6abf32532c02eb2d61a5a"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

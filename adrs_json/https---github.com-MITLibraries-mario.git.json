@@ -1,0 +1,347 @@
+{
+  "repositoryUrl": "https://github.com/MITLibraries/mario.git",
+  "crawlDateTime": "2022-01-18T20:33:17.002822",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture-decisions"
+  ],
+  "numAdrFiles": 15,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0014-structure-of-cli.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [11. Indexing Commands and Flows](0011-indexing-commands-and-flows.md)",
+      "firstCommit": "2020-04-23T15:45:06Z",
+      "lastCommit": "2020-04-23T15:45:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "18043f9452ff45630dc30cac0ded9d232fd1bd27"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0015-use-a-single-bucket.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [8. Use One S3 Bucket Per Source](0008-use-one-s3-bucket-per-source.md)",
+      "firstCommit": "2020-04-23T15:45:06Z",
+      "lastCommit": "2020-04-23T17:34:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3e1c4bb8b335df6c624be15e385e228712b7212",
+            "18043f9452ff45630dc30cac0ded9d232fd1bd27"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0006-use-terraform-to-configure-infrastructure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-03T20:10:06Z",
+      "lastCommit": "2018-07-03T20:10:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d5106321a773a74ab006e4d08f35c8026ea42a14"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0005-use-aws-lambda.md",
+      "template": "Nygard",
+      "status": "Superceded by [12. Use Lambda and Fargate for Task Execution](0012-use-lambda-and-fargate-for-task-execution.md)",
+      "firstCommit": "2018-07-03T19:27:38Z",
+      "lastCommit": "2019-01-31T20:35:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bc5f852bbaac409712707c0b4b8bae1155f5f304",
+            "445256b7eeef1007b1eaf3d55d38703d51757f03"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0013-use-sqs-and-airflow-for-task-execution.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [12. Use Lambda and Fargate for Task Execution](0012-use-lambda-and-fargate-for-task-execution.md)",
+      "firstCommit": "2020-04-03T16:03:53Z",
+      "lastCommit": "2020-04-03T16:03:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "723cb17c42de06b444c0bfcb51894eeb90ef1aa5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0008-use-one-s3-bucket-per-source.md",
+      "template": "Nygard",
+      "status": "Superceded by [15. Use a Single Bucket](0015-use-a-single-bucket.md)",
+      "firstCommit": "2018-07-05T16:13:56Z",
+      "lastCommit": "2020-04-23T15:45:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "18043f9452ff45630dc30cac0ded9d232fd1bd27",
+            "5f5483e7005b8a3368de5dd34750ad7192ec6ad6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0011-indexing-commands-and-flows.md",
+      "template": "Nygard",
+      "status": "Superceded by [14. Structure of CLI](0014-structure-of-cli.md)",
+      "firstCommit": "2018-11-26T19:16:18Z",
+      "lastCommit": "2020-04-23T15:45:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c933c04245999be4794eb95cfd4b2485914f0dc8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "18043f9452ff45630dc30cac0ded9d232fd1bd27"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0009-elasticsearch-indexing-strategy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-06T15:45:28Z",
+      "lastCommit": "2018-07-06T15:45:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "df94a81d8465b20552d61bebefc046fe5016f5f4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0007-use-go-for-core-language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-05T15:22:45Z",
+      "lastCommit": "2018-07-05T15:22:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "307fb73e0e9885b8471afd0862fc1f25cc97ab11"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0010-use-openapi-specification.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-13T14:40:04Z",
+      "lastCommit": "2018-08-13T14:40:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "be0e3f21422d158b9551deaabd776a08f5e5a8a8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0012-use-lambda-and-fargate-for-task-execution.md",
+      "template": "Nygard",
+      "status": "Supercedes [5. Use AWS Lambda](0005-use-aws-lambda.md) Superceded by [13. Use SQS and Airflow for Task Execution](0013-use-sqs-and-airflow-for-task-execution.md)",
+      "firstCommit": "2019-01-31T20:35:51Z",
+      "lastCommit": "2020-04-03T16:03:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "723cb17c42de06b444c0bfcb51894eeb90ef1aa5",
+            "445256b7eeef1007b1eaf3d55d38703d51757f03"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0003-follow-twelve-factor-methodology.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-03T18:20:06Z",
+      "lastCommit": "2018-07-03T18:20:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2991eb22301116d943eacefe17fee51b2afd20f9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0004-use-aws-s3.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-03T18:20:16Z",
+      "lastCommit": "2018-07-03T18:20:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "915b8e9c9db528b2ecdcc341c424ff3dc871da46"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0002-use-elasticsearch.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-03T17:52:29Z",
+      "lastCommit": "2018-07-03T17:52:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f47257eb00f8718b6f6a1a87d0bc8672973b2fe8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-03T15:48:50Z",
+      "lastCommit": "2018-07-03T15:48:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "33038034816b9cdfe830728e2a76921ed385e2ef"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-03T15:48:50Z",
+  "lastAdrCommit": "2020-04-23T17:34:33Z",
+  "firstCommit": "2018-07-03T15:41:14Z",
+  "lastCommit": "2021-08-03T13:37:54Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture-decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d5106321a773a74ab006e4d08f35c8026ea42a14",
+        "33038034816b9cdfe830728e2a76921ed385e2ef",
+        "c933c04245999be4794eb95cfd4b2485914f0dc8",
+        "915b8e9c9db528b2ecdcc341c424ff3dc871da46",
+        "2991eb22301116d943eacefe17fee51b2afd20f9"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e3e1c4bb8b335df6c624be15e385e228712b7212",
+        "307fb73e0e9885b8471afd0862fc1f25cc97ab11",
+        "be0e3f21422d158b9551deaabd776a08f5e5a8a8",
+        "723cb17c42de06b444c0bfcb51894eeb90ef1aa5",
+        "f47257eb00f8718b6f6a1a87d0bc8672973b2fe8",
+        "bc5f852bbaac409712707c0b4b8bae1155f5f304",
+        "18043f9452ff45630dc30cac0ded9d232fd1bd27",
+        "445256b7eeef1007b1eaf3d55d38703d51757f03",
+        "5f5483e7005b8a3368de5dd34750ad7192ec6ad6",
+        "df94a81d8465b20552d61bebefc046fe5016f5f4"
+      ],
+      "numberOfCommits": 10
+    }
+  ]
+}

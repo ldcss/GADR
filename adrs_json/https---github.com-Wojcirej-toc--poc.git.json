@@ -1,0 +1,105 @@
+{
+  "repositoryUrl": "https://github.com/Wojcirej/toc-poc.git",
+  "crawlDateTime": "2022-01-18T21:10:24.32246",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture_decision_log"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture_decision_log",
+      "path": "1577576739261_infrastructure_choice_for_deployment.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-29T00:11:23Z",
+      "lastCommit": "2019-12-29T00:11:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c79c54ab6cc85752278d2c9736cda04e3c854872"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture_decision_log",
+      "path": "1577574698834_architecture_choice_for_template_generation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-28T23:34:49Z",
+      "lastCommit": "2019-12-28T23:34:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81b34cb9b73c4c76f292cb32d31a3ecdb979c4f8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture_decision_log",
+      "path": "1577570614084_document_each_decision_in_standarised_way.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-28T22:29:16Z",
+      "lastCommit": "2019-12-28T22:29:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8aee4feeeac5a42a4fd4154be07e313578276997"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture_decision_log",
+      "path": "1577573517559_language_choice.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-28T23:06:26Z",
+      "lastCommit": "2019-12-28T23:06:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f586e42596943346bb0c860dbebd23330b2266bd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-12-28T22:29:16Z",
+  "lastAdrCommit": "2019-12-29T00:11:23Z",
+  "firstCommit": "2019-12-24T13:21:32Z",
+  "lastCommit": "2021-11-16T22:04:09Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f586e42596943346bb0c860dbebd23330b2266bd",
+        "81b34cb9b73c4c76f292cb32d31a3ecdb979c4f8",
+        "8aee4feeeac5a42a4fd4154be07e313578276997",
+        "c79c54ab6cc85752278d2c9736cda04e3c854872"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

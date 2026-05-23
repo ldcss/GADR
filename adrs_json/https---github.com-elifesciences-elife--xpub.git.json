@@ -1,0 +1,199 @@
+{
+  "repositoryUrl": "https://github.com/elifesciences/elife-xpub.git",
+  "crawlDateTime": "2022-01-18T20:24:12.137919",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-pull-request-workflow.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-05T13:10:40Z",
+      "lastCommit": "2018-06-05T13:10:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6c1933c5d0bbd4cf3d7ee196345962b76bde6b62"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-hindawi-pattern.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-13T11:02:49Z",
+      "lastCommit": "2019-03-14T14:17:38Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4ff607a98dd60cc277fbf91408768869f6a17e6",
+            "31f8eaab2a9d1fc074c214e3a8ecac9f73a5d0d2",
+            "78344f1c0bdd09f71f5657de28c5e968bd176863",
+            "8f777adec8f53de5a07fa6e88504fa2a8cebd600"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "109504047b80762ad73aee8cfccfb549622cbf82"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "59ddc3888cb0f9ca30ac0cbc5f2f09d92103ccdb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-pubsweet.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-05T14:41:17Z",
+      "lastCommit": "2018-09-25T09:59:34Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a39540225b8ad5d8b1e31e49b7cefdea772b6248"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9b81088e75d220010a2d8f1cceab92efced2b117"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-workflow.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-06-05T12:48:16Z",
+      "lastCommit": "2018-06-05T14:41:17Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d0d56a7bb1cdfa6f13cb8bed283572d9f68b1ff8"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a39540225b8ad5d8b1e31e49b7cefdea772b6248",
+            "6c1933c5d0bbd4cf3d7ee196345962b76bde6b62"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-code-structure.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-06-14T13:50:34Z",
+      "lastCommit": "2018-06-15T12:59:45Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1695ff66b368d9d6d230dec040351fb657bcc8b9",
+            "2e2b8c4c2f800dcb0b675355a8a87c01ae698a8f",
+            "07c114c2dda196b60f663d0523660a0c95f3b758"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-05T12:48:16Z",
+  "lastAdrCommit": "2019-03-14T14:17:38Z",
+  "firstCommit": "2017-08-16T13:26:54Z",
+  "lastCommit": "2020-08-13T00:25:15Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "109504047b80762ad73aee8cfccfb549622cbf82",
+        "d0d56a7bb1cdfa6f13cb8bed283572d9f68b1ff8"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a4ff607a98dd60cc277fbf91408768869f6a17e6",
+        "31f8eaab2a9d1fc074c214e3a8ecac9f73a5d0d2",
+        "78344f1c0bdd09f71f5657de28c5e968bd176863",
+        "8f777adec8f53de5a07fa6e88504fa2a8cebd600"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "59ddc3888cb0f9ca30ac0cbc5f2f09d92103ccdb"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9b81088e75d220010a2d8f1cceab92efced2b117"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1695ff66b368d9d6d230dec040351fb657bcc8b9",
+        "2e2b8c4c2f800dcb0b675355a8a87c01ae698a8f",
+        "6c1933c5d0bbd4cf3d7ee196345962b76bde6b62",
+        "a39540225b8ad5d8b1e31e49b7cefdea772b6248",
+        "07c114c2dda196b60f663d0523660a0c95f3b758"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

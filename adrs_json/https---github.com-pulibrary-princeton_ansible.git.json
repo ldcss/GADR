@@ -1,0 +1,137 @@
+{
+  "repositoryUrl": "https://github.com/pulibrary/princeton_ansible.git",
+  "crawlDateTime": "2022-02-07T15:19:56.673995",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0003-cicognara-letsencrypt-path.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-11T13:27:42Z",
+      "lastCommit": "2020-02-12T15:17:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff632139dc31e0c0d64dfe571fc8605b8c8ebcf2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a7a08257b2bcfe916f72f64e78eaa03af8c7f0a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0002-group-vars.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-16T21:32:21Z",
+      "lastCommit": "2020-01-16T21:32:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ef019b106568674d85fbb4bbfe75b4a4c05731e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0001-document-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-16T21:15:08Z",
+      "lastCommit": "2020-01-16T21:19:37Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "12be50561ff4ccb89fab9bb8bbe69ed39e005fbe",
+            "2600c7f76e68715a9466436b0aced2f96d1452e1"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0004-key-scope",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-06-22T15:55:53Z",
+      "lastCommit": "2021-06-22T15:55:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf3a21167fb548214ff61bcaac59beb84f0b4533"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-16T21:15:08Z",
+  "lastAdrCommit": "2021-06-22T15:55:53Z",
+  "firstCommit": "2016-10-10T21:32:39Z",
+  "lastCommit": "2022-02-07T14:00:47Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ff632139dc31e0c0d64dfe571fc8605b8c8ebcf2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4ef019b106568674d85fbb4bbfe75b4a4c05731e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "12be50561ff4ccb89fab9bb8bbe69ed39e005fbe",
+        "2600c7f76e68715a9466436b0aced2f96d1452e1",
+        "cf3a21167fb548214ff61bcaac59beb84f0b4533"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5a7a08257b2bcfe916f72f64e78eaa03af8c7f0a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

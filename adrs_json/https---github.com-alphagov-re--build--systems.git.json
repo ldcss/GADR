@@ -1,0 +1,215 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/re-build-systems.git",
+  "crawlDateTime": "2022-01-18T19:10:12.402737",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-add-ability-to-import-custom-jobs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-04T10:49:50Z",
+      "lastCommit": "2018-09-04T10:50:00Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f2fcf1b4aa0f5522f49e589af0d8012955be5faa"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8543d4f0793c0c1519f7b0fd863d02112ce77ffc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-buildah-discovery.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-03T10:56:10Z",
+      "lastCommit": "2018-09-05T09:44:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "90083231f8f278fb664c7135fadda6d8b9b5b1eb",
+            "fcd506111af55c4b6e4f007014d3dd14435f88e5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-https-implementation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-29T11:41:43Z",
+      "lastCommit": "2018-07-03T13:45:55Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a3a4e039a3ef6b82eaa1fd1bec106672a10d649"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de4642898aac90cd2bee3922eb0d32282b9e652c",
+            "22be972111398cb8a70d6093bd613bff4f094286"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-pin-versions-of-jenkins-and-plugins.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-06T11:11:14Z",
+      "lastCommit": "2018-08-06T11:11:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1751faa7f334452baef04d785eaf9e2bd5ed463"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-do-not-switch-from-efs-to-ebs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-11T09:15:12Z",
+      "lastCommit": "2018-09-11T09:15:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bd085764bdec7f772c368513cc2bdf9a0bc7e65c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-containers-and-multiple-boxes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-26T08:14:23Z",
+      "lastCommit": "2018-06-26T08:14:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25db7977193e19b42d09464f8c753b133067be2f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-22T16:38:37Z",
+      "lastCommit": "2018-05-22T16:38:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "683240ec821f13db9d3249180f6ec821bfd83178"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-22T16:38:37Z",
+  "lastAdrCommit": "2018-09-11T09:15:12Z",
+  "firstCommit": "2018-05-04T11:34:31Z",
+  "lastCommit": "2019-02-06T15:32:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8a3a4e039a3ef6b82eaa1fd1bec106672a10d649"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "de4642898aac90cd2bee3922eb0d32282b9e652c",
+        "683240ec821f13db9d3249180f6ec821bfd83178",
+        "f2fcf1b4aa0f5522f49e589af0d8012955be5faa",
+        "22be972111398cb8a70d6093bd613bff4f094286"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bd085764bdec7f772c368513cc2bdf9a0bc7e65c",
+        "a1751faa7f334452baef04d785eaf9e2bd5ed463",
+        "25db7977193e19b42d09464f8c753b133067be2f"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8543d4f0793c0c1519f7b0fd863d02112ce77ffc"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "90083231f8f278fb664c7135fadda6d8b9b5b1eb",
+        "fcd506111af55c4b6e4f007014d3dd14435f88e5"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

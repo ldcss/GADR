@@ -1,0 +1,70 @@
+{
+  "repositoryUrl": "https://github.com/mfbieber/AdventOfCode-Java-learning-project.git",
+  "crawlDateTime": "2022-01-18T18:30:32.678027",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "src/docs/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "src/docs/architecture/decisions",
+      "path": "0002-structural-patterns.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-02T18:39:10Z",
+      "lastCommit": "2019-02-02T23:59:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff47a147b61a449c688895ac11afc6855666cdbc",
+            "dd08dca6be592a7368ee8b0ed959dde2a147180b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/docs/architecture/decisions",
+      "path": "0001-creational-patterns.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-02T18:39:10Z",
+      "lastCommit": "2019-02-02T23:59:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff47a147b61a449c688895ac11afc6855666cdbc",
+            "dd08dca6be592a7368ee8b0ed959dde2a147180b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-02T18:39:10Z",
+  "lastAdrCommit": "2019-02-02T23:59:50Z",
+  "firstCommit": "2019-01-11T03:07:46Z",
+  "lastCommit": "2021-08-25T20:50:13Z",
+  "adrDirFile": {
+    "fileContent": "src/docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ff47a147b61a449c688895ac11afc6855666cdbc",
+        "dd08dca6be592a7368ee8b0ed959dde2a147180b"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

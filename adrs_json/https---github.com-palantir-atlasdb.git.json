@@ -1,0 +1,724 @@
+{
+  "repositoryUrl": "https://github.com/palantir/atlasdb.git",
+  "crawlDateTime": "2022-01-18T22:56:05.232048",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/source/miscellaneous/doc/adr"
+  ],
+  "numAdrFiles": 17,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0008-add-heartbeat-for-schema-lock-holders.md",
+      "template": "Nygard",
+      "status": "Accepted Superseded by [PR #3620: Use CQL to create tables](https://github.com/palantir/atlasdb/pull/3620).",
+      "firstCommit": "2016-09-27T17:15:04Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6bbe94317b41ba25a176799c5a1e251ceeb6927"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9bbc254384b52559a60ce6f23ab1bdb8bd92055"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2951e5591d65f8332f53a7b1796f0de40b3b5dc0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0016-use-tickets-encoding-for-transactions.md",
+      "template": "Nygard",
+      "status": "Technical decision has been accepted. This architectural decision record is still a work in progress.",
+      "firstCommit": "2019-05-08T11:50:07Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e5e160c30a37db3fa7f0b829a6b7fe99b247906e",
+            "d23cc47cd575db21852e5699ed44ddb70ee2b14e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0004-create-schema-lock-table-via-a-one-off-cli-command.md",
+      "template": "Nygard",
+      "status": "Accepted Superseded by [6. Create schema lock table using configuration](0006-create-schema-lock-table-using-configuration.md)",
+      "firstCommit": "2016-05-18T13:18:22Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7559a2c15c028b2d9bbf8c8776967d2af03caf7c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6bbe94317b41ba25a176799c5a1e251ceeb6927"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25c8d3cfd171529ccee2027e24afa1b89badb9e5",
+            "021c1da39797f3d751d70e41d70b2adfba555a53"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9bbc254384b52559a60ce6f23ab1bdb8bd92055"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0014-targeted-sweep.md",
+      "template": "Nygard",
+      "status": "**Accepted**",
+      "firstCommit": "2018-07-04T10:29:28Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "225d66914311199bed0bfb8a2ac7045db29cd420"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0009-load-and-read-streams-in-same-transaction.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2017-01-20T20:21:15Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6bbe94317b41ba25a176799c5a1e251ceeb6927"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a414c261ee2facfcba94ed6b47e1f42a557bccd",
+            "c520a47eb27eca1a920e32b7c52f1d04d35b669f"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0006-create-schema-lock-table-using-configuration.md",
+      "template": "Nygard",
+      "status": "Accepted Supersedes [4. Create schema lock table via a one off CLI command](0004-create-schema-lock-table-via-a-one-off-cli-command.md) Superseded by [PR #3620: Use CQL to create tables](https://github.com/palantir/atlasdb/pull/3620).",
+      "firstCommit": "2016-07-18T15:55:22Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6bbe94317b41ba25a176799c5a1e251ceeb6927"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25c8d3cfd171529ccee2027e24afa1b89badb9e5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9bbc254384b52559a60ce6f23ab1bdb8bd92055"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0003-tagging-for-releases-and-long-term-support.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-05-26T14:44:08Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6bbe94317b41ba25a176799c5a1e251ceeb6927"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c7908e356d76ae91933a06dafbb1e82e22f8754c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0015-batch-asynchronous-post-transaction-unlock-calls.md",
+      "template": "Nygard",
+      "status": "Accepted Functionally, this decision remains accepted. The implementation has been superseded; we now use Disruptor Autobatchers.",
+      "firstCommit": "2018-07-05T09:37:31Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "98f00dccbdf35b5f1688e6293447b1f6f894f802",
+            "f9bbc254384b52559a60ce6f23ab1bdb8bd92055"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0007-use-cql-for-column-paging-for-sweep.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2016-08-26T10:22:16Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad8a21fa768895402d8961103dfedebdf2d37b49",
+            "e85405bc74d3150ab50761d1ddf71487b06659e3"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6bbe94317b41ba25a176799c5a1e251ceeb6927"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0012-batch-timestamp-requests-on-the-client-side.md",
+      "template": "Nygard",
+      "status": "Accepted The third decision point has been superseded. The ability to disable request batching has been removed, as we have not seen cases in practice where enabling it has caused issues (even in spite of the latency cost there).",
+      "firstCommit": "2017-10-02T15:48:35Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b5cd76c8ec8475783cc66804f216262113e9505",
+            "f9bbc254384b52559a60ce6f23ab1bdb8bd92055"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0017-transactions3.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2022-01-11T10:42:54Z",
+      "lastCommit": "2022-01-11T10:42:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d61c3426e76c1cf4d138658b7b99e340c397f88b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0011-retry-long-running-locks-via-blockingtimeoutexception.md",
+      "template": "Nygard",
+      "status": "Accepted Note that this decision applies only to locks that were taken out via the legacy (V1) lock service. We have since implemented an asynchronous lock service which is used for all transactional locks; blocking timeouts are not relevant there.",
+      "firstCommit": "2017-05-12T19:12:59Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32691445844a76ab36b42a77fb711df54b2504f0",
+            "f9bbc254384b52559a60ce6f23ab1bdb8bd92055"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0005-stop-allowing-embedded-lock-and-timestamp-services-in-production.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-04-14T02:41:02Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b057aab690f064921759854018af51c015aa367",
+            "75598f6f6f362e75d3ca236c1cdba37a139659a5",
+            "2a35751e66d64f334850b6382fa1c47c97b83d96"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6bbe94317b41ba25a176799c5a1e251ceeb6927"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "021c1da39797f3d751d70e41d70b2adfba555a53"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0002-prevent-tables-from-being-creating-simultaneously-in-cassandra-via-a-locks-table.md",
+      "template": "Nygard",
+      "status": "Accepted Superseded by [PR #3620: Use CQL to create tables](https://github.com/palantir/atlasdb/pull/3620).",
+      "firstCommit": "2016-05-18T12:53:10Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d727744bd0b40cfe88e57178b9dcaba7f2e1479b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6bbe94317b41ba25a176799c5a1e251ceeb6927"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "021c1da39797f3d751d70e41d70b2adfba555a53"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9bbc254384b52559a60ce6f23ab1bdb8bd92055"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01fc9eafd69d84ffcd05044b198c03524a80ae3c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0010-use-partial-row-complete-cell-batching-in-gettimestampsbycell.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-03-10T13:01:34Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca3b9694b03fb47a8cdc528a4034f1c7e3b1558c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-04-14T02:41:02Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b057aab690f064921759854018af51c015aa367"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6bbe94317b41ba25a176799c5a1e251ceeb6927"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/source/miscellaneous/doc/adr",
+      "path": "0013-write-cassandra-tombstones-and-sentinels-with-a-fresh-cassandra-timestamp.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-15T09:30:21Z",
+      "lastCommit": "2021-06-15T18:56:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1cc03d8ce13f4ebd011a7b8894bda735354baa2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-04-14T02:41:02Z",
+  "lastAdrCommit": "2022-01-11T10:42:54Z",
+  "firstCommit": "2015-07-22T21:07:21Z",
+  "lastCommit": "2022-01-18T18:48:44Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ca3b9694b03fb47a8cdc528a4034f1c7e3b1558c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4b057aab690f064921759854018af51c015aa367",
+        "75598f6f6f362e75d3ca236c1cdba37a139659a5",
+        "d727744bd0b40cfe88e57178b9dcaba7f2e1479b",
+        "2a35751e66d64f334850b6382fa1c47c97b83d96",
+        "7559a2c15c028b2d9bbf8c8776967d2af03caf7c"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ad8a21fa768895402d8961103dfedebdf2d37b49",
+        "e85405bc74d3150ab50761d1ddf71487b06659e3"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b6bbe94317b41ba25a176799c5a1e251ceeb6927"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8a414c261ee2facfcba94ed6b47e1f42a557bccd",
+        "c520a47eb27eca1a920e32b7c52f1d04d35b669f"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b7aa0a92401df5ca63ca39a7e63968cccdb490bd"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "25c8d3cfd171529ccee2027e24afa1b89badb9e5",
+        "021c1da39797f3d751d70e41d70b2adfba555a53"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c7908e356d76ae91933a06dafbb1e82e22f8754c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "225d66914311199bed0bfb8a2ac7045db29cd420"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a1cc03d8ce13f4ebd011a7b8894bda735354baa2",
+        "98f00dccbdf35b5f1688e6293447b1f6f894f802",
+        "d61c3426e76c1cf4d138658b7b99e340c397f88b",
+        "e5e160c30a37db3fa7f0b829a6b7fe99b247906e",
+        "d23cc47cd575db21852e5699ed44ddb70ee2b14e",
+        "32691445844a76ab36b42a77fb711df54b2504f0",
+        "4b5cd76c8ec8475783cc66804f216262113e9505",
+        "f9bbc254384b52559a60ce6f23ab1bdb8bd92055"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "01fc9eafd69d84ffcd05044b198c03524a80ae3c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2951e5591d65f8332f53a7b1796f0de40b3b5dc0"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

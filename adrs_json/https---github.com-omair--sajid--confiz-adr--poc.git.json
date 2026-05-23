@@ -1,0 +1,181 @@
+{
+  "repositoryUrl": "https://github.com/omair-sajid-confiz/adr-poc.git",
+  "crawlDateTime": "2022-01-18T18:55:10.752252",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-use-unity-for-dependency-injection.md",
+      "template": "Nygard",
+      "status": "Accepted Extends [6. use dependency injection](0006-use-dependency-injection.md) Amended By [8. Use Autofac for dependency injection](0008-use-autofac-for-dependency-injection.md)",
+      "firstCommit": "2018-09-17T19:35:59Z",
+      "lastCommit": "2018-09-17T19:35:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2b725d9000de03c5b3517012a1eb52fa443709c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-use-autofac-for-dependency-injection.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [5. Hardcode dependencies](0005-hardcode-dependencies.md) Amends [7. Use Unity for dependency injection](0007-use-unity-for-dependency-injection.md)",
+      "firstCommit": "2018-09-17T19:35:59Z",
+      "lastCommit": "2018-09-17T19:35:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2b725d9000de03c5b3517012a1eb52fa443709c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-swagger-to-document-apis.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-17T18:20:19Z",
+      "lastCommit": "2018-09-17T18:20:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "28f390bef5649918725b0e1b401a21c6dda4b6e4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-generate-help-file.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [3. write help file](0003-write-help-file.md)",
+      "firstCommit": "2018-09-17T18:41:40Z",
+      "lastCommit": "2018-09-17T18:41:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6a5ca6a77938fb495fc79bf187e85b3c65696580"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-write-help-file.md",
+      "template": "Nygard",
+      "status": "Superceded by [4. Generate Help file](0004-generate-help-file.md)",
+      "firstCommit": "2018-09-17T18:41:40Z",
+      "lastCommit": "2018-09-17T18:41:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6a5ca6a77938fb495fc79bf187e85b3c65696580"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-hardcode-dependencies.md",
+      "template": "Nygard",
+      "status": "Superceded by [6. use dependency injection](0006-use-dependency-injection.md) Superceded by [8. Use Autofac for dependency injection](0008-use-autofac-for-dependency-injection.md)",
+      "firstCommit": "2018-09-17T19:35:59Z",
+      "lastCommit": "2018-09-17T19:35:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2b725d9000de03c5b3517012a1eb52fa443709c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-dependency-injection.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [5. Hardcode dependencies](0005-hardcode-dependencies.md) Extended By [7. Use Unity for dependency injection](0007-use-unity-for-dependency-injection.md)",
+      "firstCommit": "2018-09-17T19:35:59Z",
+      "lastCommit": "2018-09-17T19:35:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2b725d9000de03c5b3517012a1eb52fa443709c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-17T18:12:07Z",
+      "lastCommit": "2018-09-17T18:12:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a564b4e6393c6095b6d5bbf8767426bf37c4442"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-17T18:12:07Z",
+  "lastAdrCommit": "2018-09-17T19:35:59Z",
+  "firstCommit": "2018-09-17T18:06:57Z",
+  "lastCommit": "2018-09-17T19:35:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "28f390bef5649918725b0e1b401a21c6dda4b6e4",
+        "a2b725d9000de03c5b3517012a1eb52fa443709c",
+        "6a5ca6a77938fb495fc79bf187e85b3c65696580",
+        "2a564b4e6393c6095b6d5bbf8767426bf37c4442"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

@@ -1,0 +1,884 @@
+{
+  "repositoryUrl": "https://github.com/ASethi93/james.git",
+  "crawlDateTime": "2022-01-18T21:22:39.763619",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "src/adr"
+  ],
+  "numAdrFiles": 45,
+  "adrFiles": [
+    {
+      "adrDirectory": "src/adr",
+      "path": "0010-enable-elasticsearch-routing.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus) Additional performance testing is required for adoption.",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0041-replace-jcloud-with-s3.md",
+      "template": "Nygard",
+      "status": "Proposed Adoption needs to be backed by some performance tests.",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0032-distributed-mail-queue-cleanup.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0005-distributed-task-termination-ackowledgement.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0015-objectstorage-blobid-list.md",
+      "template": "Nygard",
+      "status": "Proposed Adoption needs to be backed by some performance tests.",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0012-jmap-partial-reads.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0014-blobstore-storage-policies.md",
+      "template": "Nygard",
+      "status": "Proposed Adoption needs to be backed by some performance tests, as well as data repartition between Cassandra and object storage shifts.",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0023-cassandra-mailbox-counters-inconsistencies.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0025-cassandra-blob-store-cache.md",
+      "template": "Nygard",
+      "status": "Proposed Supercedes [14. Add storage policies for BlobStore](0014-blobstore-storage-policies.md)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0021-cassandra-acl-inconsistency.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0022-cassandra-message-inconsistency.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0008-distributed-task-await.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0004-distributed-tasks-listing.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0042-applicative-read-repairs.md",
+      "template": "Nygard",
+      "status": "Adopted (lazy consensus) Completes [20. Cassandra Mailbox object consistency](0020-cassandra-mailbox-object-consistency.md), [23. Cassandra Mailbox Counters inconsistencies](0023-cassandra-mailbox-counters-inconsistencies.md)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0006-task-serialization.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0026-removing-configured-additional-mailboxListeners.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0033-use-scala-in-event-sourcing-modules.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0040-quality-levels-definitions.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0017-file-mail-queue-deprecation.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0029-Cassandra-mailbox-deletion-cleanup.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0042-james-cli-based-on-webadmin.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus).",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0031-distributed-mail-queue.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0034-mailbox-api-visibility-and-usage.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0009-java-11-migration.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0028-Recompute-mailbox-quotas.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0016-distributed-workqueue.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus) Supercedes [3. Distributed WorkQueue](0003-distributed-workqueue.md)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0020-cassandra-mailbox-object-consistency.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0038-distributed-eventbus.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0030-separate-attachment-content-and-metadata.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0007-distributed-task-cancellation.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0037-eventbus.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0002-make-taskmanager-distributed.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0009-disable-elasticsearch-dynamic-mapping.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0013-precompute-jmap-preview.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0027-eventBus-error-handling-upon-dispatch.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0043-avoid-elasticsearch-on-critical-reads.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus). Scope: Distributed James",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0011-remove-elasticsearch-document-source.md",
+      "template": "Nygard",
+      "status": "Rejected The benefits do not outweigh the costs.",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0003-distributed-workqueue.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus) Superceded by [16. Distributed WorkQueue](0016-distributed-workqueue.md)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0024-polyglot-strategy.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0018-jmap-new-specs.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0019-reactor-netty-adoption.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0036-against-use-of-conditional-statements-in-guice-modules.md",
+      "template": "Nygard",
+      "status": "Accepted (lazy consensus)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0035-distributed-listeners-configuration.md",
+      "template": "Nygard",
+      "status": "Proposed Supercedes [26. Removing a configured additional MailboxListener](0026-removing-configured-additional-mailboxListeners.md)",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "src/adr",
+      "path": "0039-distributed-blob-garbage-collector.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-12-10T20:05:48Z",
+      "lastCommit": "2020-12-10T20:05:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-10T20:05:48Z",
+  "lastAdrCommit": "2020-12-10T20:05:48Z",
+  "firstCommit": "2020-12-10T20:05:48Z",
+  "lastCommit": "2020-12-10T20:05:48Z",
+  "adrDirFile": {
+    "fileContent": "src/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a1d1592d6cd5194a930bbe91f5cf8ebaf9ac5aae"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

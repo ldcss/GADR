@@ -1,0 +1,199 @@
+{
+  "repositoryUrl": "https://github.com/VolleyManagement/volley-management.git",
+  "crawlDateTime": "2022-01-18T19:56:24.044421",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-follow-optimistic-concurrency.md",
+      "template": "Madr",
+      "status": "\u2714 accepted",
+      "firstCommit": "2021-05-03T07:29:34Z",
+      "lastCommit": "2021-05-03T07:29:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6c895215dd3248ce5969d64a4f07f7a1d58c55b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-use-azure-table-storage-for-persistence.md",
+      "template": "Madr",
+      "status": "\u2714 accepted",
+      "firstCommit": "2019-08-23T07:49:30Z",
+      "lastCommit": "2019-08-23T07:49:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9abcc26669485c7f55672b84243e130cd9dc1912"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-angular-for-spa.md",
+      "template": "Madr",
+      "status": "\u2714 accepted",
+      "firstCommit": "2019-08-23T06:41:38Z",
+      "lastCommit": "2019-08-23T07:23:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a888cbd1bf0fe07f82da4068f1e1017bbd94ff84",
+            "9a185ab34f8ab7c479ea23b63a9a32e44cf73d43"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-auth0-as-authentication-provider.md",
+      "template": "Madr",
+      "status": "\u2714 accepted",
+      "firstCommit": "2019-08-22T07:48:45Z",
+      "lastCommit": "2019-08-23T07:23:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a888cbd1bf0fe07f82da4068f1e1017bbd94ff84",
+            "81f32924f82cbeb14528b6a42cc83046d4ef8eec"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-azure-app-services-for-hosting.md",
+      "template": "Madr",
+      "status": "\u2714 accepted",
+      "firstCommit": "2019-08-23T07:30:16Z",
+      "lastCommit": "2019-08-23T07:49:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca6ef71fdc7ff9f7eeb8d15bc50c56b6e155480c",
+            "9abcc26669485c7f55672b84243e130cd9dc1912"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-sendgrid-as-mailing-system.md",
+      "template": "Madr",
+      "status": "\u2714 accepted",
+      "firstCommit": "2019-08-22T09:27:34Z",
+      "lastCommit": "2019-08-22T09:27:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb968cc5ff5369466d82a2cfa9907aaea379b55d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-docker-for-hosting-application.md",
+      "template": "Madr",
+      "status": "\u2714 accepted",
+      "firstCommit": "2019-08-23T06:55:10Z",
+      "lastCommit": "2019-08-23T07:30:16Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7e0151ca4adc8098bedadd81648d9aa826d118a",
+            "ca6ef71fdc7ff9f7eeb8d15bc50c56b6e155480c",
+            "c7b38c28da443e30a2c8b7ad160f9031caaeb21e"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-08-21T08:28:20Z",
+      "lastCommit": "2019-08-21T08:28:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56747b35f289560321d2137feb5c12c59b1ab416"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-21T08:28:20Z",
+  "lastAdrCommit": "2021-05-03T07:29:34Z",
+  "firstCommit": "2014-11-24T15:43:23Z",
+  "lastCommit": "2022-01-05T20:01:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d7e0151ca4adc8098bedadd81648d9aa826d118a",
+        "a888cbd1bf0fe07f82da4068f1e1017bbd94ff84",
+        "ca6ef71fdc7ff9f7eeb8d15bc50c56b6e155480c",
+        "81f32924f82cbeb14528b6a42cc83046d4ef8eec",
+        "9abcc26669485c7f55672b84243e130cd9dc1912",
+        "bb968cc5ff5369466d82a2cfa9907aaea379b55d",
+        "c7b38c28da443e30a2c8b7ad160f9031caaeb21e",
+        "9a185ab34f8ab7c479ea23b63a9a32e44cf73d43"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "56747b35f289560321d2137feb5c12c59b1ab416",
+        "6c895215dd3248ce5969d64a4f07f7a1d58c55b0"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

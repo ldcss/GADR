@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/UniTemplates/spring-boot-app.git",
+  "crawlDateTime": "2022-01-18T17:47:40.377626",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-external-config-file.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-11-27T14:15:21Z",
+      "lastCommit": "2017-11-27T14:15:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "661b00c7ab8970779f72e7a2e395de52b775f3f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-11-27T14:15:21Z",
+      "lastCommit": "2017-11-27T14:15:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "661b00c7ab8970779f72e7a2e395de52b775f3f7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-11-27T14:15:21Z",
+  "lastAdrCommit": "2017-11-27T14:15:21Z",
+  "firstCommit": "2017-11-27T14:15:21Z",
+  "lastCommit": "2017-12-07T08:20:51Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "661b00c7ab8970779f72e7a2e395de52b775f3f7"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

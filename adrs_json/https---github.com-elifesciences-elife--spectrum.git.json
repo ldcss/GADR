@@ -1,0 +1,106 @@
+{
+  "repositoryUrl": "https://github.com/elifesciences/elife-spectrum.git",
+  "crawlDateTime": "2022-01-18T19:10:34.653801",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0002-polling.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-15T10:12:04Z",
+      "lastCommit": "2017-09-15T10:12:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd1884e3ade8264335453519d7dad0f7ae70ae7f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-fail-fast.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-15T10:12:04Z",
+      "lastCommit": "2017-09-15T10:12:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd1884e3ade8264335453519d7dad0f7ae70ae7f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-parallel-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-15T10:12:04Z",
+      "lastCommit": "2017-09-15T10:12:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd1884e3ade8264335453519d7dad0f7ae70ae7f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0004-subsets.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-28T16:05:03Z",
+      "lastCommit": "2017-09-28T16:05:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c25911d46eb1becf5b059dc80eac2daf6d0066e0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-09-15T10:12:04Z",
+  "lastAdrCommit": "2017-09-28T16:05:03Z",
+  "firstCommit": "2016-05-31T14:15:00Z",
+  "lastCommit": "2021-12-14T03:04:56Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fd1884e3ade8264335453519d7dad0f7ae70ae7f",
+        "c25911d46eb1becf5b059dc80eac2daf6d0066e0"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

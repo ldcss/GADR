@@ -1,0 +1,517 @@
+{
+  "repositoryUrl": "https://github.com/actions/runner.git",
+  "crawlDateTime": "2022-01-18T23:03:49.349475",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 14,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0263-proxy-support.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-09T16:52:04Z",
+      "lastCommit": "2021-05-25T14:42:50Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a371309079e162a14746f5ae73a773bb65bb43f2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d1f72583569eaedd4f0e361387435f5e91844605"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b19e5d7924c0ed8480916e79d69d9e90d25a5070"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e15414eb5e20e98d8ffb6d8d6176a4410b410cc6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0549-composite-run-steps.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-13T16:30:31Z",
+      "lastCommit": "2021-05-26T10:01:02Z",
+      "numberOfCommits": 9,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "562eafab3a0a9a069a3e78b2bf49621be73b3fee",
+            "bd1f245aace715a0a0879859a2b19f893d3326d4",
+            "6c3958f365c3cbefec28e5b71933831e5ac6496f"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "005f1c15b1af69e34ce342005c1c32f1a23f0746"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca13b25240d37d23510eb12e678d23fa279e9323"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e7d74da1600b1aa8ac8db18cc4c76ef44a82e689"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e4267b8434791d1e2055768577210c8467dfcb34",
+            "391bc35bb9b49022913c56ff96c21ca12417f3c9",
+            "d5e40c6a60206153a77a97d0fcd7a4f001a1c058"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "1438-conditional-composite.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-29T13:45:42Z",
+      "lastCommit": "2021-10-29T13:45:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "67ba8a7d429d953396c08550d8590af9889c4efe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0361-wrapper-action.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-31T14:11:02Z",
+      "lastCommit": "2021-05-26T10:02:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e8777ebda3e9aa9a26fe22900b7131ae8bbd34d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e0643c694cda4e0576b67cbf5247a0cb8dfe391b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0279-hashFiles-expression-function.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-14T19:54:37Z",
+      "lastCommit": "2021-05-26T10:04:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f21e280b5c8b233297bd26564cd4a70995c8e593"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d6179242ca92823bda0bcfc0aa9a75bbbc6ae618"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0354-runner-machine-info.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-10T19:45:35Z",
+      "lastCommit": "2020-03-10T19:45:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d34afb54b1e9c6f1bccd09c2bee5d17ea32ee091"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0274-step-outcome-and-conclusion.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-16T18:56:07Z",
+      "lastCommit": "2020-03-16T18:56:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aa9f5bf0700f22fa50b8b08f318658b54a2a2f38"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "1144-composite-actions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-27T13:29:50Z",
+      "lastCommit": "2021-07-27T13:29:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5281434f3f9005c11a366409b24d9470b166fdfe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0397-runner-registration-labels.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-30T21:46:32Z",
+      "lastCommit": "2021-05-26T10:01:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "508d188fb67c94a78aaf1064e821cd2210442af0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a5f06b3ec2c138a4a3a03b674e87fa262e1f766f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0278-env-context.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-14T19:54:29Z",
+      "lastCommit": "2020-01-23T01:09:09Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a506cc55641aba750e0080f29065deadaf57b75"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0da38a6924837fc1f834aedef91bf398ae86bc89"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0297-base64-masking-trailing-characters.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-28T02:38:01Z",
+      "lastCommit": "2021-02-05T18:29:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8a4cb7650850a5b74882be714353362e86f74789"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b676ab3d331ca518a15befdccabe2b64e676260d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0280-command-input-echoing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-14T19:55:17Z",
+      "lastCommit": "2020-01-14T19:55:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "53d632706dc8316a1cf8bbaf98833e0912afcbbd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0276-problem-matchers.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-14T19:54:04Z",
+      "lastCommit": "2020-10-27T03:10:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dc3b2d3a367ceebec469ab19323fd0729971e58d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "80ac4a89643eb2500c33992cbfbc5740b2cc0241"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0277-run-action-shell-options.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-14T19:54:20Z",
+      "lastCommit": "2021-05-26T10:04:38Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "feafd3e1d79a627b18e63705d1021165d978ba46"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "484ea74ed003bd3c80175cff0f69d1ff807bd8d7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b19e5d7924c0ed8480916e79d69d9e90d25a5070"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-09T16:52:04Z",
+  "lastAdrCommit": "2021-10-29T13:45:42Z",
+  "firstCommit": "2019-10-10T04:52:42Z",
+  "lastCommit": "2022-01-18T22:34:24Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "562eafab3a0a9a069a3e78b2bf49621be73b3fee",
+        "bd1f245aace715a0a0879859a2b19f893d3326d4",
+        "6c3958f365c3cbefec28e5b71933831e5ac6496f"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "005f1c15b1af69e34ce342005c1c32f1a23f0746"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2a506cc55641aba750e0080f29065deadaf57b75",
+        "d34afb54b1e9c6f1bccd09c2bee5d17ea32ee091",
+        "0e8777ebda3e9aa9a26fe22900b7131ae8bbd34d"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ca13b25240d37d23510eb12e678d23fa279e9323"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8a4cb7650850a5b74882be714353362e86f74789"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "feafd3e1d79a627b18e63705d1021165d978ba46",
+        "dc3b2d3a367ceebec469ab19323fd0729971e58d",
+        "a371309079e162a14746f5ae73a773bb65bb43f2"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "508d188fb67c94a78aaf1064e821cd2210442af0",
+        "f21e280b5c8b233297bd26564cd4a70995c8e593",
+        "e0643c694cda4e0576b67cbf5247a0cb8dfe391b",
+        "d1f72583569eaedd4f0e361387435f5e91844605",
+        "e7d74da1600b1aa8ac8db18cc4c76ef44a82e689",
+        "484ea74ed003bd3c80175cff0f69d1ff807bd8d7"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5281434f3f9005c11a366409b24d9470b166fdfe",
+        "b676ab3d331ca518a15befdccabe2b64e676260d"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "aa9f5bf0700f22fa50b8b08f318658b54a2a2f38",
+        "b19e5d7924c0ed8480916e79d69d9e90d25a5070",
+        "80ac4a89643eb2500c33992cbfbc5740b2cc0241",
+        "e4267b8434791d1e2055768577210c8467dfcb34",
+        "d6179242ca92823bda0bcfc0aa9a75bbbc6ae618",
+        "391bc35bb9b49022913c56ff96c21ca12417f3c9",
+        "53d632706dc8316a1cf8bbaf98833e0912afcbbd",
+        "d5e40c6a60206153a77a97d0fcd7a4f001a1c058",
+        "0da38a6924837fc1f834aedef91bf398ae86bc89"
+      ],
+      "numberOfCommits": 9
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "67ba8a7d429d953396c08550d8590af9889c4efe"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a5f06b3ec2c138a4a3a03b674e87fa262e1f766f",
+        "e15414eb5e20e98d8ffb6d8d6176a4410b410cc6"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

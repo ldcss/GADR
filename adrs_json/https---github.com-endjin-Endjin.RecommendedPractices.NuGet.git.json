@@ -1,0 +1,84 @@
+{
+  "repositoryUrl": "https://github.com/endjin/Endjin.RecommendedPractices.NuGet.git",
+  "crawlDateTime": "2022-01-18T20:08:35.292392",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-defer-links-to-solution-level-files.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-07-08T05:58:29Z",
+      "lastCommit": "2020-07-08T05:58:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7d16280d6dc70dd1ea2b7e952b98d83be0852608"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-project-import.md",
+      "template": "Nygard",
+      "status": "Proposed.",
+      "firstCommit": "2020-03-26T11:53:48Z",
+      "lastCommit": "2020-03-26T11:53:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d4f7054a24fe03a63b05bb926797c4e9e31f82f0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-practices-via-nuget.md",
+      "template": "Nygard",
+      "status": "Status quo.",
+      "firstCommit": "2020-03-26T11:53:48Z",
+      "lastCommit": "2020-03-26T11:53:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d4f7054a24fe03a63b05bb926797c4e9e31f82f0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-26T11:53:48Z",
+  "lastAdrCommit": "2020-07-08T05:58:29Z",
+  "firstCommit": "2020-02-06T06:34:02Z",
+  "lastCommit": "2022-01-18T11:04:58Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7d16280d6dc70dd1ea2b7e952b98d83be0852608",
+        "d4f7054a24fe03a63b05bb926797c4e9e31f82f0"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

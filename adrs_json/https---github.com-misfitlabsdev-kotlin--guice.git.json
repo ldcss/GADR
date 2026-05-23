@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/misfitlabsdev/kotlin-guice.git",
+  "crawlDateTime": "2022-01-18T18:41:08.668418",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-packaging-for-major-version-interoperability.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-03T18:34:37Z",
+      "lastCommit": "2017-09-03T18:34:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ebad3ea72cb1639995c3ffb4a3e79d3ab5f8cd5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-03T18:34:37Z",
+      "lastCommit": "2017-09-03T18:34:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ebad3ea72cb1639995c3ffb4a3e79d3ab5f8cd5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-09-03T18:34:37Z",
+  "lastAdrCommit": "2017-09-03T18:34:37Z",
+  "firstCommit": "2017-06-06T13:21:41Z",
+  "lastCommit": "2021-05-08T18:53:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6ebad3ea72cb1639995c3ffb4a3e79d3ab5f8cd5"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

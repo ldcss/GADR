@@ -1,0 +1,167 @@
+{
+  "repositoryUrl": "https://github.com/CrowdfoxGmbH/external-service-operator.git",
+  "crawlDateTime": "2022-01-18T20:30:20.814716",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0002-every-endpoint-has-only-one-endpointsubset-and-port.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-25T12:22:49Z",
+      "lastCommit": "2019-07-25T12:22:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "284e9ecc5df41aca8716282e4ace74c97218480e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0006-only-one-probe-of-http-tcp-is-possible.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-23T09:39:36Z",
+      "lastCommit": "2021-03-23T09:39:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6c6a82e5fe16ec70c28356a626348137dbb59a49"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0005-only-prober-package-is-responsible-for-marking-addresses-ready-or-no-ready.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-19T08:30:41Z",
+      "lastCommit": "2021-03-23T09:39:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6c6a82e5fe16ec70c28356a626348137dbb59a49"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24db9ff1945102f19b460bfa7da08fd583c0ff44"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0004-ports-are-never-stored-as-named-ports.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-25T12:22:49Z",
+      "lastCommit": "2019-07-25T12:22:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "284e9ecc5df41aca8716282e4ace74c97218480e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0003-the-name-of-the-endpoints-service-and-ingress-gets-inherited-by-the-controlling-externalservice.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-25T12:22:49Z",
+      "lastCommit": "2019-07-25T12:22:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "284e9ecc5df41aca8716282e4ace74c97218480e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-25T12:22:49Z",
+      "lastCommit": "2019-07-25T12:22:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "284e9ecc5df41aca8716282e4ace74c97218480e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-07-25T12:22:49Z",
+  "lastAdrCommit": "2021-03-23T09:39:36Z",
+  "firstCommit": "2019-07-10T07:34:16Z",
+  "lastCommit": "2021-04-09T06:09:22Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6c6a82e5fe16ec70c28356a626348137dbb59a49"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "284e9ecc5df41aca8716282e4ace74c97218480e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "24db9ff1945102f19b460bfa7da08fd583c0ff44"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

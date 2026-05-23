@@ -1,0 +1,109 @@
+{
+  "repositoryUrl": "https://github.com/dante-ev/docker-texlive.git",
+  "crawlDateTime": "2022-01-18T20:11:31.721942",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-provide-all-packages.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-09-25T19:47:38Z",
+      "lastCommit": "2019-09-25T21:42:27Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bd1d800c8f559147ce28264c63a535448c24bd89",
+            "a5455dab60b1fa2dbe6803de69743a80907fbcae"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-do-not-base-on-any-tex-image.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-01-10T00:17:43Z",
+      "lastCommit": "2020-06-14T19:42:28Z",
+      "numberOfCommits": 10,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b5f2a482af85b90734101861f5ef945101d93f27",
+            "ee2c04077c463eddde03af069a574986f345986d",
+            "71f13c3fab1a4870f1420af4a5f852260bb34abd",
+            "a55b0fde90f0010ef7659ec6294da786e3f26f9e",
+            "45a53127e762db8167a57c657be7dd30939c0a06",
+            "e5e78d434aaa54dd82f9af33f018311879f740cb",
+            "b721e625deda1bebb170ec9934504725a9790b2b",
+            "ccc3d69773d18ca93c46f5a88a1b59c46c459a99",
+            "d554f2236227feb335cc5cc6e750de3d666489ee",
+            "e7a25db50f53bfd5cafd52d5cb1878e9ec7c18ff"
+          ],
+          "numberOfCommits": 10
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-01-10T00:17:43Z",
+      "lastCommit": "2019-09-24T04:30:19Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "62a709707efda0bca3c561d8d35ec22cbf345f9a",
+            "d554f2236227feb335cc5cc6e750de3d666489ee",
+            "e7a25db50f53bfd5cafd52d5cb1878e9ec7c18ff",
+            "4ea076765633f2a1eeda04f1a13f6f8e689aaa3f"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-01-10T00:17:43Z",
+  "lastAdrCommit": "2020-06-14T19:42:28Z",
+  "firstCommit": "2017-06-20T06:44:32Z",
+  "lastCommit": "2021-12-22T20:53:54Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b5f2a482af85b90734101861f5ef945101d93f27",
+        "62a709707efda0bca3c561d8d35ec22cbf345f9a",
+        "a55b0fde90f0010ef7659ec6294da786e3f26f9e",
+        "e5e78d434aaa54dd82f9af33f018311879f740cb",
+        "b721e625deda1bebb170ec9934504725a9790b2b",
+        "ccc3d69773d18ca93c46f5a88a1b59c46c459a99",
+        "e7a25db50f53bfd5cafd52d5cb1878e9ec7c18ff",
+        "4ea076765633f2a1eeda04f1a13f6f8e689aaa3f",
+        "bd1d800c8f559147ce28264c63a535448c24bd89",
+        "ee2c04077c463eddde03af069a574986f345986d",
+        "71f13c3fab1a4870f1420af4a5f852260bb34abd",
+        "a5455dab60b1fa2dbe6803de69743a80907fbcae",
+        "45a53127e762db8167a57c657be7dd30939c0a06",
+        "d554f2236227feb335cc5cc6e750de3d666489ee"
+      ],
+      "numberOfCommits": 14
+    }
+  ]
+}

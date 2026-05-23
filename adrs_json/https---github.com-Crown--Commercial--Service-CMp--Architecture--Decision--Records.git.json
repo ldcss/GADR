@@ -1,0 +1,112 @@
+{
+  "repositoryUrl": "https://github.com/Crown-Commercial-Service/CMp-Architecture-Decision-Records.git",
+  "crawlDateTime": "2022-01-18T22:55:27.517903",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-cognito-in-private-beta.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-18T15:09:36Z",
+      "lastCommit": "2018-10-22T08:48:32Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8382702e9eef03b23c9115a601d903313d921d82",
+            "6237b25c1b84d69f3158fd65443e64e86bdffeed",
+            "d512a9ec14289d9a691561f9abdfa46d82d528f1"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-a-single-domain.md",
+      "template": "Nygard",
+      "status": "Approved Approved TDDA 2018-12-18 Review by March 2019",
+      "firstCommit": "2018-10-18T11:00:55Z",
+      "lastCommit": "2018-11-28T13:05:50Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b955fbff94dbc2a61fdc5521c743cc2009007a20"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f18e10c81bd5bafbb57166ef3dc1c3adba46c40",
+            "b239604fcfb3714bfbd42fc9e9b72dc35b4b3025",
+            "330c898a91993ab65891df4d1a3cc21cc110f9a4",
+            "2506d4cc818c9ac99ef50282b6e1e16c120da01d",
+            "ad8e82a1659427aa3a6ab0eb2746eab2a1c8abe6"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-product-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-10-18T11:00:55Z",
+      "lastCommit": "2018-10-18T11:00:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b955fbff94dbc2a61fdc5521c743cc2009007a20"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-10-18T11:00:55Z",
+  "lastAdrCommit": "2018-11-28T13:05:50Z",
+  "firstCommit": "2018-10-18T10:14:02Z",
+  "lastCommit": "2021-09-27T15:56:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b955fbff94dbc2a61fdc5521c743cc2009007a20"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8382702e9eef03b23c9115a601d903313d921d82",
+        "7f18e10c81bd5bafbb57166ef3dc1c3adba46c40",
+        "b239604fcfb3714bfbd42fc9e9b72dc35b4b3025",
+        "330c898a91993ab65891df4d1a3cc21cc110f9a4",
+        "2506d4cc818c9ac99ef50282b6e1e16c120da01d",
+        "ad8e82a1659427aa3a6ab0eb2746eab2a1c8abe6",
+        "6237b25c1b84d69f3158fd65443e64e86bdffeed",
+        "d512a9ec14289d9a691561f9abdfa46d82d528f1"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

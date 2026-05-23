@@ -1,0 +1,108 @@
+{
+  "repositoryUrl": "https://github.com/brian-watkins/elm-spec.git",
+  "crawlDateTime": "2022-01-18T17:43:46.524912",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "002_waiting.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-18T11:01:40Z",
+      "lastCommit": "2021-08-29T18:19:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ef85702f5bafc9af2979a93ba2cefceb6fad5b1a",
+            "430de2f60bff89f43092ce92e753e46c35584620"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "004_contract_testing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-14T12:29:31Z",
+      "lastCommit": "2021-11-14T12:29:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "19d925538c12ff94b72dbada280318f2bf6f90ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "003_loading_harness.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-29T18:19:46Z",
+      "lastCommit": "2021-08-29T18:19:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "430de2f60bff89f43092ce92e753e46c35584620"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "001_animation_frames.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-19T11:25:27Z",
+      "lastCommit": "2020-10-29T10:14:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "398de20293f5fde5dabb0a7e9ae47fe8fff4a1ca",
+            "176db82b48022c2943601ca617c8b1f120e2d3c6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-19T11:25:27Z",
+  "lastAdrCommit": "2021-11-14T12:29:31Z",
+  "firstCommit": "2019-07-24T10:52:52Z",
+  "lastCommit": "2022-01-15T06:34:07Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "19d925538c12ff94b72dbada280318f2bf6f90ca",
+        "398de20293f5fde5dabb0a7e9ae47fe8fff4a1ca",
+        "ef85702f5bafc9af2979a93ba2cefceb6fad5b1a",
+        "176db82b48022c2943601ca617c8b1f120e2d3c6",
+        "430de2f60bff89f43092ce92e753e46c35584620"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

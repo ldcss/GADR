@@ -1,0 +1,102 @@
+{
+  "repositoryUrl": "https://github.com/ritu2593/SAP-library.git",
+  "crawlDateTime": "2022-01-18T19:56:20.658541",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "download-cache.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-07-06T07:24:14Z",
+      "lastCommit": "2018-07-06T07:24:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64af3907e59110cda16adab8dd5ef9c6a8ccd3a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "artifacts-deployment.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-07-06T07:24:14Z",
+      "lastCommit": "2018-07-06T07:24:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64af3907e59110cda16adab8dd5ef9c6a8ccd3a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "cx-server-in-container.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-07-06T07:24:14Z",
+      "lastCommit": "2018-07-06T07:24:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64af3907e59110cda16adab8dd5ef9c6a8ccd3a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "automatic-release.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-07-06T07:24:14Z",
+      "lastCommit": "2018-07-06T07:24:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64af3907e59110cda16adab8dd5ef9c6a8ccd3a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-06T07:24:14Z",
+  "lastAdrCommit": "2018-07-06T07:24:14Z",
+  "firstCommit": "2018-07-06T07:24:14Z",
+  "lastCommit": "2018-07-18T06:58:01Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "64af3907e59110cda16adab8dd5ef9c6a8ccd3a6"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

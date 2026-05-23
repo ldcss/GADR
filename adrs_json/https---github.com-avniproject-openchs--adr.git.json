@@ -1,0 +1,306 @@
+{
+  "repositoryUrl": "https://github.com/avniproject/openchs-adr.git",
+  "crawlDateTime": "2022-01-18T17:28:17.583467",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decisions"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "decisions",
+      "path": "0002-openchs-client-will-be-offline-first.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T08:05:15Z",
+      "lastCommit": "2018-05-18T05:15:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ab50e09bb90b52b0247b52da4d7f71ed0be5417",
+            "59dd4666bb643f4196c0c08aa4b7993232178dec"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0007-separate-models-and-health-modules-from-the-android-application.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T08:05:15Z",
+      "lastCommit": "2018-05-18T05:13:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8d23bd3863c33b02b8861d897e504a58540f7f76",
+            "1ab50e09bb90b52b0247b52da4d7f71ed0be5417"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0005-deploy-openchs-server-on-the-cloud.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T08:05:15Z",
+      "lastCommit": "2018-05-16T08:05:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ab50e09bb90b52b0247b52da4d7f71ed0be5417"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0010-all-implementation-rules-will-temporarily-stay-in-the-main-health-modules-repository.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T08:05:15Z",
+      "lastCommit": "2018-05-18T05:56:36Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7e8afbc4844aec8fbc52bbdeea47443d68f83a2",
+            "7c03455329ca6b7d1c3c59222ee443b03b9dd71d",
+            "1ab50e09bb90b52b0247b52da4d7f71ed0be5417",
+            "59dd4666bb643f4196c0c08aa4b7993232178dec"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0003-use-react-native.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T08:05:15Z",
+      "lastCommit": "2018-05-18T05:15:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8d23bd3863c33b02b8861d897e504a58540f7f76",
+            "1ab50e09bb90b52b0247b52da4d7f71ed0be5417",
+            "59dd4666bb643f4196c0c08aa4b7993232178dec"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0011-moving-forward-forms-api-will-not-be-used-to-create-update-concepts.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-18T10:17:48Z",
+      "lastCommit": "2018-05-18T10:18:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14334883aa8b53cda97d2ff5f314fadeb17802d9",
+            "636dad63218e22457727879b795f59e5ebbeb0d4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0013-handling-change-of-catchments-in-the-client.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-05T05:55:00Z",
+      "lastCommit": "2018-06-05T05:55:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "50949591f0a37e42670a565cd2b318daf83a6eaa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0009-dos-and-donts-for-building-health-module-api-responses.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T08:05:15Z",
+      "lastCommit": "2018-05-18T05:56:36Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7e8afbc4844aec8fbc52bbdeea47443d68f83a2",
+            "1ab50e09bb90b52b0247b52da4d7f71ed0be5417",
+            "59dd4666bb643f4196c0c08aa4b7993232178dec"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0006-use-row-level-security-in-postgres-to-implement-multitenancy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T08:05:15Z",
+      "lastCommit": "2018-05-18T05:15:51Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8d23bd3863c33b02b8861d897e504a58540f7f76",
+            "1ab50e09bb90b52b0247b52da4d7f71ed0be5417",
+            "59dd4666bb643f4196c0c08aa4b7993232178dec"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0008-use-monorepo-for-client.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T08:05:15Z",
+      "lastCommit": "2018-05-18T05:56:36Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d7e8afbc4844aec8fbc52bbdeea47443d68f83a2",
+            "1ab50e09bb90b52b0247b52da4d7f71ed0be5417",
+            "59dd4666bb643f4196c0c08aa4b7993232178dec"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0004-use-spring-boot.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T08:05:15Z",
+      "lastCommit": "2018-05-18T05:15:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ab50e09bb90b52b0247b52da4d7f71ed0be5417",
+            "59dd4666bb643f4196c0c08aa4b7993232178dec"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-16T08:05:15Z",
+      "lastCommit": "2018-05-16T08:05:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ab50e09bb90b52b0247b52da4d7f71ed0be5417"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0012-create-a-generic-relationship-framework-to-link-between-mother-and-child.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-28T09:03:57Z",
+      "lastCommit": "2018-05-28T09:03:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ffaea750a5ee99f5aa7bd8b9ab8e029783c94db5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-16T08:05:15Z",
+  "lastAdrCommit": "2018-06-05T05:55:00Z",
+  "firstCommit": "2018-05-16T08:05:15Z",
+  "lastCommit": "2018-06-05T05:55:00Z",
+  "adrDirFile": {
+    "fileContent": "decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8d23bd3863c33b02b8861d897e504a58540f7f76",
+        "50949591f0a37e42670a565cd2b318daf83a6eaa",
+        "d7e8afbc4844aec8fbc52bbdeea47443d68f83a2",
+        "7c03455329ca6b7d1c3c59222ee443b03b9dd71d",
+        "1ab50e09bb90b52b0247b52da4d7f71ed0be5417",
+        "59dd4666bb643f4196c0c08aa4b7993232178dec",
+        "ffaea750a5ee99f5aa7bd8b9ab8e029783c94db5"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "14334883aa8b53cda97d2ff5f314fadeb17802d9",
+        "636dad63218e22457727879b795f59e5ebbeb0d4"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

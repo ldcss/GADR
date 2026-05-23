@@ -1,0 +1,47 @@
+{
+  "repositoryUrl": "https://github.com/guardian/fulfilment-lambdas.git",
+  "crawlDateTime": "2022-01-18T20:04:51.000982",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "simplified_architecture.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-01-14T10:06:19Z",
+      "lastCommit": "2020-01-14T13:18:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc964478c1a03730da1df974421f3903d65ee54a",
+            "f7f80bbd23945d8006a144e4384ef884825832cd"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-14T10:06:19Z",
+  "lastAdrCommit": "2020-01-14T13:18:05Z",
+  "firstCommit": "2017-05-11T15:30:25Z",
+  "lastCommit": "2021-12-17T14:32:14Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fc964478c1a03730da1df974421f3903d65ee54a",
+        "f7f80bbd23945d8006a144e4384ef884825832cd"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

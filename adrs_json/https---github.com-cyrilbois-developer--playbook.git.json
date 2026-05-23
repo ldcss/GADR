@@ -1,0 +1,174 @@
+{
+  "repositoryUrl": "https://github.com/cyrilbois/developer-playbook.git",
+  "crawlDateTime": "2022-01-18T22:20:44.602567",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-dialogflow-for-chatbots.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2018-06-02T10:09:00Z",
+      "lastCommit": "2018-06-02T10:09:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "33e6679627aacdace3b376c00c3a50cfc74619cb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-focus-on-theory-or-application-for-machine-learning.md",
+      "template": "Madr",
+      "status": "accepted <!-- optional -->",
+      "firstCommit": "2018-05-31T17:25:56Z",
+      "lastCommit": "2018-05-31T17:25:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e6b89c8c940b0bcbd7cb2f7a8912beaff47b884"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-i-use-aws-for-ml-and-event-driven-architecture.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2018-06-04T12:23:01Z",
+      "lastCommit": "2018-06-04T12:23:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "078aa12c6b93174d678adbe3912c0025af74eede"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-us-bulma-as-fontend-ui-framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-02-24T07:49:18Z",
+      "lastCommit": "2018-05-31T17:51:50Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "36bbabe3b78a77e58765d3af49d3f7e431233fd6",
+            "b601677be0b1442596ea71b1c01c234ad820c498",
+            "123783e199ed093ff968e84fb548188a7b1f2818",
+            "9aa5997f3ed056b5d7eb5bb445041f1841e0f503",
+            "458da55fa587ceb9f825dd7136f99b9b052e7725",
+            "97077d52fb0a754fb63595568b749090fbd0a2b1",
+            "2c207d85e63ad93110a8c693eecc540f5f9c1faa"
+          ],
+          "numberOfCommits": 7
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f66088ae72f987f217db9ef7d0c910aec9d49cc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-for-machine-learning-select-a-vendor-specific-stack-of-a-general-stack.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2018-05-31T17:51:50Z",
+      "lastCommit": "2018-05-31T17:51:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f66088ae72f987f217db9ef7d0c910aec9d49cc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-select-an-application-runtime.md",
+      "template": "Madr",
+      "status": "accepted <!-- optional -->",
+      "firstCommit": "2018-05-31T17:25:56Z",
+      "lastCommit": "2018-05-31T17:25:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e6b89c8c940b0bcbd7cb2f7a8912beaff47b884"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-02-24T07:49:18Z",
+  "lastAdrCommit": "2018-06-04T12:23:01Z",
+  "firstCommit": "2017-03-17T09:21:21Z",
+  "lastCommit": "2019-03-06T13:55:18Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "36bbabe3b78a77e58765d3af49d3f7e431233fd6",
+        "b601677be0b1442596ea71b1c01c234ad820c498",
+        "123783e199ed093ff968e84fb548188a7b1f2818",
+        "9aa5997f3ed056b5d7eb5bb445041f1841e0f503",
+        "458da55fa587ceb9f825dd7136f99b9b052e7725",
+        "97077d52fb0a754fb63595568b749090fbd0a2b1",
+        "2c207d85e63ad93110a8c693eecc540f5f9c1faa"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2e6b89c8c940b0bcbd7cb2f7a8912beaff47b884",
+        "5f66088ae72f987f217db9ef7d0c910aec9d49cc",
+        "078aa12c6b93174d678adbe3912c0025af74eede",
+        "33e6679627aacdace3b376c00c3a50cfc74619cb"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

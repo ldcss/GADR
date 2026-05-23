@@ -1,0 +1,254 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/govuk-infrastructure.git",
+  "crawlDateTime": "2022-01-18T21:10:12.769465",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-use-helm-for-application-package-management.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-16T14:05:06Z",
+      "lastCommit": "2021-08-16T14:05:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "086538662218d02f62be94430418847d2ea7866c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0009-use-external-dns-for-dns-record-management.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-27T13:47:08Z",
+      "lastCommit": "2021-08-27T13:47:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e5c2434888b667411eb95e664726603f894b5a51"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-use-eks-managed-node-groups.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-13T11:06:44Z",
+      "lastCommit": "2021-08-13T11:06:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2b8629dee2f2a151b1aa83ff9320cf6b63972580"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-aws-eks-terraform-module.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-11T08:32:10Z",
+      "lastCommit": "2021-08-11T08:32:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ba43589d4e803c67d814b7f6026025e214b0e79"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-use-external-secrets-for-secrets-storage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-26T11:24:34Z",
+      "lastCommit": "2021-08-26T11:24:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f862abb2bb9fa1d3d06859dc809a6daa60620359"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-use-aws-load-balancer-controller-for-edge-traffic-services.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-12T15:41:42Z",
+      "lastCommit": "2021-08-13T09:23:01Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "583a445ff78e068385283396d0c07ade00269d28"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3df120ab7b9c47361d56f65f77afe9af39fb5fea",
+            "bb5e8687b1c382c9fdf7b521da63e17b4ecccad6",
+            "edb1a683f5dc269a6a4feeaf068c99f4ae1efe2a"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0010-use-dex-idp-for-user-web-auth.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-12-01T16:03:45Z",
+      "lastCommit": "2021-12-02T11:14:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b20d999abe2a588e425ccea01753672f58712ba5",
+            "73eb1de5d0a6b0ba196ed349855453d7d633355a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-use-fluentbit-elasticsearch-and-kibana-for-application-logs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-16T16:28:47Z",
+      "lastCommit": "2021-08-16T16:28:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "83023659109bdc1c0032755a5367e627b2405884"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-split-terraform-state-into-separate-aws-cluster-and-kubernetes-resource-phases.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-11T09:47:17Z",
+      "lastCommit": "2021-08-11T10:25:56Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe8860ba8075455928ab6cf3bd1d5d27f95829a2",
+            "1dd0745778dc3829b60e5e094728207449accbac",
+            "954fa53ae5f914de83b8e2f5f0f6429b67ddf212"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-10T13:45:02Z",
+      "lastCommit": "2021-08-10T13:45:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "515de695b08e60b2d8392e3320a5a9c30585ecb1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-08-10T13:45:02Z",
+  "lastAdrCommit": "2021-12-02T11:14:36Z",
+  "firstCommit": "2020-07-09T13:54:22Z",
+  "lastCommit": "2022-01-18T17:16:43Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "583a445ff78e068385283396d0c07ade00269d28"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2b8629dee2f2a151b1aa83ff9320cf6b63972580",
+        "f862abb2bb9fa1d3d06859dc809a6daa60620359",
+        "3df120ab7b9c47361d56f65f77afe9af39fb5fea",
+        "bb5e8687b1c382c9fdf7b521da63e17b4ecccad6",
+        "6ba43589d4e803c67d814b7f6026025e214b0e79",
+        "b20d999abe2a588e425ccea01753672f58712ba5",
+        "83023659109bdc1c0032755a5367e627b2405884",
+        "515de695b08e60b2d8392e3320a5a9c30585ecb1",
+        "fe8860ba8075455928ab6cf3bd1d5d27f95829a2",
+        "73eb1de5d0a6b0ba196ed349855453d7d633355a",
+        "edb1a683f5dc269a6a4feeaf068c99f4ae1efe2a",
+        "1dd0745778dc3829b60e5e094728207449accbac",
+        "e5c2434888b667411eb95e664726603f894b5a51",
+        "954fa53ae5f914de83b8e2f5f0f6429b67ddf212",
+        "086538662218d02f62be94430418847d2ea7866c"
+      ],
+      "numberOfCommits": 15
+    }
+  ]
+}

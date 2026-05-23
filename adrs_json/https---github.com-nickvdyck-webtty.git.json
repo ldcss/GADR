@@ -1,0 +1,88 @@
+{
+  "repositoryUrl": "https://github.com/nickvdyck/webtty.git",
+  "crawlDateTime": "2022-01-18T21:17:04.349644",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-development-workflow-and-setup.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-21T21:30:42Z",
+      "lastCommit": "2020-04-16T15:40:07Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2600368cebbabe5f1f266728fcafe5e9cb33d35d",
+            "4ef639ea5b2599482a5e9c2b0a765c1b15e5ee25",
+            "0a9d2424fa6785f45ebcbecbee8c55b017e5c595"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-coding-style-and-enforcement.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-10-21T21:30:42Z",
+      "lastCommit": "2020-04-16T15:40:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2600368cebbabe5f1f266728fcafe5e9cb33d35d",
+            "4ef639ea5b2599482a5e9c2b0a765c1b15e5ee25"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-21T21:30:42Z",
+      "lastCommit": "2019-10-21T21:30:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ef639ea5b2599482a5e9c2b0a765c1b15e5ee25"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-21T21:30:42Z",
+  "lastAdrCommit": "2020-04-16T15:40:07Z",
+  "firstCommit": "2019-06-07T20:53:58Z",
+  "lastCommit": "2022-01-14T04:40:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2600368cebbabe5f1f266728fcafe5e9cb33d35d",
+        "4ef639ea5b2599482a5e9c2b0a765c1b15e5ee25",
+        "0a9d2424fa6785f45ebcbecbee8c55b017e5c595"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

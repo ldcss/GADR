@@ -1,0 +1,107 @@
+{
+  "repositoryUrl": "https://github.com/corgibytes/cukeness.git",
+  "crawlDateTime": "2022-01-18T18:32:58.416911",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-arlo-s-commit-notation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-27T18:54:44Z",
+      "lastCommit": "2018-08-27T18:54:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e2c2168e965cc65c26ac4aa81a2a0ae623c87d0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-api-server-responsible-for-interaction-with-external-services.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-28T01:47:42Z",
+      "lastCommit": "2018-08-28T01:47:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc2d83776227df3cbf67ed0a9a0cc9306dd97d03"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-use-docker-and-docker-compose-for-development-environment.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-08T20:02:14Z",
+      "lastCommit": "2018-09-08T20:02:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "28643e0e487769f24570203b2429d5b195a8e0f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-27T18:54:44Z",
+      "lastCommit": "2018-08-27T18:54:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e2c2168e965cc65c26ac4aa81a2a0ae623c87d0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-27T18:54:44Z",
+  "lastAdrCommit": "2018-09-08T20:02:14Z",
+  "firstCommit": "2009-08-28T20:36:06Z",
+  "lastCommit": "2019-02-07T21:49:33Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1e2c2168e965cc65c26ac4aa81a2a0ae623c87d0",
+        "cc2d83776227df3cbf67ed0a9a0cc9306dd97d03",
+        "28643e0e487769f24570203b2429d5b195a8e0f6"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

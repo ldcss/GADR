@@ -1,0 +1,117 @@
+{
+  "repositoryUrl": "https://github.com/missMisae/ansible-docker.git",
+  "crawlDateTime": "2022-01-18T19:05:52.367159",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "choose_webapp.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-12T16:32:35Z",
+      "lastCommit": "2019-02-12T19:32:36Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0923287337bdb4c0055176ec8428bfba342b6894",
+            "13c0f32c40e71593aa710a8e66ca9a12d1268ccf",
+            "3afcbcbd769c128f0ea0ba4e2008e561b0c58644",
+            "94390bd172f067b93abfcfeb140c76616b3a4374"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "choose_docker.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-12T19:51:33Z",
+      "lastCommit": "2019-02-12T19:51:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9321409a6d75b0938fd7a388d1e5626969fb5868",
+            "18579bfebc8905e1f11362b14b0bf0a6a15b9aa1"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "choose_webserver.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-12T16:40:18Z",
+      "lastCommit": "2019-02-12T16:40:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d18370e8666b592abcc0afffd604928018161458"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "choose_database.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-12T15:44:21Z",
+      "lastCommit": "2019-02-12T18:56:55Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb8b79f44c40ead0ea2a58ce5fc0038edf93026e",
+            "012028fcd226d8a7d5dec518a67b064754748f38",
+            "d49522dec33ff4315e312f424a70da62cd5f7500"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-12T15:44:21Z",
+  "lastAdrCommit": "2019-02-12T19:51:58Z",
+  "firstCommit": "2019-01-17T01:22:02Z",
+  "lastCommit": "2019-02-13T02:19:24Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "eb8b79f44c40ead0ea2a58ce5fc0038edf93026e",
+        "9321409a6d75b0938fd7a388d1e5626969fb5868",
+        "012028fcd226d8a7d5dec518a67b064754748f38",
+        "18579bfebc8905e1f11362b14b0bf0a6a15b9aa1",
+        "0923287337bdb4c0055176ec8428bfba342b6894",
+        "13c0f32c40e71593aa710a8e66ca9a12d1268ccf",
+        "d18370e8666b592abcc0afffd604928018161458",
+        "3afcbcbd769c128f0ea0ba4e2008e561b0c58644",
+        "d49522dec33ff4315e312f424a70da62cd5f7500",
+        "94390bd172f067b93abfcfeb140c76616b3a4374"
+      ],
+      "numberOfCommits": 10
+    }
+  ]
+}

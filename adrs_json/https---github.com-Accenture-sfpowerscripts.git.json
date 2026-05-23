@@ -1,0 +1,298 @@
+{
+  "repositoryUrl": "https://github.com/Accenture/sfpowerscripts.git",
+  "crawlDateTime": "2022-01-18T21:03:41.974182",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decision records"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "decision records",
+      "path": "002-parallel-development-process.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-27T22:12:15Z",
+      "lastCommit": "2021-05-27T22:12:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c550c19413f699c0de82e0cc749905b5167f8a27"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision records",
+      "path": "artifacts/001-artifact-version-duplication.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-27T06:49:16Z",
+      "lastCommit": "2021-05-27T22:14:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fd198f66cbe9ee6398745d4dabd74108ea402a0b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fcf0019390a2e22932807ca4d890782e9ddcb5b3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision records",
+      "path": "001-sfpowerscripts-artifact-customsettings.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-06T05:19:39Z",
+      "lastCommit": "2021-05-27T22:13:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f77df4f110c6cb8734da8d85aa9a5850d93ac48a",
+            "b004508da2aa130a7e173b137e655c70ed81767f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision records",
+      "path": "003-depenedency-manager.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-08T02:35:33Z",
+      "lastCommit": "2021-10-08T02:35:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "07de7617ee88c87119f48fbabffc5e9ec6bdaa94"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision records",
+      "path": "deployments/001-aliasified-data-sourcepackages.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-08T02:22:33Z",
+      "lastCommit": "2021-10-08T02:22:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cec6a9624546b5fbaea90b918ce0a80b08857a51"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision records",
+      "path": "release/001-release.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-24T05:12:30Z",
+      "lastCommit": "2021-04-06T05:19:39Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c7899cac6d5f84fe38a2e1d8d136cb65ea755204"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46c4b440c407005d5e172b556964993bddcdc874",
+            "c4be166c084791a407d653eaf3dbb011122eb121"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "614759d181ce2a39f6d2c83d195decf709dbf003",
+            "079bfda486f9a8c030d827b8b137c85abd6c008c",
+            "c1fd270c546d872bb6d46da0f42be72289a71555",
+            "b004508da2aa130a7e173b137e655c70ed81767f"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision records",
+      "path": "release/002-release-installing-packages.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-24T05:12:30Z",
+      "lastCommit": "2021-04-06T05:19:39Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c7899cac6d5f84fe38a2e1d8d136cb65ea755204"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "46c4b440c407005d5e172b556964993bddcdc874"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "81a836d6f392513350d9323d5bcfad2e6893c174",
+            "b004508da2aa130a7e173b137e655c70ed81767f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision records",
+      "path": "release/004-Identifying-packages-in-npm.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-10T09:12:44Z",
+      "lastCommit": "2021-06-10T09:12:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0640e7fb6b30e5df7bdf646c89262e8c2d8f366"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision records",
+      "path": "release/005-cutting-release-branch.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-05-27T06:06:20Z",
+      "lastCommit": "2021-05-27T06:06:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52c09cf6dfa38fff4df0e0e1d0150e5d420fb855"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision records",
+      "path": "release/003-release-autorollback.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-06T05:19:39Z",
+      "lastCommit": "2021-04-06T05:19:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b004508da2aa130a7e173b137e655c70ed81767f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-03-24T05:12:30Z",
+  "lastAdrCommit": "2021-10-08T02:35:33Z",
+  "firstCommit": "2020-03-19T08:31:57Z",
+  "lastCommit": "2022-01-18T12:05:30Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cec6a9624546b5fbaea90b918ce0a80b08857a51",
+        "07de7617ee88c87119f48fbabffc5e9ec6bdaa94"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "52c09cf6dfa38fff4df0e0e1d0150e5d420fb855",
+        "c550c19413f699c0de82e0cc749905b5167f8a27",
+        "fd198f66cbe9ee6398745d4dabd74108ea402a0b",
+        "c7899cac6d5f84fe38a2e1d8d136cb65ea755204"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "46c4b440c407005d5e172b556964993bddcdc874",
+        "c4be166c084791a407d653eaf3dbb011122eb121"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f77df4f110c6cb8734da8d85aa9a5850d93ac48a",
+        "614759d181ce2a39f6d2c83d195decf709dbf003",
+        "81a836d6f392513350d9323d5bcfad2e6893c174",
+        "079bfda486f9a8c030d827b8b137c85abd6c008c",
+        "c1fd270c546d872bb6d46da0f42be72289a71555",
+        "c0640e7fb6b30e5df7bdf646c89262e8c2d8f366",
+        "fcf0019390a2e22932807ca4d890782e9ddcb5b3",
+        "b004508da2aa130a7e173b137e655c70ed81767f"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

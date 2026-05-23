@@ -1,0 +1,133 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/accessibility-monitoring.git",
+  "crawlDateTime": "2022-01-18T18:38:25.398139",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/adrs"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/adrs",
+      "path": "ADR002-build-some-things.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-07T11:11:16Z",
+      "lastCommit": "2020-05-07T11:11:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c8d69340364057435c2711e862fbd4826afd8c66"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/adrs",
+      "path": "ADR003-tool-choices.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-07T11:11:16Z",
+      "lastCommit": "2020-05-07T11:11:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9cdd76b155c2ba4e5bd720a6698089e8ab0edc55",
+            "c8d69340364057435c2711e862fbd4826afd8c66"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/adrs",
+      "path": "ADR005-database-public-sector-websites.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-08-05T15:16:39Z",
+      "lastCommit": "2020-08-05T15:16:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a9aa4db472cca23d5c66ad84ef61d0de08281114"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/adrs",
+      "path": "ADR001-record-architectural-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-24T16:39:58Z",
+      "lastCommit": "2020-01-24T16:39:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "68037e558fc323c0ab29c4f37bc9227f908029bd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/adrs",
+      "path": "ADR004-database-public-sector-domains.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-07-09T14:45:02Z",
+      "lastCommit": "2020-07-09T14:45:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a42ae79061af8feebc06afa767ff1578d1393b9d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-24T16:39:58Z",
+  "lastAdrCommit": "2020-08-05T15:16:39Z",
+  "firstCommit": "2020-01-24T14:06:09Z",
+  "lastCommit": "2021-10-07T14:31:33Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9cdd76b155c2ba4e5bd720a6698089e8ab0edc55",
+        "a9aa4db472cca23d5c66ad84ef61d0de08281114",
+        "a42ae79061af8feebc06afa767ff1578d1393b9d",
+        "c8d69340364057435c2711e862fbd4826afd8c66"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "68037e558fc323c0ab29c4f37bc9227f908029bd"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

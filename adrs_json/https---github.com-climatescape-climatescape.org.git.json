@@ -1,0 +1,244 @@
+{
+  "repositoryUrl": "https://github.com/climatescape/climatescape.org.git",
+  "crawlDateTime": "2022-01-18T21:16:04.842137",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "backend/doc/decisions"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "backend/doc/decisions",
+      "path": "4-use-pg-boss-queue.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-23T14:03:27Z",
+      "lastCommit": "2020-02-24T16:09:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29879c6c5efda70bd1d98a2687bd14df34103e00",
+            "8f9e9167449eca3e9f42e46263e6786be9efbc6c"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7d198d061018bdc69b25b19c62a6e56c3093085d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "backend/doc/decisions",
+      "path": "3-background-task-processing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-23T14:03:27Z",
+      "lastCommit": "2020-03-02T09:25:44Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29879c6c5efda70bd1d98a2687bd14df34103e00",
+            "8f9e9167449eca3e9f42e46263e6786be9efbc6c"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7d198d061018bdc69b25b19c62a6e56c3093085d",
+            "d6ccd83cc5a81cb5043e48397fd7c29a15546b2d",
+            "003bbc87dcdd392b3dfca87564e7468ade693143"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "backend/doc/decisions",
+      "path": "2-use-node.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-23T14:03:27Z",
+      "lastCommit": "2020-02-24T16:09:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29879c6c5efda70bd1d98a2687bd14df34103e00",
+            "8f9e9167449eca3e9f42e46263e6786be9efbc6c"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7d198d061018bdc69b25b19c62a6e56c3093085d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "backend/doc/decisions",
+      "path": "6-push-data-to-airtable.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-05T15:03:56Z",
+      "lastCommit": "2020-03-22T10:48:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "717974a8ef55d6776d90eaedc6775e8f66f6f31e",
+            "ae3615e7858839474d390ca3adcf9116f216b0be"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "backend/doc/decisions",
+      "path": "5-use-yarn.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-23T14:03:27Z",
+      "lastCommit": "2020-02-25T06:24:21Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29879c6c5efda70bd1d98a2687bd14df34103e00",
+            "8f9e9167449eca3e9f42e46263e6786be9efbc6c"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56c3e7dc18054cc3ccee473d41c6555e84183ab5",
+            "7d198d061018bdc69b25b19c62a6e56c3093085d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "backend/doc/decisions",
+      "path": "8-use-knex.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-29T16:19:01Z",
+      "lastCommit": "2020-03-29T16:19:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "07c33e1b413d931bfdd2bb95e02ab7a03a30fd13"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "backend/doc/decisions",
+      "path": "7-backup-airtable-organizations.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-22T10:48:26Z",
+      "lastCommit": "2020-03-28T14:03:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "717974a8ef55d6776d90eaedc6775e8f66f6f31e",
+            "da0ce4709cfecef5966b853c22db92817485e6a8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "backend/doc/decisions",
+      "path": "1-use-heroku.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-23T14:03:27Z",
+      "lastCommit": "2020-02-24T16:09:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29879c6c5efda70bd1d98a2687bd14df34103e00",
+            "8f9e9167449eca3e9f42e46263e6786be9efbc6c"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7d198d061018bdc69b25b19c62a6e56c3093085d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-23T14:03:27Z",
+  "lastAdrCommit": "2020-03-29T16:19:01Z",
+  "firstCommit": "2019-12-17T11:35:03Z",
+  "lastCommit": "2021-09-21T20:04:36Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "29879c6c5efda70bd1d98a2687bd14df34103e00",
+        "8f9e9167449eca3e9f42e46263e6786be9efbc6c"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7d198d061018bdc69b25b19c62a6e56c3093085d",
+        "56c3e7dc18054cc3ccee473d41c6555e84183ab5",
+        "d6ccd83cc5a81cb5043e48397fd7c29a15546b2d",
+        "717974a8ef55d6776d90eaedc6775e8f66f6f31e",
+        "07c33e1b413d931bfdd2bb95e02ab7a03a30fd13",
+        "003bbc87dcdd392b3dfca87564e7468ade693143",
+        "ae3615e7858839474d390ca3adcf9116f216b0be",
+        "da0ce4709cfecef5966b853c22db92817485e6a8"
+      ],
+      "numberOfCommits": 8
+    }
+  ]
+}

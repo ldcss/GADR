@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/phodal/data.git",
+  "crawlDateTime": "2022-01-18T22:17:05.808235",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-data-lifecycle-design.md",
+      "template": "Nygard",
+      "status": "2019-11-26 proposed",
+      "firstCommit": "2019-11-26T12:30:15Z",
+      "lastCommit": "2019-11-26T12:30:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4c3ab9f18ea6bc87cc3a2d099cad715e009c18ce"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-thinking-in-rule-engine.md",
+      "template": "Nygard",
+      "status": "2019-11-26 proposed",
+      "firstCommit": "2019-11-26T12:30:15Z",
+      "lastCommit": "2019-11-26T12:30:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4c3ab9f18ea6bc87cc3a2d099cad715e009c18ce"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-26T12:30:15Z",
+  "lastAdrCommit": "2019-11-26T12:30:15Z",
+  "firstCommit": "2019-11-25T23:53:09Z",
+  "lastCommit": "2019-12-05T23:58:24Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4c3ab9f18ea6bc87cc3a2d099cad715e009c18ce"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

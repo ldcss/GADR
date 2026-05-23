@@ -1,0 +1,368 @@
+{
+  "repositoryUrl": "https://github.com/Azure-ukgov-paas/paas-team-manual.git",
+  "crawlDateTime": "2022-01-18T23:01:36.613605",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture_decision_records"
+  ],
+  "numAdrFiles": 18,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR013-building-bosh-releases.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR010-postgres-bind-behaviour.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR004-domain-naming-scheme.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR003-AWS-credentials.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR001-manifest-management.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR014-hsts-preload-using-api-gateway.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR006-rds-broker.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR012-haproxy-healthcheck.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR007-terminating-tls-at-elbs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR015-rds-storage-encryption-plans.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR443-ssl-only-for-applications-and-cf-endpoints.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR016-end-to-end-encryption.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR002-concourse-pool-resource.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR011-security-group-structure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR005-pingdom-healthchecks.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR017-cell-capacity-assignment.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR009-x-forwarded-headers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture_decision_records",
+      "path": "ADR008-haproxy-for-request-rewriting.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-02-23T15:02:33Z",
+      "lastCommit": "2017-02-23T15:02:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "848e9498f42bfd31feb99bad104befa72b33f7c5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-02-23T15:02:33Z",
+  "lastAdrCommit": "2017-02-23T15:02:33Z",
+  "firstCommit": "2017-02-23T15:02:33Z",
+  "lastCommit": "2017-02-23T15:02:33Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "848e9498f42bfd31feb99bad104befa72b33f7c5"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

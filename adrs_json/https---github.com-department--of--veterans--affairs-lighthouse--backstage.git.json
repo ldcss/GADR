@@ -1,0 +1,213 @@
+{
+  "repositoryUrl": "https://github.com/department-of-veterans-affairs/lighthouse-backstage.git",
+  "crawlDateTime": "2022-01-18T22:55:19.836506",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs",
+      "path": "ADR/cypress-e2e-tests.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-09-22T18:25:32Z",
+      "lastCommit": "2022-01-06T16:09:23Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2128da3ce229ebe0caf917a01409ef4cff23f0db",
+            "a852272cbcd7afcb6730b6187b5177c8aa882388",
+            "6b00facba553ca22ce496cb238ab67db4326ee53",
+            "f65e813d703074bb59618f191bc89202ba77d72e"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR/github-packages.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-11-09T15:18:54Z",
+      "lastCommit": "2022-01-06T16:09:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "977c94938dbe1727ec08751287726a90d22beed4",
+            "2128da3ce229ebe0caf917a01409ef4cff23f0db"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR/split-fe-be.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-09-24T14:04:40Z",
+      "lastCommit": "2022-01-06T16:09:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a188a0f8196603aada5dfc4a098b5474a5592018",
+            "2128da3ce229ebe0caf917a01409ef4cff23f0db",
+            "6b00facba553ca22ce496cb238ab67db4326ee53"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR/code-cov.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-09-29T13:23:16Z",
+      "lastCommit": "2021-10-26T16:24:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "07252f2a495b99e4fb4e6a1bb476521f962fe704"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6b00facba553ca22ce496cb238ab67db4326ee53"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR/image-signing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-12-07T19:23:46Z",
+      "lastCommit": "2021-12-07T19:23:46Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3fac4ad7dc68eb482dc33d4f106e973169b41227"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR/zero-install.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-08-31T18:15:32Z",
+      "lastCommit": "2022-01-06T16:09:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2128da3ce229ebe0caf917a01409ef4cff23f0db",
+            "6b00facba553ca22ce496cb238ab67db4326ee53",
+            "b643e0ad33bc450748c278da4411434c960e21fa"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR/vite.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-25T13:39:51Z",
+      "lastCommit": "2021-10-26T16:24:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b4dd59acea037887f41e57ec8427f2f4c2a43b6c",
+            "6b00facba553ca22ce496cb238ab67db4326ee53"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR/twelve-factor-app.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-12-02T16:48:12Z",
+      "lastCommit": "2022-01-06T16:09:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c7390a686606ad20ee1fc369e7c9d950b496c3f3",
+            "2128da3ce229ebe0caf917a01409ef4cff23f0db"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-08-31T18:15:32Z",
+  "lastAdrCommit": "2022-01-06T16:09:23Z",
+  "firstCommit": "2020-12-21T19:45:05Z",
+  "lastCommit": "2022-01-18T17:35:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3fac4ad7dc68eb482dc33d4f106e973169b41227",
+        "07252f2a495b99e4fb4e6a1bb476521f962fe704"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a188a0f8196603aada5dfc4a098b5474a5592018",
+        "c7390a686606ad20ee1fc369e7c9d950b496c3f3",
+        "977c94938dbe1727ec08751287726a90d22beed4",
+        "2128da3ce229ebe0caf917a01409ef4cff23f0db",
+        "a852272cbcd7afcb6730b6187b5177c8aa882388",
+        "b4dd59acea037887f41e57ec8427f2f4c2a43b6c",
+        "6b00facba553ca22ce496cb238ab67db4326ee53",
+        "b643e0ad33bc450748c278da4411434c960e21fa",
+        "f65e813d703074bb59618f191bc89202ba77d72e"
+      ],
+      "numberOfCommits": 9
+    }
+  ]
+}

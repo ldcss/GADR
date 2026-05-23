@@ -1,0 +1,26 @@
+Senior 2: 15 anos de experiência. Um ano e meio utilizando ADRs profissionalmente.
+
+1. Uso da AWS como infraestrutura principal
+Decisão: utilizar AWS para suportar disponibilidade e escalabilidade.
+Motivo: maior maturidade, documentação e conhecimento disponível.
+Trade-off: facilidade e robustez vs custo potencialmente maior e dependência da cloud provider.
+
+2. Escalabilidade horizontal com Load Balancer + Auto Scaling
+Decisão: escalar horizontalmente distribuindo carga entre múltiplas instâncias.
+Motivo: garantir disponibilidade e resposta rápida em horários de pico.
+Trade-off: maior resiliência e performance vs aumento de custo e complexidade operacional.
+
+3. Uso de Lambda para processamento sob demanda
+Decisão: considerar AWS Lambda para computações efêmeras.
+Motivo: reduzir desperdício de recursos quando não houver uso.
+Trade-off: elasticidade e pagamento por uso vs possível aumento de custo em alta escala e limitações do modelo serverless.
+
+4. Uso de mensageria com BullMQ + Redis
+Decisão: desacoplar processamento usando filas e cache.
+Motivo: evitar gargalos e reduzir impacto de eventos simultâneos dos sensores.
+Trade-off: melhora de performance e desacoplamento vs aumento da complexidade arquitetural.
+
+5. Uso de Kubernetes (EKS)
+Decisão: utilizar EKS/Kubernetes como orquestrador.
+Motivo: experiência prévia da equipe.
+Trade-off: flexibilidade e padrão de mercado vs maior complexidade operacional comparado ao ECS.

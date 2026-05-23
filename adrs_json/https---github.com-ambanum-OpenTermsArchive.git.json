@@ -1,0 +1,135 @@
+{
+  "repositoryUrl": "https://github.com/ambanum/OpenTermsArchive.git",
+  "crawlDateTime": "2022-01-18T18:03:39.366146",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decision-records"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "decision-records",
+      "path": "0003-snapshots-database.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-21T07:58:00Z",
+      "lastCommit": "2021-12-14T14:54:30Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b5c8cca63a85127dff273b02c72c6b897a45042b",
+            "18abc75b7a1b2b089c929a8bd60d8a0e760f547c"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cba38666248f679f9d69ee3849e1a73effb33064",
+            "7750e5780dd0dd162e49c6c1afe3e1dadae7b8f3",
+            "b6de2fb27a17dc78db5abc69c4e59fe6eefbd850",
+            "d230d969a6daa61ac0d239286eb25aaa865b64b0"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-records",
+      "path": "0001-service-name-and-id.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-14T08:45:26Z",
+      "lastCommit": "2021-07-21T14:07:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b052a917d22a7a52635091e06221b5c1a2a9de2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0d934f64f2f4daf1c79a38541f6b1072ee5efc04"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decision-records",
+      "path": "0002-service-history.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-24T13:11:34Z",
+      "lastCommit": "2021-07-21T14:07:42Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "07abe3d354590eb79c57a6139d203c25d27d272f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0d934f64f2f4daf1c79a38541f6b1072ee5efc04",
+            "4e5d1f3efed0e5efbc68176a500ba054f52d540b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-14T08:45:26Z",
+  "lastAdrCommit": "2021-12-14T14:54:30Z",
+  "firstCommit": "2020-06-04T08:36:12Z",
+  "lastCommit": "2022-01-18T15:42:24Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b5c8cca63a85127dff273b02c72c6b897a45042b",
+        "18abc75b7a1b2b089c929a8bd60d8a0e760f547c"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cba38666248f679f9d69ee3849e1a73effb33064",
+        "07abe3d354590eb79c57a6139d203c25d27d272f",
+        "7750e5780dd0dd162e49c6c1afe3e1dadae7b8f3",
+        "5b052a917d22a7a52635091e06221b5c1a2a9de2",
+        "b6de2fb27a17dc78db5abc69c4e59fe6eefbd850",
+        "d230d969a6daa61ac0d239286eb25aaa865b64b0"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0d934f64f2f4daf1c79a38541f6b1072ee5efc04",
+        "4e5d1f3efed0e5efbc68176a500ba054f52d540b"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

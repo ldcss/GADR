@@ -1,0 +1,112 @@
+{
+  "repositoryUrl": "https://github.com/sesopenko/sesopenko_diamond_square.git",
+  "crawlDateTime": "2022-01-18T20:23:23.516606",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "ADR-3.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-17T00:10:43Z",
+      "lastCommit": "2020-02-17T21:53:08Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3ceb575f17c7be016a5c5dc7cf8705b7a6286b08",
+            "00af6df510ebe3058ca6030b6d4d5077595b84e6",
+            "fc56d4e9ceee91dfe16b74ef5d833702ce0775da",
+            "99e5d98cf84c372882c583555600164d38df6c4f",
+            "61b283642747fa919c32b4d393b553916335ba9a"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "ADR-2.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-17T00:03:22Z",
+      "lastCommit": "2020-02-17T00:03:22Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa67033e62f9a5b4f03d18441fa310a4e10ee102"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "ADR-1.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-16T22:46:24Z",
+      "lastCommit": "2020-02-16T22:46:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5ea505d192fd6d9b9dfdb2f5d7386e0ed4486791"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "ADR-4.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-17T21:53:08Z",
+      "lastCommit": "2020-02-17T21:53:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "61b283642747fa919c32b4d393b553916335ba9a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-16T22:46:24Z",
+  "lastAdrCommit": "2020-02-17T21:53:08Z",
+  "firstCommit": "2020-02-16T22:43:09Z",
+  "lastCommit": "2020-02-17T22:44:47Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3ceb575f17c7be016a5c5dc7cf8705b7a6286b08",
+        "fa67033e62f9a5b4f03d18441fa310a4e10ee102",
+        "5ea505d192fd6d9b9dfdb2f5d7386e0ed4486791",
+        "00af6df510ebe3058ca6030b6d4d5077595b84e6",
+        "fc56d4e9ceee91dfe16b74ef5d833702ce0775da",
+        "99e5d98cf84c372882c583555600164d38df6c4f",
+        "61b283642747fa919c32b4d393b553916335ba9a"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "repositoryUrl": "https://github.com/innius/grafana-simple-grpc-datasource.git",
+  "crawlDateTime": "2022-01-18T17:33:24.992341",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-add-provide-listmetrics-with-targetquerytype.md",
+      "template": "Nygard",
+      "status": "Rejected",
+      "firstCommit": "2021-12-01T14:30:15Z",
+      "lastCommit": "2021-12-01T14:30:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5bbd6608b329faedbd711fa768d826b4e3b1903"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-add-backend-error-handling.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-06T06:45:44Z",
+      "lastCommit": "2021-09-06T06:45:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1583701215585c17f745755c6d7c17b582f9391"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-09-06T06:45:44Z",
+  "lastAdrCommit": "2021-12-01T14:30:15Z",
+  "firstCommit": "2021-06-09T17:18:24Z",
+  "lastCommit": "2022-01-13T10:12:16Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e1583701215585c17f745755c6d7c17b582f9391"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f5bbd6608b329faedbd711fa768d826b4e3b1903"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

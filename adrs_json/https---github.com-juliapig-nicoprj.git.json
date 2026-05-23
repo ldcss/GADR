@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/juliapig/nicoprj.git",
+  "crawlDateTime": "2022-01-18T23:02:39.203239",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "tryout/clojurescript/one-M003/doc/arch"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "tryout/clojurescript/one-M003/doc/arch",
+      "path": "adr-001.md",
+      "template": "Nygard",
+      "status": "Accepted (by technical team).",
+      "firstCommit": "2013-05-22T18:01:26Z",
+      "lastCommit": "2013-05-22T18:01:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f7e5f3d03017991ed0cf3f9dd2c17ca697551313"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2013-05-22T18:01:26Z",
+  "lastAdrCommit": "2013-05-22T18:01:26Z",
+  "firstCommit": "2010-12-29T10:31:00Z",
+  "lastCommit": "2015-03-01T20:39:54Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f7e5f3d03017991ed0cf3f9dd2c17ca697551313"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

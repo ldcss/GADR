@@ -1,0 +1,143 @@
+{
+  "repositoryUrl": "https://github.com/st3v3nhunt/dotfiles.git",
+  "crawlDateTime": "2022-01-18T18:47:34.08591",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-vim-plug-in-favour-of-vundle.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-18T18:09:07Z",
+      "lastCommit": "2021-01-18T18:09:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "73a4f3df764640dada291d9461df537f75d8fc95"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-switch-to-use-zsh-in-place-of-bash.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-19T09:30:05Z",
+      "lastCommit": "2019-10-19T09:30:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1c0dcf842b01e86fb39daf34ad0231a49f9b3def"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-replace-travis-ci-with-github-actions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-18T11:22:24Z",
+      "lastCommit": "2021-11-16T18:28:32Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6be659837b028bfd620e83e64f8ab126f8065415",
+            "9cb932eca5a641aede51fadad3166c17307a9d5a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-08T07:30:00Z",
+      "lastCommit": "2020-09-12T22:14:00Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b62ddf5de03ddcef0560c8b22b0e04cf9b7615b5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "578535daeaf813c00594b03ca1a40e537ccca6e3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-use-coc-in-place-of-ycm.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-19T18:27:31Z",
+      "lastCommit": "2021-01-19T18:27:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "291705e41c6dcfba11e972eceeb27d6caba22175"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-06-08T07:30:00Z",
+  "lastAdrCommit": "2021-11-16T18:28:32Z",
+  "firstCommit": "2016-06-09T15:48:47Z",
+  "lastCommit": "2022-01-13T22:34:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b62ddf5de03ddcef0560c8b22b0e04cf9b7615b5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "73a4f3df764640dada291d9461df537f75d8fc95",
+        "1c0dcf842b01e86fb39daf34ad0231a49f9b3def",
+        "6be659837b028bfd620e83e64f8ab126f8065415",
+        "291705e41c6dcfba11e972eceeb27d6caba22175",
+        "9cb932eca5a641aede51fadad3166c17307a9d5a",
+        "578535daeaf813c00594b03ca1a40e537ccca6e3"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

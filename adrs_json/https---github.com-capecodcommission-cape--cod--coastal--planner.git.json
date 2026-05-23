@@ -1,0 +1,111 @@
+{
+  "repositoryUrl": "https://github.com/capecodcommission/cape-cod-coastal-planner.git",
+  "crawlDateTime": "2022-01-18T19:16:25.966876",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0002-use-graphql-for-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-20T21:05:50Z",
+      "lastCommit": "2018-07-03T13:48:41Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76b6170453e1c130081ef2ee1e34044eda604882",
+            "4a6fd691b2b6ff4b9244080feac22e2f6b28a796"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0004-use-postgresql-as-db.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-03T14:54:22Z",
+      "lastCommit": "2018-11-07T15:33:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ef3ef7fd33153f88c9b24502743106a586afc3ce",
+            "dcfaa34429592f930ec4a97e21d542a64e9dc1db"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0003-use-elm-as-frontend-language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-20T21:05:50Z",
+      "lastCommit": "2018-07-03T13:48:41Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76b6170453e1c130081ef2ee1e34044eda604882",
+            "cec35c0da565859574abf82e22e9172905591e82",
+            "4a6fd691b2b6ff4b9244080feac22e2f6b28a796"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "0001-use-elixir-as-backend-language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-20T21:05:50Z",
+      "lastCommit": "2018-07-03T13:48:41Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "76b6170453e1c130081ef2ee1e34044eda604882",
+            "4a6fd691b2b6ff4b9244080feac22e2f6b28a796"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-20T21:05:50Z",
+  "lastAdrCommit": "2018-11-07T15:33:45Z",
+  "firstCommit": "2018-06-15T17:49:27Z",
+  "lastCommit": "2022-01-13T14:35:29Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ef3ef7fd33153f88c9b24502743106a586afc3ce",
+        "76b6170453e1c130081ef2ee1e34044eda604882",
+        "dcfaa34429592f930ec4a97e21d542a64e9dc1db",
+        "cec35c0da565859574abf82e22e9172905591e82",
+        "4a6fd691b2b6ff4b9244080feac22e2f6b28a796"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

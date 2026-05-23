@@ -1,0 +1,67 @@
+{
+  "repositoryUrl": "https://github.com/iamturns/create-exposed-app.git",
+  "crawlDateTime": "2022-01-18T18:03:07.358464",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "003-order-imports-with-import-sort.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-10T14:10:24Z",
+      "lastCommit": "2021-03-13T07:06:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "861c8eebc59bd11332cef8251aff156c5d8b2940",
+            "71f3095e86a370285664903a9a73c7058d747c22"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "002-prefer-multiple-config-files.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-10T14:10:24Z",
+      "lastCommit": "2021-03-13T07:06:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "861c8eebc59bd11332cef8251aff156c5d8b2940",
+            "71f3095e86a370285664903a9a73c7058d747c22"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-10T14:10:24Z",
+  "lastAdrCommit": "2021-03-13T07:06:11Z",
+  "firstCommit": "2018-12-30T06:18:13Z",
+  "lastCommit": "2022-01-17T18:34:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "861c8eebc59bd11332cef8251aff156c5d8b2940",
+        "71f3095e86a370285664903a9a73c7058d747c22"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

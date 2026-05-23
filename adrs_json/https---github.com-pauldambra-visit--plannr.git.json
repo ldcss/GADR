@@ -1,0 +1,149 @@
+{
+  "repositoryUrl": "https://github.com/pauldambra/visit-plannr.git",
+  "crawlDateTime": "2022-01-18T20:58:55.187",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/ladr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/ladr",
+      "path": "0002-dynamodb-composite-primary-key-design.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-04T19:40:44Z",
+      "lastCommit": "2018-03-04T19:40:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0d563ec26c7fd7920c1da5f1e67d1f70693016d5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/ladr",
+      "path": "0005-read-model-tables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-09T10:42:13Z",
+      "lastCommit": "2018-06-09T10:42:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0fc24163bf26fcbe7994f6a488a1d9a6d92cc968"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/ladr",
+      "path": "0006-collapse-to-one-cloudformation-template.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [3. cloudfront distribution means there is long lived infrastruture](0003-cloudfront-distribution-means-there-is-long-lived-infrastruture.md)",
+      "firstCommit": "2018-07-14T20:12:16Z",
+      "lastCommit": "2018-07-14T20:12:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f6fb90e51a3473e7c5ccfee09df374acbd0744c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/ladr",
+      "path": "0004-event-contracts.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-26T09:11:13Z",
+      "lastCommit": "2018-05-26T09:11:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf0ca477a6c8fb65840158ae4e45fb887b18d4eb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/ladr",
+      "path": "0003-cloudfront-distribution-means-there-is-long-lived-infrastruture.md",
+      "template": "Nygard",
+      "status": "Proposed Superceded by [6. collapse to one cloudformation template](0006-collapse-to-one-cloudformation-template.md)",
+      "firstCommit": "2018-03-29T16:31:42Z",
+      "lastCommit": "2018-07-14T20:12:16Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0fc24163bf26fcbe7994f6a488a1d9a6d92cc968",
+            "9f6fb90e51a3473e7c5ccfee09df374acbd0744c",
+            "3df1d141b08ff1c974bfc4541ee75239e7c37904"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/ladr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-04T19:40:44Z",
+      "lastCommit": "2018-03-04T19:40:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0d563ec26c7fd7920c1da5f1e67d1f70693016d5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-03-04T19:40:44Z",
+  "lastAdrCommit": "2018-07-14T20:12:16Z",
+  "firstCommit": "2018-02-19T16:49:28Z",
+  "lastCommit": "2021-11-16T21:42:09Z",
+  "adrDirFile": {
+    "fileContent": "doc/ladr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0fc24163bf26fcbe7994f6a488a1d9a6d92cc968",
+        "9f6fb90e51a3473e7c5ccfee09df374acbd0744c",
+        "0d563ec26c7fd7920c1da5f1e67d1f70693016d5",
+        "3df1d141b08ff1c974bfc4541ee75239e7c37904",
+        "cf0ca477a6c8fb65840158ae4e45fb887b18d4eb"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

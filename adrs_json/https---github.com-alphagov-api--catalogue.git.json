@@ -1,0 +1,69 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/api-catalogue.git",
+  "crawlDateTime": "2022-01-18T19:10:26.979133",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0001-remove-tech-docs-gem-dependency.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-09T10:00:45Z",
+      "lastCommit": "2020-11-27T18:15:06Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "95a941dbcdf4b3ab2a9475bd7f5a47811f3a946d",
+            "e9a8095b5107114930163aae2934b2fd882d440e",
+            "ff431e161ce14c3d8ccf60636a8c794b5120a0d0"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0002-reduce-internet-explorer-6-8.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-27T18:15:06Z",
+      "lastCommit": "2020-11-27T18:15:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4eefc88f2b3c0091dc884251a04713b2d2b405bf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-09T10:00:45Z",
+  "lastAdrCommit": "2020-11-27T18:15:06Z",
+  "firstCommit": "2019-09-05T11:03:46Z",
+  "lastCommit": "2022-01-14T15:57:51Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "95a941dbcdf4b3ab2a9475bd7f5a47811f3a946d",
+        "e9a8095b5107114930163aae2934b2fd882d440e",
+        "ff431e161ce14c3d8ccf60636a8c794b5120a0d0",
+        "4eefc88f2b3c0091dc884251a04713b2d2b405bf"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "repositoryUrl": "https://github.com/yarbelk/adr.git",
+  "crawlDateTime": "2022-01-18T20:30:14.853711",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-0002.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-15T04:59:41Z",
+      "lastCommit": "2019-10-23T04:48:59Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3c32f2fc82bdec3587e72dfb2db87eaf0bf2f34c",
+            "077f01a43fe79c98c9554defcabecee5ca2afbf9",
+            "27892f7a227fd548ecd65ba97f6b1067830ee9e5",
+            "5db9a7d9085722db76ad097dc1fb8a19042d3dad"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb66f42bf04ea86f9ab30ff42725a91f731e300f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-0003.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-29T04:27:46Z",
+      "lastCommit": "2019-04-02T06:17:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "077f01a43fe79c98c9554defcabecee5ca2afbf9",
+            "5db9a7d9085722db76ad097dc1fb8a19042d3dad"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-0001.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-15T04:59:41Z",
+      "lastCommit": "2019-10-23T04:48:59Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3c32f2fc82bdec3587e72dfb2db87eaf0bf2f34c",
+            "077f01a43fe79c98c9554defcabecee5ca2afbf9",
+            "27892f7a227fd548ecd65ba97f6b1067830ee9e5",
+            "5db9a7d9085722db76ad097dc1fb8a19042d3dad"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb66f42bf04ea86f9ab30ff42725a91f731e300f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs",
+      "path": "ADR-0004.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-04-02T09:46:36Z",
+      "lastCommit": "2019-10-23T04:48:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "25fde15c2bfef946519b86b05aea92a4a9f6ca12"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb66f42bf04ea86f9ab30ff42725a91f731e300f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-15T04:59:41Z",
+  "lastAdrCommit": "2019-10-23T04:48:59Z",
+  "firstCommit": "2019-03-07T05:53:20Z",
+  "lastCommit": "2019-10-23T14:11:13Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3c32f2fc82bdec3587e72dfb2db87eaf0bf2f34c",
+        "077f01a43fe79c98c9554defcabecee5ca2afbf9",
+        "27892f7a227fd548ecd65ba97f6b1067830ee9e5",
+        "25fde15c2bfef946519b86b05aea92a4a9f6ca12",
+        "5db9a7d9085722db76ad097dc1fb8a19042d3dad"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bb66f42bf04ea86f9ab30ff42725a91f731e300f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

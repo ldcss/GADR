@@ -1,0 +1,87 @@
+{
+  "repositoryUrl": "https://github.com/hyprnz/terraform-aws-iam-module.git",
+  "crawlDateTime": "2022-01-18T18:35:51.612034",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-dual-support-for-terraform-version-0-11-and-0-12.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-17T01:23:25Z",
+      "lastCommit": "2020-03-17T01:23:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bf39822f96a50525791daa446cd06d22e8203478"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-create-a-collection-of-iam-related-modules.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-10T00:28:43Z",
+      "lastCommit": "2020-03-10T00:28:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14d0906f863a5cdf4e4ea22fa11799576fdf2c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-10T00:28:43Z",
+      "lastCommit": "2020-03-10T00:28:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "14d0906f863a5cdf4e4ea22fa11799576fdf2c81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-10T00:28:43Z",
+  "lastAdrCommit": "2020-03-17T01:23:25Z",
+  "firstCommit": "2019-04-15T19:55:15Z",
+  "lastCommit": "2021-07-07T01:56:19Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bf39822f96a50525791daa446cd06d22e8203478",
+        "14d0906f863a5cdf4e4ea22fa11799576fdf2c81"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

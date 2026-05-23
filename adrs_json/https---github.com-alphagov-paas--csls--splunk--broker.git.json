@@ -1,0 +1,168 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/paas-csls-splunk-broker.git",
+  "crawlDateTime": "2022-01-18T18:37:45.190034",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR002-deploy-adatper-as-lambda.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-08T12:22:12Z",
+      "lastCommit": "2020-06-08T12:22:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c429af6c0567e2c4cff6c5233593ce9d777d9f12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR004-deploy-broker-as-lambda.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-08T12:22:12Z",
+      "lastCommit": "2020-06-08T12:22:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c429af6c0567e2c4cff6c5233593ce9d777d9f12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR006-mapping-log-events-to-indexes.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-08T12:22:13Z",
+      "lastCommit": "2020-06-08T12:22:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "21d8038ca3f2a15c0fac4be6dc9ea31e1ae78baa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR003-service-broker.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-08T12:22:12Z",
+      "lastCommit": "2020-06-08T12:22:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c429af6c0567e2c4cff6c5233593ce9d777d9f12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR005-authenticating-log-events.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-08T12:22:12Z",
+      "lastCommit": "2020-06-08T12:22:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c429af6c0567e2c4cff6c5233593ce9d777d9f12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR007-paas-taking-ownership.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-10T11:11:05Z",
+      "lastCommit": "2020-06-10T11:11:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "00911d4112338e364c869fb81ff9b5eb9c74e95b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "ADR001-syslog-http-to-csls-adapter.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-08T12:22:12Z",
+      "lastCommit": "2020-06-08T12:22:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c429af6c0567e2c4cff6c5233593ce9d777d9f12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-08T12:22:12Z",
+  "lastAdrCommit": "2020-06-10T11:11:05Z",
+  "firstCommit": "2020-06-08T11:55:19Z",
+  "lastCommit": "2022-01-12T12:00:42Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c429af6c0567e2c4cff6c5233593ce9d777d9f12",
+        "21d8038ca3f2a15c0fac4be6dc9ea31e1ae78baa"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "00911d4112338e364c869fb81ff9b5eb9c74e95b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

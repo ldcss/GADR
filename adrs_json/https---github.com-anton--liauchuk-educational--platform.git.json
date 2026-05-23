@@ -1,0 +1,288 @@
+{
+  "repositoryUrl": "https://github.com/anton-liauchuk/educational-platform.git",
+  "crawlDateTime": "2022-01-18T18:33:55.555676",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture-decisions"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0010-use-axon-framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-07T10:25:17Z",
+      "lastCommit": "2020-07-07T10:25:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bad3521cd81d7647b4a9155da46151888ccf2f9f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0008-result-from-comand-handlers.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-14T20:07:36Z",
+      "lastCommit": "2020-06-27T11:09:40Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eaf956a5678e613d2b1c8d09a8c8e2f26c48c8f8",
+            "98a61f3252e9c7b018433baed6e070d1a6865095",
+            "69744813be8adc7b900a2296e5b902c7cf87929d"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0001-bounded-contexts-communication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-29T16:14:55Z",
+      "lastCommit": "2020-12-26T21:04:26Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8674af32774723fb0187bd4865322e0a52bbc93c",
+            "905d4bea68ca6f918adacf89d18e7b471c21dfba",
+            "f0c79e9759128349a6e2e8c4d2338fdff31c16f1",
+            "e2a738328cad23d317f0ef325b4ce535c12e2b01",
+            "98a61f3252e9c7b018433baed6e070d1a6865095",
+            "e9701dab92b0a540bac8ab0aaf7a6b7be8d09077",
+            "7df2cb0c6e662af99621ffb8814be4b2bdf40eb0",
+            "0bfddf6f4cae1c03f26ef049ee3e40ad429fa1b1"
+          ],
+          "numberOfCommits": 8
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0004-validation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-26T07:37:59Z",
+      "lastCommit": "2020-12-26T21:04:26Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e127dff161d4d41a6beb332c9e7e04990acb5288",
+            "09cb758f16e1cf9044af2ae17c08385b0dfb350a",
+            "905d4bea68ca6f918adacf89d18e7b471c21dfba",
+            "98a61f3252e9c7b018433baed6e070d1a6865095",
+            "e9701dab92b0a540bac8ab0aaf7a6b7be8d09077",
+            "0bfddf6f4cae1c03f26ef049ee3e40ad429fa1b1"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0009-architecture-tests.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-27T11:09:40Z",
+      "lastCommit": "2020-12-26T21:04:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "98a61f3252e9c7b018433baed6e070d1a6865095",
+            "e9701dab92b0a540bac8ab0aaf7a6b7be8d09077"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0006-rich-domain-model.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-06T05:51:23Z",
+      "lastCommit": "2020-12-26T21:04:26Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "98a61f3252e9c7b018433baed6e070d1a6865095",
+            "e9701dab92b0a540bac8ab0aaf7a6b7be8d09077",
+            "a8f4d2a3e62c7f08d87fa7e0824d5d66302a7000"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0011-use-axon-event-publishing-mechanism.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-11T17:03:14Z",
+      "lastCommit": "2021-01-11T17:03:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4aeba1f0c07f6d67a96376d70c7f3ae6271f2b9e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0002-integration-events-implementation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-08T08:40:35Z",
+      "lastCommit": "2020-12-26T21:04:26Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "905d4bea68ca6f918adacf89d18e7b471c21dfba",
+            "a55577c4e3e31184063a678cffe593c869849c17",
+            "f0c79e9759128349a6e2e8c4d2338fdff31c16f1",
+            "98a61f3252e9c7b018433baed6e070d1a6865095",
+            "e9701dab92b0a540bac8ab0aaf7a6b7be8d09077",
+            "0bfddf6f4cae1c03f26ef049ee3e40ad429fa1b1"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0007-api-first.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-06T05:45:10Z",
+      "lastCommit": "2020-12-26T21:04:26Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "441909c3c123b439220ca666b7418ca0da9a69eb",
+            "98a61f3252e9c7b018433baed6e070d1a6865095",
+            "e9701dab92b0a540bac8ab0aaf7a6b7be8d09077"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0003-cqrs.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-23T15:27:14Z",
+      "lastCommit": "2020-07-18T17:02:11Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "09cb758f16e1cf9044af2ae17c08385b0dfb350a",
+            "905d4bea68ca6f918adacf89d18e7b471c21dfba",
+            "98a61f3252e9c7b018433baed6e070d1a6865095",
+            "82e18db44b0350a365dcd69674c89326e48eb2c8",
+            "0bfddf6f4cae1c03f26ef049ee3e40ad429fa1b1"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0005-identifier-between-modules.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-28T13:43:48Z",
+      "lastCommit": "2020-12-26T21:04:26Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "09cb758f16e1cf9044af2ae17c08385b0dfb350a",
+            "905d4bea68ca6f918adacf89d18e7b471c21dfba",
+            "af0a8bf2bb5249cd17b9dfa1095acac700b5b742",
+            "98a61f3252e9c7b018433baed6e070d1a6865095",
+            "e9701dab92b0a540bac8ab0aaf7a6b7be8d09077",
+            "a30d4503d4056e60b437c79ba0398344e248fcff",
+            "0bfddf6f4cae1c03f26ef049ee3e40ad429fa1b1"
+          ],
+          "numberOfCommits": 7
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-29T16:14:55Z",
+  "lastAdrCommit": "2021-01-11T17:03:14Z",
+  "firstCommit": "2019-10-06T17:51:59Z",
+  "lastCommit": "2021-07-11T07:29:35Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "09cb758f16e1cf9044af2ae17c08385b0dfb350a",
+        "f0c79e9759128349a6e2e8c4d2338fdff31c16f1",
+        "441909c3c123b439220ca666b7418ca0da9a69eb",
+        "e2a738328cad23d317f0ef325b4ce535c12e2b01",
+        "af0a8bf2bb5249cd17b9dfa1095acac700b5b742",
+        "bad3521cd81d7647b4a9155da46151888ccf2f9f",
+        "a30d4503d4056e60b437c79ba0398344e248fcff",
+        "82e18db44b0350a365dcd69674c89326e48eb2c8",
+        "a8f4d2a3e62c7f08d87fa7e0824d5d66302a7000",
+        "8674af32774723fb0187bd4865322e0a52bbc93c",
+        "e127dff161d4d41a6beb332c9e7e04990acb5288",
+        "eaf956a5678e613d2b1c8d09a8c8e2f26c48c8f8",
+        "905d4bea68ca6f918adacf89d18e7b471c21dfba",
+        "a55577c4e3e31184063a678cffe593c869849c17",
+        "98a61f3252e9c7b018433baed6e070d1a6865095",
+        "4aeba1f0c07f6d67a96376d70c7f3ae6271f2b9e",
+        "e9701dab92b0a540bac8ab0aaf7a6b7be8d09077",
+        "7df2cb0c6e662af99621ffb8814be4b2bdf40eb0",
+        "0bfddf6f4cae1c03f26ef049ee3e40ad429fa1b1",
+        "69744813be8adc7b900a2296e5b902c7cf87929d"
+      ],
+      "numberOfCommits": 20
+    }
+  ]
+}

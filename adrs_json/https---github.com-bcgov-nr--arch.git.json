@@ -1,0 +1,303 @@
+{
+  "repositoryUrl": "https://github.com/bcgov/nr-arch.git",
+  "crawlDateTime": "2022-01-18T20:00:40.199241",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "2020-03-15-ARCH-GPU-on-GTS.md",
+      "template": "Madr",
+      "status": "[proposed / exploratory] - optional",
+      "firstCommit": "2020-03-14T16:33:49Z",
+      "lastCommit": "2020-09-30T22:16:31Z",
+      "numberOfCommits": 15,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0538b653ad2fd71be31d8ea0b699e4219b876dca",
+            "c2d8351aba38a40739bee2efc6b15bc673d1646a",
+            "662a5d1436c422180fbe41f6ed4aa7f2978ddaa8"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c037a7c266d06a7c190405e4a7c2cd131a780272",
+            "3c301218af74c413597b9a4f30f703a5457690ad",
+            "e221f1a3595747f9af9ef90f6e8ddf36c7040bb4",
+            "41e7462cbc6111073cff546c8f8b66f25834152e",
+            "317496a091a938e90436748d2314b0907042e2b7",
+            "3c6958c90cc3767360129cffd8baa6f836e5030a",
+            "302e640722439e19e6ff7cee9541ea1fa7638710",
+            "5c44af1a44e10a9af437428097e60c671460cd56",
+            "ac956b4339d7aa0dd25b2d5e9b9e619863aaa7d7",
+            "9e76cb63a322373165cec88915bfc52aca3c7ca0",
+            "8ddc39cb1d508d213eeb6d2c43d84263792d6d79",
+            "edcd30df879e89bc09f40fac6219d50f8076bee3"
+          ],
+          "numberOfCommits": 12
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "2020-04-16-ARCH-liferay-community-edition.md",
+      "template": "Madr",
+      "status": "[proposed | rejected | accepted | deprecated | ... | superseded by [ADR-0005](0005-example.md)] <!-- optional -->",
+      "firstCommit": "2020-04-21T00:22:48Z",
+      "lastCommit": "2020-09-30T22:16:31Z",
+      "numberOfCommits": 11,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a189bb95a89033e49722629718089d3946048a4d",
+            "d1c286368fb3152708ed99b85102da73b7f0e021"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e221f1a3595747f9af9ef90f6e8ddf36c7040bb4",
+            "41e7462cbc6111073cff546c8f8b66f25834152e",
+            "317496a091a938e90436748d2314b0907042e2b7",
+            "302e640722439e19e6ff7cee9541ea1fa7638710",
+            "5c44af1a44e10a9af437428097e60c671460cd56",
+            "ac956b4339d7aa0dd25b2d5e9b9e619863aaa7d7",
+            "9e76cb63a322373165cec88915bfc52aca3c7ca0",
+            "70dc850df9214db422d97e1a2b337b0b3457ba54",
+            "edcd30df879e89bc09f40fac6219d50f8076bee3"
+          ],
+          "numberOfCommits": 9
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "2020-04-24-ARCH-OpenJDK-Versions.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2020-04-21T00:23:53Z",
+      "lastCommit": "2020-09-30T22:24:06Z",
+      "numberOfCommits": 24,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "057300f5d5dd94d2e818656c87f75308bfaaa0cd",
+            "90826ff931f79c281c3f63e6d81db712782fc532",
+            "1a7daaa3ce3004550f3fd68b35a51ccce6d7a860",
+            "099245c5651d212b9583c8f9455b12c96a97d884"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7a516842571b0f35c095c1a7ac82de86ea26ac1d",
+            "a1a356af4d27522f73038288989e872667c53e8f",
+            "bb799f224a0e6ea17737f4cae1646ffa28b1269e",
+            "27dce05d0407d885c99608475139155877358b55",
+            "f83982de1627846dbe31a1f09b23eee4310ba320",
+            "3f33e7b065950cd7a30f1806a9b90fee823154f4",
+            "02271df43fa698bbbfc83c0fd997180eb15a4288",
+            "a2bbc49cdf3acd34169acc8e37bfa5d504df3d57"
+          ],
+          "numberOfCommits": 8
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e221f1a3595747f9af9ef90f6e8ddf36c7040bb4",
+            "41e7462cbc6111073cff546c8f8b66f25834152e",
+            "317496a091a938e90436748d2314b0907042e2b7",
+            "302e640722439e19e6ff7cee9541ea1fa7638710",
+            "5c44af1a44e10a9af437428097e60c671460cd56",
+            "ac956b4339d7aa0dd25b2d5e9b9e619863aaa7d7",
+            "951b47568e574e02587477ebf2084d31efac2c7a",
+            "2ed12418a2095d245ef1e310ebcb23e29dcb3662",
+            "9e76cb63a322373165cec88915bfc52aca3c7ca0",
+            "72eaca41709bb06403185cc7c37be8df11cebda1",
+            "1e3ac22ac2f3090bb2108f0d64f20a1bd326805d",
+            "7329fd3e4d909a0756b0f924d7b3993f7f32f1a6"
+          ],
+          "numberOfCommits": 12
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "2020-03-12-ARCH-record-architecture-decisions-simple-template.md",
+      "template": "Nygard",
+      "status": "Accepted What is the status, such as Proposed, Rejected, Deprecated, Accepted, Superceded, Amended, Unknown, Pending.",
+      "firstCommit": "2020-03-14T16:33:49Z",
+      "lastCommit": "2020-09-30T22:16:31Z",
+      "numberOfCommits": 15,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26330a695ac1d1872dce2226235e3690f7225220",
+            "c2caf430ab5d9a1c4d89b8d2f8c30b7187334975",
+            "1e0a5444875227db3977f61142e866aeb35126af"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b950d2f42ac655bf42c01269027c9ad7ba1614f",
+            "3c301218af74c413597b9a4f30f703a5457690ad",
+            "e221f1a3595747f9af9ef90f6e8ddf36c7040bb4",
+            "41e7462cbc6111073cff546c8f8b66f25834152e",
+            "1c81ab01c418af3803c93bb1210f2624e1dfbb3d",
+            "317496a091a938e90436748d2314b0907042e2b7",
+            "3c6958c90cc3767360129cffd8baa6f836e5030a",
+            "5c44af1a44e10a9af437428097e60c671460cd56",
+            "ac956b4339d7aa0dd25b2d5e9b9e619863aaa7d7",
+            "9e76cb63a322373165cec88915bfc52aca3c7ca0",
+            "a14f071486ac27c11fd896961fa83aa541affc55",
+            "edcd30df879e89bc09f40fac6219d50f8076bee3"
+          ],
+          "numberOfCommits": 12
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "2020-03-14-ARCH-record-architecture-decisions-detailed-template.md",
+      "template": "Madr",
+      "status": "[proposed | rejected | accepted | deprecated | ... | superseded by [ADR-0005](0005-example.md)] <!-- optional -->",
+      "firstCommit": "2020-03-14T16:33:49Z",
+      "lastCommit": "2020-09-30T22:16:31Z",
+      "numberOfCommits": 19,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3a7fd2060c7c8946e0f3ebbdea1be323950dc193",
+            "a82bb7387e8dff0c6a4e8c28697370dac0a3ca6c",
+            "60bd716c728f2310c3a1e679e1880949b710c7f8",
+            "47c4faaed7c5198c645e09888acd784e62659ca8"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3c301218af74c413597b9a4f30f703a5457690ad",
+            "e221f1a3595747f9af9ef90f6e8ddf36c7040bb4",
+            "1c81ab01c418af3803c93bb1210f2624e1dfbb3d",
+            "317496a091a938e90436748d2314b0907042e2b7",
+            "3c6958c90cc3767360129cffd8baa6f836e5030a",
+            "302e640722439e19e6ff7cee9541ea1fa7638710",
+            "5c44af1a44e10a9af437428097e60c671460cd56",
+            "a6818733ebe53a7df7317c74267fd1601cefde17",
+            "ac956b4339d7aa0dd25b2d5e9b9e619863aaa7d7",
+            "9e76cb63a322373165cec88915bfc52aca3c7ca0",
+            "a14f071486ac27c11fd896961fa83aa541affc55",
+            "37183fe41efe70aa3fe03555ce5f33a415307c8a",
+            "95958da587a12ad6535af7ee132993db1a1179fc",
+            "41e7462cbc6111073cff546c8f8b66f25834152e",
+            "edcd30df879e89bc09f40fac6219d50f8076bee3"
+          ],
+          "numberOfCommits": 15
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-14T16:33:49Z",
+  "lastAdrCommit": "2020-09-30T22:24:06Z",
+  "firstCommit": "2020-01-07T20:49:11Z",
+  "lastCommit": "2021-08-20T22:21:41Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3a7fd2060c7c8946e0f3ebbdea1be323950dc193",
+        "057300f5d5dd94d2e818656c87f75308bfaaa0cd",
+        "26330a695ac1d1872dce2226235e3690f7225220",
+        "90826ff931f79c281c3f63e6d81db712782fc532",
+        "d1c286368fb3152708ed99b85102da73b7f0e021",
+        "1a7daaa3ce3004550f3fd68b35a51ccce6d7a860",
+        "099245c5651d212b9583c8f9455b12c96a97d884",
+        "1e0a5444875227db3977f61142e866aeb35126af",
+        "0538b653ad2fd71be31d8ea0b699e4219b876dca",
+        "c2d8351aba38a40739bee2efc6b15bc673d1646a",
+        "662a5d1436c422180fbe41f6ed4aa7f2978ddaa8",
+        "c2caf430ab5d9a1c4d89b8d2f8c30b7187334975",
+        "a82bb7387e8dff0c6a4e8c28697370dac0a3ca6c",
+        "a189bb95a89033e49722629718089d3946048a4d",
+        "60bd716c728f2310c3a1e679e1880949b710c7f8",
+        "47c4faaed7c5198c645e09888acd784e62659ca8"
+      ],
+      "numberOfCommits": 16
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7a516842571b0f35c095c1a7ac82de86ea26ac1d",
+        "a1a356af4d27522f73038288989e872667c53e8f",
+        "bb799f224a0e6ea17737f4cae1646ffa28b1269e",
+        "27dce05d0407d885c99608475139155877358b55",
+        "f83982de1627846dbe31a1f09b23eee4310ba320",
+        "3f33e7b065950cd7a30f1806a9b90fee823154f4",
+        "02271df43fa698bbbfc83c0fd997180eb15a4288",
+        "a2bbc49cdf3acd34169acc8e37bfa5d504df3d57"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3c301218af74c413597b9a4f30f703a5457690ad",
+        "e221f1a3595747f9af9ef90f6e8ddf36c7040bb4",
+        "317496a091a938e90436748d2314b0907042e2b7",
+        "1c81ab01c418af3803c93bb1210f2624e1dfbb3d",
+        "3c6958c90cc3767360129cffd8baa6f836e5030a",
+        "302e640722439e19e6ff7cee9541ea1fa7638710",
+        "5c44af1a44e10a9af437428097e60c671460cd56",
+        "a6818733ebe53a7df7317c74267fd1601cefde17",
+        "ac956b4339d7aa0dd25b2d5e9b9e619863aaa7d7",
+        "9e76cb63a322373165cec88915bfc52aca3c7ca0",
+        "a14f071486ac27c11fd896961fa83aa541affc55",
+        "70dc850df9214db422d97e1a2b337b0b3457ba54",
+        "37183fe41efe70aa3fe03555ce5f33a415307c8a",
+        "1e3ac22ac2f3090bb2108f0d64f20a1bd326805d",
+        "7329fd3e4d909a0756b0f924d7b3993f7f32f1a6",
+        "95958da587a12ad6535af7ee132993db1a1179fc",
+        "c037a7c266d06a7c190405e4a7c2cd131a780272",
+        "5b950d2f42ac655bf42c01269027c9ad7ba1614f",
+        "41e7462cbc6111073cff546c8f8b66f25834152e",
+        "951b47568e574e02587477ebf2084d31efac2c7a",
+        "2ed12418a2095d245ef1e310ebcb23e29dcb3662",
+        "72eaca41709bb06403185cc7c37be8df11cebda1",
+        "8ddc39cb1d508d213eeb6d2c43d84263792d6d79",
+        "edcd30df879e89bc09f40fac6219d50f8076bee3"
+      ],
+      "numberOfCommits": 24
+    }
+  ]
+}

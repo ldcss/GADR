@@ -1,0 +1,89 @@
+{
+  "repositoryUrl": "https://github.com/xuyuji9000/adr-playground.git",
+  "crawlDateTime": "2022-01-18T21:12:22.211668",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-implement-as-unix-shell-scripts.md",
+      "template": "Nygard",
+      "status": "Superceded by [3. Remove Unix Scripts](0003-remove-unix-scripts.md)",
+      "firstCommit": "2018-09-12T16:33:05Z",
+      "lastCommit": "2018-09-12T16:34:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d2c114525aafcf991a1c89a4ba454d56dc94fef7",
+            "04f3d53f82a6c3320dca06868730826637b601e0"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-remove-unix-scripts.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [2. Implement as Unix shell scripts](0002-implement-as-unix-shell-scripts.md)",
+      "firstCommit": "2018-09-12T16:34:23Z",
+      "lastCommit": "2018-09-12T16:34:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d2c114525aafcf991a1c89a4ba454d56dc94fef7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-12T16:30:02Z",
+      "lastCommit": "2018-09-12T16:30:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f969d5230d0595479a9bc424a2fab39889227846"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-12T16:30:02Z",
+  "lastAdrCommit": "2018-09-12T16:34:23Z",
+  "firstCommit": "2018-09-12T16:25:17Z",
+  "lastCommit": "2018-09-12T16:35:54Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d2c114525aafcf991a1c89a4ba454d56dc94fef7",
+        "04f3d53f82a6c3320dca06868730826637b601e0",
+        "f969d5230d0595479a9bc424a2fab39889227846"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# [ADR-001] AWS Cloud Provider and EKS for Container Orchestration
+- **Status**: Accepted
+- **Context**: The gym management system requires high availability and efficiency. It must handle peak hours with hundreds of simultaneously active equipment nodes functioning as autonomous clients. The infrastructure requires a load balancer and horizontal auto-scaling to distribute requests dynamically. 
+- **Decision**: We will utilize AWS as the cloud provider and Amazon EKS (Elastic Kubernetes Service) for container orchestration to manage backend services and handle horizontal auto-scaling.
+- **Considered Options**:
+  - **AWS Lambda (Serverless)**: Considered for its ability to scale per request and spin down to zero, but rejected due to the risk of exorbitant costs under continuous high-volume sensor data ingestion and the 15-minute execution limit.
+  - **Amazon ECS**: AWS-native orchestration, rejected due to the team's (specifically the Tech Lead's) lack of prior operational experience compared to Kubernetes.
+  - **Vertical Scaling (Larger EC2 instances)**: Rejected as multiplying instances (horizontal scaling) provides better fault tolerance and dynamic cost management during gym peak hours compared to over-provisioning large static machines.
+- **Consequences**:
+  - **Pros**: Leverages the team's existing Kubernetes expertise; guarantees robust horizontal scaling; highly available across multiple AWS Availability Zones.
+  - **Cons**: EKS introduces control plane costs and operational complexity compared to fully managed serverless or PaaS solutions.

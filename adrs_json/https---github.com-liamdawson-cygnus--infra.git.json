@@ -1,0 +1,107 @@
+{
+  "repositoryUrl": "https://github.com/liamdawson/cygnus-infra.git",
+  "crawlDateTime": "2022-01-18T22:57:15.342541",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-debian-as-a-host-os.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-07T13:08:44Z",
+      "lastCommit": "2020-06-07T13:08:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8caee39eddca64eec84a09255eab7bb7b6a50559"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-introduce-a-pi-hole-for-local-dns.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-20T06:00:41Z",
+      "lastCommit": "2020-07-25T04:41:35Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6c7eeafa76ba78ad7a5ad79f38dc464ffd1996db",
+            "c3f214a5e405031e853ba1b57d7dc3a44d11e61d",
+            "fde1f06a00d78a2dd4c9a6097e9388ad5638372c"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-install-kubernetes-directly-on-metal-as-a-single-node.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-20T06:00:41Z",
+      "lastCommit": "2020-06-20T06:00:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fde1f06a00d78a2dd4c9a6097e9388ad5638372c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-07T13:08:44Z",
+      "lastCommit": "2020-06-07T13:08:44Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8caee39eddca64eec84a09255eab7bb7b6a50559"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-07T13:08:44Z",
+  "lastAdrCommit": "2020-07-25T04:41:35Z",
+  "firstCommit": "2020-06-07T13:08:44Z",
+  "lastCommit": "2020-08-17T08:17:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6c7eeafa76ba78ad7a5ad79f38dc464ffd1996db",
+        "c3f214a5e405031e853ba1b57d7dc3a44d11e61d",
+        "fde1f06a00d78a2dd4c9a6097e9388ad5638372c",
+        "8caee39eddca64eec84a09255eab7bb7b6a50559"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

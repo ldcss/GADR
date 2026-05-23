@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/gp-redirect.git",
+  "crawlDateTime": "2022-01-18T19:16:25.113582",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-referer-header-for-id-acquisition.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-21T11:43:14Z",
+      "lastCommit": "2017-06-21T11:43:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4d25d86385b5daa3e9bf4ee1a3b1d3a89f52dffe"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-prometheus-for-exposing-metrics.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-08T13:48:13Z",
+      "lastCommit": "2017-09-08T13:48:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "31db4f26b0084dd245ec1f3c1d70aafeaeee96d7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-06-21T08:29:33Z",
+      "lastCommit": "2017-06-21T08:29:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9aa40440e7cab181125d9f356c734b97a97a64b3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-06-21T08:29:33Z",
+  "lastAdrCommit": "2017-09-08T13:48:13Z",
+  "firstCommit": "2017-03-21T19:36:47Z",
+  "lastCommit": "2018-02-26T14:30:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "31db4f26b0084dd245ec1f3c1d70aafeaeee96d7",
+        "9aa40440e7cab181125d9f356c734b97a97a64b3",
+        "4d25d86385b5daa3e9bf4ee1a3b1d3a89f52dffe"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

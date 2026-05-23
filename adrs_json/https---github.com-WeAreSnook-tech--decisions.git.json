@@ -1,0 +1,82 @@
+{
+  "repositoryUrl": "https://github.com/WeAreSnook/tech-decisions.git",
+  "crawlDateTime": "2022-01-18T21:18:55.139288",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    ""
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "",
+      "path": "0001-use-architectural-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-26T12:29:01Z",
+      "lastCommit": "2020-10-26T12:29:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b0f327aa8bb933397a344db512477b9a455d1e4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0000-github-vs-gitlab.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-30T15:55:27Z",
+      "lastCommit": "2020-10-26T12:29:01Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b0f327aa8bb933397a344db512477b9a455d1e4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "75931a8d0d56e3a5ea2001fb93ef9fd5fa39b29a",
+            "f82de111cc6c8b7f37f582fe51adedc039a2839f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-30T15:55:27Z",
+  "lastAdrCommit": "2020-10-26T12:29:01Z",
+  "firstCommit": "2020-09-30T14:45:42Z",
+  "lastCommit": "2020-10-28T11:47:01Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4b0f327aa8bb933397a344db512477b9a455d1e4"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "75931a8d0d56e3a5ea2001fb93ef9fd5fa39b29a",
+        "f82de111cc6c8b7f37f582fe51adedc039a2839f"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

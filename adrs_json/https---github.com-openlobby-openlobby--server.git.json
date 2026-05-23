@@ -1,0 +1,280 @@
+{
+  "repositoryUrl": "https://github.com/openlobby/openlobby-server.git",
+  "crawlDateTime": "2022-01-18T20:41:03.315191",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0009-openid.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-15T21:51:24Z",
+      "lastCommit": "2017-12-15T21:51:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01876d22b816e69e1a6fdb7bbe1ec1ce0f4a630d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-graphql-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-15T21:51:24Z",
+      "lastCommit": "2017-12-15T21:51:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01876d22b816e69e1a6fdb7bbe1ec1ce0f4a630d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0010-replace-flask-with-django.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [6. Use Flask](0006-use-flask.md)",
+      "firstCommit": "2017-12-15T22:50:05Z",
+      "lastCommit": "2017-12-15T22:50:05Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e5e10da0b32ad74a7b7c9d370c0f6d0a92c865d9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0013-black-code-formatter.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-06-12T16:40:31Z",
+      "lastCommit": "2018-06-12T16:40:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6ab3c47db4af70c34e46742b59c11515fd39b748"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-use-flask.md",
+      "template": "Nygard",
+      "status": "Superceded by [10. Replace Flask with Django](0010-replace-flask-with-django.md)",
+      "firstCommit": "2017-12-15T21:51:24Z",
+      "lastCommit": "2017-12-15T22:50:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01876d22b816e69e1a6fdb7bbe1ec1ce0f4a630d",
+            "e5e10da0b32ad74a7b7c9d370c0f6d0a92c865d9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-use-elasticsearch-for-fulltext-search.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-15T21:51:24Z",
+      "lastCommit": "2017-12-15T21:51:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01876d22b816e69e1a6fdb7bbe1ec1ce0f4a630d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-just-api-without-frontend.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-15T21:51:24Z",
+      "lastCommit": "2017-12-15T21:51:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01876d22b816e69e1a6fdb7bbe1ec1ce0f4a630d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-pytest.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-15T21:51:24Z",
+      "lastCommit": "2017-12-15T21:51:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01876d22b816e69e1a6fdb7bbe1ec1ce0f4a630d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-adopt-graphql-relay-specification.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-15T21:51:24Z",
+      "lastCommit": "2017-12-15T21:51:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01876d22b816e69e1a6fdb7bbe1ec1ce0f4a630d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0012-use-postgresql.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-15T23:29:56Z",
+      "lastCommit": "2017-12-15T23:29:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26ff086de499e4efd71a30371c9015e37ba7c798"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-python.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-15T21:51:24Z",
+      "lastCommit": "2017-12-15T21:51:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01876d22b816e69e1a6fdb7bbe1ec1ce0f4a630d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0011-add-relational-database.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-15T23:29:56Z",
+      "lastCommit": "2017-12-15T23:29:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26ff086de499e4efd71a30371c9015e37ba7c798"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-15T21:51:24Z",
+      "lastCommit": "2017-12-15T21:51:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01876d22b816e69e1a6fdb7bbe1ec1ce0f4a630d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-12-15T21:51:24Z",
+  "lastAdrCommit": "2018-06-12T16:40:31Z",
+  "firstCommit": "2017-11-11T17:08:34Z",
+  "lastCommit": "2021-04-20T17:40:07Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "01876d22b816e69e1a6fdb7bbe1ec1ce0f4a630d",
+        "e5e10da0b32ad74a7b7c9d370c0f6d0a92c865d9",
+        "26ff086de499e4efd71a30371c9015e37ba7c798",
+        "6ab3c47db4af70c34e46742b59c11515fd39b748"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

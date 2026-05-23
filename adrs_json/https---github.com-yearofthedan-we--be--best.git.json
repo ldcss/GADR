@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/yearofthedan/we-be-best.git",
+  "crawlDateTime": "2022-01-18T19:09:30.568761",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adrs"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "adrs",
+      "path": "1-use-both-pointer-and-mouse-events.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-23T08:46:17Z",
+      "lastCommit": "2020-06-23T08:46:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f47180eddab45adbd64559f8e6c578c00115d3f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-23T08:46:17Z",
+  "lastAdrCommit": "2020-06-23T08:46:17Z",
+  "firstCommit": "2020-04-14T10:56:39Z",
+  "lastCommit": "2022-01-14T08:49:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7f47180eddab45adbd64559f8e6c578c00115d3f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

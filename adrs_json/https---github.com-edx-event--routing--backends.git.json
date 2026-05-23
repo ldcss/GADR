@@ -1,0 +1,253 @@
+{
+  "repositoryUrl": "https://github.com/edx/event-routing-backends.git",
+  "crawlDateTime": "2022-02-07T15:21:13.467785",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decisions"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0006-versioning-of-event-transformers.rst",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-22T10:12:58Z",
+      "lastCommit": "2021-06-30T06:03:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "62e8bc7ba6f79c0e8d6ff2e32f521e93feb55b62"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4954389e47f52dfea28ae452f056635acf4f9685"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0003-router-configurations-storage.rst",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2020-09-24T06:39:58Z",
+      "lastCommit": "2020-09-28T07:35:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a68b2d49ea81be4ddfe8ba92ae419be3e7e2fc23",
+            "4f9d5c6ccf19b4b8e6c02b65330de1d8b5eb9f00"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0007-access-control-of-events.rst",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-07-29T08:18:34Z",
+      "lastCommit": "2021-07-29T08:18:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b654986dabb4160c691ffa040bda999360d401a3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0009-persistence-and-retries-for-events.rst",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-07-14T07:02:20Z",
+      "lastCommit": "2021-07-29T07:06:16Z",
+      "numberOfCommits": 9,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e905f43d55a81758619d74ca4085763b4db02895",
+            "3a347ac96cc97c79b2409aeec3f7fa4e346615e9",
+            "4e15fc21cc01c9625be33dce9e08e5794efea434",
+            "7d0a47b16be20b2db559a49f992ec8228e93967a",
+            "0793643cdbee943ca14d34645bf00a2392249f76",
+            "810eb32d0827653c033325ebef96060c8caf58a0",
+            "4933d502c000a461029a1c4611d458bcaad13586",
+            "e351417b5cf6fe3047b52ac935a3200e61174ba3",
+            "22683363d1b649515c3322567aa2b4c35ce2c68d"
+          ],
+          "numberOfCommits": 9
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0001-purpose-of-this-repo.rst",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2020-09-22T20:31:42Z",
+      "lastCommit": "2020-09-28T07:35:30Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "03affd0f367b59e36a09aae1793e9a4557b6db32",
+            "4f9d5c6ccf19b4b8e6c02b65330de1d8b5eb9f00"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4d72d3ac376460f35c8dd2ff250135c000ec9798"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0002-binding-app-for-caliper.rst",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2020-09-23T15:50:46Z",
+      "lastCommit": "2020-09-28T07:35:30Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a86f2dc1d66bcdcd004a27a771d8ddb2c641aa13",
+            "4f9d5c6ccf19b4b8e6c02b65330de1d8b5eb9f00"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0004-transformers-architecture.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2020-10-22T17:45:18Z",
+      "lastCommit": "2020-10-22T17:45:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0c7a3ac1254f39eca0560eac33f6bca99d78ae5e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0005-PII-leakage-prevention.rst",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-21T14:01:24Z",
+      "lastCommit": "2021-06-28T09:06:16Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c2c8af622b16d63955fee0abf0a8553c133ab581"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56cdc77c31828cda57c5fc0d6234c9ddbb5d19fa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-22T20:31:42Z",
+  "lastAdrCommit": "2021-07-29T08:18:34Z",
+  "firstCommit": "2020-09-22T20:31:42Z",
+  "lastCommit": "2022-02-02T11:55:15Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "03affd0f367b59e36a09aae1793e9a4557b6db32",
+        "a86f2dc1d66bcdcd004a27a771d8ddb2c641aa13",
+        "a68b2d49ea81be4ddfe8ba92ae419be3e7e2fc23",
+        "0c7a3ac1254f39eca0560eac33f6bca99d78ae5e",
+        "4f9d5c6ccf19b4b8e6c02b65330de1d8b5eb9f00"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4d72d3ac376460f35c8dd2ff250135c000ec9798"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e905f43d55a81758619d74ca4085763b4db02895",
+        "3a347ac96cc97c79b2409aeec3f7fa4e346615e9",
+        "4e15fc21cc01c9625be33dce9e08e5794efea434",
+        "7d0a47b16be20b2db559a49f992ec8228e93967a",
+        "0793643cdbee943ca14d34645bf00a2392249f76",
+        "810eb32d0827653c033325ebef96060c8caf58a0",
+        "4933d502c000a461029a1c4611d458bcaad13586",
+        "e351417b5cf6fe3047b52ac935a3200e61174ba3",
+        "22683363d1b649515c3322567aa2b4c35ce2c68d",
+        "c2c8af622b16d63955fee0abf0a8553c133ab581",
+        "62e8bc7ba6f79c0e8d6ff2e32f521e93feb55b62"
+      ],
+      "numberOfCommits": 11
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b654986dabb4160c691ffa040bda999360d401a3",
+        "4954389e47f52dfea28ae452f056635acf4f9685",
+        "56cdc77c31828cda57c5fc0d6234c9ddbb5d19fa"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

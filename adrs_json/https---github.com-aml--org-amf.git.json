@@ -1,0 +1,264 @@
+{
+  "repositoryUrl": "https://github.com/aml-org/amf.git",
+  "crawlDateTime": "2022-01-18T20:00:55.797763",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adrs"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "adrs",
+      "path": "0006-message-headers-schema.md",
+      "template": "Nygard",
+      "status": "In progress",
+      "firstCommit": "2020-11-17T20:59:59Z",
+      "lastCommit": "2020-11-17T20:59:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd4dcfc8d2e76d8c90db5a3d4adb1f6eb5359b86"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0004-async-message-examples-are-saved-in-separate-fields.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-27T19:50:51Z",
+      "lastCommit": "2020-10-27T19:50:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bb29e18790b7ece0bb407a0b9ed31a0115b38f9c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0002-async-uses-its-editing-pipeline-as-validation-pipeline.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-18T20:31:53Z",
+      "lastCommit": "2020-09-18T20:31:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "db618b057316408f127cb7eb2153ad89faf67e65"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0010-shape-annotation-types.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-10-25T20:12:26Z",
+      "lastCommit": "2021-10-25T20:12:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "376430e3cb5c6824a10b4cdab2435c7072345fc6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0005-api-hierarchy-web-async.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-17T20:59:59Z",
+      "lastCommit": "2020-11-17T20:59:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dd4dcfc8d2e76d8c90db5a3d4adb1f6eb5359b86"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0008-included-json-schemas-domain-element-merging.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-09T21:12:41Z",
+      "lastCommit": "2021-06-04T15:13:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1c41629787b3b8284aa1656264de09acabf6537c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5bf3db436c3c2127678176a0c3c826dd93733ffd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0007-ref-with-facets-parsing-for-draft-2019-09.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-20T15:37:36Z",
+      "lastCommit": "2020-11-20T15:37:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3ec88be5e159c68b8f2fab36f627940a4c00010"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0003-new-annotation-removal-stage-present-in-all-webapi-pipelines.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-21T18:55:31Z",
+      "lastCommit": "2020-10-21T18:55:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "acc8e16ff70b2234bd091c547da25e376aee57e0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0009-deprecated-field-iritemplatemapping.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-28T19:54:01Z",
+      "lastCommit": "2021-04-28T19:54:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "97347bc0974220d57fc029061bb970b8d99d216a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-03T21:20:52Z",
+      "lastCommit": "2020-09-03T21:20:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f24bac9ad1fffc25e80c34f581c68a09406899f9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-03T21:20:52Z",
+  "lastAdrCommit": "2021-10-25T20:12:26Z",
+  "firstCommit": "2017-06-06T20:32:39Z",
+  "lastCommit": "2022-01-18T19:57:55Z",
+  "adrDirFile": {
+    "fileContent": "adrs\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1c41629787b3b8284aa1656264de09acabf6537c",
+        "dd4dcfc8d2e76d8c90db5a3d4adb1f6eb5359b86"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e3ec88be5e159c68b8f2fab36f627940a4c00010"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "376430e3cb5c6824a10b4cdab2435c7072345fc6"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "97347bc0974220d57fc029061bb970b8d99d216a",
+        "5bf3db436c3c2127678176a0c3c826dd93733ffd",
+        "f24bac9ad1fffc25e80c34f581c68a09406899f9"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "db618b057316408f127cb7eb2153ad89faf67e65",
+        "acc8e16ff70b2234bd091c547da25e376aee57e0",
+        "bb29e18790b7ece0bb407a0b9ed31a0115b38f9c"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

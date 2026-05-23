@@ -1,0 +1,92 @@
+{
+  "repositoryUrl": "https://github.com/marain-dotnet/Marain.Tenancy.git",
+  "crawlDateTime": "2022-01-18T18:55:02.452744",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-merging-of-marain-tenancy-and-marain-tenantmanagement.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2021-02-18T17:04:00Z",
+      "lastCommit": "2021-02-18T17:04:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6a389c5f84d771b6742c018c1f3382af59271355"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-synthetic-root-tenant.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-02-17T13:46:38Z",
+      "lastCommit": "2020-02-17T13:46:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c22e8bba7bbc3261bc7b097200716f9729d67d8b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-separation-of-read-and-modify.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-04-24T18:12:32Z",
+      "lastCommit": "2020-04-24T18:12:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "212e8f1ceb03cda949c1d10f968355ffdd01c11a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-17T13:46:38Z",
+  "lastAdrCommit": "2021-02-18T17:04:00Z",
+  "firstCommit": "2019-09-17T19:45:38Z",
+  "lastCommit": "2022-01-18T18:00:58Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6a389c5f84d771b6742c018c1f3382af59271355"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c22e8bba7bbc3261bc7b097200716f9729d67d8b",
+        "212e8f1ceb03cda949c1d10f968355ffdd01c11a"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

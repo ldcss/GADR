@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/CondeNast/hackathon2020-prominent-colors.git",
+  "crawlDateTime": "2022-01-18T17:58:31.881801",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decision-records"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decision-records",
+      "path": "0001-use-node-vibrant.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-10T09:47:53Z",
+      "lastCommit": "2020-07-10T09:47:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e1a6a82313c5c1073a4d230b61d2a2f145f122b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-10T09:47:53Z",
+  "lastAdrCommit": "2020-07-10T09:47:53Z",
+  "firstCommit": "2020-07-10T09:32:25Z",
+  "lastCommit": "2020-07-13T10:11:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0e1a6a82313c5c1073a4d230b61d2a2f145f122b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

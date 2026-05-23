@@ -1,0 +1,225 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/nearby-services-api.git",
+  "crawlDateTime": "2022-01-18T17:45:32.861837",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-split-nearby-and-open-results-into-separate-endpoints.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-12T15:14:18Z",
+      "lastCommit": "2018-01-15T07:50:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c5c96787164a07f6c20c2bfe69c4f58cd5d345dd",
+            "5186d654a1e6413b3f04a4e1d0205a9e9a157d16"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-use-prometheus-for-exposing-metrics.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-12T09:18:57Z",
+      "lastCommit": "2017-09-12T09:18:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e87f43e2d41f1903eb5c1db2c388fa289ab5f8b8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-mongodb-for-data-storage.md",
+      "template": "Nygard",
+      "status": "Superseded ([0004](https://github.com/nhsuk/nearby-services-api/blob/master/doc/adr/0004-use-elastic-search.md))",
+      "firstCommit": "2017-07-11T10:30:13Z",
+      "lastCommit": "2017-10-05T10:11:58Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f08d3c2ed3febe8a6c423cbf895e898639bc36c2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9a7c5f40589d6993b8d06714c6204cdfd12a89bd"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1143c76b2b52fa4cadd37dd3416c30200aba3a81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-elastic-search.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-09-08T08:37:33Z",
+      "lastCommit": "2017-09-11T14:29:59Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2339c80666d460712d8aad937bfb51bea8a67857"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "740f9fb688872d54c8228f0644829a9d8fb0fa4b"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f60a10c1db78c3a110a45120c819a55af411d00d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-express-web-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-11T10:30:13Z",
+      "lastCommit": "2017-07-11T15:01:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f08d3c2ed3febe8a6c423cbf895e898639bc36c2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1143c76b2b52fa4cadd37dd3416c30200aba3a81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-11T10:30:13Z",
+      "lastCommit": "2017-07-11T15:01:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f08d3c2ed3febe8a6c423cbf895e898639bc36c2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1143c76b2b52fa4cadd37dd3416c30200aba3a81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-11T10:30:13Z",
+  "lastAdrCommit": "2018-01-15T07:50:03Z",
+  "firstCommit": "2016-11-15T08:10:39Z",
+  "lastCommit": "2020-01-15T11:50:42Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9a7c5f40589d6993b8d06714c6204cdfd12a89bd",
+        "2339c80666d460712d8aad937bfb51bea8a67857"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f08d3c2ed3febe8a6c423cbf895e898639bc36c2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "740f9fb688872d54c8228f0644829a9d8fb0fa4b"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c5c96787164a07f6c20c2bfe69c4f58cd5d345dd",
+        "e87f43e2d41f1903eb5c1db2c388fa289ab5f8b8",
+        "5186d654a1e6413b3f04a4e1d0205a9e9a157d16",
+        "1143c76b2b52fa4cadd37dd3416c30200aba3a81"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f60a10c1db78c3a110a45120c819a55af411d00d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

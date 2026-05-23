@@ -1,0 +1,77 @@
+{
+  "repositoryUrl": "https://github.com/Alfresco/alfresco-identity-service.git",
+  "crawlDateTime": "2022-01-18T19:01:29.231147",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0001-Internal-JWT-Token-Details.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-23T11:17:19Z",
+      "lastCommit": "2018-03-28T13:29:29Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4dd3cdfd7dd47792bd8463859df3e61a4c0d7665"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "673f86aeadb8735e578d054b406882340658b638"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "833a2864325e10d3bc9d64cbb6c75dfc2c1c682f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-03-23T11:17:19Z",
+  "lastAdrCommit": "2018-03-28T13:29:29Z",
+  "firstCommit": "2018-03-22T19:53:41Z",
+  "lastCommit": "2021-10-05T19:33:40Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4dd3cdfd7dd47792bd8463859df3e61a4c0d7665"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "673f86aeadb8735e578d054b406882340658b638"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "833a2864325e10d3bc9d64cbb6c75dfc2c1c682f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

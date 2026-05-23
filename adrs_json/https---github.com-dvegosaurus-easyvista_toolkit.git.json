@@ -1,0 +1,121 @@
+{
+  "repositoryUrl": "https://github.com/dvegosaurus/easyvista_toolkit.git",
+  "crawlDateTime": "2022-01-18T18:33:56.884963",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "ADR"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "ADR",
+      "path": "0002_NamingConvention.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2019-10-01T21:53:43Z",
+      "lastCommit": "2019-10-01T22:43:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "795e8a942acf7b8bda743e9e5aaedcf767d2112f",
+            "af5a3c3155fbd209c0bc5be9cd26e50f4535b7c9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADR",
+      "path": "0003_Easyvista_locations_path.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2019-10-02T22:56:04Z",
+      "lastCommit": "2019-10-03T20:54:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "acc0b62d2477ad03830d1549cce140976dd25520",
+            "eb5644fab414d34b8b06fd9da82a4426fc68dc09"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADR",
+      "path": "0004_Filtering_on_requests.md",
+      "template": "Nygard",
+      "status": "proposed",
+      "firstCommit": "2019-10-03T20:54:36Z",
+      "lastCommit": "2019-10-03T21:03:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "acc0b62d2477ad03830d1549cce140976dd25520",
+            "0fb49aecb7860965e08ab37356b590aa4ab31b1c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "ADR",
+      "path": "0001_Using_globalVariable.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2019-10-01T20:22:44Z",
+      "lastCommit": "2019-10-03T00:21:58Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "32a2848c7ba2f2baa6345c6b570a037287cdc89b",
+            "695ee05241763310016aad481cc8b47510c41597",
+            "afc97a135260d88f60a5a295caaaf2cbf18efbcd",
+            "5d35cdc10d930518e70080b77f1f22475b5b33d1",
+            "af5a3c3155fbd209c0bc5be9cd26e50f4535b7c9",
+            "cf19fa6c4475c49396b3eee8321a5fe8e4e82630",
+            "7588eb40fb90e039b780f95dccadc67edb83bd4e"
+          ],
+          "numberOfCommits": 7
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-01T20:22:44Z",
+  "lastAdrCommit": "2019-10-03T21:03:29Z",
+  "firstCommit": "2019-09-30T18:35:31Z",
+  "lastCommit": "2019-10-04T15:00:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "acc0b62d2477ad03830d1549cce140976dd25520",
+        "0fb49aecb7860965e08ab37356b590aa4ab31b1c",
+        "32a2848c7ba2f2baa6345c6b570a037287cdc89b",
+        "695ee05241763310016aad481cc8b47510c41597",
+        "afc97a135260d88f60a5a295caaaf2cbf18efbcd",
+        "795e8a942acf7b8bda743e9e5aaedcf767d2112f",
+        "5d35cdc10d930518e70080b77f1f22475b5b33d1",
+        "eb5644fab414d34b8b06fd9da82a4426fc68dc09",
+        "af5a3c3155fbd209c0bc5be9cd26e50f4535b7c9",
+        "cf19fa6c4475c49396b3eee8321a5fe8e4e82630",
+        "7588eb40fb90e039b780f95dccadc67edb83bd4e"
+      ],
+      "numberOfCommits": 11
+    }
+  ]
+}

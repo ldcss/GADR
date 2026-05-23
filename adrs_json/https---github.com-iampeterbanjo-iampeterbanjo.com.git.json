@@ -1,0 +1,378 @@
+{
+  "repositoryUrl": "https://github.com/iampeterbanjo/iampeterbanjo.com.git",
+  "crawlDateTime": "2022-01-18T20:12:55.208794",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "packages/docs/adr"
+  ],
+  "numAdrFiles": 16,
+  "adrFiles": [
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0002-blog-engine.md",
+      "template": "Nygard",
+      "status": "2019-05-10 proposed 2019-05-10 accepted",
+      "firstCommit": "2019-05-10T06:19:26Z",
+      "lastCommit": "2019-05-10T06:21:38Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a17ca9f4b56578fbb2e55ab436bf443eb1c3791d",
+            "8510b2577948d845f99a3d11d7be27a53d37298e",
+            "e3c0a5fe3a51c93e477bda5804c5d34cbf7f8a09"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0003-hapijs-server.md",
+      "template": "Nygard",
+      "status": "2019-05-10 proposed 2019-05-10 accepted",
+      "firstCommit": "2019-05-10T06:37:14Z",
+      "lastCommit": "2019-08-28T04:23:59Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2dfda7f73655afcf5c304995a2a3b6c553514e82",
+            "05c6e876ad328538300c49e789c7e5be6519d2fa",
+            "09d7fb3ea0239494c75fa8cd7b78b22cfd909f2e"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0010-mongoose-schema-and-type-definitions.md",
+      "template": "Nygard",
+      "status": "2019-09-07 proposed",
+      "firstCommit": "2019-09-07T08:22:57Z",
+      "lastCommit": "2019-12-14T18:35:37Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "af60ee971ec4074a9ca1affe00a681c02ad9957d",
+            "41a4028b046014bb819ee9f4ab68deeaf903b03f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0011-artist-images-from-spotify.md",
+      "template": "Nygard",
+      "status": "2019-09-08 accepted",
+      "firstCommit": "2019-09-08T19:16:38Z",
+      "lastCommit": "2019-09-08T19:16:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2c2094d44a2facbe54bf8ff1faf388a918ec9776"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0008-use-ava-test-runner.md",
+      "template": "Nygard",
+      "status": "2019-08-27 proposed 2019-08-27 rejected",
+      "firstCommit": "2019-08-27T04:57:20Z",
+      "lastCommit": "2019-08-28T04:23:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "461154a661c6ed294aa264cabc5673e98b310f3a",
+            "05c6e876ad328538300c49e789c7e5be6519d2fa"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0004-yarn-npm-pnpm-and-docker.md",
+      "template": "Nygard",
+      "status": "2019-08-23 done",
+      "firstCommit": "2019-08-23T05:08:42Z",
+      "lastCommit": "2019-08-23T05:13:58Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1b2f288be5cedb19d73cfef14ab0326b36ca8738",
+            "2260eb9295c70f0480384e4d0a19805c48d75044"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0012-parallel-database-tests-mongodb-server.md",
+      "template": "Nygard",
+      "status": "2019-09-15 accepted",
+      "firstCommit": "2019-09-15T09:13:51Z",
+      "lastCommit": "2019-09-15T09:13:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5ab922ecbad45bd3c75bfdaf9633a2c030f3ca89"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0015-frontend-backend-architecture.md",
+      "template": "Nygard",
+      "status": "2020-09-05 accepted",
+      "firstCommit": "2020-09-05T12:52:18Z",
+      "lastCommit": "2020-09-05T12:52:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "99b44d33d710f547aea4b219f85f27d429cdab62"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0006-monorepo-dependencies.md",
+      "template": "Nygard",
+      "status": "2019-08-24 accepted",
+      "firstCommit": "2019-08-24T13:24:10Z",
+      "lastCommit": "2019-08-28T04:39:06Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0b360e914cd2dd95a9c3a826096ef5106552ceca",
+            "fefb01a3ff709e93d6f078ab9dd049ef3110afca",
+            "f715cbd48f6b4d4533f8dd54bf0d6cb040c784e6",
+            "05c6e876ad328538300c49e789c7e5be6519d2fa",
+            "1e1225ecddf4eb3ba577d50a30762da99d380923"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0014-better-data-transformations.md",
+      "template": "Nygard",
+      "status": "2019-12-14 proposed",
+      "firstCommit": "2019-12-14T18:34:07Z",
+      "lastCommit": "2019-12-14T18:34:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "97db40b8dbc75240878b3b868b90e714a1d3822c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0005-use-typescript-vs-eslint.md",
+      "template": "Nygard",
+      "status": "2019-08-23 done",
+      "firstCommit": "2019-08-24T07:53:46Z",
+      "lastCommit": "2019-08-24T08:58:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e574654fcce42eebbd1d2d4fb5e1268442b0807c",
+            "e7adc16549f6fd10c2314c70801a0d74772fddaa"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0016-live-vs-static-site.md",
+      "template": "Nygard",
+      "status": "2020-09-26 proposed",
+      "firstCommit": "2020-09-26T21:08:47Z",
+      "lastCommit": "2020-09-26T21:08:47Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab0be89396b35d7c9b56008721e3070e66eda5e9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0009-place-tests-next-to-source-files.md",
+      "template": "Nygard",
+      "status": "2019-08-27 proposed 2019-09-02 accepted",
+      "firstCommit": "2019-08-27T04:57:20Z",
+      "lastCommit": "2019-09-02T17:57:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "461154a661c6ed294aa264cabc5673e98b310f3a",
+            "d3745b5fb53ba3d047113155a4b709bda1428738"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0007-module.exports-vs-export-default.md",
+      "template": "Nygard",
+      "status": "2019-08-26 proposed 2019-08-27 rejected",
+      "firstCommit": "2019-08-26T14:39:20Z",
+      "lastCommit": "2019-08-27T04:57:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "461154a661c6ed294aa264cabc5673e98b310f3a",
+            "e746df4da730fc9fe1c4249c913d43abf89fd256"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "2019-05-10 proposed 2019-05-10 accepted",
+      "firstCommit": "2019-05-10T06:19:26Z",
+      "lastCommit": "2019-08-28T04:23:59Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05c6e876ad328538300c49e789c7e5be6519d2fa",
+            "a17ca9f4b56578fbb2e55ab436bf443eb1c3791d",
+            "8510b2577948d845f99a3d11d7be27a53d37298e",
+            "e3c0a5fe3a51c93e477bda5804c5d34cbf7f8a09"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "packages/docs/adr",
+      "path": "0013-cypress-e2e-tests-in-typescript.md",
+      "template": "Nygard",
+      "status": "2019-09-21 accepted",
+      "firstCommit": "2019-09-21T11:55:07Z",
+      "lastCommit": "2019-09-21T11:55:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "258ac80547e11c666812dc11d7852f7e33fdb9aa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-05-10T06:19:26Z",
+  "lastAdrCommit": "2020-09-26T21:08:47Z",
+  "firstCommit": "2019-01-02T07:54:26Z",
+  "lastCommit": "2021-09-25T23:20:17Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "99b44d33d710f547aea4b219f85f27d429cdab62",
+        "ab0be89396b35d7c9b56008721e3070e66eda5e9"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1b2f288be5cedb19d73cfef14ab0326b36ca8738",
+        "0b360e914cd2dd95a9c3a826096ef5106552ceca",
+        "e574654fcce42eebbd1d2d4fb5e1268442b0807c",
+        "fefb01a3ff709e93d6f078ab9dd049ef3110afca",
+        "258ac80547e11c666812dc11d7852f7e33fdb9aa",
+        "af60ee971ec4074a9ca1affe00a681c02ad9957d",
+        "461154a661c6ed294aa264cabc5673e98b310f3a",
+        "f715cbd48f6b4d4533f8dd54bf0d6cb040c784e6",
+        "97db40b8dbc75240878b3b868b90e714a1d3822c",
+        "2dfda7f73655afcf5c304995a2a3b6c553514e82",
+        "5ab922ecbad45bd3c75bfdaf9633a2c030f3ca89",
+        "a17ca9f4b56578fbb2e55ab436bf443eb1c3791d",
+        "8510b2577948d845f99a3d11d7be27a53d37298e",
+        "e3c0a5fe3a51c93e477bda5804c5d34cbf7f8a09",
+        "05c6e876ad328538300c49e789c7e5be6519d2fa",
+        "d3745b5fb53ba3d047113155a4b709bda1428738",
+        "2c2094d44a2facbe54bf8ff1faf388a918ec9776",
+        "09d7fb3ea0239494c75fa8cd7b78b22cfd909f2e",
+        "41a4028b046014bb819ee9f4ab68deeaf903b03f",
+        "2260eb9295c70f0480384e4d0a19805c48d75044",
+        "1e1225ecddf4eb3ba577d50a30762da99d380923",
+        "e7adc16549f6fd10c2314c70801a0d74772fddaa",
+        "e746df4da730fc9fe1c4249c913d43abf89fd256"
+      ],
+      "numberOfCommits": 23
+    }
+  ]
+}

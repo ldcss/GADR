@@ -1,0 +1,167 @@
+{
+  "repositoryUrl": "https://github.com/kbase/narrative.git",
+  "crawlDateTime": "2022-01-18T18:36:38.120494",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0002-integration-testing-library.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-09-23T23:33:43Z",
+      "lastCommit": "2020-10-14T00:28:33Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f358fc20467fe6ea1f2d4bdcd6320227f979d5e",
+            "f070cdf6c9d1debb24f1189f88a65476b4381acd",
+            "bb428f21ddd3a9aa2682b64a20d1f15e5c122398",
+            "c89280d768e0917a43dd3bd0a82a2d6f94b42287"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0003-bulk-import-ui.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-26T23:46:04Z",
+      "lastCommit": "2020-10-28T23:20:28Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2ecc913b1329801f93cd6b3d405d899eefff6c1",
+            "3710130f017f2802b63381b630fc38c6bcbfa4b6",
+            "ab75c549217c04f50adf226394a626777d2cb7c5",
+            "c16c78a52103ea36eef2aa1512d9f61fd6e2ca87",
+            "70a3facee558d3ed40a12f3910bf878aef50aae1"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0004-bulk-import-output-cells.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-10-05T20:50:47Z",
+      "lastCommit": "2021-11-11T16:08:37Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aa0fc8f38571c54db84e270b8b251097890de1d2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38f14d014f25d2802199bd834f4bad646118d794",
+            "9b38d17a20b50bc6911c4eaca2178753a078ca42",
+            "dbd9ec8ba4636513d406ffddd255fdc6bbad93f1"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "0001-git-workflow.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-19T20:44:03Z",
+      "lastCommit": "2020-08-31T22:55:53Z",
+      "numberOfCommits": 8,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "29c727a580b03c263c0af104388395ef2777ac32",
+            "84720b88b3b57618bab889a256139396ac318af6"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "06ee30f7c631e41ac11f798ed0a2d3ecc73407f0",
+            "ac4cc3bf8616ca27711951d262861995d0259147",
+            "87db68f9690dd8e9d226dc3c5de372c661a0d4cf",
+            "cb9760afb2241d6f099bce8e2435f59faa3f15b2",
+            "10277e7aa43cc6e236d0000367b5849f34116247",
+            "344fd0e278b809ec334b809e94dbff1d12cb3ce9"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-19T20:44:03Z",
+  "lastAdrCommit": "2021-11-11T16:08:37Z",
+  "firstCommit": "2012-11-29T21:34:45Z",
+  "lastCommit": "2022-01-18T17:21:55Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "aa0fc8f38571c54db84e270b8b251097890de1d2",
+        "29c727a580b03c263c0af104388395ef2777ac32",
+        "84720b88b3b57618bab889a256139396ac318af6"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a2ecc913b1329801f93cd6b3d405d899eefff6c1",
+        "3710130f017f2802b63381b630fc38c6bcbfa4b6",
+        "ab75c549217c04f50adf226394a626777d2cb7c5",
+        "38f14d014f25d2802199bd834f4bad646118d794",
+        "9b38d17a20b50bc6911c4eaca2178753a078ca42",
+        "c16c78a52103ea36eef2aa1512d9f61fd6e2ca87",
+        "dbd9ec8ba4636513d406ffddd255fdc6bbad93f1",
+        "70a3facee558d3ed40a12f3910bf878aef50aae1"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "06ee30f7c631e41ac11f798ed0a2d3ecc73407f0",
+        "8f358fc20467fe6ea1f2d4bdcd6320227f979d5e",
+        "ac4cc3bf8616ca27711951d262861995d0259147",
+        "f070cdf6c9d1debb24f1189f88a65476b4381acd",
+        "87db68f9690dd8e9d226dc3c5de372c661a0d4cf",
+        "bb428f21ddd3a9aa2682b64a20d1f15e5c122398",
+        "cb9760afb2241d6f099bce8e2435f59faa3f15b2",
+        "10277e7aa43cc6e236d0000367b5849f34116247",
+        "344fd0e278b809ec334b809e94dbff1d12cb3ce9",
+        "c89280d768e0917a43dd3bd0a82a2d6f94b42287"
+      ],
+      "numberOfCommits": 10
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "repositoryUrl": "https://github.com/mantidproject/documents.git",
+  "crawlDateTime": "2022-01-18T18:04:46.793319",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "Decisions"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "Decisions",
+      "path": "0002-move-to-clang-format-5.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-05T08:10:53Z",
+      "lastCommit": "2018-07-05T08:22:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ad9309782c1bcd9a7dc06b6336f048ac02f3eaf",
+            "2b90a1f38ab0d793e8e971c329bb71756fec678a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Decisions",
+      "path": "0003-move-to-visual-studio-2017.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-05T08:22:14Z",
+      "lastCommit": "2018-07-05T08:22:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b9709a5a5137090162e2c3584213361813de3899"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Decisions",
+      "path": "0004-move-to-devtoolset-7-on-rhel7.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-05T08:27:08Z",
+      "lastCommit": "2018-07-05T08:27:08Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad4cf9967c67a997605f7308e2b54251b00daaf8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "Decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-05T08:05:25Z",
+      "lastCommit": "2018-07-05T08:23:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "994a01eefe27e6e3979bbf383a8eaaaa2eb49012",
+            "e9eb1910410421b4c4ae4aefc9f1b4c912a46242"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-05T08:05:25Z",
+  "lastAdrCommit": "2018-07-05T08:27:08Z",
+  "firstCommit": "2007-08-01T10:38:17Z",
+  "lastCommit": "2021-11-11T14:10:35Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1ad9309782c1bcd9a7dc06b6336f048ac02f3eaf",
+        "994a01eefe27e6e3979bbf383a8eaaaa2eb49012",
+        "2b90a1f38ab0d793e8e971c329bb71756fec678a",
+        "ad4cf9967c67a997605f7308e2b54251b00daaf8",
+        "b9709a5a5137090162e2c3584213361813de3899",
+        "e9eb1910410421b4c4ae4aefc9f1b4c912a46242"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

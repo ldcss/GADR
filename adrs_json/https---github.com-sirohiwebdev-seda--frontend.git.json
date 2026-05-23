@@ -1,0 +1,121 @@
+{
+  "repositoryUrl": "https://github.com/sirohiwebdev/seda-frontend.git",
+  "crawlDateTime": "2022-01-18T20:08:39.127186",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-multi-tenant-architecture.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-13T05:12:17Z",
+      "lastCommit": "2020-07-13T05:12:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff2ea2aa1850e97fdb976bd22243f57fc9b8401d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-application-configuration-setup.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-13T05:12:17Z",
+      "lastCommit": "2020-07-13T05:12:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff2ea2aa1850e97fdb976bd22243f57fc9b8401d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-historic-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-13T05:12:17Z",
+      "lastCommit": "2020-07-13T05:12:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff2ea2aa1850e97fdb976bd22243f57fc9b8401d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-fetching-incidents.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-13T05:12:17Z",
+      "lastCommit": "2020-07-13T05:12:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff2ea2aa1850e97fdb976bd22243f57fc9b8401d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-using-local-state-in-settings-module.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-13T05:12:17Z",
+      "lastCommit": "2020-07-13T05:12:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff2ea2aa1850e97fdb976bd22243f57fc9b8401d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-13T05:12:17Z",
+  "lastAdrCommit": "2020-07-13T05:12:17Z",
+  "firstCommit": "2020-07-13T05:12:17Z",
+  "lastCommit": "2020-09-03T13:01:02Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ff2ea2aa1850e97fdb976bd22243f57fc9b8401d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/pay-selfservice.git",
+  "crawlDateTime": "2022-01-18T18:50:48.667218",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/arch"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-002-in-project-browser-testing.md",
+      "template": "Nygard",
+      "status": "",
+      "firstCommit": "2018-04-26T11:17:31Z",
+      "lastCommit": "2018-04-26T11:17:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "476ceb7c2b803a35f1ff967f65a1dab36d52c90e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/arch",
+      "path": "adr-001-orchestration-of-new-service-creation.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2017-06-30T13:24:23Z",
+      "lastCommit": "2017-06-30T13:24:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ff8462e51a1bf3e63fe6b0ec5a84daab50fe8a2e",
+            "cb1754b23d298ab7ff9c7d2ebd20da97e3f73d9c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-06-30T13:24:23Z",
+  "lastAdrCommit": "2018-04-26T11:17:31Z",
+  "firstCommit": "2015-10-07T16:41:44Z",
+  "lastCommit": "2022-01-18T09:12:37Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ff8462e51a1bf3e63fe6b0ec5a84daab50fe8a2e",
+        "cb1754b23d298ab7ff9c7d2ebd20da97e3f73d9c"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "476ceb7c2b803a35f1ff967f65a1dab36d52c90e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

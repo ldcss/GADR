@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/wulfmann/vercel.git",
+  "crawlDateTime": "2022-01-18T23:00:56.748745",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "normalize_ids.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-25T16:07:31Z",
+      "lastCommit": "2020-07-25T16:07:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1dcda49ac96ab0826b241d10923b37d59e75332a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "specify_api_version_for_every_operation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-26T01:58:25Z",
+      "lastCommit": "2020-07-26T01:58:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dcbb1b32465866d0d7dd034747d049bac8727768"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-25T16:07:31Z",
+  "lastAdrCommit": "2020-07-26T01:58:25Z",
+  "firstCommit": "2020-07-25T00:17:27Z",
+  "lastCommit": "2020-07-28T19:08:22Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1dcda49ac96ab0826b241d10923b37d59e75332a",
+        "dcbb1b32465866d0d7dd034747d049bac8727768"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

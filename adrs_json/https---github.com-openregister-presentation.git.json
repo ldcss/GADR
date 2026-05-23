@@ -1,0 +1,89 @@
+{
+  "repositoryUrl": "https://github.com/openregister/presentation.git",
+  "crawlDateTime": "2022-01-18T20:07:20.797703",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-002-not-using-aws-lambda.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2016-01-05T12:15:48Z",
+      "lastCommit": "2016-01-06T13:37:02Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51a377088dd96bb3cf04fe7531bcc6134fa6a5b1",
+            "49ec0b5cc3e5d3d707a9d5b02eddad35e1cbbaae",
+            "13b881684139e984dff06559d9f2006a90ed3ac6",
+            "75ce310293d3d8ed5cb8fd0fc22348003b76d206"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "34a1d5782c8f574e9cccba1439d9948f101cc409"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "adr-001-remove-kafka.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2015-09-17T16:14:25Z",
+      "lastCommit": "2015-09-18T09:03:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "662f29932c14720ea1364266d111e3699b86e90a",
+            "95ffd16deacd4ee2f4161f2d3af53805fa708fbe"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2015-09-17T16:14:25Z",
+  "lastAdrCommit": "2016-01-06T13:37:02Z",
+  "firstCommit": "2015-07-01T16:14:24Z",
+  "lastCommit": "2016-07-08T12:05:08Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "51a377088dd96bb3cf04fe7531bcc6134fa6a5b1",
+        "662f29932c14720ea1364266d111e3699b86e90a",
+        "49ec0b5cc3e5d3d707a9d5b02eddad35e1cbbaae",
+        "13b881684139e984dff06559d9f2006a90ed3ac6",
+        "75ce310293d3d8ed5cb8fd0fc22348003b76d206",
+        "95ffd16deacd4ee2f4161f2d3af53805fa708fbe"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "34a1d5782c8f574e9cccba1439d9948f101cc409"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

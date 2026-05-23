@@ -1,0 +1,98 @@
+{
+  "repositoryUrl": "https://github.com/kbase/sample_service.git",
+  "crawlDateTime": "2022-01-18T21:10:22.347473",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "design"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "design",
+      "path": "link_ws_data_to_sample_in_RE.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-29T23:33:56Z",
+      "lastCommit": "2020-04-28T18:49:03Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c88578d4609960420b85435e7d401958732b642c",
+            "c3bedf3c0a0971a6e77954157000872c6560aeda",
+            "a979744d332f359fae1e1982a3832cfea36172d0",
+            "ee0c2f72b3a4d05d7ae48812ed7ba0ada816da8c"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design",
+      "path": "implementation_notes.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-16T00:40:51Z",
+      "lastCommit": "2020-05-22T23:21:53Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c47f82cb160c8d39fc2c8b4e1dc58bce305c1c87",
+            "00754a1985a35b258b3f230a3e44d28ee0515921",
+            "e96a55211ac47abb7aa4fc650aa3041748561d5f",
+            "bb209bd21b46f7e8ed69a6d8281efe54026a90de"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "design",
+      "path": "link_ws_data_to_sample.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-16T21:48:13Z",
+      "lastCommit": "2020-01-29T23:33:56Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "85e2b9971295f64ab1b71a1e50784a2a683e12d8",
+            "ee0c2f72b3a4d05d7ae48812ed7ba0ada816da8c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-16T21:48:13Z",
+  "lastAdrCommit": "2020-05-22T23:21:53Z",
+  "firstCommit": "2019-11-15T19:21:07Z",
+  "lastCommit": "2022-01-15T01:36:17Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c47f82cb160c8d39fc2c8b4e1dc58bce305c1c87",
+        "c88578d4609960420b85435e7d401958732b642c",
+        "00754a1985a35b258b3f230a3e44d28ee0515921",
+        "c3bedf3c0a0971a6e77954157000872c6560aeda",
+        "e96a55211ac47abb7aa4fc650aa3041748561d5f",
+        "bb209bd21b46f7e8ed69a6d8281efe54026a90de",
+        "85e2b9971295f64ab1b71a1e50784a2a683e12d8",
+        "a979744d332f359fae1e1982a3832cfea36172d0",
+        "ee0c2f72b3a4d05d7ae48812ed7ba0ada816da8c"
+      ],
+      "numberOfCommits": 9
+    }
+  ]
+}

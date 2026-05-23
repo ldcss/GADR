@@ -1,0 +1,181 @@
+{
+  "repositoryUrl": "https://github.com/jetbrains-infra/stamper.git",
+  "crawlDateTime": "2022-01-18T17:50:35.283372",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-spring-boot-as-web-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-06T11:00:18Z",
+      "lastCommit": "2017-07-06T11:00:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a5b3a364a876f2a344f26ffe210999972d530ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-docker.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-07-11T17:36:12Z",
+      "lastCommit": "2017-07-11T17:36:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "378013d5142b78151ff60e98bb5fe90a2572a50a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-kotlin-as-language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-06T11:00:18Z",
+      "lastCommit": "2017-07-06T11:00:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a5b3a364a876f2a344f26ffe210999972d530ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-bootsptrap-as-frontend-framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-07-06T11:00:18Z",
+      "lastCommit": "2017-07-06T11:00:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a5b3a364a876f2a344f26ffe210999972d530ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-junit-as-test-framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-07-06T11:00:18Z",
+      "lastCommit": "2017-07-06T11:00:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a5b3a364a876f2a344f26ffe210999972d530ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-thymeleaf.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-07T10:10:57Z",
+      "lastCommit": "2017-07-07T10:10:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1bc2e840f5474a4113946d12ab3a21d909d2f35"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-gradle.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-07-11T17:44:16Z",
+      "lastCommit": "2017-07-11T17:44:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e2a114b3c361b715891753385d51695c17950548"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-06T11:00:18Z",
+      "lastCommit": "2017-07-06T11:00:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2a5b3a364a876f2a344f26ffe210999972d530ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-06T11:00:18Z",
+  "lastAdrCommit": "2017-07-11T17:44:16Z",
+  "firstCommit": "2017-07-03T15:42:24Z",
+  "lastCommit": "2018-02-04T17:44:10Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "378013d5142b78151ff60e98bb5fe90a2572a50a",
+        "2a5b3a364a876f2a344f26ffe210999972d530ca",
+        "a1bc2e840f5474a4113946d12ab3a21d909d2f35",
+        "e2a114b3c361b715891753385d51695c17950548"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

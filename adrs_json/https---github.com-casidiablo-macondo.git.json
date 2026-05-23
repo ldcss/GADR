@@ -1,0 +1,159 @@
+{
+  "repositoryUrl": "https://github.com/casidiablo/macondo.git",
+  "crawlDateTime": "2022-01-18T18:33:31.719987",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-allow-printing-the-contents-of-the-repositories.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-08T03:07:49Z",
+      "lastCommit": "2020-06-08T03:07:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45658c021ae45e84e8d6515e42bdd149243817b2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-remove-bootstraped-commands.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-06-08T03:07:49Z",
+      "lastCommit": "2020-06-08T03:07:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45658c021ae45e84e8d6515e42bdd149243817b2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-allow-easily-publishing-of-commands-and-repositories.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-08T03:07:49Z",
+      "lastCommit": "2020-06-08T03:07:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45658c021ae45e84e8d6515e42bdd149243817b2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-remote-repositories-management.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-08T03:07:49Z",
+      "lastCommit": "2020-06-08T03:07:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45658c021ae45e84e8d6515e42bdd149243817b2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-automatic-aligning-of-user-host-user-for-better-interoperability.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-08T03:07:49Z",
+      "lastCommit": "2020-06-08T03:07:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45658c021ae45e84e8d6515e42bdd149243817b2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-remove-unnecessary-commands.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-06-08T03:07:49Z",
+      "lastCommit": "2020-06-08T03:07:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45658c021ae45e84e8d6515e42bdd149243817b2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Rejected",
+      "firstCommit": "2020-06-08T03:07:49Z",
+      "lastCommit": "2020-06-08T03:07:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "45658c021ae45e84e8d6515e42bdd149243817b2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-08T03:07:49Z",
+  "lastAdrCommit": "2020-06-08T03:07:49Z",
+  "firstCommit": "2020-06-08T03:07:49Z",
+  "lastCommit": "2020-12-31T05:18:09Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "45658c021ae45e84e8d6515e42bdd149243817b2"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

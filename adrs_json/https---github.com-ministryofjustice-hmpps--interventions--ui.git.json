@@ -1,0 +1,293 @@
+{
+  "repositoryUrl": "https://github.com/ministryofjustice/hmpps-interventions-ui.git",
+  "crawlDateTime": "2022-01-18T18:32:46.294779",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-use-jest-for-testing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-20T15:47:20Z",
+      "lastCommit": "2020-11-20T15:47:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6e4085cfa1dd79ef753f2389d616805f94205682"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-use-snyk-to-scan-for-cves.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-20T15:47:20Z",
+      "lastCommit": "2020-11-20T15:47:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c32065427c3fba4f1d37d4aea7f276d495ef04c0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-express.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-20T15:47:20Z",
+      "lastCommit": "2020-11-20T15:47:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "360ca84557dcc59c6d6a0819fb8886dc38fc9c67"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0011-use-redis-backed-drafts.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-08-04T08:11:57Z",
+      "lastCommit": "2021-09-02T08:22:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1b3d34fbb0c00e41aac50754d2a327591b9f2bb",
+            "4ae2b3ba389f5796b715765b863fba2187b7e0f3"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-use-helmet-for-http-security.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-20T15:47:20Z",
+      "lastCommit": "2020-11-20T15:47:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "545a82087650722c02e39e7432301206086934b8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-use-stylelint-for-linting-styles.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-22T17:18:19Z",
+      "lastCommit": "2021-02-22T17:18:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5a1efa2232745bdb8ce2857ac620aed97dea69d9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0012-use-feature-flags-for-in-progress-features.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-09-20T10:49:51Z",
+      "lastCommit": "2021-11-30T09:34:27Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f7a7f08515a7937e10c967103b027c32721ffc38"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "40ffff0877c8e498b17607b41b9f4fe1853f78ce"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-use-eslint.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-20T15:47:20Z",
+      "lastCommit": "2020-11-20T15:47:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "61b28ad60455e8247566f18bed570c3e5e23b7cb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-typescript.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-20T15:47:20Z",
+      "lastCommit": "2020-11-20T15:47:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f54e564807e87dc680b7e1501bc7f95626fa393"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-use-prettier-to-format-typescript-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-20T15:47:20Z",
+      "lastCommit": "2020-11-20T15:47:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "18c4eb65b787580c883fdfa122a4aed31910e35b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-20T14:51:01Z",
+      "lastCommit": "2020-11-20T14:51:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c7029868284aae15efb5c94cafa230d6fe1e9c40"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-use-cypress-for-integration-testing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-11-20T15:47:20Z",
+      "lastCommit": "2020-11-20T15:47:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "50e2c0aea45977c87aa2f9c5c70bf18c92bcc435"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-20T14:51:01Z",
+  "lastAdrCommit": "2021-11-30T09:34:27Z",
+  "firstCommit": "2020-11-13T10:30:38Z",
+  "lastCommit": "2022-01-18T15:26:47Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e1b3d34fbb0c00e41aac50754d2a327591b9f2bb",
+        "4ae2b3ba389f5796b715765b863fba2187b7e0f3"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "61b28ad60455e8247566f18bed570c3e5e23b7cb",
+        "6e4085cfa1dd79ef753f2389d616805f94205682",
+        "f7a7f08515a7937e10c967103b027c32721ffc38",
+        "c7029868284aae15efb5c94cafa230d6fe1e9c40",
+        "360ca84557dcc59c6d6a0819fb8886dc38fc9c67",
+        "50e2c0aea45977c87aa2f9c5c70bf18c92bcc435",
+        "545a82087650722c02e39e7432301206086934b8",
+        "5a1efa2232745bdb8ce2857ac620aed97dea69d9",
+        "18c4eb65b787580c883fdfa122a4aed31910e35b",
+        "c32065427c3fba4f1d37d4aea7f276d495ef04c0",
+        "9f54e564807e87dc680b7e1501bc7f95626fa393"
+      ],
+      "numberOfCommits": 11
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "40ffff0877c8e498b17607b41b9f4fe1853f78ce"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

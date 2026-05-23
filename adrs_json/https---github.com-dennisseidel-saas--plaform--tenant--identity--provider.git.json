@@ -1,0 +1,86 @@
+{
+  "repositoryUrl": "https://github.com/dennisseidel/saas-plaform-tenant-identity-provider.git",
+  "crawlDateTime": "2022-01-18T18:50:19.110198",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "0002-use-a-hosted-identity-solution-over-a-self-hosted-one.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-18T06:50:50Z",
+      "lastCommit": "2019-06-18T06:50:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fed5d9e641e0d9a0832e9fd925d62a0ded456f43"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0003-use-aws-cognito-as-idp-over-auth0-and-firbase-auth.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-18T06:50:50Z",
+      "lastCommit": "2019-06-18T06:50:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fed5d9e641e0d9a0832e9fd925d62a0ded456f43"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-18T06:50:50Z",
+      "lastCommit": "2019-06-18T06:50:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fed5d9e641e0d9a0832e9fd925d62a0ded456f43"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-06-18T06:50:50Z",
+  "lastAdrCommit": "2019-06-18T06:50:50Z",
+  "firstCommit": "2019-06-18T06:50:50Z",
+  "lastCommit": "2019-06-18T06:50:50Z",
+  "adrDirFile": {
+    "fileContent": "adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fed5d9e641e0d9a0832e9fd925d62a0ded456f43"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

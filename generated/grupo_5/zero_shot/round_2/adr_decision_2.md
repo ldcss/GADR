@@ -1,0 +1,11 @@
+# [ADR-002] Authentication and Identity Management Strategy
+- **Status**: Accepted
+- **Context**: The system must authenticate various actors (healthcare professionals, patients, caregivers) across online and offline environments. It must also comply with national data sovereignty regulations and prepare for integration with national Brazilian health systems like CNS (National Health Card) and CNES (National Registry of Health Establishments).
+- **Decision**: Implement primary user authentication via the Brazilian government platform (GOV.BR) with CPF as the primary key, coupled with a local database/caching mechanism for offline access support.
+- **Considered Options**:
+  - *OAuth via Google/Big Tech*: Rejected due to national data sovereignty concerns and the lack of a reliable linkage to Brazilian public health records.
+  - *Purely Online GOV.BR Auth*: Rejected because the mobile application requires offline capabilities for field agents and remote care scenarios.
+  - *Isolated Custom Local Authentication*: Rejected as it hinders seamless integration with the broader public health ecosystem (RNDS).
+- **Consequences**:
+  - **Pros**: Ensures compliance with data sovereignty; natively aligns with SUS (Unified Health System) integrations (CNS/CNES) via CPF; guarantees system availability in offline scenarios via localized caching.
+  - **Cons**: Increases security complexity on the mobile client, as secure credential caching and online/offline state synchronization must be actively managed.

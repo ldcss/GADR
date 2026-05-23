@@ -1,0 +1,162 @@
+{
+  "repositoryUrl": "https://github.com/savioalphonso/exercise3-group-6.git",
+  "crawlDateTime": "2022-01-18T20:35:34.926793",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-make-repository-iterable.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-10T02:18:50Z",
+      "lastCommit": "2020-10-10T02:18:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "623b26aceb8c408a70ac3fbc27a2e2cebc3b5820"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-create-observation-repository-sort.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-10T02:18:50Z",
+      "lastCommit": "2020-10-10T02:18:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "623b26aceb8c408a70ac3fbc27a2e2cebc3b5820"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-create-observation-repository-search.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-10T02:18:50Z",
+      "lastCommit": "2020-10-10T02:18:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "623b26aceb8c408a70ac3fbc27a2e2cebc3b5820"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-create-repository-interface.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-10T02:18:50Z",
+      "lastCommit": "2020-10-10T02:18:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "623b26aceb8c408a70ac3fbc27a2e2cebc3b5820"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-create-two-observation-comparators.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-10T02:18:50Z",
+      "lastCommit": "2020-10-10T02:18:50Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "623b26aceb8c408a70ac3fbc27a2e2cebc3b5820"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-create-whale-comparator.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-04T18:25:08Z",
+      "lastCommit": "2020-10-10T02:22:01Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2e935e5c32e224afe530c966b563520d3c665cf6",
+            "6334634d61c3173840935be81d3851bbdebc10c8",
+            "d27f8ee68f549d78eb8b71726f06d9278f4b0449",
+            "623b26aceb8c408a70ac3fbc27a2e2cebc3b5820"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "efae0dd9932171fc1aedb2a5a2db5e43338fb04f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-04T18:25:08Z",
+  "lastAdrCommit": "2020-10-10T02:22:01Z",
+  "firstCommit": "2020-09-29T20:15:09Z",
+  "lastCommit": "2020-10-10T03:40:22Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2e935e5c32e224afe530c966b563520d3c665cf6",
+        "6334634d61c3173840935be81d3851bbdebc10c8",
+        "d27f8ee68f549d78eb8b71726f06d9278f4b0449",
+        "623b26aceb8c408a70ac3fbc27a2e2cebc3b5820"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "efae0dd9932171fc1aedb2a5a2db5e43338fb04f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

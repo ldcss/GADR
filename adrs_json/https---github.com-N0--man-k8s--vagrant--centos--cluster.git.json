@@ -1,0 +1,77 @@
+{
+  "repositoryUrl": "https://github.com/N0-man/k8s-vagrant-centos-cluster.git",
+  "crawlDateTime": "2022-01-18T17:46:00.713171",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-why-not-use-kubeadm.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-03T07:18:12Z",
+      "lastCommit": "2018-06-03T08:50:45Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "07c21952d20dbe6127bb7cbce8be270c128aa0c7",
+            "1236a867a96705226ed363858214447956b87d32",
+            "34999466f26a0ff5930f037ef0cd06a94326a741",
+            "6b12c05760c4461eb66c6430816b7a1d95ea04ad",
+            "18d1e068d90548d953d88ec5153de02b06451f04"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-06-03T07:18:12Z",
+      "lastCommit": "2018-06-03T07:52:59Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1236a867a96705226ed363858214447956b87d32",
+            "6b12c05760c4461eb66c6430816b7a1d95ea04ad",
+            "18d1e068d90548d953d88ec5153de02b06451f04"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-06-03T07:18:12Z",
+  "lastAdrCommit": "2018-06-03T08:50:45Z",
+  "firstCommit": "2018-05-31T16:37:12Z",
+  "lastCommit": "2018-06-03T08:50:45Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "07c21952d20dbe6127bb7cbce8be270c128aa0c7",
+        "1236a867a96705226ed363858214447956b87d32",
+        "34999466f26a0ff5930f037ef0cd06a94326a741",
+        "6b12c05760c4461eb66c6430816b7a1d95ea04ad",
+        "18d1e068d90548d953d88ec5153de02b06451f04"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "repositoryUrl": "https://github.com/radiantearth/radiant-mlhub.git",
+  "crawlDateTime": "2022-01-18T18:18:47.578389",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-will-not-implement-get-items.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-11T14:34:30Z",
+      "lastCommit": "2021-01-11T14:34:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f0325d2e6c7108eaf9e4f1e7cd7b301b873fe319"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-resolving-api-keys.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-17T21:57:16Z",
+      "lastCommit": "2021-01-26T21:54:59Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b513c6daa9441f175835e2ce5caece761469e926",
+            "84c559c9680b706b3c9b558703c9a46e6502fea8",
+            "62b98bca8b347d198736e06b0a0007b2078b0068",
+            "932e0080159af84214a8eda6cba2ec1e02086566",
+            "7542e2e84669de82dad46d8114de9153cc76f652"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-17T20:29:39Z",
+      "lastCommit": "2021-01-11T14:09:20Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2fc51b030759bf8c4ba1055376c157e448be230d",
+            "84c559c9680b706b3c9b558703c9a46e6502fea8"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-17T20:29:39Z",
+  "lastAdrCommit": "2021-01-26T21:54:59Z",
+  "firstCommit": "2020-10-13T21:16:26Z",
+  "lastCommit": "2021-10-08T19:09:40Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b513c6daa9441f175835e2ce5caece761469e926",
+        "2fc51b030759bf8c4ba1055376c157e448be230d",
+        "84c559c9680b706b3c9b558703c9a46e6502fea8",
+        "62b98bca8b347d198736e06b0a0007b2078b0068",
+        "f0325d2e6c7108eaf9e4f1e7cd7b301b873fe319",
+        "932e0080159af84214a8eda6cba2ec1e02086566",
+        "7542e2e84669de82dad46d8114de9153cc76f652"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

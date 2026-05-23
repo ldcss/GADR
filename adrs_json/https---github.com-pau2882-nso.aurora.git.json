@@ -1,0 +1,293 @@
+{
+  "repositoryUrl": "https://github.com/pau2882/nso.aurora.git",
+  "crawlDateTime": "2022-01-18T20:56:52.576918",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "QueuingForNotification.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-11-01T18:21:00Z",
+      "lastCommit": "2020-11-01T18:21:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe35a31dfff6c358a7dc7008ba2f2d0ac524a069"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "MartketPlace.md",
+      "template": "Nygard",
+      "status": "superseded",
+      "firstCommit": "2020-11-01T15:49:25Z",
+      "lastCommit": "2020-11-01T15:49:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a6b8d6fb10eee2c3c68d3c0f2016ac34b80c904a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "Notifier.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-11-01T18:16:40Z",
+      "lastCommit": "2020-11-01T18:16:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "95d1ae217afff13846bfb2bc989c2d5090ea3bd5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "Kiosks-Fridge-customer-vendor-management.md",
+      "template": "Nygard",
+      "status": "superseded",
+      "firstCommit": "2020-10-30T14:35:32Z",
+      "lastCommit": "2020-11-01T15:45:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7787a5bf2743b0cfe020dbb2f605983b26949637"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c9aa103e892477de6731bcf4fee7c91c49668dd7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "LoyaltyProgram.md",
+      "template": "Nygard",
+      "status": "superseded",
+      "firstCommit": "2020-11-01T15:50:19Z",
+      "lastCommit": "2020-11-01T15:50:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "859134c44b457a60a7dabc19975e1afc3f1bf3a4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "NumberOfDatabases.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-11-01T18:07:36Z",
+      "lastCommit": "2020-11-01T18:07:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cb0f9297838f095bb89e57e6925cab04d23e7a6e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "MultipleQueues.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-11-01T20:02:00Z",
+      "lastCommit": "2020-11-01T20:02:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "773db7477b46aeec0237bd19c32a3da48fde6242"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "SegmentationEngine.md",
+      "template": "Nygard",
+      "status": "superseded",
+      "firstCommit": "2020-10-30T14:35:32Z",
+      "lastCommit": "2020-11-01T21:53:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7787a5bf2743b0cfe020dbb2f605983b26949637"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ec7d93501473a10fd85c10d0f43e7bfa1e9edc8",
+            "a5125b69a2c472462291c2804d85f57f4cf1cd39"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "AsynchronousMessages.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-11-01T18:24:36Z",
+      "lastCommit": "2020-11-01T18:24:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1dae493ff8eb96d51837f6631093b06ee71f259e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "FaultTolerance.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-11-01T20:07:40Z",
+      "lastCommit": "2020-11-01T20:07:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dcecb59de6ccc3993499f5cdc96417147cdf90dd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "MicroserviceDesgin.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-11-01T19:59:01Z",
+      "lastCommit": "2020-11-01T19:59:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "746a43bf62d059e4bab612f30271eada7e996151"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adr",
+      "path": "InventoryManager.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2020-10-30T14:58:23Z",
+      "lastCommit": "2020-10-30T15:38:01Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "51d5bdbc097c6d93dc8cad1ed4e5ed2fc9cfbff7",
+            "2781f2399d7fcae14c9de0b5f7c2b7c44385080f"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-30T14:35:32Z",
+  "lastAdrCommit": "2020-11-01T21:53:23Z",
+  "firstCommit": "2020-10-30T14:35:32Z",
+  "lastCommit": "2020-11-01T21:53:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7787a5bf2743b0cfe020dbb2f605983b26949637"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4ec7d93501473a10fd85c10d0f43e7bfa1e9edc8",
+        "a6b8d6fb10eee2c3c68d3c0f2016ac34b80c904a",
+        "fe35a31dfff6c358a7dc7008ba2f2d0ac524a069",
+        "a5125b69a2c472462291c2804d85f57f4cf1cd39",
+        "51d5bdbc097c6d93dc8cad1ed4e5ed2fc9cfbff7",
+        "c9aa103e892477de6731bcf4fee7c91c49668dd7",
+        "859134c44b457a60a7dabc19975e1afc3f1bf3a4",
+        "cb0f9297838f095bb89e57e6925cab04d23e7a6e",
+        "746a43bf62d059e4bab612f30271eada7e996151",
+        "1dae493ff8eb96d51837f6631093b06ee71f259e",
+        "95d1ae217afff13846bfb2bc989c2d5090ea3bd5",
+        "773db7477b46aeec0237bd19c32a3da48fde6242",
+        "2781f2399d7fcae14c9de0b5f7c2b7c44385080f",
+        "dcecb59de6ccc3993499f5cdc96417147cdf90dd"
+      ],
+      "numberOfCommits": 14
+    }
+  ]
+}

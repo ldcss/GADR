@@ -1,0 +1,152 @@
+{
+  "repositoryUrl": "https://github.com/Accenture/reactive-interaction-gateway.git",
+  "crawlDateTime": "2022-01-18T21:10:31.786737",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "guides/architecture/decisions"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "guides/architecture/decisions",
+      "path": "0003-for-config-prefer-prefix-over-nesting-and-don-t-hide-defaults-in-code.md",
+      "template": "Nygard",
+      "status": "Superceded by [4. Use Rig.Config for global configuration](0004-use-rig-config-for-global-configuration.md)",
+      "firstCommit": "2017-08-22T13:25:46Z",
+      "lastCommit": "2017-12-14T22:15:42Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "938e75e6ab953a1ae8a2a1780e876471c6d41dc6",
+            "30497d793e28e21561a586843aff1da47f87e1bc",
+            "c511a12b032ab450f56b6c5290542b14608b8dac",
+            "06b51a769061399ac44c12304c16e21efc5bcbef"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "guides/architecture/decisions",
+      "path": "0004-use-rig-config-for-global-configuration.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [3. For config, prefer prefix over nesting and don't hide defaults in code](0003-for-config-prefer-prefix-over-nesting-and-don-t-hide-defaults-in-code.md)",
+      "firstCommit": "2017-11-28T12:46:34Z",
+      "lastCommit": "2019-02-06T16:38:16Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a142052a15ad31128b976fed4cf712ef62545272"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "938e75e6ab953a1ae8a2a1780e876471c6d41dc6",
+            "06b51a769061399ac44c12304c16e21efc5bcbef"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "guides/architecture/decisions",
+      "path": "0002-don-t-check-for-functionclauseerror-in-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-05-15T09:34:32Z",
+      "lastCommit": "2017-12-14T22:15:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7c88b0d44d1223c7f10ef52089818eed8d2f19d8",
+            "06b51a769061399ac44c12304c16e21efc5bcbef"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "guides/architecture/decisions",
+      "path": "0005-maintain-changelog.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-01-11T12:23:04Z",
+      "lastCommit": "2018-01-11T12:23:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52aa70e93c66b687a941ef68bdb82190e1025620"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "guides/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-04-16T04:12:58Z",
+      "lastCommit": "2017-12-14T22:15:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "705b4fb354a69ccef572f7b94f6e2da2c9563693",
+            "06b51a769061399ac44c12304c16e21efc5bcbef"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-04-16T04:12:58Z",
+  "lastAdrCommit": "2019-02-06T16:38:16Z",
+  "firstCommit": "2017-01-31T12:21:24Z",
+  "lastCommit": "2022-01-15T06:57:37Z",
+  "adrDirFile": {
+    "fileContent": "guides/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a142052a15ad31128b976fed4cf712ef62545272"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "52aa70e93c66b687a941ef68bdb82190e1025620",
+        "705b4fb354a69ccef572f7b94f6e2da2c9563693",
+        "938e75e6ab953a1ae8a2a1780e876471c6d41dc6",
+        "30497d793e28e21561a586843aff1da47f87e1bc",
+        "c511a12b032ab450f56b6c5290542b14608b8dac",
+        "7c88b0d44d1223c7f10ef52089818eed8d2f19d8",
+        "06b51a769061399ac44c12304c16e21efc5bcbef"
+      ],
+      "numberOfCommits": 7
+    }
+  ]
+}

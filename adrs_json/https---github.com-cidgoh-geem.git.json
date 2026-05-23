@@ -1,0 +1,121 @@
+{
+  "repositoryUrl": "https://github.com/cidgoh/geem.git",
+  "crawlDateTime": "2022-01-18T19:27:49.364791",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-07-03T22:04:33Z",
+      "lastCommit": "2018-07-03T22:04:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93af1702c96a6d764c2b7675405d12a3c1d9b653"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-postgresql-database.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-07-03T22:04:33Z",
+      "lastCommit": "2018-07-03T22:04:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93af1702c96a6d764c2b7675405d12a3c1d9b653"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-django-rest-framework-api.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-07-03T22:04:33Z",
+      "lastCommit": "2018-07-03T22:04:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93af1702c96a6d764c2b7675405d12a3c1d9b653"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-oauth2-social-login.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-07-03T22:04:33Z",
+      "lastCommit": "2018-07-03T22:04:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93af1702c96a6d764c2b7675405d12a3c1d9b653"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-django-framework.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-07-03T22:04:33Z",
+      "lastCommit": "2018-07-03T22:04:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93af1702c96a6d764c2b7675405d12a3c1d9b653"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-03T22:04:33Z",
+  "lastAdrCommit": "2018-07-03T22:04:33Z",
+  "firstCommit": "2017-10-15T00:29:10Z",
+  "lastCommit": "2021-06-10T19:21:38Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "93af1702c96a6d764c2b7675405d12a3c1d9b653"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

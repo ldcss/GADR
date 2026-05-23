@@ -1,0 +1,374 @@
+{
+  "repositoryUrl": "https://github.com/sul-dlss-labs/infrastructure-adrs.git",
+  "crawlDateTime": "2022-01-18T23:07:21.834914",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    ""
+  ],
+  "numAdrFiles": 13,
+  "adrFiles": [
+    {
+      "adrDirectory": "",
+      "path": "0004-remove-workflow-datastream.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-28T21:51:44Z",
+      "lastCommit": "2020-03-31T18:45:44Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e20bcb7ffa84af299a59e7048a8ec29aeb86ba89",
+            "b3b92a3102fe5b982857ee1f2c33784fc27e1db1",
+            "bdfad0392d44665848f687de1f599dab646ea676",
+            "f60fb59168e39e1b79eb1d3e7783b8678d95d8b7"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0000-use-madr-as-record-format.md",
+      "template": "Madr",
+      "status": "decided",
+      "firstCommit": "2019-04-04T22:57:06Z",
+      "lastCommit": "2020-01-28T23:14:54Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2b9755a320d39ea7f7872d7068c1b19079712fff",
+            "e3b51fa357bbae202eb618085dca29ffb80bea5b",
+            "e7dc171810198dc629744733e1d08a7c00c21619"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0009-create-provenance-service.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-28T22:44:35Z",
+      "lastCommit": "2020-01-28T22:45:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8e42ae5864e4afd5206e85bf01c077035b48d4f3",
+            "a6d0a23930a3032238d55269aee6c571f4414539",
+            "a70fd81aa7e6eb84b0b948322aeabdf9b80f4236"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0002-extract-only-useful-technical-metadata.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-28T21:24:57Z",
+      "lastCommit": "2020-01-28T21:24:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab588bee1d37b47fe97ab90b5a936d953bc5b539"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0011-use-api-tokens.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-06T16:14:30Z",
+      "lastCommit": "2020-04-06T16:14:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "594f28fc85bb5d9a7576f8bad7a8f49069656000"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0012-dor-datastore.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-01-11T14:37:42Z",
+      "lastCommit": "2021-01-11T14:37:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de97a36b135866cf2ef8aefeab78378bf0c66d5c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0003-extract-technical-metadata-on-per-file-basis.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-28T21:29:57Z",
+      "lastCommit": "2020-01-28T21:33:49Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "241adb57b901ac55df1aa79a1ce65f4db771947b",
+            "95293bd06015dccba655aebadfd89211b842926d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0006-replace-assembly-wf-with-deposit-api.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-28T22:05:35Z",
+      "lastCommit": "2020-02-04T20:03:52Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2944ebef8e7db9df70815b9972a20c9932e991a5",
+            "12f739b88fe2c3e890c9594a8ad8f3299e4c1f98",
+            "c6079d70328924693c0481309144ac8184783dea",
+            "0104a82bb10a9d01efad364d73b43e35db39e2d9",
+            "1647700e9017fa16e81cc2a3dea720ecb5a4bd72"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0007-change-dor-from-registry-to-repository.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-28T22:36:09Z",
+      "lastCommit": "2020-01-28T22:36:10Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "64a932daeb30341150daea0bff808a2bec93418c",
+            "8343e0c4271cbed715d187abd1e07e1003cead8c",
+            "875ba7e296dae94f86524f5561c8064f74ef636d"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0005-use-deposit-api-in-etd-application.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-28T21:59:09Z",
+      "lastCommit": "2020-01-28T22:00:27Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "789d2d36446a53358efd2fbaa137d4d2727f5387",
+            "dd8e8be46e103eddcff334eb9b2a0fb6ffded077",
+            "0327da4423d5855e3e2c666e5d7adde1081f331b"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0010-message-broker.md",
+      "template": "Madr",
+      "status": "drafted",
+      "firstCommit": "2020-02-07T19:47:30Z",
+      "lastCommit": "2020-03-25T13:21:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d03ab23bdc0a62e9aed46cf152557b3395bc56c",
+            "be821347923870807dfa3ed81664e8e03c784a64"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0001-migrate-off-fedora-3.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-31T18:43:43Z",
+      "lastCommit": "2021-01-11T14:37:42Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d247c0cc85647d290fd75d8421465ca6922be11e",
+            "e0182e2163b4cdf24ab833a91f6e68999a7cc05b",
+            "467904cb5ef042ba746f9a21b36893bf73db22d2",
+            "e830e52e8c533b83f1a443686881ca5cd073099e"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de97a36b135866cf2ef8aefeab78378bf0c66d5c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b623591c9345a76485f0a4a17c0484c40ac608c7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "",
+      "path": "0008-separate-dor-index-from-argo-index.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-28T22:40:59Z",
+      "lastCommit": "2020-01-28T22:42:27Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ee9854f6c7d61de339d3c85dacd9c567c4c9465",
+            "20e7f5a8e7306e45d826caf790561dc1d28968dd",
+            "8cce83edde91e45fd140050bfe4091b59c79335d"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-04-04T22:57:06Z",
+  "lastAdrCommit": "2021-01-11T14:37:42Z",
+  "firstCommit": "2019-04-03T18:13:49Z",
+  "lastCommit": "2021-09-16T20:44:45Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2d03ab23bdc0a62e9aed46cf152557b3395bc56c",
+        "be821347923870807dfa3ed81664e8e03c784a64"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "12f739b88fe2c3e890c9594a8ad8f3299e4c1f98",
+        "789d2d36446a53358efd2fbaa137d4d2727f5387",
+        "dd8e8be46e103eddcff334eb9b2a0fb6ffded077",
+        "b3b92a3102fe5b982857ee1f2c33784fc27e1db1",
+        "875ba7e296dae94f86524f5561c8064f74ef636d",
+        "a6d0a23930a3032238d55269aee6c571f4414539",
+        "2944ebef8e7db9df70815b9972a20c9932e991a5",
+        "1ee9854f6c7d61de339d3c85dacd9c567c4c9465",
+        "bdfad0392d44665848f687de1f599dab646ea676",
+        "e0182e2163b4cdf24ab833a91f6e68999a7cc05b",
+        "467904cb5ef042ba746f9a21b36893bf73db22d2",
+        "0104a82bb10a9d01efad364d73b43e35db39e2d9",
+        "f60fb59168e39e1b79eb1d3e7783b8678d95d8b7",
+        "8cce83edde91e45fd140050bfe4091b59c79335d",
+        "2b9755a320d39ea7f7872d7068c1b19079712fff",
+        "e20bcb7ffa84af299a59e7048a8ec29aeb86ba89",
+        "c6079d70328924693c0481309144ac8184783dea",
+        "8343e0c4271cbed715d187abd1e07e1003cead8c",
+        "a70fd81aa7e6eb84b0b948322aeabdf9b80f4236",
+        "e830e52e8c533b83f1a443686881ca5cd073099e",
+        "e3b51fa357bbae202eb618085dca29ffb80bea5b",
+        "8e42ae5864e4afd5206e85bf01c077035b48d4f3",
+        "20e7f5a8e7306e45d826caf790561dc1d28968dd",
+        "d247c0cc85647d290fd75d8421465ca6922be11e",
+        "64a932daeb30341150daea0bff808a2bec93418c",
+        "0327da4423d5855e3e2c666e5d7adde1081f331b",
+        "e7dc171810198dc629744733e1d08a7c00c21619",
+        "ab588bee1d37b47fe97ab90b5a936d953bc5b539",
+        "1647700e9017fa16e81cc2a3dea720ecb5a4bd72",
+        "241adb57b901ac55df1aa79a1ce65f4db771947b",
+        "95293bd06015dccba655aebadfd89211b842926d"
+      ],
+      "numberOfCommits": 31
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "de97a36b135866cf2ef8aefeab78378bf0c66d5c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "594f28fc85bb5d9a7576f8bad7a8f49069656000"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b623591c9345a76485f0a4a17c0484c40ac608c7"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

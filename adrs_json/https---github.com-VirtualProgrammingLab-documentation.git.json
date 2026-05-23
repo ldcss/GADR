@@ -1,0 +1,267 @@
+{
+  "repositoryUrl": "https://github.com/VirtualProgrammingLab/documentation.git",
+  "crawlDateTime": "2022-01-18T18:03:21.425984",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/viplab3.0"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/viplab3.0",
+      "path": "system_status.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-08-13T09:52:17Z",
+      "lastCommit": "2020-08-13T09:52:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c30b2cf12922dd8a602208bd1d1499fe76addde5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/viplab3.0",
+      "path": "computation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-28T10:09:07Z",
+      "lastCommit": "2020-08-11T12:52:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5e1feeec57049ae74e0e2aa96aaad37bd2cbe21"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f00cb16a92eb86863b6367b9bae3617d5af4e34"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/viplab3.0",
+      "path": "computation_template.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-31T19:34:36Z",
+      "lastCommit": "2022-01-15T21:42:03Z",
+      "numberOfCommits": 12,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7b47516d48ddd6464a7caa0dba10a5aecc8e6598"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "733d7fb369f890920b33eb6271667a400de851ad"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e795f6e305e1644406023b007c283e8a171ef4d",
+            "9dd6f10a6f90afdacb919345dd3e793eb3ea8b43",
+            "628165c93fc3437ce1819b97c3eea8905e7ac33e",
+            "4283f9a374c03dfc734aebc821cb2a4da187b0cf"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f1b46891ee7a61982ccf0c3352f3ba30308eb6bd",
+            "7f00cb16a92eb86863b6367b9bae3617d5af4e34",
+            "3dd1d906b4d1f549ef16fc6367d6a2a82f0130a2"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1384945bb367a381d8d4e22ab8f8b16af41512af",
+            "eedc6d0630cda4566fdd67d15eeefc8f4556367a",
+            "57d5e997a66d5d00aaaacf50928fc42a03deee14"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/viplab3.0",
+      "path": "computation_result.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-28T10:09:07Z",
+      "lastCommit": "2020-08-13T18:45:49Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "91cfab6001b30b7883bef922cbd46853f8890bca",
+            "fcc03f1bf17b8112c74c188a5041250da76adee9",
+            "8344520ea76ef3448234a7ec6098e318740c8530",
+            "d0876dd2a0229f991c891645f70d98adf490d955",
+            "c30b2cf12922dd8a602208bd1d1499fe76addde5",
+            "8511e4249912c1c64343e74896b939fdbb328cd2"
+          ],
+          "numberOfCommits": 6
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7f00cb16a92eb86863b6367b9bae3617d5af4e34"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/viplab3.0",
+      "path": "computation_task.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-31T19:34:36Z",
+      "lastCommit": "2020-08-11T12:52:03Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5e1feeec57049ae74e0e2aa96aaad37bd2cbe21"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f1b46891ee7a61982ccf0c3352f3ba30308eb6bd",
+            "7f00cb16a92eb86863b6367b9bae3617d5af4e34"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/viplab3.0",
+      "path": "versioning.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2020-05-16T16:32:34Z",
+      "lastCommit": "2020-08-12T12:31:42Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0c10e02563348b1e6e609f56896bfe5664b3275",
+            "674c184f57c618db9b89d33bd03929368a07a128",
+            "1a3b40b86751b292a4ead1a1daac8f1133783f2c"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-31T19:34:36Z",
+  "lastAdrCommit": "2022-01-15T21:42:03Z",
+  "firstCommit": "2020-01-13T14:33:05Z",
+  "lastCommit": "2022-01-15T21:42:28Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7b47516d48ddd6464a7caa0dba10a5aecc8e6598"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "91cfab6001b30b7883bef922cbd46853f8890bca",
+        "fcc03f1bf17b8112c74c188a5041250da76adee9",
+        "f5e1feeec57049ae74e0e2aa96aaad37bd2cbe21",
+        "b0c10e02563348b1e6e609f56896bfe5664b3275",
+        "8344520ea76ef3448234a7ec6098e318740c8530",
+        "674c184f57c618db9b89d33bd03929368a07a128",
+        "d0876dd2a0229f991c891645f70d98adf490d955",
+        "1a3b40b86751b292a4ead1a1daac8f1133783f2c",
+        "c30b2cf12922dd8a602208bd1d1499fe76addde5",
+        "8511e4249912c1c64343e74896b939fdbb328cd2"
+      ],
+      "numberOfCommits": 10
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "733d7fb369f890920b33eb6271667a400de851ad"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0e795f6e305e1644406023b007c283e8a171ef4d",
+        "9dd6f10a6f90afdacb919345dd3e793eb3ea8b43",
+        "628165c93fc3437ce1819b97c3eea8905e7ac33e",
+        "4283f9a374c03dfc734aebc821cb2a4da187b0cf"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f1b46891ee7a61982ccf0c3352f3ba30308eb6bd",
+        "7f00cb16a92eb86863b6367b9bae3617d5af4e34",
+        "3dd1d906b4d1f549ef16fc6367d6a2a82f0130a2"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1384945bb367a381d8d4e22ab8f8b16af41512af",
+        "eedc6d0630cda4566fdd67d15eeefc8f4556367a",
+        "57d5e997a66d5d00aaaacf50928fc42a03deee14"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

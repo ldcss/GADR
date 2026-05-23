@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/Quarterback16/Tycoon.API.git",
+  "crawlDateTime": "2022-01-18T22:57:18.315449",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "HsEventStore/Doco/Architecture/Decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "HsEventStore/Doco/Architecture/Decisions",
+      "path": "0001-Record-Architecture-Decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-10T01:20:38Z",
+      "lastCommit": "2019-03-10T01:20:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9dec46231f3b0e50f09baa53268a754de2dac9d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "HsEventStore/Doco/Architecture/Decisions",
+      "path": "0002-Use-JSON-To-Persist-Events.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-10T01:20:38Z",
+      "lastCommit": "2019-03-10T01:20:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9dec46231f3b0e50f09baa53268a754de2dac9d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-10T01:20:38Z",
+  "lastAdrCommit": "2019-03-10T01:20:38Z",
+  "firstCommit": "2018-11-17T01:46:01Z",
+  "lastCommit": "2021-10-29T08:53:45Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9dec46231f3b0e50f09baa53268a754de2dac9d6"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/Open-GP/openmrs-module-gpconnect.git",
+  "crawlDateTime": "2022-01-18T17:50:19.109401",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-add-additional-data-to-resource.md",
+      "template": "Nygard",
+      "status": "- This ADR has been approved. - This has been implemented for a practitioner, but not for any other resource - the implementation for the Patient resource has been identified as an [issue](https://github.com/Open-GP/opengp-architecture/issues/21).",
+      "firstCommit": "2020-08-07T13:27:33Z",
+      "lastCommit": "2020-08-07T13:27:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ddc6255c0e4ffc5b1723f2e65587344781a18024"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-07T13:27:33Z",
+  "lastAdrCommit": "2020-08-07T13:27:33Z",
+  "firstCommit": "2020-04-26T13:08:50Z",
+  "lastCommit": "2021-04-26T20:26:47Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ddc6255c0e4ffc5b1723f2e65587344781a18024"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

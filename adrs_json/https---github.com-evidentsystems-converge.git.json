@@ -1,0 +1,47 @@
+{
+  "repositoryUrl": "https://github.com/evidentsystems/converge.git",
+  "crawlDateTime": "2022-01-18T20:57:06.751635",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "converge/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "converge/adr",
+      "path": "001-data-diff.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-19T01:04:32Z",
+      "lastCommit": "2021-12-22T19:42:05Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0d4c0bb47da9e90057450e5d629a61de45de6fac",
+            "d4faacad725d1ecda81cb15576dfdfddd32c017b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-19T01:04:32Z",
+  "lastAdrCommit": "2021-12-22T19:42:05Z",
+  "firstCommit": "2020-09-19T01:04:32Z",
+  "lastCommit": "2022-01-13T16:45:25Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0d4c0bb47da9e90057450e5d629a61de45de6fac",
+        "d4faacad725d1ecda81cb15576dfdfddd32c017b"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

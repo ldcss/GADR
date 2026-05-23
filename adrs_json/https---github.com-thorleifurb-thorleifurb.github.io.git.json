@@ -1,0 +1,82 @@
+{
+  "repositoryUrl": "https://github.com/thorleifurb/thorleifurb.github.io.git",
+  "crawlDateTime": "2022-01-18T17:58:31.037934",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-what-map-provider.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-06-01T23:19:41Z",
+      "lastCommit": "2020-06-02T00:52:17Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5307a2daae2b87ece42a7077c716f5c23bcee8d5",
+            "888afd1d987d38646da4f26d728d88331e45afd9"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "875cf43b85289a573e1e340e617889c273d2aae0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-06-01T23:19:41Z",
+      "lastCommit": "2020-06-01T23:19:41Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "875cf43b85289a573e1e340e617889c273d2aae0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-01T23:19:41Z",
+  "lastAdrCommit": "2020-06-02T00:52:17Z",
+  "firstCommit": "2020-06-01T16:53:53Z",
+  "lastCommit": "2020-12-31T13:41:20Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5307a2daae2b87ece42a7077c716f5c23bcee8d5",
+        "888afd1d987d38646da4f26d728d88331e45afd9"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "875cf43b85289a573e1e340e617889c273d2aae0"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

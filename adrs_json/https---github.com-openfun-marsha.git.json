@@ -1,0 +1,104 @@
+{
+  "repositoryUrl": "https://github.com/openfun/marsha.git",
+  "crawlDateTime": "2022-01-18T18:37:23.244468",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-soft-deletion.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-04T11:53:04Z",
+      "lastCommit": "2018-07-04T11:53:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77ead512b2f9da1516d1765d8b613097c12faaa4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-content-organization-and-accesses.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-04T11:53:04Z",
+      "lastCommit": "2018-07-04T11:53:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77ead512b2f9da1516d1765d8b613097c12faaa4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-actors.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-04T11:53:04Z",
+      "lastCommit": "2018-07-04T11:53:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77ead512b2f9da1516d1765d8b613097c12faaa4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-videos-languages.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-04T11:53:04Z",
+      "lastCommit": "2018-11-22T11:15:04Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "101de2c2fbe806b33cd3b395d405a43ab973bbf6",
+            "77ead512b2f9da1516d1765d8b613097c12faaa4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-04T11:53:04Z",
+  "lastAdrCommit": "2018-11-22T11:15:04Z",
+  "firstCommit": "2018-04-16T12:32:54Z",
+  "lastCommit": "2022-01-18T18:35:35Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "101de2c2fbe806b33cd3b395d405a43ab973bbf6",
+        "77ead512b2f9da1516d1765d8b613097c12faaa4"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

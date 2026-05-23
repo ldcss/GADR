@@ -1,0 +1,235 @@
+{
+  "repositoryUrl": "https://github.com/Informatievlaanderen/publicservice-registry.git",
+  "crawlDateTime": "2022-01-18T18:16:33.308209",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0013-handle-eventual-consistency-with-etags.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T11:23:43Z",
+      "lastCommit": "2019-03-25T11:23:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c42a21cd374c06c1f4982253c5bb1573eeb42fc5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-no-more-memory-caches.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T11:23:43Z",
+      "lastCommit": "2019-03-25T11:23:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c42a21cd374c06c1f4982253c5bb1573eeb42fc5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-use-more-value-objects.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T11:23:43Z",
+      "lastCommit": "2019-03-25T11:23:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c42a21cd374c06c1f4982253c5bb1573eeb42fc5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-sqlstreamstore.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T11:23:43Z",
+      "lastCommit": "2019-03-25T11:23:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c42a21cd374c06c1f4982253c5bb1573eeb42fc5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-do-not-use-clr-type-names-for-event-types.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T11:23:43Z",
+      "lastCommit": "2019-03-25T11:23:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c42a21cd374c06c1f4982253c5bb1573eeb42fc5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-sometimes-include-code-instead-of-packages.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T11:23:43Z",
+      "lastCommit": "2019-03-25T11:23:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c42a21cd374c06c1f4982253c5bb1573eeb42fc5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0012-use-dutch-resource-names.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T11:23:43Z",
+      "lastCommit": "2019-03-25T11:23:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c42a21cd374c06c1f4982253c5bb1573eeb42fc5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-event-sourcing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T11:23:43Z",
+      "lastCommit": "2019-03-25T11:23:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c42a21cd374c06c1f4982253c5bb1573eeb42fc5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-use-mediatr.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T11:23:43Z",
+      "lastCommit": "2019-03-25T11:23:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c42a21cd374c06c1f4982253c5bb1573eeb42fc5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T11:23:43Z",
+      "lastCommit": "2019-03-25T11:23:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c42a21cd374c06c1f4982253c5bb1573eeb42fc5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-async-event-handlers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-25T11:23:43Z",
+      "lastCommit": "2019-03-25T11:23:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c42a21cd374c06c1f4982253c5bb1573eeb42fc5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-25T11:23:43Z",
+  "lastAdrCommit": "2019-03-25T11:23:43Z",
+  "firstCommit": "2019-03-25T11:23:43Z",
+  "lastCommit": "2022-01-15T05:24:55Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c42a21cd374c06c1f4982253c5bb1573eeb42fc5"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/RADAR-base/radar-upload-source-connector.git",
+  "crawlDateTime": "2022-01-18T21:04:42.809693",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-converter-configuration.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-04-04T08:53:56Z",
+      "lastCommit": "2019-04-04T08:53:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e918c22816dfd282019be5a6d95f4eee555bdd3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-component-separation.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-04-04T08:53:56Z",
+      "lastCommit": "2019-04-04T08:53:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e918c22816dfd282019be5a6d95f4eee555bdd3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-04-04T08:53:56Z",
+      "lastCommit": "2019-04-04T08:53:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e918c22816dfd282019be5a6d95f4eee555bdd3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-04-04T08:53:56Z",
+  "lastAdrCommit": "2019-04-04T08:53:56Z",
+  "firstCommit": "2019-04-03T14:26:18Z",
+  "lastCommit": "2021-12-14T15:28:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0e918c22816dfd282019be5a6d95f4eee555bdd3"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

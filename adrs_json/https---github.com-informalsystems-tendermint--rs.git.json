@@ -1,0 +1,308 @@
+{
+  "repositoryUrl": "https://github.com/informalsystems/tendermint-rs.git",
+  "crawlDateTime": "2022-01-18T19:38:41.133536",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-008-event-subscription.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-08-28T20:01:06Z",
+      "lastCommit": "2020-11-26T13:21:14Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de79e7b37a052931946f0221b3ab19e64dde7fdd",
+            "e89206774e5c1939c0c03c34782735e91621fef4",
+            "0e63faf735b5064849f064d440ffe18c0ed25bb1",
+            "a6187fc75e92ea9210ff379d12980654a0e3e4d7",
+            "5105efe039cdd928b3357583333ab5450bbd4003"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-010-time-api-sanity.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-12-07T16:28:51Z",
+      "lastCommit": "2021-12-07T16:28:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9b6bd82e8ff7abe6d8550674fb606a032d2d7bcf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-003-light-client-core-verification.md",
+      "template": "Nygard",
+      "status": "Approved. Implemented.",
+      "firstCommit": "2020-02-10T04:50:11Z",
+      "lastCommit": "2020-03-14T08:23:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "471ac8faa79c3072a220e09228bffae157fab2f0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9287e04ee84e6659ea209529a1bb700ab53e45b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-005-light-client-fork-detection.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-10T04:50:11Z",
+      "lastCommit": "2020-03-14T08:23:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "471ac8faa79c3072a220e09228bffae157fab2f0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9287e04ee84e6659ea209529a1bb700ab53e45b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-009-transport-agnostic-peer-abstraction.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-06-15T11:29:27Z",
+      "lastCommit": "2021-06-15T11:29:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05da904806d0523e7b26e437da841bb56123ec38"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-001-repo.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-10-03T01:33:43Z",
+      "lastCommit": "2021-02-16T20:00:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02694144a3c55a278df19a21fb074439b36b7941"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cdf734cc1113bdabbd1a0cec9aa4c561ffa1b4ad"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-002-light-client-adr-index.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-10T04:50:11Z",
+      "lastCommit": "2020-02-10T04:50:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9287e04ee84e6659ea209529a1bb700ab53e45b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-007-light-client-supervisor-ergonomics.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2020-07-02T18:56:33Z",
+      "lastCommit": "2020-07-03T07:55:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "78ff0c3c65f3fdcdef073c582755103741153b16",
+            "d6e4de11eb1791eef3b08a89d491f105b81b4f8c"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-004-light-client-cli.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-10T04:50:11Z",
+      "lastCommit": "2020-03-14T08:23:23Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "471ac8faa79c3072a220e09228bffae157fab2f0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f9287e04ee84e6659ea209529a1bb700ab53e45b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-006-light-client-refactor.md",
+      "template": "Nygard",
+      "status": "Implemented: * [Verification Predicates](https://github.com/informalsystems/tendermint-rs/blob/e2335c4/light-client/src/predicates.rs) * [Verifier Component](https://github.com/informalsystems/tendermint-rs/blob/e2335c4/light-client/src/components/verifier.rs) * [IO Component](https://github.com/informalsystems/tendermint-rs/blob/e2335c4/light-client/src/components/io.rs) * [Scheduler Component](https://github.com/informalsystems/tendermint-rs/blob/e2335c4/light-client/src/components/scheduler.rs) * [Supervisor](https://github.com/informalsystems/tendermint-rs/blob/e2335c40b1c5e1f7d47ee28ae5f9cc679730b7a2/light-client/src/supervisor.rs) * [Example](https://github.com/informalsystems/tendermint-rs/blob/e2335c40b1c5e1f7d47ee28ae5f9cc679730b7a2/light-client/examples/light_client.rs)",
+      "firstCommit": "2020-06-30T12:40:32Z",
+      "lastCommit": "2020-06-30T12:40:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "87857e7d2a4848079c25ad4d266bf5f473d623fa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-03T01:33:43Z",
+  "lastAdrCommit": "2021-12-07T16:28:51Z",
+  "firstCommit": "2018-10-25T18:56:32Z",
+  "lastCommit": "2022-01-14T04:23:14Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "02694144a3c55a278df19a21fb074439b36b7941"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9b6bd82e8ff7abe6d8550674fb606a032d2d7bcf"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "de79e7b37a052931946f0221b3ab19e64dde7fdd",
+        "e89206774e5c1939c0c03c34782735e91621fef4",
+        "0e63faf735b5064849f064d440ffe18c0ed25bb1",
+        "a6187fc75e92ea9210ff379d12980654a0e3e4d7",
+        "5105efe039cdd928b3357583333ab5450bbd4003"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "471ac8faa79c3072a220e09228bffae157fab2f0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "87857e7d2a4848079c25ad4d266bf5f473d623fa"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "78ff0c3c65f3fdcdef073c582755103741153b16",
+        "05da904806d0523e7b26e437da841bb56123ec38",
+        "d6e4de11eb1791eef3b08a89d491f105b81b4f8c"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f9287e04ee84e6659ea209529a1bb700ab53e45b",
+        "cdf734cc1113bdabbd1a0cec9aa4c561ffa1b4ad"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

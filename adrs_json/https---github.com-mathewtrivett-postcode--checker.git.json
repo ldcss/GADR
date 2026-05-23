@@ -1,0 +1,49 @@
+{
+  "repositoryUrl": "https://github.com/mathewtrivett/postcode-checker.git",
+  "crawlDateTime": "2022-01-18T20:41:03.978919",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/technical_decisions"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/technical_decisions",
+      "path": "0001-use-postgres-database.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-05T10:07:52Z",
+      "lastCommit": "2020-12-07T13:28:23Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "551825d4b09c4aa1780f2b38eff2a5872988dcaa",
+            "0a417a716a1e4e3f28a20a7c3b9a616f84948c07",
+            "f7d286205f53339526f4270d5a7f92083b94b781"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-05T10:07:52Z",
+  "lastAdrCommit": "2020-12-07T13:28:23Z",
+  "firstCommit": "2020-12-04T18:18:55Z",
+  "lastCommit": "2020-12-07T17:50:34Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "551825d4b09c4aa1780f2b38eff2a5872988dcaa",
+        "0a417a716a1e4e3f28a20a7c3b9a616f84948c07",
+        "f7d286205f53339526f4270d5a7f92083b94b781"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

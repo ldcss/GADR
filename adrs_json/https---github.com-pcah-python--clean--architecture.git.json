@@ -1,0 +1,70 @@
+{
+  "repositoryUrl": "https://github.com/pcah/python-clean-architecture.git",
+  "crawlDateTime": "2022-01-18T21:09:42.209171",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adl"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adl",
+      "path": "000-architectural-decision-log-introduced.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-03-16T02:35:21Z",
+      "lastCommit": "2020-12-05T03:45:08Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "402f3c779531c0c3f33c09b48902e6d167fd7875",
+            "a87177cdfcb0245163f219aea4255180aa432acb",
+            "9c681299bf33255bd193f3604738c3779423bc75"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adl",
+      "path": "001-entity-and-the-source-of-its-id.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-04-13T01:32:19Z",
+      "lastCommit": "2021-07-31T00:44:22Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "05230ea3d3b1da7f4d756b8c1769bdee3eb51652",
+            "9c681299bf33255bd193f3604738c3779423bc75"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-16T02:35:21Z",
+  "lastAdrCommit": "2021-07-31T00:44:22Z",
+  "firstCommit": "2014-09-08T21:32:55Z",
+  "lastCommit": "2021-08-02T00:19:18Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "05230ea3d3b1da7f4d756b8c1769bdee3eb51652",
+        "402f3c779531c0c3f33c09b48902e6d167fd7875",
+        "a87177cdfcb0245163f219aea4255180aa432acb",
+        "9c681299bf33255bd193f3604738c3779423bc75"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

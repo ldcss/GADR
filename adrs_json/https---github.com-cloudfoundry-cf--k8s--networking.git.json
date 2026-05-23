@@ -1,0 +1,767 @@
+{
+  "repositoryUrl": "https://github.com/cloudfoundry/cf-k8s-networking.git",
+  "crawlDateTime": "2022-01-18T18:24:31.864127",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture-decisions"
+  ],
+  "numAdrFiles": 19,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0014-ingress-gateway-as-a-daemon-set.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-26T22:01:28Z",
+      "lastCommit": "2020-06-26T22:01:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "017300cb5870d44d13fc43c7d48a7888dcfa8b55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0017-moving-istio-configuration-out-of-this-repo.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-16T18:23:54Z",
+      "lastCommit": "2020-09-16T18:23:54Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2d97011b0b05124d409883d8663becc6ab55bb5f",
+            "3132281295754f04e0a9789c52db13aedc11119a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0013-rename-master-branch.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-26T17:43:51Z",
+      "lastCommit": "2020-06-26T22:01:28Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "017300cb5870d44d13fc43c7d48a7888dcfa8b55",
+            "3f55af54912a527de16a8f70645018e4f13f9dba"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0006-rewrite-http-liveness-readiness-probes-for-healthchecks.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-05T22:21:13Z",
+      "lastCommit": "2020-06-29T16:44:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e605607ae9e0ccdf0eef689ff26011f6160bc8fe"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "082b056f9d0007dcd63244ab641222a6b10f54cf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0005-networking-acceptance-tests.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-02-05T00:43:39Z",
+      "lastCommit": "2020-10-01T17:35:24Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "179bf56502986aab27a98df8f7f33b0627e564e5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0da82a2df12d0b3df4ba1ba08d4cb6d283546a0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "082b056f9d0007dcd63244ab641222a6b10f54cf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "99b1cfa5a56a249b6498f3a0bb903eff75e2a4e6"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "08f61d43cc054045508784658bd9c98bdcde0092"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0007-maintain-generated-istio.md",
+      "template": "Nygard",
+      "status": "Partially superseded by [ADR 17](./0017-moving-istio-configuration-out-of-this-repo.md). To look at the files at the moment this ADR was written you can browse files at [3f55af5 commit](https://github.com/cloudfoundry/cf-k8s-networking/tree/3f55af54912a527de16a8f70645018e4f13f9dba).",
+      "firstCommit": "2020-02-19T21:35:50Z",
+      "lastCommit": "2020-10-01T17:35:24Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0da82a2df12d0b3df4ba1ba08d4cb6d283546a0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aeaf9442a325e42d11c4ae4b79bd8803d68a2b41"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "424da9920937e8aaee4946ed037b600727253cd5"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f55af54912a527de16a8f70645018e4f13f9dba"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0002-directly-create-istio-resources.md",
+      "template": "Nygard",
+      "status": "Superseded by [ADR 10](0010-route-crd-and-kubebuilder-instead-of-metacontroller.md)",
+      "firstCommit": "2019-10-22T22:25:50Z",
+      "lastCommit": "2020-05-05T23:57:09Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "27cf422f1a23efc8e6ff3a1aef028afaca5ada44"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb596b41e486f4e98bb3ef670a55c0e0424e50ca"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38b9ab6c4f35f0bbb9a04d32338de15c4040cf12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0019-route-crd-and-contour-controller.md",
+      "template": "Nygard",
+      "status": "Proposal",
+      "firstCommit": "2020-11-02T18:19:00Z",
+      "lastCommit": "2020-11-02T18:19:00Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56de9172becc12cc2673d8070ed7f2841220a243",
+            "ddd02f696de4e0a31e5d87ef9a38e9c136a3ae7d",
+            "9d178bd409ea65965219ae7368a6a905b02cf702"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "da953818307e0d6efc2cd01df9c7a36f217c1e00"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0010-route-crd-and-kubebuilder-instead-of-metacontroller.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-05T17:50:48Z",
+      "lastCommit": "2020-06-26T17:43:51Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4ec4e476a70093cf6579edbd2c606371bfde9a63"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f55af54912a527de16a8f70645018e4f13f9dba"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0011-use-kind-clusters-for-routecontroller-integration.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-05T17:27:27Z",
+      "lastCommit": "2020-10-01T17:39:49Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "713bed12d3dbd52b6099b2358dd9cf28398471df"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e1349fe26bb8436c1c19b0e786e2a8d47bbe5b07"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d5a8e368157bc6ac5a0c592e393dceb540b73c51"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0018-create-policy-server.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-27T23:24:28Z",
+      "lastCommit": "2020-11-02T18:10:00Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30193b19ebe4f9713204dada81a57c66b495673f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e4eea0a460b46020f39895456b13b6bea1e4bdbf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ecdb1d346b3f64538c819dc4ed5b62a7f579983"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0016-job-for-upgrading-istio-sidecars-on-workloads.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-11T21:49:20Z",
+      "lastCommit": "2020-08-11T21:49:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "30e3d78ce2238ccab1ef4bae3e7d85e14851d07b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0015-app-access-logs-from-ingressgateway.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-06T18:20:55Z",
+      "lastCommit": "2020-10-01T17:35:24Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0da82a2df12d0b3df4ba1ba08d4cb6d283546a0",
+            "66ba9d52d99a32029ed25d0bfb2b16ba645bf28c"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "366d671101a846b7c6cfd1d1b2cd18ffd750ecb1"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f6bdec13c5b3cb987f0109ad6ada64c7075770f9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0012-routecontroller-route-deletion-finalizer.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-11T18:27:13Z",
+      "lastCommit": "2020-06-11T17:01:57Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f47f3d25998303bb3cf144c3741f6c05facfdf6e",
+            "1b6234c0f8cf1e944c609c8a2c2bb01fea079acc"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1d862ada2fa599ae6e7639823c0c816994eb62fa",
+            "44fac6bb3cde4d75d9e819434b4b707dd0bb7487",
+            "f6a0810b9283cc60a6032b80b188e84596936b5c"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0004-strategy-for-securing-network-traffic.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-24T18:29:34Z",
+      "lastCommit": "2020-10-01T17:35:24Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "606951a317e60d9d0bd81bc8b3cf50144df30f24",
+            "1b7b74806a46f435bc08e235db2932a4c15d4565"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b0da82a2df12d0b3df4ba1ba08d4cb6d283546a0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "460189e1899e3a5b085f13ad928a2d0da2228b3f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0003-tagging-and-publishing-docker-images.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-04T23:02:47Z",
+      "lastCommit": "2020-06-29T16:44:59Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38b9ab6c4f35f0bbb9a04d32338de15c4040cf12"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "082b056f9d0007dcd63244ab641222a6b10f54cf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf76b5f3b58663f5d1ac5c8c89d8e1855643aed6"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1098e99581f82ad188d3c2a73a0dcac82d4e60fb"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f55af54912a527de16a8f70645018e4f13f9dba"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0009-kubebuilder-controllers-dynamic-client-over-generated-clients.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-17T19:19:18Z",
+      "lastCommit": "2020-04-17T19:19:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7cfcf6ab65962931265a741dc01b0ff06e7b4c5a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-22T22:25:50Z",
+      "lastCommit": "2019-11-26T22:32:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "27cf422f1a23efc8e6ff3a1aef028afaca5ada44"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38b9ab6c4f35f0bbb9a04d32338de15c4040cf12"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture-decisions",
+      "path": "0008-implement-workarounds-for-capi-and-log-cache-to-unblock-global-strict-mtls.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-24T17:57:40Z",
+      "lastCommit": "2020-02-24T17:57:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0421202088179dcd4dbde05cfce0ac93ddd3736b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-22T22:25:50Z",
+  "lastAdrCommit": "2020-11-02T18:19:00Z",
+  "firstCommit": "2019-10-01T16:44:14Z",
+  "lastCommit": "2021-09-21T01:27:03Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture-decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "606951a317e60d9d0bd81bc8b3cf50144df30f24",
+        "1b7b74806a46f435bc08e235db2932a4c15d4565"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "38b9ab6c4f35f0bbb9a04d32338de15c4040cf12"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e605607ae9e0ccdf0eef689ff26011f6160bc8fe"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "082b056f9d0007dcd63244ab641222a6b10f54cf"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "56de9172becc12cc2673d8070ed7f2841220a243",
+        "ddd02f696de4e0a31e5d87ef9a38e9c136a3ae7d",
+        "9d178bd409ea65965219ae7368a6a905b02cf702"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4ec4e476a70093cf6579edbd2c606371bfde9a63",
+        "f6bdec13c5b3cb987f0109ad6ada64c7075770f9",
+        "30e3d78ce2238ccab1ef4bae3e7d85e14851d07b"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "460189e1899e3a5b085f13ad928a2d0da2228b3f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1098e99581f82ad188d3c2a73a0dcac82d4e60fb"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "da953818307e0d6efc2cd01df9c7a36f217c1e00",
+        "2d97011b0b05124d409883d8663becc6ab55bb5f",
+        "017300cb5870d44d13fc43c7d48a7888dcfa8b55",
+        "3132281295754f04e0a9789c52db13aedc11119a",
+        "08f61d43cc054045508784658bd9c98bdcde0092",
+        "3f55af54912a527de16a8f70645018e4f13f9dba",
+        "e1349fe26bb8436c1c19b0e786e2a8d47bbe5b07"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fb596b41e486f4e98bb3ef670a55c0e0424e50ca"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "27cf422f1a23efc8e6ff3a1aef028afaca5ada44"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "30193b19ebe4f9713204dada81a57c66b495673f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "179bf56502986aab27a98df8f7f33b0627e564e5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b0da82a2df12d0b3df4ba1ba08d4cb6d283546a0",
+        "713bed12d3dbd52b6099b2358dd9cf28398471df",
+        "e4eea0a460b46020f39895456b13b6bea1e4bdbf",
+        "66ba9d52d99a32029ed25d0bfb2b16ba645bf28c"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f47f3d25998303bb3cf144c3741f6c05facfdf6e",
+        "7cfcf6ab65962931265a741dc01b0ff06e7b4c5a",
+        "aeaf9442a325e42d11c4ae4b79bd8803d68a2b41",
+        "366d671101a846b7c6cfd1d1b2cd18ffd750ecb1",
+        "cf76b5f3b58663f5d1ac5c8c89d8e1855643aed6",
+        "99b1cfa5a56a249b6498f3a0bb903eff75e2a4e6",
+        "1b6234c0f8cf1e944c609c8a2c2bb01fea079acc"
+      ],
+      "numberOfCommits": 7
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0421202088179dcd4dbde05cfce0ac93ddd3736b"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "424da9920937e8aaee4946ed037b600727253cd5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1ecdb1d346b3f64538c819dc4ed5b62a7f579983",
+        "d5a8e368157bc6ac5a0c592e393dceb540b73c51",
+        "1d862ada2fa599ae6e7639823c0c816994eb62fa",
+        "44fac6bb3cde4d75d9e819434b4b707dd0bb7487",
+        "f6a0810b9283cc60a6032b80b188e84596936b5c"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

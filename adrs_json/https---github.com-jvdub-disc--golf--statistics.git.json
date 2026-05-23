@@ -1,0 +1,86 @@
+{
+  "repositoryUrl": "https://github.com/jvdub/disc-golf-statistics.git",
+  "crawlDateTime": "2022-01-18T19:26:42.082487",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-node-js-and-express-js.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-01T18:22:09Z",
+      "lastCommit": "2017-12-01T18:22:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ffeeb06ce9ce310b1f6c0b4f96e8a0912564cb4e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-es2016-modules.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-01T18:22:09Z",
+      "lastCommit": "2017-12-01T18:22:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ffeeb06ce9ce310b1f6c0b4f96e8a0912564cb4e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-12-01T18:22:09Z",
+      "lastCommit": "2017-12-01T18:22:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ffeeb06ce9ce310b1f6c0b4f96e8a0912564cb4e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-12-01T18:22:09Z",
+  "lastAdrCommit": "2017-12-01T18:22:09Z",
+  "firstCommit": "2017-11-17T02:56:56Z",
+  "lastCommit": "2017-12-01T18:22:09Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ffeeb06ce9ce310b1f6c0b4f96e8a0912564cb4e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

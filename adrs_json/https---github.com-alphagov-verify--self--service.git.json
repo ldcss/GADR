@@ -1,0 +1,127 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/verify-self-service.git",
+  "crawlDateTime": "2022-01-18T23:09:51.182882",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-event-sourcing.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-08T16:53:06Z",
+      "lastCommit": "2019-03-08T16:53:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41404faa829baec0ed89b2a38ec15ce1011ab5e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-cognito-for-authentication.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-08-13T10:19:27Z",
+      "lastCommit": "2019-08-13T10:19:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a84481cb40421ae363fe5b3fe8d0ce899988ce29"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-pundit-for-rbac.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-30T15:58:15Z",
+      "lastCommit": "2019-07-31T18:08:10Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2397e07870ced2b70176cf991e1f6e409c4b969f"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "27c46410bf102abf2482276c35d0e0845544b982"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-03-08T16:53:06Z",
+      "lastCommit": "2019-03-08T16:53:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "41404faa829baec0ed89b2a38ec15ce1011ab5e5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-08T16:53:06Z",
+  "lastAdrCommit": "2019-08-13T10:19:27Z",
+  "firstCommit": "2019-01-21T08:40:43Z",
+  "lastCommit": "2021-10-12T18:56:22Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2397e07870ced2b70176cf991e1f6e409c4b969f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a84481cb40421ae363fe5b3fe8d0ce899988ce29",
+        "27c46410bf102abf2482276c35d0e0845544b982"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "41404faa829baec0ed89b2a38ec15ce1011ab5e5"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

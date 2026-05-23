@@ -1,0 +1,180 @@
+{
+  "repositoryUrl": "https://github.com/pulibrary/dpul.git",
+  "crawlDateTime": "2022-01-18T18:32:43.869937",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decisions"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0006-exhibits-are-collections.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-28T14:50:01Z",
+      "lastCommit": "2020-02-28T14:50:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "04441c9903d08965e304e22a87c4b3c98e6ce8ec"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0005-resource-per-collection.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-28T14:48:56Z",
+      "lastCommit": "2020-02-28T14:48:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fc59fd70173ae7e7bfc96d4fe206b91ca7f3e193"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0007-indexing-visibility.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-03-12T20:33:51Z",
+      "lastCommit": "2021-03-12T20:33:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e36d7eee62911aacdd4244b34c13090eeb1c3cc3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0002-build-on-spotlight.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-30T14:17:39Z",
+      "lastCommit": "2020-01-30T14:17:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0a578796103a89936e95372e6f5fe716130610f9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0001-document-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-29T20:44:02Z",
+      "lastCommit": "2020-01-29T20:44:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e6d29343e294f6814415646d542d9439b90b168e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0004-index-from-iiif-manifests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-30T14:18:27Z",
+      "lastCommit": "2020-01-30T14:18:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9357d205e0ee8aba9a8ab8b17f0149481aabfea2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0003-synchronization-via-rabbitmq.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-30T14:17:56Z",
+      "lastCommit": "2020-01-30T14:18:27Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6115a68d8aa0df84b8e7cefb681eab153c9afde2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9357d205e0ee8aba9a8ab8b17f0149481aabfea2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-29T20:44:02Z",
+  "lastAdrCommit": "2021-03-12T20:33:51Z",
+  "firstCommit": "2016-01-11T17:20:58Z",
+  "lastCommit": "2022-01-13T14:52:48Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0a578796103a89936e95372e6f5fe716130610f9",
+        "e6d29343e294f6814415646d542d9439b90b168e",
+        "04441c9903d08965e304e22a87c4b3c98e6ce8ec",
+        "6115a68d8aa0df84b8e7cefb681eab153c9afde2"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fc59fd70173ae7e7bfc96d4fe206b91ca7f3e193",
+        "9357d205e0ee8aba9a8ab8b17f0149481aabfea2",
+        "e36d7eee62911aacdd4244b34c13090eeb1c3cc3"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

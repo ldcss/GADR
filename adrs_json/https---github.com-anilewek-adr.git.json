@@ -1,0 +1,86 @@
+{
+  "repositoryUrl": "https://github.com/anilewek/adr.git",
+  "crawlDateTime": "2022-01-18T17:45:16.337254",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-SYS-rdbms.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-09-23T14:07:31Z",
+      "lastCommit": "2019-09-23T14:07:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6211d01d83b1281146d2577395830bb7fcfd5b81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-sys-use-other-theme-for-adrs.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [1. SYS Record architecture decisions](0001-SYS-record-architecture-decisions.md)",
+      "firstCommit": "2019-09-23T14:07:31Z",
+      "lastCommit": "2019-09-23T14:07:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6211d01d83b1281146d2577395830bb7fcfd5b81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-SYS-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Superceded by [3. SYS Use another theme for adrs](0003-sys-use-other-theme-for-adrs.md)",
+      "firstCommit": "2019-09-23T14:07:31Z",
+      "lastCommit": "2019-09-23T14:07:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6211d01d83b1281146d2577395830bb7fcfd5b81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-09-23T14:07:31Z",
+  "lastAdrCommit": "2019-09-23T14:07:31Z",
+  "firstCommit": "2019-09-23T14:07:31Z",
+  "lastCommit": "2019-09-23T14:07:31Z",
+  "adrDirFile": {
+    "fileContent": "doc/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6211d01d83b1281146d2577395830bb7fcfd5b81"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "repositoryUrl": "https://github.com/fork-handles/forkhandles.git",
+  "crawlDateTime": "2022-01-18T20:32:00.649648",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-monorepo-and-bom.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-01T09:42:02Z",
+      "lastCommit": "2020-07-01T09:42:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f65cfa4e07eb7fd5bd28f62fec9d579b3d8ed2f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-timesource-is-a-zero-arg-function-returning-instant.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-01T09:42:02Z",
+      "lastCommit": "2020-07-01T09:42:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f65cfa4e07eb7fd5bd28f62fec9d579b3d8ed2f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-01T09:42:02Z",
+      "lastCommit": "2020-07-01T09:42:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f65cfa4e07eb7fd5bd28f62fec9d579b3d8ed2f6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-07-01T09:42:02Z",
+  "lastAdrCommit": "2020-07-01T09:42:02Z",
+  "firstCommit": "2020-06-26T06:16:49Z",
+  "lastCommit": "2021-12-20T20:02:03Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f65cfa4e07eb7fd5bd28f62fec9d579b3d8ed2f6"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

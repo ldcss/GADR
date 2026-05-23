@@ -1,0 +1,140 @@
+{
+  "repositoryUrl": "https://github.com/googleapis/google-cloud-cpp-common.git",
+  "crawlDateTime": "2022-01-18T23:18:20.842077",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2019-03-26-binary-distributions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-02T13:32:21Z",
+      "lastCommit": "2019-10-02T13:32:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a48a2653adc8d4b767d3d6910119617bd702e9f2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2019-01-04-error-reporting-with-statusor.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-02T13:32:21Z",
+      "lastCommit": "2019-10-02T13:32:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a48a2653adc8d4b767d3d6910119617bd702e9f2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2018-06-13-storage-always-retries.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-02T13:32:21Z",
+      "lastCommit": "2019-10-02T13:32:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a48a2653adc8d4b767d3d6910119617bd702e9f2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2018-06-19-do-not-duplicate-server-side-validation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-02T13:32:21Z",
+      "lastCommit": "2019-10-02T13:32:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a48a2653adc8d4b767d3d6910119617bd702e9f2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2018-06-18-storage-request-parameters-are-function-arguments.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-02T13:32:21Z",
+      "lastCommit": "2019-10-02T13:32:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a48a2653adc8d4b767d3d6910119617bd702e9f2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "2018-10-30-storage-metadata-fields-and-optional.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-02T13:32:21Z",
+      "lastCommit": "2019-10-02T13:32:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a48a2653adc8d4b767d3d6910119617bd702e9f2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-02T13:32:21Z",
+  "lastAdrCommit": "2019-10-02T13:32:21Z",
+  "firstCommit": "2019-10-02T13:32:21Z",
+  "lastCommit": "2020-04-24T21:45:26Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a48a2653adc8d4b767d3d6910119617bd702e9f2"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

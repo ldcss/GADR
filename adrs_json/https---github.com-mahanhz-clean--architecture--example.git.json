@@ -1,0 +1,180 @@
+{
+  "repositoryUrl": "https://github.com/mahanhz/clean-architecture-example.git",
+  "crawlDateTime": "2022-01-18T21:20:28.552257",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-use-kotlin.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2017-07-30T16:42:07Z",
+      "lastCommit": "2017-08-01T16:37:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "719a1c3ced698dfba4fbb74052fc5f5e98c46e70",
+            "faaed95c58d905e0198108c4b75f6de4338d6ac4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-clean-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-30T16:13:08Z",
+      "lastCommit": "2017-08-01T18:36:02Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0da3aff39355b22a82f59de85faa9d546a233e92",
+            "11b18719f8ab55807f7a451c28d9dcdd0c35d8c5",
+            "a00bf6a2d810dbfbdca4eb5ec72fc21d5d0b0fbb",
+            "faaed95c58d905e0198108c4b75f6de4338d6ac4"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-spring-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-30T16:13:08Z",
+      "lastCommit": "2017-08-01T16:37:44Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0da3aff39355b22a82f59de85faa9d546a233e92",
+            "a00bf6a2d810dbfbdca4eb5ec72fc21d5d0b0fbb",
+            "faaed95c58d905e0198108c4b75f6de4338d6ac4"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-api-versioning.md",
+      "template": "Nygard",
+      "status": "Superseded by [6. Avoid API Versioning](0006-avoid-api-versioning.md)",
+      "firstCommit": "2017-07-30T16:13:08Z",
+      "lastCommit": "2017-08-01T16:37:44Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a829ef599cdb5c58d3fd7c4c744cdaa148c37701",
+            "0da3aff39355b22a82f59de85faa9d546a233e92",
+            "a00bf6a2d810dbfbdca4eb5ec72fc21d5d0b0fbb",
+            "faaed95c58d905e0198108c4b75f6de4338d6ac4"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-avoid-api-versioning.md",
+      "template": "Nygard",
+      "status": "Supersedes [5. API Versioning](0005-api-versioning.md)",
+      "firstCommit": "2017-07-30T16:13:08Z",
+      "lastCommit": "2017-08-01T18:36:02Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a829ef599cdb5c58d3fd7c4c744cdaa148c37701",
+            "0da3aff39355b22a82f59de85faa9d546a233e92",
+            "11b18719f8ab55807f7a451c28d9dcdd0c35d8c5",
+            "a00bf6a2d810dbfbdca4eb5ec72fc21d5d0b0fbb",
+            "faaed95c58d905e0198108c4b75f6de4338d6ac4"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-documented-api.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-30T16:13:08Z",
+      "lastCommit": "2017-08-01T16:37:44Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0da3aff39355b22a82f59de85faa9d546a233e92",
+            "a00bf6a2d810dbfbdca4eb5ec72fc21d5d0b0fbb",
+            "faaed95c58d905e0198108c4b75f6de4338d6ac4"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-30T16:13:08Z",
+      "lastCommit": "2017-08-01T16:37:44Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0da3aff39355b22a82f59de85faa9d546a233e92",
+            "faaed95c58d905e0198108c4b75f6de4338d6ac4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-30T16:13:08Z",
+  "lastAdrCommit": "2017-08-01T18:36:02Z",
+  "firstCommit": "2017-05-09T17:52:52Z",
+  "lastCommit": "2018-09-15T16:45:49Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a829ef599cdb5c58d3fd7c4c744cdaa148c37701",
+        "719a1c3ced698dfba4fbb74052fc5f5e98c46e70",
+        "0da3aff39355b22a82f59de85faa9d546a233e92",
+        "11b18719f8ab55807f7a451c28d9dcdd0c35d8c5",
+        "a00bf6a2d810dbfbdca4eb5ec72fc21d5d0b0fbb",
+        "faaed95c58d905e0198108c4b75f6de4338d6ac4"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

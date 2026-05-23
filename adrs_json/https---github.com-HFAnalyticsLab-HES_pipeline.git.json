@@ -1,0 +1,242 @@
+{
+  "repositoryUrl": "https://github.com/HFAnalyticsLab/HES_pipeline.git",
+  "crawlDateTime": "2022-01-18T20:42:22.282205",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 10,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "comparing_arrivaltime_across_days.md",
+      "template": "Nygard",
+      "status": "Implemented.",
+      "firstCommit": "2020-03-06T11:22:01Z",
+      "lastCommit": "2020-03-06T11:22:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "60da32b01f9d04570ccd1b88d90b891333a1868e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "data_location.md",
+      "template": "Nygard",
+      "status": "Decided.",
+      "firstCommit": "2020-01-16T10:53:48Z",
+      "lastCommit": "2020-01-16T10:53:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0028ce769bf17cc0364e7ee9ea3b85d1392bdf35"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "chunking_large_data_file_optimisation.md",
+      "template": "Nygard",
+      "status": "Implemented, with potential further future optimisation.",
+      "firstCommit": "2020-01-16T10:53:48Z",
+      "lastCommit": "2020-01-16T10:53:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0028ce769bf17cc0364e7ee9ea3b85d1392bdf35"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "creating_inpatient_spells.md",
+      "template": "Nygard",
+      "status": "Implemented (see [spells.R](src/spells.R)).",
+      "firstCommit": "2020-04-20T16:16:06Z",
+      "lastCommit": "2020-04-20T16:16:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8436be27cdddde26db257d681b64e61d939ad614"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "creating_continuous_inpatient_spells.md",
+      "template": "Nygard",
+      "status": "Implemented (see [spells.R](src/spells.R)).",
+      "firstCommit": "2020-04-20T16:16:06Z",
+      "lastCommit": "2020-04-20T16:16:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8436be27cdddde26db257d681b64e61d939ad614"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "storing_dates_in_database.md",
+      "template": "Nygard",
+      "status": "Implemented, and previous code for date conversion has been rolled back.",
+      "firstCommit": "2020-02-20T14:48:48Z",
+      "lastCommit": "2020-04-20T16:16:19Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1fa24eef744b8ebdb9174a3658c8d8b7bc52feee"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9cd55e1ecaddaac3b9fed788377e99a96003996b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "hardcoding_variables.md",
+      "template": "Nygard",
+      "status": "Implemented, with potential further future optimisation.",
+      "firstCommit": "2020-04-20T16:16:06Z",
+      "lastCommit": "2020-04-20T16:16:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8436be27cdddde26db257d681b64e61d939ad614"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "frailty_score.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-20T16:16:06Z",
+      "lastCommit": "2020-04-20T16:16:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8436be27cdddde26db257d681b64e61d939ad614"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "data_storage_and_access.md",
+      "template": "Nygard",
+      "status": "Decided",
+      "firstCommit": "2020-01-16T10:53:48Z",
+      "lastCommit": "2020-01-16T10:53:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0028ce769bf17cc0364e7ee9ea3b85d1392bdf35"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "imputing_admission_date.md",
+      "template": "Nygard",
+      "status": "Implemented.",
+      "firstCommit": "2020-03-06T11:22:01Z",
+      "lastCommit": "2020-03-06T11:22:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "60da32b01f9d04570ccd1b88d90b891333a1868e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-16T10:53:48Z",
+  "lastAdrCommit": "2020-04-20T16:16:19Z",
+  "firstCommit": "2019-09-05T14:21:15Z",
+  "lastCommit": "2021-01-25T09:46:46Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8436be27cdddde26db257d681b64e61d939ad614",
+        "60da32b01f9d04570ccd1b88d90b891333a1868e",
+        "1fa24eef744b8ebdb9174a3658c8d8b7bc52feee"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0028ce769bf17cc0364e7ee9ea3b85d1392bdf35"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9cd55e1ecaddaac3b9fed788377e99a96003996b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

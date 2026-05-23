@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/zalando-incubator/cluster-lifecycle-manager.git",
+  "crawlDateTime": "2022-01-18T18:22:13.620384",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/proposals"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/proposals",
+      "path": "adr-002-apply-kube-system.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-04-27T12:40:37Z",
+      "lastCommit": "2018-04-27T12:40:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9f32effc5850be235305fea801873efd8e54eaaf"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-04-27T12:40:37Z",
+  "lastAdrCommit": "2018-04-27T12:40:37Z",
+  "firstCommit": "2018-04-27T12:40:37Z",
+  "lastCommit": "2022-01-12T09:21:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9f32effc5850be235305fea801873efd8e54eaaf"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

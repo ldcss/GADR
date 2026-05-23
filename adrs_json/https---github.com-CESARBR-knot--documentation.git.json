@@ -1,0 +1,92 @@
+{
+  "repositoryUrl": "https://github.com/CESARBR/knot-documentation.git",
+  "crawlDateTime": "2022-01-18T21:01:46.707689",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "decisions",
+      "path": "architecture/ARC-003-amqp-exc-name.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-12-26T18:20:55Z",
+      "lastCommit": "2019-12-26T18:20:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab395263815454485dd107fd3f8ea17dd5cb57d3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "architecture/ARC-001-fog-architecture-stage-1.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-08T15:28:16Z",
+      "lastCommit": "2019-11-08T15:28:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "98e9008c131a57a6c5f064aed05453a8c929c40b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "architecture/ARC-002-fog-cloud-sync.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-11-08T15:28:16Z",
+      "lastCommit": "2019-11-08T15:28:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d5640e9bd837622f2fcf3692f03176eabf7da813"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-08T15:28:16Z",
+  "lastAdrCommit": "2019-12-26T18:20:55Z",
+  "firstCommit": "2018-08-27T17:47:37Z",
+  "lastCommit": "2019-12-26T18:20:55Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ab395263815454485dd107fd3f8ea17dd5cb57d3"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d5640e9bd837622f2fcf3692f03176eabf7da813",
+        "98e9008c131a57a6c5f064aed05453a8c929c40b"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

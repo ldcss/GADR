@@ -1,0 +1,217 @@
+{
+  "repositoryUrl": "https://github.com/nhsd-exeter/dos-capacity-status-api.git",
+  "crawlDateTime": "2022-01-18T17:44:20.931106",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "documentation/adr"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "004-authentication_and_authorisation.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-31T13:47:31Z",
+      "lastCommit": "2020-04-01T14:11:56Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe250ae395c0b552dba00cdafdd9a5dcb64bab18"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d4f17e2d2a8fd2893cb0c550a8e1d999b4fac643"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "002-shared_database.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-29T12:35:19Z",
+      "lastCommit": "2020-03-31T13:47:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa0e41403ff8c06c79477da970237b41819daa65",
+            "d4f17e2d2a8fd2893cb0c550a8e1d999b4fac643"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "006-sql_stored_procedures.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-31T13:47:31Z",
+      "lastCommit": "2020-03-31T13:47:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d4f17e2d2a8fd2893cb0c550a8e1d999b4fac643"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "009-proxy_limiting.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-06-24T09:15:03Z",
+      "lastCommit": "2021-06-24T09:15:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7d75c5015bb385bb150bc1948eaba609b43260b4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "007-fhir_interface.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-31T13:47:31Z",
+      "lastCommit": "2020-03-31T13:47:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d4f17e2d2a8fd2893cb0c550a8e1d999b4fac643"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "008-authentication_and_authorisation_revisited.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-04-01T14:11:56Z",
+      "lastCommit": "2020-04-01T14:11:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fe250ae395c0b552dba00cdafdd9a5dcb64bab18"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "005-domain_model_and_rest_interface.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-31T13:47:31Z",
+      "lastCommit": "2020-03-31T13:47:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d4f17e2d2a8fd2893cb0c550a8e1d999b4fac643"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "003-technology_stack_and_framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-03-31T13:47:31Z",
+      "lastCommit": "2020-03-31T13:47:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d4f17e2d2a8fd2893cb0c550a8e1d999b4fac643"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "documentation/adr",
+      "path": "001-application_technology_stack.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-29T12:35:19Z",
+      "lastCommit": "2020-03-31T13:47:31Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fa0e41403ff8c06c79477da970237b41819daa65",
+            "d4f17e2d2a8fd2893cb0c550a8e1d999b4fac643"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-29T12:35:19Z",
+  "lastAdrCommit": "2021-06-24T09:15:03Z",
+  "firstCommit": "2020-01-29T12:35:19Z",
+  "lastCommit": "2021-09-22T19:33:17Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fe250ae395c0b552dba00cdafdd9a5dcb64bab18",
+        "7d75c5015bb385bb150bc1948eaba609b43260b4"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fa0e41403ff8c06c79477da970237b41819daa65",
+        "d4f17e2d2a8fd2893cb0c550a8e1d999b4fac643"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

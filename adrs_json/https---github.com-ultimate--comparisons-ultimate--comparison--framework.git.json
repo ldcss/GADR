@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/ultimate-comparisons/ultimate-comparison-framework.git",
+  "crawlDateTime": "2022-01-18T21:00:05.696477",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-Selection-Framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-10-16T15:12:35Z",
+      "lastCommit": "2017-10-16T15:12:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "be21cc2ff4543684027658fb279508cf219e242a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-10-16T15:12:35Z",
+      "lastCommit": "2017-10-16T15:12:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "be21cc2ff4543684027658fb279508cf219e242a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-10-16T15:12:35Z",
+  "lastAdrCommit": "2017-10-16T15:12:35Z",
+  "firstCommit": "2016-05-20T15:23:31Z",
+  "lastCommit": "2020-10-22T16:32:58Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "be21cc2ff4543684027658fb279508cf219e242a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/SFDigitalServices/cloud-storage-microservice.git",
+  "crawlDateTime": "2022-01-18T17:50:45.091952",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-microservice-py-packages-repo.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-14T01:15:20Z",
+      "lastCommit": "2019-02-14T01:15:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e310c518d9b62bc4cd1365de4a745a2fe9c2187e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-14T01:15:20Z",
+  "lastAdrCommit": "2019-02-14T01:15:20Z",
+  "firstCommit": "2019-02-04T05:33:19Z",
+  "lastCommit": "2021-06-02T16:58:14Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e310c518d9b62bc4cd1365de4a745a2fe9c2187e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

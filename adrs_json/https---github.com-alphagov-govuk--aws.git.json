@@ -1,0 +1,1036 @@
+{
+  "repositoryUrl": "https://github.com/alphagov/govuk-aws.git",
+  "crawlDateTime": "2022-01-18T21:17:31.374159",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 37,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-dns-definitions-for-hosts-and-services.md",
+      "template": "Nygard",
+      "status": "Superseded by [DNS Infrastructure](0015-dns-infrastructure.md)",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0015-dns-infrastructure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0037-alb-health-checks.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0033-ip-ranges.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-postgres-on-puppetmaster.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0026-remove-load-balancer-tier.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0019-centralise-mysql-databases.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0025-use-elasticache-for-redis.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0036-performance-platform-and-backdrop-architecture.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0013-userdata-provisioning-snippets.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0030-change-in-architecture-to-asset-master.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-puppet-cert-management.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0032-transfer-artefact-binary.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0010-terraform-directory-structure.md",
+      "template": "Nygard",
+      "status": "Accepted Amended by [17. Terraform Data Structure](0017-terraform-data-structure.md)",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-terraform-module-location.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-puppet-architecture.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0009-environment-bootstrapping-process.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0018-use-rds-instead-of-provisioned-ec2-databases.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0023-use-separate-data-repository.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0028-combine-api-mongo-cluster-into-mongo-cluster.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0021-use-acm-for-ssl-purchases-and-terminate-certificates-on-elbs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-hosting-platforms.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0024-ami-lookups.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0011-migration-strategy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0029-combine-api-redis-into-backend-redis.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0027-move-publicapi-away-from-frontend-lb.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0038-mongo_replacement_by_documentdb.md",
+      "template": "Nygard",
+      "status": "Approved",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0022-remove-the-elasticsearch-proxy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0031-security-group-naming.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0020-merge-api-postgresql-instance-into-main-postgresql-instance.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0016-internal-dns-zones.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0012-security-groups-in-terraform.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0017-terraform-data-structure.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [10. Terraform directory structure](0010-terraform-directory-structure.md)",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-aws-networking-outline.md",
+      "template": "Nygard",
+      "status": "Partly superseded",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0035-bouncer-load-balancer-on-port-80-and-443.md",
+      "template": "Nygard",
+      "status": "Pending",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0014-launch-config-change-propagation-process.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-09T12:18:28Z",
+      "lastCommit": "2020-06-09T15:34:13Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24d1ea513e58ee938043d71d09815a51229067bf"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-09T12:18:28Z",
+  "lastAdrCommit": "2020-06-09T15:34:13Z",
+  "firstCommit": "2017-06-30T12:33:14Z",
+  "lastCommit": "2022-01-17T12:53:14Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "24d1ea513e58ee938043d71d09815a51229067bf"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2f0bcaf97f0f9746e66e8d1ef30227270bca8f3b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

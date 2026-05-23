@@ -1,0 +1,176 @@
+{
+  "repositoryUrl": "https://github.com/Amsterdam/data-verkenner.git",
+  "crawlDateTime": "2022-01-18T18:30:55.727316",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "002-proxy-for-requests-in-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-26T07:40:20Z",
+      "lastCommit": "2021-06-09T12:50:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "842e0aded15fb53066fdd674fe8b7b3d539a970d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2b0d038b8c34b058b90d4a8feded88e502bbf19"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "000-historic-decisions.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-04T10:29:23Z",
+      "lastCommit": "2021-06-09T12:50:25Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8487db6ee785f1467a70d7abbc6f3e8ca93dceba"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2b0d038b8c34b058b90d4a8feded88e502bbf19"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "003-keycloak-implementation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-11T15:38:58Z",
+      "lastCommit": "2021-06-09T12:50:25Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a06e3a2490b240c674f5e0389bb81bb840510017"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a0a1e58ebd7be8b004632529ba32fc297d9314e3",
+            "a2b0d038b8c34b058b90d4a8feded88e502bbf19"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-graphql-server.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-18T15:51:34Z",
+      "lastCommit": "2020-12-24T21:26:42Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e904b931df8899160768c3415bb5c29dc953531a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4bdb1665569e5475866dc35568b76f21f43501ef",
+            "29d71a0abfd826cb36e5dc9dd42f1872372514ec"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "004-feature-toggles.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-23T14:56:18Z",
+      "lastCommit": "2021-02-23T14:56:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a0a1e58ebd7be8b004632529ba32fc297d9314e3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-18T15:51:34Z",
+  "lastAdrCommit": "2021-06-09T12:50:25Z",
+  "firstCommit": "2016-05-30T14:34:24Z",
+  "lastCommit": "2022-01-18T11:06:58Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e904b931df8899160768c3415bb5c29dc953531a",
+        "a0a1e58ebd7be8b004632529ba32fc297d9314e3",
+        "a2b0d038b8c34b058b90d4a8feded88e502bbf19"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a06e3a2490b240c674f5e0389bb81bb840510017",
+        "8487db6ee785f1467a70d7abbc6f3e8ca93dceba",
+        "842e0aded15fb53066fdd674fe8b7b3d539a970d"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4bdb1665569e5475866dc35568b76f21f43501ef",
+        "29d71a0abfd826cb36e5dc9dd42f1872372514ec"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

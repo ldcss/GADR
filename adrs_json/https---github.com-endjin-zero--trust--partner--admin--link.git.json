@@ -1,0 +1,71 @@
+{
+  "repositoryUrl": "https://github.com/endjin/zero-trust-partner-admin-link.git",
+  "crawlDateTime": "2022-01-18T19:09:10.355076",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-automated-zero-trust-pal.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-12-01T16:14:23Z",
+      "lastCommit": "2020-12-08T12:27:53Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca74167ed566f6ef263f6a0779fe1f6f59d3275e",
+            "3a9ed2746716533ed5e2e49564e7fc5a57ff628a"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ad97da9014a497c3deafa0d1e29e6b8b65a10014",
+            "0c4aec43c6e59cc4945755b1616458eb1cc8c70d",
+            "0d63c4d3d8d5491a212c0f3178bf5eacc79975cd",
+            "160cf99b24d7f2f8b5ac9fac53e04c1aeaa9d7a4",
+            "2aab437d621074c17f0a51a6294dc080be575f75"
+          ],
+          "numberOfCommits": 5
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-01T16:14:23Z",
+  "lastAdrCommit": "2020-12-08T12:27:53Z",
+  "firstCommit": "2020-12-01T15:28:51Z",
+  "lastCommit": "2021-04-14T21:30:12Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ca74167ed566f6ef263f6a0779fe1f6f59d3275e",
+        "3a9ed2746716533ed5e2e49564e7fc5a57ff628a"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ad97da9014a497c3deafa0d1e29e6b8b65a10014",
+        "0c4aec43c6e59cc4945755b1616458eb1cc8c70d",
+        "0d63c4d3d8d5491a212c0f3178bf5eacc79975cd",
+        "160cf99b24d7f2f8b5ac9fac53e04c1aeaa9d7a4",
+        "2aab437d621074c17f0a51a6294dc080be575f75"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

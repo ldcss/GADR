@@ -1,0 +1,69 @@
+{
+  "repositoryUrl": "https://github.com/commonality/archetypes-rules.git",
+  "crawlDateTime": "2022-01-18T18:55:11.279179",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0002-architecture-decision-record-modular-design.md",
+      "template": "Nygard",
+      "status": "[![adr: accepted][adr-accepted-badge]][adr-0002]",
+      "firstCommit": "2019-04-24T06:21:36Z",
+      "lastCommit": "2019-04-27T23:52:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77ee7bc9521401c598c0fdfdc021c5a3056bf4fe",
+            "09e5d23dbfa617fc418df0178b3563e5b1017551"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-0001-architecture-decision-record-use-adrs.md",
+      "template": "Nygard",
+      "status": "[![adr: accepted][adr-accepted-badge]][adr-0001]",
+      "firstCommit": "2019-04-24T06:21:36Z",
+      "lastCommit": "2019-05-02T21:04:48Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "77ee7bc9521401c598c0fdfdc021c5a3056bf4fe",
+            "09e5d23dbfa617fc418df0178b3563e5b1017551",
+            "7edf5a60629a9f48e4c65f445a69b5268a667e88"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-04-24T06:21:36Z",
+  "lastAdrCommit": "2019-05-02T21:04:48Z",
+  "firstCommit": "2019-04-22T19:21:24Z",
+  "lastCommit": "2021-07-21T05:41:43Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "77ee7bc9521401c598c0fdfdc021c5a3056bf4fe",
+        "09e5d23dbfa617fc418df0178b3563e5b1017551",
+        "7edf5a60629a9f48e4c65f445a69b5268a667e88"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

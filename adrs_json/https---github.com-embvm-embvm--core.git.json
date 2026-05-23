@@ -1,0 +1,453 @@
+{
+  "repositoryUrl": "https://github.com/embvm/embvm-core.git",
+  "crawlDateTime": "2022-01-18T21:23:00.523643",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 22,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0004-track-documentation-alongside-source.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0012-switch-to-catch-for-unit-testing.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0006-differentiate-drivers-and-hal.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0005-provide-non-blocking-interfaces.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0007-differentiate-between-processor-implementation-and-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0009-event-driven-framework-design.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0010-dispatch-callbacks.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0022-unified-gpio-base-class.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-28T16:54:55Z",
+      "lastCommit": "2020-10-28T16:54:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "86e9ed05619692b4cc5d1a08978ed5fd34490dfc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0011-generic-startup-library.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0018-driver-registration-in-hw-platform.md",
+      "template": "Nygard",
+      "status": "Accepted Caused [19. Virtual Platform Takes in THWPlatform Type](0019-virtual-platform-takes-in-thwplatform-type.md) Caused [20. Hardware Platform Options File](0020-hardware-platform-options-file.md)",
+      "firstCommit": "2020-10-20T18:48:02Z",
+      "lastCommit": "2020-10-20T18:48:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c7268966b47b610f78be1b1a3d31a7fa2b8bb243"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0021-eliminate-name-variables-from-core-base-classes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-22T16:44:12Z",
+      "lastCommit": "2020-10-22T16:44:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "42a0746bd3372fbf82afb296d2696e3143a4af73"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0017-virtual-destructor-usage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-20T00:53:21Z",
+      "lastCommit": "2020-10-20T00:53:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5616a9185b8c48ce60a95973a755214a5ca205a4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-no-dynamic-memory-allocation-in-core.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-layering-scheme.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0020-hardware-platform-options-file.md",
+      "template": "Nygard",
+      "status": "Accepted Caused by [18. Driver Registration in HW Platform](0018-driver-registration-in-hw-platform.md)",
+      "firstCommit": "2020-10-20T18:48:02Z",
+      "lastCommit": "2020-10-20T18:48:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c7268966b47b610f78be1b1a3d31a7fa2b8bb243"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0015-use-embvm-top-level-namespace-for-core-interfaces.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0013-use-templates-to-switch-between-dynamic-and-static-memory.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0014-refactor-driver-interfaces-to-use-namespaces.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0016-how-to-handle-meson-library-targets-w-r-t-libc-and-libcxx-header-includes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-25T19:45:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "946f0f1787a18eb53959f2efc08ed2e8c7ff6ca2",
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0008-virtual-platform-as-mediator-pattern.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-24T21:42:21Z",
+      "lastCommit": "2020-09-24T21:42:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a4beca360dbb05073b1c9fd23bb459f851a41103"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0019-virtual-platform-takes-in-thwplatform-type.md",
+      "template": "Nygard",
+      "status": "Accepted Caused by [18. Driver Registration in HW Platform](0018-driver-registration-in-hw-platform.md)",
+      "firstCommit": "2020-10-20T18:48:02Z",
+      "lastCommit": "2020-10-20T18:48:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c7268966b47b610f78be1b1a3d31a7fa2b8bb243"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-24T21:42:21Z",
+  "lastAdrCommit": "2020-10-28T16:54:55Z",
+  "firstCommit": "2020-09-24T20:59:11Z",
+  "lastCommit": "2022-01-07T19:17:55Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5616a9185b8c48ce60a95973a755214a5ca205a4",
+        "42a0746bd3372fbf82afb296d2696e3143a4af73",
+        "946f0f1787a18eb53959f2efc08ed2e8c7ff6ca2",
+        "a4beca360dbb05073b1c9fd23bb459f851a41103",
+        "86e9ed05619692b4cc5d1a08978ed5fd34490dfc",
+        "c7268966b47b610f78be1b1a3d31a7fa2b8bb243"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

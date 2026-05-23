@@ -1,0 +1,134 @@
+{
+  "repositoryUrl": "https://github.com/wellcomecollection/identity.git",
+  "crawlDateTime": "2022-01-18T21:13:13.282118",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-infrastructure-secrets-approach.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2020-12-01T13:45:19Z",
+      "lastCommit": "2020-12-01T13:45:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a3cdd655009ec7bc24c08ce1680a2baeef7e0cc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-selection-of-identity-management-platform.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2020-11-17T12:59:16Z",
+      "lastCommit": "2020-11-19T10:59:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6de1c03696442fb10167ad6e8e211dea2d41b4ce",
+            "51289ad3619b6b289e6193ecb139bc5b2b9867d2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-auth-strategy--passport-vs-openid.md",
+      "template": "Madr",
+      "status": "Approved",
+      "firstCommit": "2021-01-18T09:55:00Z",
+      "lastCommit": "2021-01-18T09:55:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "57b148d1838e89d2c99740b6f2b9887fea1e46f3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-logging-approach.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2020-12-01T10:40:30Z",
+      "lastCommit": "2020-12-01T10:40:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9cb178130b3238505c6ee8739e22ac1f4bc7442b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-11-17T12:58:59Z",
+      "lastCommit": "2020-11-17T12:58:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f10926fbfee6e03d47e881259759a9e382377af"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-11-17T12:58:59Z",
+  "lastAdrCommit": "2021-01-18T09:55:00Z",
+  "firstCommit": "2020-11-12T12:53:07Z",
+  "lastCommit": "2022-01-18T12:52:21Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4a3cdd655009ec7bc24c08ce1680a2baeef7e0cc",
+        "6de1c03696442fb10167ad6e8e211dea2d41b4ce",
+        "51289ad3619b6b289e6193ecb139bc5b2b9867d2",
+        "8f10926fbfee6e03d47e881259759a9e382377af",
+        "9cb178130b3238505c6ee8739e22ac1f4bc7442b"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "57b148d1838e89d2c99740b6f2b9887fea1e46f3"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

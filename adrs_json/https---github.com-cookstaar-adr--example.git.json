@@ -1,0 +1,127 @@
+{
+  "repositoryUrl": "https://github.com/cookstaar/adr-example.git",
+  "crawlDateTime": "2022-01-18T19:27:03.563419",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-use-react-as-the-main-frontend-js-framework.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [3. Use Angular as the main frontend JS framework](0003-use-ember-as-the-main-frontend-js-framework.md)",
+      "firstCommit": "2018-11-30T21:17:17Z",
+      "lastCommit": "2018-11-30T21:17:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e28e891876bc942eca224c1161c8006ead73d1f2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-asp-net-as-the-web-application-framework.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-30T21:10:03Z",
+      "lastCommit": "2018-11-30T21:10:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2568e6a58c7c98e47c3fd10001ce9b58c289cc0e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-ember-as-the-main-frontend-js-framework.md",
+      "template": "Nygard",
+      "status": "Superceded by [5. Use React as the main frontend JS framework](0005-use-react-as-the-main-frontend-js-framework.md)",
+      "firstCommit": "2018-11-30T21:10:03Z",
+      "lastCommit": "2018-11-30T21:17:17Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2568e6a58c7c98e47c3fd10001ce9b58c289cc0e",
+            "e28e891876bc942eca224c1161c8006ead73d1f2"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-c-sharp-as-the-only-backend-language.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-30T21:10:03Z",
+      "lastCommit": "2018-11-30T21:10:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2568e6a58c7c98e47c3fd10001ce9b58c289cc0e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-30T21:06:09Z",
+      "lastCommit": "2018-11-30T21:06:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d1dfd14c73d474f61afc97042da834add784963"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-11-30T21:06:09Z",
+  "lastAdrCommit": "2018-11-30T21:17:17Z",
+  "firstCommit": "2018-11-30T20:41:09Z",
+  "lastCommit": "2018-11-30T21:17:17Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2568e6a58c7c98e47c3fd10001ce9b58c289cc0e",
+        "e28e891876bc942eca224c1161c8006ead73d1f2",
+        "9d1dfd14c73d474f61afc97042da834add784963"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

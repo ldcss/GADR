@@ -1,0 +1,412 @@
+{
+  "repositoryUrl": "https://github.com/adaptris/interlok.git",
+  "crawlDateTime": "2022-01-18T23:09:19.429503",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-workflow-callback.md",
+      "template": "Madr",
+      "status": "ACCEPTED",
+      "firstCommit": "2019-11-05T10:36:16Z",
+      "lastCommit": "2020-02-12T11:56:20Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1b71af9daaa2f598d10849d44ce049670c35b095"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a3008671030c0bdf64bc9039b04fe54549cb1c11",
+            "6ec051a4cb39a6c03b32bee0485c811bb07abbdd",
+            "b4e7bb8f1b1a375a3ace6362181695f1e9f7df31",
+            "57b0db319a0a9a4f6d2daa49071f1c4e7234127b"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-restful-failed-message-retrier.md",
+      "template": "Madr",
+      "status": "ACCEPTED",
+      "firstCommit": "2020-10-07T09:32:15Z",
+      "lastCommit": "2020-10-16T12:23:22Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "66df47d3725037174e12964aadd4fe5864acd6c1",
+            "058365b5d594a8394f6ef4decda3a9dfd4f409d2"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3ebceabe134d5e8f943184a0337a58e8ee6e6a59"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3aa04f4c88111206c39416b855f784985b838885",
+            "ab184fba010b3d66f9d13312b576d654eaa21a9b",
+            "b4a2a17385ec7a4c075c52403d369e0cdce4ea03"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-jetty-failsafe.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2020-05-13T08:13:40Z",
+      "lastCommit": "2020-05-13T15:14:34Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8631997386299481c3b4a922260194abfe03ee98",
+            "f64c4fa64a77ecf7fcf0245c1aa1cae4a637145d",
+            "c9caba7a9c879f7ddf0f1d2930da9c98db84ba17"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-deprecate-dynamicservicelocator.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-21T15:15:49Z",
+      "lastCommit": "2019-07-18T08:59:37Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f85b802b43c9f5c71bb6b4107feca8b374d784fc"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "739165ca45aa7ae5dd72affdd087628693cd3cdd",
+            "b7b1d4ab7e46788d8335fc263a5a5e0943f5f906"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-mutable-messages.md",
+      "template": "Madr",
+      "status": "DRAFT",
+      "firstCommit": "2020-10-08T13:36:48Z",
+      "lastCommit": "2020-10-08T13:36:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "701b9cffdab32dec7bbdfcd65f909800a74044fb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-remove-produce-destination.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2019-07-30T10:57:59Z",
+      "lastCommit": "2020-06-16T12:15:19Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0b1eeefc457183b408df366f618f88bd4c6810ab",
+            "a40c41cdfab018b8a0800afdbe359d574c69381f",
+            "ac842de32aee9c7ca8518c26504cffd5c228cdc2"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6d3545517ef541e2754a1ff569c2bb954fb6dcb4",
+            "08adf647201bebaf682946ea9a44863e162b5b40",
+            "08d2d3bcdb945cb163ae285afa3b33c136e11fc1"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-add-messagelogger-interface.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-02-25T16:44:54Z",
+      "lastCommit": "2019-02-27T12:41:37Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52264a1e9dabf617ac3d653c727c4dab24eb1913"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "86a2341c396be695903afaf88b9023d9514e24bc",
+            "5547dbe453698270923eb950c6033e7616465bc6",
+            "dca61234c50ad4a8ebaaad938baee222a4de42b7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0010-apply-config-reconnect-loop.md",
+      "template": "Madr",
+      "status": "",
+      "firstCommit": "2020-10-08T13:41:24Z",
+      "lastCommit": "2020-10-08T13:41:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6524a9af4081569a4b44d1b06d8559bc87a4949"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-add-default-implementations-to-componentlifecycle.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-03-07T14:51:36Z",
+      "lastCommit": "2019-03-08T15:50:48Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ca85a0f20702ece3f5f3c653f45fc00668d86672"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0bef8a167cf750ddd863da983721ef58cc3eba2a",
+            "4cb70936ad94cb66492e499a8f8594b99a3535a5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-remove-jndi-bindable-lookup-name.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2019-07-18T08:22:24Z",
+      "lastCommit": "2019-07-19T08:17:34Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a61daad42891b61dfc15974e1f816fe50452d92e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f55b1be0016862d54ba59e1d61e0861c88f7a1d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3616911c87ad845d66db98272cf65dd346100df6",
+            "9e49c79a00236e6be3781bbaf4290351f52f82ea",
+            "3e3c649e4ca06f8d0e25cf8627f2d95737f4ba4e"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0011-annotation-aware-lifecycle.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2020-10-29T14:47:34Z",
+      "lastCommit": "2021-10-29T08:44:38Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b051448062bccf91cf216a0aec58ac7cf9143b58",
+            "f32e328c390cc5958aa8f688ad98fe7b822024a7",
+            "13c70bfbe5be6c1733e9f150b67114f810c0aa44",
+            "27e5ebf669fa56779204bbedb88746b0f05ac801"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2019-02-25T16:38:11Z",
+      "lastCommit": "2019-02-25T16:38:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "625e17defad2aac5efdb9695c60192eb37d39e25"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-02-25T16:38:11Z",
+  "lastAdrCommit": "2021-10-29T08:44:38Z",
+  "firstCommit": "2015-07-30T07:50:05Z",
+  "lastCommit": "2022-01-18T13:11:43Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b6524a9af4081569a4b44d1b06d8559bc87a4949"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "66df47d3725037174e12964aadd4fe5864acd6c1",
+        "0b1eeefc457183b408df366f618f88bd4c6810ab",
+        "ca85a0f20702ece3f5f3c653f45fc00668d86672",
+        "1b71af9daaa2f598d10849d44ce049670c35b095",
+        "058365b5d594a8394f6ef4decda3a9dfd4f409d2",
+        "52264a1e9dabf617ac3d653c727c4dab24eb1913",
+        "a40c41cdfab018b8a0800afdbe359d574c69381f",
+        "f85b802b43c9f5c71bb6b4107feca8b374d784fc",
+        "ac842de32aee9c7ca8518c26504cffd5c228cdc2",
+        "a61daad42891b61dfc15974e1f816fe50452d92e"
+      ],
+      "numberOfCommits": 10
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3ebceabe134d5e8f943184a0337a58e8ee6e6a59",
+        "8f55b1be0016862d54ba59e1d61e0861c88f7a1d"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3616911c87ad845d66db98272cf65dd346100df6",
+        "701b9cffdab32dec7bbdfcd65f909800a74044fb",
+        "6ec051a4cb39a6c03b32bee0485c811bb07abbdd",
+        "57b0db319a0a9a4f6d2daa49071f1c4e7234127b",
+        "b051448062bccf91cf216a0aec58ac7cf9143b58",
+        "ab184fba010b3d66f9d13312b576d654eaa21a9b",
+        "86a2341c396be695903afaf88b9023d9514e24bc",
+        "739165ca45aa7ae5dd72affdd087628693cd3cdd",
+        "dca61234c50ad4a8ebaaad938baee222a4de42b7",
+        "f32e328c390cc5958aa8f688ad98fe7b822024a7",
+        "b7b1d4ab7e46788d8335fc263a5a5e0943f5f906",
+        "8631997386299481c3b4a922260194abfe03ee98",
+        "5547dbe453698270923eb950c6033e7616465bc6",
+        "13c70bfbe5be6c1733e9f150b67114f810c0aa44",
+        "08adf647201bebaf682946ea9a44863e162b5b40",
+        "08d2d3bcdb945cb163ae285afa3b33c136e11fc1",
+        "b4a2a17385ec7a4c075c52403d369e0cdce4ea03",
+        "27e5ebf669fa56779204bbedb88746b0f05ac801",
+        "6d3545517ef541e2754a1ff569c2bb954fb6dcb4",
+        "0bef8a167cf750ddd863da983721ef58cc3eba2a",
+        "625e17defad2aac5efdb9695c60192eb37d39e25",
+        "a3008671030c0bdf64bc9039b04fe54549cb1c11",
+        "3aa04f4c88111206c39416b855f784985b838885",
+        "4cb70936ad94cb66492e499a8f8594b99a3535a5",
+        "9e49c79a00236e6be3781bbaf4290351f52f82ea",
+        "3e3c649e4ca06f8d0e25cf8627f2d95737f4ba4e",
+        "b4e7bb8f1b1a375a3ace6362181695f1e9f7df31",
+        "f64c4fa64a77ecf7fcf0245c1aa1cae4a637145d",
+        "c9caba7a9c879f7ddf0f1d2930da9c98db84ba17"
+      ],
+      "numberOfCommits": 29
+    }
+  ]
+}

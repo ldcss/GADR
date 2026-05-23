@@ -1,0 +1,182 @@
+{
+  "repositoryUrl": "https://github.com/dxw/support-rota.git",
+  "crawlDateTime": "2022-01-18T18:35:50.764193",
+  "numAdrDirectories": 2,
+  "adrDirectories": [
+    "doc/architecture/decisions",
+    "doc/adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-add-rollbar-for-application-monitoring.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-19T15:12:23Z",
+      "lastCommit": "2020-08-19T15:12:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7a94cc387ce1039ef786723c6bb9bfe5cbe7eb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-dotenv-for-managing-environment-variables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-19T15:12:23Z",
+      "lastCommit": "2020-08-19T15:12:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7a94cc387ce1039ef786723c6bb9bfe5cbe7eb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-use-brakeman-for-security-analysis.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-19T15:12:23Z",
+      "lastCommit": "2020-08-19T15:12:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7a94cc387ce1039ef786723c6bb9bfe5cbe7eb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-standard-rb.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-19T15:12:23Z",
+      "lastCommit": "2020-08-19T15:12:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7a94cc387ce1039ef786723c6bb9bfe5cbe7eb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-a-changelog-for-tracking-changes-in-a-release.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-19T15:12:23Z",
+      "lastCommit": "2020-08-19T15:12:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7a94cc387ce1039ef786723c6bb9bfe5cbe7eb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-bullet-to-catch-nplus1-queries.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-19T15:12:23Z",
+      "lastCommit": "2020-08-19T15:12:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7a94cc387ce1039ef786723c6bb9bfe5cbe7eb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-19T15:12:23Z",
+      "lastCommit": "2020-08-19T15:12:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7a94cc387ce1039ef786723c6bb9bfe5cbe7eb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-use-pull-request-templates.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-19T15:12:23Z",
+      "lastCommit": "2020-08-19T15:12:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7a94cc387ce1039ef786723c6bb9bfe5cbe7eb6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-08-19T15:12:23Z",
+  "lastAdrCommit": "2020-08-19T15:12:23Z",
+  "firstCommit": "2020-08-19T15:12:23Z",
+  "lastCommit": "2021-12-21T11:06:48Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a7a94cc387ce1039ef786723c6bb9bfe5cbe7eb6"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

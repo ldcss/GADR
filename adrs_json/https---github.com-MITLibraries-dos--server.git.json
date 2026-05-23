@@ -1,0 +1,352 @@
+{
+  "repositoryUrl": "https://github.com/MITLibraries/dos-server.git",
+  "crawlDateTime": "2022-01-18T20:46:03.598399",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 15,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-6-swaggerhub.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-07T17:47:03Z",
+      "lastCommit": "2020-01-13T15:31:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a15470f01055e0adea16fcd84050e58f35008718",
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-1-metadata.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-07T17:47:03Z",
+      "lastCommit": "2020-01-13T15:31:29Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a15470f01055e0adea16fcd84050e58f35008718",
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-13-postgres.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-13T15:31:29Z",
+      "lastCommit": "2020-01-13T15:31:29Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-8-dome-ingest.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-07T17:47:03Z",
+      "lastCommit": "2020-01-16T20:36:50Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5603da8e5760f4f3cfce68804963b4d6fb90363c"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a15470f01055e0adea16fcd84050e58f35008718",
+            "e3230704d3f851cf855090763b1059bcbf8260bd",
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-14-persistent-file-links.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-10T18:28:52Z",
+      "lastCommit": "2020-03-10T18:28:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c1112a479d4cd47c2c1660664d72357a7f407e2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-4-s3.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-07T17:47:03Z",
+      "lastCommit": "2020-01-16T20:36:50Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a15470f01055e0adea16fcd84050e58f35008718",
+            "e3230704d3f851cf855090763b1059bcbf8260bd",
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-7-handles.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-07T17:47:03Z",
+      "lastCommit": "2020-01-16T20:36:50Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a15470f01055e0adea16fcd84050e58f35008718",
+            "e3230704d3f851cf855090763b1059bcbf8260bd",
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-3-rds-for-db-services.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-13T15:31:29Z",
+      "lastCommit": "2020-01-16T20:36:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3230704d3f851cf855090763b1059bcbf8260bd",
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-9-airflow.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-07T17:47:03Z",
+      "lastCommit": "2020-01-16T20:44:33Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a15470f01055e0adea16fcd84050e58f35008718",
+            "e3230704d3f851cf855090763b1059bcbf8260bd",
+            "3194afd495368d0dd59d8af7370dc0faf3944742",
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 4
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-12-openjdk.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-13T15:31:29Z",
+      "lastCommit": "2020-01-16T20:36:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3230704d3f851cf855090763b1059bcbf8260bd",
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-10-aws-fargate.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-07T17:47:03Z",
+      "lastCommit": "2020-01-16T20:36:50Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a15470f01055e0adea16fcd84050e58f35008718",
+            "e3230704d3f851cf855090763b1059bcbf8260bd",
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-11-exception-monitoring.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-07T17:47:03Z",
+      "lastCommit": "2020-01-16T20:36:50Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a15470f01055e0adea16fcd84050e58f35008718",
+            "e3230704d3f851cf855090763b1059bcbf8260bd",
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-2b-python.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-13T15:31:29Z",
+      "lastCommit": "2020-01-16T20:36:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3230704d3f851cf855090763b1059bcbf8260bd",
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-5-open-api-specification.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-07T17:47:03Z",
+      "lastCommit": "2020-01-16T20:36:50Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a15470f01055e0adea16fcd84050e58f35008718",
+            "e3230704d3f851cf855090763b1059bcbf8260bd",
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr-2a-java.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-13T15:31:29Z",
+      "lastCommit": "2020-01-16T20:36:50Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e3230704d3f851cf855090763b1059bcbf8260bd",
+            "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-01-07T17:47:03Z",
+  "lastAdrCommit": "2020-03-10T18:28:52Z",
+  "firstCommit": "2019-11-08T17:19:59Z",
+  "lastCommit": "2021-08-17T14:48:38Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5603da8e5760f4f3cfce68804963b4d6fb90363c"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5c1112a479d4cd47c2c1660664d72357a7f407e2",
+        "a15470f01055e0adea16fcd84050e58f35008718",
+        "e3230704d3f851cf855090763b1059bcbf8260bd",
+        "3194afd495368d0dd59d8af7370dc0faf3944742",
+        "9deff5a7ba054609caa2cfb480f2e8e801b74dc7"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

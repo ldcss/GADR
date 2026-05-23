@@ -1,0 +1,195 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/pharmacy-data-etl.git",
+  "crawlDateTime": "2022-01-18T17:47:31.069887",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-refresh-data-on-major-version-change.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-14T16:41:58Z",
+      "lastCommit": "2018-02-15T09:40:38Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a53497c298d74dce687ec8dabfe6e53d4de74673",
+            "15dfad69dd103af481923a67642eb7780847f5b7"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-store-etl-output-in-the-cloud.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-10T09:24:43Z",
+      "lastCommit": "2017-07-11T15:33:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a474fbb34c312445b8441ddc0c86960c6ecbee9a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d45586b1ea8e125432190de88636003dafc5218"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-make-etl-re-entrant.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-10T09:24:43Z",
+      "lastCommit": "2017-07-11T15:33:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a474fbb34c312445b8441ddc0c86960c6ecbee9a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d45586b1ea8e125432190de88636003dafc5218"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-generate-file-containing-organisation-data.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-10T09:24:43Z",
+      "lastCommit": "2017-07-11T15:33:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a474fbb34c312445b8441ddc0c86960c6ecbee9a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d45586b1ea8e125432190de88636003dafc5218"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-full-nightly-scrape.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-04-26T10:45:07Z",
+      "lastCommit": "2018-04-30T09:42:08Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "436d8f99a4d283b26ab3310527aa936dbbf0fc03",
+            "a378471ae2a7a97c6c15e219837bf1e45ce488b4",
+            "a42acaa3d39d56b64f7083c839c138622c4ed3c3"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-10T09:24:43Z",
+      "lastCommit": "2017-07-11T15:33:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a474fbb34c312445b8441ddc0c86960c6ecbee9a"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d45586b1ea8e125432190de88636003dafc5218"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-10T09:24:43Z",
+  "lastAdrCommit": "2018-04-30T09:42:08Z",
+  "firstCommit": "2017-06-07T15:56:17Z",
+  "lastCommit": "2020-01-15T11:50:22Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a474fbb34c312445b8441ddc0c86960c6ecbee9a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "436d8f99a4d283b26ab3310527aa936dbbf0fc03",
+        "a378471ae2a7a97c6c15e219837bf1e45ce488b4",
+        "a53497c298d74dce687ec8dabfe6e53d4de74673",
+        "15dfad69dd103af481923a67642eb7780847f5b7",
+        "a42acaa3d39d56b64f7083c839c138622c4ed3c3"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9d45586b1ea8e125432190de88636003dafc5218"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

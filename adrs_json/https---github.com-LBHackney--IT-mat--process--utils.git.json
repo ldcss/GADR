@@ -1,0 +1,181 @@
+{
+  "repositoryUrl": "https://github.com/LBHackney-IT/mat-process-utils.git",
+  "crawlDateTime": "2022-01-18T20:08:41.992031",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-use-jest.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-05-14T14:47:34Z",
+      "lastCommit": "2020-05-14T14:47:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f03d9bf41c586e6bebcc5676e03efcd617c945a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-typescript.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T14:47:34Z",
+      "lastCommit": "2020-05-14T14:47:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f03d9bf41c586e6bebcc5676e03efcd617c945a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-use-rollup-to-build-distributables.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T14:47:34Z",
+      "lastCommit": "2020-05-14T14:47:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f03d9bf41c586e6bebcc5676e03efcd617c945a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-eslint.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T14:47:34Z",
+      "lastCommit": "2020-05-14T14:47:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f03d9bf41c586e6bebcc5676e03efcd617c945a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-use-typedoc-to-generate-api-documentation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T14:47:34Z",
+      "lastCommit": "2020-05-14T14:47:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f03d9bf41c586e6bebcc5676e03efcd617c945a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-use-dependabot-to-keep-dependencies-up-to-date.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T14:47:34Z",
+      "lastCommit": "2020-05-14T14:47:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f03d9bf41c586e6bebcc5676e03efcd617c945a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-prettier-to-format-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T14:47:34Z",
+      "lastCommit": "2020-05-14T14:47:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f03d9bf41c586e6bebcc5676e03efcd617c945a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-14T14:47:34Z",
+      "lastCommit": "2020-05-14T14:47:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f03d9bf41c586e6bebcc5676e03efcd617c945a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-14T14:47:34Z",
+  "lastAdrCommit": "2020-05-14T14:47:34Z",
+  "firstCommit": "2020-05-14T14:47:34Z",
+  "lastCommit": "2022-01-15T06:30:23Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5f03d9bf41c586e6bebcc5676e03efcd617c945a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

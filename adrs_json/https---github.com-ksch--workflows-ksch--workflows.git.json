@@ -1,0 +1,90 @@
+{
+  "repositoryUrl": "https://github.com/ksch-workflows/ksch-workflows.git",
+  "crawlDateTime": "2022-01-18T21:17:02.590194",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "infrastructure/doc/architecture/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "infrastructure/doc/architecture/decisions",
+      "path": "0002-using-spring-boot.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-07-07T18:22:11Z",
+      "lastCommit": "2019-01-19T17:06:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c4b9f2b5f9e976c09e4f5418a45c12cda8b29f80",
+            "fbc0d4773d4fc898cca1b0660d01b962acc831ac"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "infrastructure/doc/architecture/decisions",
+      "path": "0003-using-gradle-instead-of-maven.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-07-07T18:22:11Z",
+      "lastCommit": "2019-01-19T17:06:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c4b9f2b5f9e976c09e4f5418a45c12cda8b29f80",
+            "fbc0d4773d4fc898cca1b0660d01b962acc831ac"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "infrastructure/doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-07-07T18:22:11Z",
+      "lastCommit": "2019-01-19T17:06:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c4b9f2b5f9e976c09e4f5418a45c12cda8b29f80",
+            "fbc0d4773d4fc898cca1b0660d01b962acc831ac"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-07T18:22:11Z",
+  "lastAdrCommit": "2019-01-19T17:06:06Z",
+  "firstCommit": "2018-03-21T19:37:59Z",
+  "lastCommit": "2020-01-16T03:22:16Z",
+  "adrDirFile": {
+    "fileContent": "infrastructure/doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c4b9f2b5f9e976c09e4f5418a45c12cda8b29f80",
+        "fbc0d4773d4fc898cca1b0660d01b962acc831ac"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

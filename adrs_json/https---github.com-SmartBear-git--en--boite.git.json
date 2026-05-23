@@ -1,0 +1,355 @@
+{
+  "repositoryUrl": "https://github.com/SmartBear/git-en-boite.git",
+  "crawlDateTime": "2022-02-07T15:21:02.989026",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 16,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0008-hexagonal-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-20T10:01:37Z",
+      "lastCommit": "2020-05-20T10:01:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4f833cc390614c663e31438f50488f0c101f6f64"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0009-prefer-dugite-over-raw-git-commands-in-tests.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-26T22:57:23Z",
+      "lastCommit": "2020-05-26T22:57:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "382a9c6f58c8d88d41e8e15a48e7b6ef64d938b1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0016-handle-concurrent-git-operations",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-04T08:58:02Z",
+      "lastCommit": "2021-05-04T08:58:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "382a2d005f5ec2a87a4a9ea35e66422db0848f4a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0012-background-git-operations.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-30T10:08:33Z",
+      "lastCommit": "2020-06-30T10:08:33Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "af01347c91d12843c834096ecfcdfd372961f76e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0013-separate-worker-process-and-container.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-07-31T12:07:23Z",
+      "lastCommit": "2020-07-31T12:07:23Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c7173d96c811c891d63cb3b96b0acc4e1db92436"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0015-remove-postgres-for-now.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-14T15:31:51Z",
+      "lastCommit": "2021-04-14T15:31:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "562ad96512dc47a23e70df34cd03caac31d3ff88"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-use-redis-and-bull-for-background-tasks.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-22T21:49:38Z",
+      "lastCommit": "2020-04-22T21:49:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9966fcd679bf10978a7be19ecc2fc988269c7175"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-bare-git-repos.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-04-25T23:06:59Z",
+      "lastCommit": "2020-04-25T23:06:59Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2ad1e2b5aaed335084574ed00f7fdc39c8c84349"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-use-npm-instead-of-yarn.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-31T09:20:11Z",
+      "lastCommit": "2020-03-31T09:20:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "870f60c7a536e13076dcb2d37e3232560262dae8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-typeorm-with-postgres.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-27T15:33:07Z",
+      "lastCommit": "2020-03-27T15:33:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e4a6f393233c1df8f6195bd7adfc410cf815bf5c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-use-yarn-workspaces-instead-of-lerna.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-13T15:13:12Z",
+      "lastCommit": "2020-05-13T15:29:26Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "08dcb5d1738d18cef411449add3a28345c7488cd",
+            "8a903ba61c8fa24de859788d1edc9f2732ef2450"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0011-remove-task-scheduler-for-now.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-22T23:07:51Z",
+      "lastCommit": "2020-06-22T23:07:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aaf8d464649541ea70db806825725742ee8e4eb4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0010-use-command-query-based-api-for-git-repos.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-22T23:07:51Z",
+      "lastCommit": "2020-07-30T22:39:43Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a039a6f8afc6f49f55d8fc4977af80b009c33183",
+            "087e5fc478583571cffd32874e16171d9585a8b3"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-copy-source-code-and-tests-into-docker-container.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-19T11:18:21Z",
+      "lastCommit": "2020-03-19T11:18:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5118d54633ebfeb9fc56c605c524a76a5ef7dc0d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-03-19T11:18:21Z",
+      "lastCommit": "2020-03-19T11:18:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5118d54633ebfeb9fc56c605c524a76a5ef7dc0d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0014-always-use-value-objects-in-the-core.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-08-21T22:32:17Z",
+      "lastCommit": "2020-08-21T22:32:17Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8e6b43ad130c28f1d1e5652737bad6030e9867bd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-19T11:18:21Z",
+  "lastAdrCommit": "2021-05-04T08:58:02Z",
+  "firstCommit": "2020-01-22T12:28:30Z",
+  "lastCommit": "2022-02-07T00:07:19Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "382a2d005f5ec2a87a4a9ea35e66422db0848f4a"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a039a6f8afc6f49f55d8fc4977af80b009c33183",
+        "af01347c91d12843c834096ecfcdfd372961f76e",
+        "9966fcd679bf10978a7be19ecc2fc988269c7175",
+        "4f833cc390614c663e31438f50488f0c101f6f64",
+        "c7173d96c811c891d63cb3b96b0acc4e1db92436",
+        "2ad1e2b5aaed335084574ed00f7fdc39c8c84349",
+        "aaf8d464649541ea70db806825725742ee8e4eb4",
+        "087e5fc478583571cffd32874e16171d9585a8b3",
+        "870f60c7a536e13076dcb2d37e3232560262dae8",
+        "08dcb5d1738d18cef411449add3a28345c7488cd",
+        "562ad96512dc47a23e70df34cd03caac31d3ff88",
+        "5118d54633ebfeb9fc56c605c524a76a5ef7dc0d",
+        "e4a6f393233c1df8f6195bd7adfc410cf815bf5c",
+        "8e6b43ad130c28f1d1e5652737bad6030e9867bd",
+        "8a903ba61c8fa24de859788d1edc9f2732ef2450",
+        "382a9c6f58c8d88d41e8e15a48e7b6ef64d938b1"
+      ],
+      "numberOfCommits": 16
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "repositoryUrl": "https://github.com/usabilla/php-docker-template.git",
+  "crawlDateTime": "2022-01-18T20:56:19.268266",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-define-a-policy-for-supported-versions-and-upgrades.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-26T10:23:52Z",
+      "lastCommit": "2021-01-26T10:23:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8da9458bfcd5fe427eca8022ac07b6f9884a0ec5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-default-php-settings-memory-limit.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-28T11:51:57Z",
+      "lastCommit": "2019-06-28T11:51:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e71e74d0c2914730971fdd1f394e3386492368d6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-default-php-extensions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-02-28T17:54:14Z",
+      "lastCommit": "2019-02-28T17:54:14Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de00fca87d57b15f105356785557b2d31431be07"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-nginx-configuration-is-shaped-for-php-needs.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-10T11:32:26Z",
+      "lastCommit": "2018-09-10T11:32:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "88f661fb1936e1f17ea0f6a3c6b8b5b9fe8caa9a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-10T11:32:25Z",
+      "lastCommit": "2018-09-10T11:32:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b4a1caffb68b27eba1490393cfab6e72fc0c2452"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-10T11:32:25Z",
+  "lastAdrCommit": "2021-01-26T10:23:52Z",
+  "firstCommit": "2017-09-14T15:57:14Z",
+  "lastCommit": "2022-01-13T14:53:32Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8da9458bfcd5fe427eca8022ac07b6f9884a0ec5"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e71e74d0c2914730971fdd1f394e3386492368d6",
+        "b4a1caffb68b27eba1490393cfab6e72fc0c2452",
+        "de00fca87d57b15f105356785557b2d31431be07",
+        "88f661fb1936e1f17ea0f6a3c6b8b5b9fe8caa9a"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

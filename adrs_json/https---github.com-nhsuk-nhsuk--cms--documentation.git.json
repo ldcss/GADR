@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/nhsuk/nhsuk-cms-documentation.git",
+  "crawlDateTime": "2022-01-18T20:00:38.351982",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adrs"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "adrs",
+      "path": "000_ADRs.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-15T16:10:26Z",
+      "lastCommit": "2021-04-15T16:10:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "beb2c99a5e76873cdcb64a43b8c7c5af3042c3fd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "adrs",
+      "path": "001_apps_and_page_models.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-04-15T16:10:26Z",
+      "lastCommit": "2021-04-15T16:10:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "beb2c99a5e76873cdcb64a43b8c7c5af3042c3fd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-04-15T16:10:26Z",
+  "lastAdrCommit": "2021-04-15T16:10:26Z",
+  "firstCommit": "2021-04-13T15:14:32Z",
+  "lastCommit": "2021-04-15T16:25:03Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "beb2c99a5e76873cdcb64a43b8c7c5af3042c3fd"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

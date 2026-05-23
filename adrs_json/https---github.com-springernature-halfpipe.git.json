@@ -1,0 +1,85 @@
+{
+  "repositoryUrl": "https://github.com/springernature/halfpipe.git",
+  "crawlDateTime": "2022-01-18T20:35:20.814644",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-task-cache-volumes.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-09-17T14:27:31Z",
+      "lastCommit": "2019-01-03T13:35:28Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ebf6a138dd159f06073a4bc346bf42f7be94d737",
+            "ed545330d28ea189a01a7826e21013159f80adab",
+            "1877fdcd6e52b1d4293e44c68b6c5028577039b5"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2dddae4483059bc70eca510c23dbfdb4b3701c07"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-of-architectural-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2018-09-17T10:36:42Z",
+      "lastCommit": "2018-09-17T10:36:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "686b74e8669af8792553ee5cb136383febe7d9ae"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-09-17T10:36:42Z",
+  "lastAdrCommit": "2019-01-03T13:35:28Z",
+  "firstCommit": "2018-02-07T13:12:36Z",
+  "lastCommit": "2022-01-17T13:52:11Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ebf6a138dd159f06073a4bc346bf42f7be94d737",
+        "ed545330d28ea189a01a7826e21013159f80adab",
+        "686b74e8669af8792553ee5cb136383febe7d9ae",
+        "1877fdcd6e52b1d4293e44c68b6c5028577039b5"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2dddae4483059bc70eca510c23dbfdb4b3701c07"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

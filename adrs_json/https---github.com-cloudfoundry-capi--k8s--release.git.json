@@ -1,0 +1,153 @@
+{
+  "repositoryUrl": "https://github.com/cloudfoundry/capi-k8s-release.git",
+  "crawlDateTime": "2022-01-18T18:56:16.501113",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "decisions"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "decisions",
+      "path": "0005-exec-curl-instead-of-http-liveness-probe-registry-buddy.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-05-20T22:23:51Z",
+      "lastCommit": "2021-05-20T22:23:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a7e182dbf3b0ede20e668eaa1c433baa9f93420"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0002-use-spec-for-bdd.md",
+      "template": "Nygard",
+      "status": "Draft",
+      "firstCommit": "2020-04-29T22:09:35Z",
+      "lastCommit": "2020-04-29T22:09:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5cf98e7889e0b5627b2a0369b539241895e64c44"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0004-sync-routes-from-k8s-to-cc.md",
+      "template": "Nygard",
+      "status": "Proposal",
+      "firstCommit": "2020-09-24T20:47:34Z",
+      "lastCommit": "2020-09-24T21:22:45Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0e6ca4ff02227e75f8cfaaa1950b1032226765cf",
+            "4b663f6da4a1bbc890adc4d47664615f1e13c613"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0003-cf-api-controller-repo.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-17T22:51:27Z",
+      "lastCommit": "2020-07-08T21:22:26Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "eb574ba4092edb46f7fecb676028db972d6da053",
+            "bd43cff815575a1086e3c3b570f86fec94520e32"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5c39c2f2b300637c70294b52bfd6152d69a50d40",
+            "44156d71eebb2268325866cf48765a835f187eb5"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-29T22:09:35Z",
+      "lastCommit": "2020-04-29T22:09:35Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5cf98e7889e0b5627b2a0369b539241895e64c44"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-29T22:09:35Z",
+  "lastAdrCommit": "2021-05-20T22:23:51Z",
+  "firstCommit": "2019-10-23T21:37:41Z",
+  "lastCommit": "2021-10-28T01:07:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "eb574ba4092edb46f7fecb676028db972d6da053",
+        "bd43cff815575a1086e3c3b570f86fec94520e32"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0e6ca4ff02227e75f8cfaaa1950b1032226765cf",
+        "5c39c2f2b300637c70294b52bfd6152d69a50d40",
+        "4b663f6da4a1bbc890adc4d47664615f1e13c613",
+        "5cf98e7889e0b5627b2a0369b539241895e64c44",
+        "44156d71eebb2268325866cf48765a835f187eb5"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1a7e182dbf3b0ede20e668eaa1c433baa9f93420"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

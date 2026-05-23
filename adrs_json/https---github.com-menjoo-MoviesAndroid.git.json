@@ -1,0 +1,121 @@
+{
+  "repositoryUrl": "https://github.com/menjoo/MoviesAndroid.git",
+  "crawlDateTime": "2022-01-18T19:55:42.266684",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001 ADR.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-04-23T05:44:58Z",
+      "lastCommit": "2018-04-23T05:44:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a202f31909782c0328d23498c225c242e0cc3ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002 Kotlin.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-04-23T05:44:58Z",
+      "lastCommit": "2018-04-23T05:44:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a202f31909782c0328d23498c225c242e0cc3ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005 Loading images.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-04-23T05:44:58Z",
+      "lastCommit": "2018-04-23T05:44:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a202f31909782c0328d23498c225c242e0cc3ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003 The Movie Db.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2018-04-23T05:44:58Z",
+      "lastCommit": "2018-04-23T05:44:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a202f31909782c0328d23498c225c242e0cc3ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004 Networking.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-04-23T05:44:58Z",
+      "lastCommit": "2018-04-23T05:44:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a202f31909782c0328d23498c225c242e0cc3ca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-04-23T05:44:58Z",
+  "lastAdrCommit": "2018-04-23T05:44:58Z",
+  "firstCommit": "2018-03-12T05:44:10Z",
+  "lastCommit": "2018-06-05T06:35:08Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1a202f31909782c0328d23498c225c242e0cc3ca"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

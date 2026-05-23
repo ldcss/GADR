@@ -1,0 +1,91 @@
+{
+  "repositoryUrl": "https://github.com/dimagi/commcare-hq.git",
+  "crawlDateTime": "2022-01-18T22:23:00.750333",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0002-keep-static-ucr-configurations-in-memory.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-19T09:40:15Z",
+      "lastCommit": "2018-07-19T09:40:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c82f460b86cbbe7ee4f5d5d1843d197e1942fcba"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-07-19T09:40:15Z",
+      "lastCommit": "2018-07-19T09:40:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c82f460b86cbbe7ee4f5d5d1843d197e1942fcba"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/decisions",
+      "path": "0003-remove-warehouse-database.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-10-16T18:42:30Z",
+      "lastCommit": "2019-10-16T18:42:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cc1c0048f90eb883fa22440b6c6eb3d96bde6498"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-19T09:40:15Z",
+  "lastAdrCommit": "2019-10-16T18:42:30Z",
+  "firstCommit": "2009-03-10T18:31:39Z",
+  "lastCommit": "2022-01-18T21:52:53Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cc1c0048f90eb883fa22440b6c6eb3d96bde6498"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c82f460b86cbbe7ee4f5d5d1843d197e1942fcba"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "repositoryUrl": "https://github.com/reactioncommerce/reaction-docs.git",
+  "crawlDateTime": "2022-01-18T21:23:30.665351",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture/decisions"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0003-tutorial-deprecation-plan.md",
+      "template": "Nygard",
+      "status": "2018-10-16 proposed",
+      "firstCommit": "2018-10-16T23:44:20Z",
+      "lastCommit": "2020-01-29T21:08:22Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0ebee5d61f54b8bfefdb84ccd1cd5db21c8bce9d"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1ffce3325a32011cc24d95d20c9af0e60e1483d1",
+            "28902255fe9e43a83c01cb6603a09dcc64413b8b",
+            "807625a9c0aaea0af9833596c16a094c39492837",
+            "3283bf23a698b3f9b79859eb36b679cf84b9f6f6"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "494a0705f82eec725f91bf068462ad94046cf48e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0002-12factor-config-from-env.md",
+      "template": "Nygard",
+      "status": "STATUS\uff1aaccepted 2018-02-14 accepted",
+      "firstCommit": "2018-07-20T17:55:58Z",
+      "lastCommit": "2018-07-20T17:55:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "36c139c2d6fafe850c10d06d7b2d0657c016e689"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture/decisions",
+      "path": "0001-use-adrs.md",
+      "template": "Nygard",
+      "status": "STATUS\uff1aaccepted 2018-02-14 accepted",
+      "firstCommit": "2018-07-20T17:55:58Z",
+      "lastCommit": "2018-07-20T17:55:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "36c139c2d6fafe850c10d06d7b2d0657c016e689"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-07-20T17:55:58Z",
+  "lastAdrCommit": "2020-01-29T21:08:22Z",
+  "firstCommit": "2014-05-12T16:41:09Z",
+  "lastCommit": "2021-05-06T17:13:05Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0ebee5d61f54b8bfefdb84ccd1cd5db21c8bce9d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1ffce3325a32011cc24d95d20c9af0e60e1483d1",
+        "28902255fe9e43a83c01cb6603a09dcc64413b8b",
+        "36c139c2d6fafe850c10d06d7b2d0657c016e689",
+        "807625a9c0aaea0af9833596c16a094c39492837",
+        "3283bf23a698b3f9b79859eb36b679cf84b9f6f6"
+      ],
+      "numberOfCommits": 5
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "494a0705f82eec725f91bf068462ad94046cf48e"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

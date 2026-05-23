@@ -1,0 +1,209 @@
+{
+  "repositoryUrl": "https://github.com/adoble/adr-j.git",
+  "crawlDateTime": "2022-01-18T19:36:28.678273",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-implement-as-Java.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-21T14:22:31Z",
+      "lastCommit": "2017-07-21T14:22:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5442e1e5a20c2e0a29bbb0eaf54a55d3b58abdd6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-markdown-format.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-21T14:22:31Z",
+      "lastCommit": "2019-06-23T15:24:55Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b8327a77633808848d69c093ca96a686ff9f7d84"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5442e1e5a20c2e0a29bbb0eaf54a55d3b58abdd6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0006-use-command-line-processing-package.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-05-30T16:28:01Z",
+      "lastCommit": "2019-05-30T16:28:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c0f3e09c450070a33cf135238d1ccdda35034898"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0007-use-specific-environment-variables-for-editors.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-01-29T09:07:45Z",
+      "lastCommit": "2021-02-03T14:23:57Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a7fa5412bbf389819e2109f80e9bc76ed6e5df38"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "670957a031e29a80c22c22063cddffb510898b16"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-help-comments.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-21T14:22:31Z",
+      "lastCommit": "2017-07-21T14:22:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5442e1e5a20c2e0a29bbb0eaf54a55d3b58abdd6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-single-command-with-subcommands.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-21T14:22:31Z",
+      "lastCommit": "2019-05-30T16:16:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bdc3d86746ff048a7cdaf23cd738bdf811bb0800"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5442e1e5a20c2e0a29bbb0eaf54a55d3b58abdd6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2017-07-21T14:22:31Z",
+      "lastCommit": "2017-07-21T14:22:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5442e1e5a20c2e0a29bbb0eaf54a55d3b58abdd6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-07-21T14:22:31Z",
+  "lastAdrCommit": "2021-02-03T14:23:57Z",
+  "firstCommit": "2017-06-30T19:07:35Z",
+  "lastCommit": "2021-04-26T17:36:46Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a7fa5412bbf389819e2109f80e9bc76ed6e5df38"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bdc3d86746ff048a7cdaf23cd738bdf811bb0800",
+        "c0f3e09c450070a33cf135238d1ccdda35034898",
+        "b8327a77633808848d69c093ca96a686ff9f7d84"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5442e1e5a20c2e0a29bbb0eaf54a55d3b58abdd6"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "670957a031e29a80c22c22063cddffb510898b16"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

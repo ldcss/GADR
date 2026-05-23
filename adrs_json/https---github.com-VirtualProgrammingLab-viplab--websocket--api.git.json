@@ -1,0 +1,133 @@
+{
+  "repositoryUrl": "https://github.com/VirtualProgrammingLab/viplab-websocket-api.git",
+  "crawlDateTime": "2022-01-18T19:38:04.219178",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-use-sha256-with-base64url-encoding.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-11-07T12:25:15Z",
+      "lastCommit": "2019-12-25T11:16:27Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0b5ac946c09a03f8f99ed7d9f0a89cfd55131180",
+            "ddd12a80d4da086bb8ee851fcc2e8778a9ef3765"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-json-web-tokens.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2019-11-07T12:25:15Z",
+      "lastCommit": "2020-05-11T20:05:11Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf09522af07653588fcb723c472880daaa357197",
+            "ddd12a80d4da086bb8ee851fcc2e8778a9ef3765"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-use-asymmetric-jwt-signing.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-05-11T20:05:11Z",
+      "lastCommit": "2020-05-11T20:05:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cf09522af07653588fcb723c472880daaa357197"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-transfere-hash-in-jwt-claim.md",
+      "template": "Madr",
+      "status": "proposed",
+      "firstCommit": "2019-11-07T12:25:15Z",
+      "lastCommit": "2019-11-07T12:25:15Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ddd12a80d4da086bb8ee851fcc2e8778a9ef3765"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-08-19T14:10:12Z",
+      "lastCommit": "2019-08-19T14:10:12Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "115841608c7d9a4dae4607365763df45dfa03a69"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-08-19T14:10:12Z",
+  "lastAdrCommit": "2020-05-11T20:05:11Z",
+  "firstCommit": "2019-08-19T14:10:12Z",
+  "lastCommit": "2022-01-17T22:01:04Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cf09522af07653588fcb723c472880daaa357197",
+        "0b5ac946c09a03f8f99ed7d9f0a89cfd55131180",
+        "ddd12a80d4da086bb8ee851fcc2e8778a9ef3765"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "115841608c7d9a4dae4607365763df45dfa03a69"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

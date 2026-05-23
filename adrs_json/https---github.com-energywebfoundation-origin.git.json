@@ -1,0 +1,279 @@
+{
+  "repositoryUrl": "https://github.com/energywebfoundation/origin.git",
+  "crawlDateTime": "2022-01-18T19:04:23.212779",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 12,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0011-transition-to-event-driven-architecture.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-06-01T08:45:48Z",
+      "lastCommit": "2020-06-01T08:45:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fdd5787861846b7aecaf90d86865d625aa859823"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-use-openzeppelin.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-11T11:48:20Z",
+      "lastCommit": "2019-11-11T11:48:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de34b8f2c2b617f19009c048d6833dec9bcb3c77"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0012-device-registries.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-01-20T10:04:07Z",
+      "lastCommit": "2021-01-20T10:04:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b052fd532b409b8127e91fbdb86a56666d6ddff1"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-rename-utils-demo-package-to-migrations.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-16T12:16:18Z",
+      "lastCommit": "2019-12-16T12:16:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d78eb992c9d3e7154a496c11ec57108f4e3f23ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-rename-assets-to-devices.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-04T13:12:04Z",
+      "lastCommit": "2019-12-04T13:12:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de99f964531bb09f741d9b1435a69efacca81e91"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-migration-to-exchange.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-02T08:34:49Z",
+      "lastCommit": "2020-04-02T08:34:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6e2404fee7afb99e8f7f83a61c9c6185ba32a55"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-migrate-certificate-structure-to-conform-to-erc-1888.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-17T11:10:43Z",
+      "lastCommit": "2020-01-17T11:10:43Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e63388ec179ed90acefca06d9783b8ed650348de"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-simplify-off-chain-storage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-04T00:16:52Z",
+      "lastCommit": "2019-12-04T00:16:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b239101f51cffd7e37c9ea51654a75804cf502ed"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-use-lerna-for-package-versioning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-11T11:48:20Z",
+      "lastCommit": "2019-11-11T11:48:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de34b8f2c2b617f19009c048d6833dec9bcb3c77"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0010-more-complete-database-type-and-adjust-migrations.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-02T08:41:58Z",
+      "lastCommit": "2020-04-02T08:41:58Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9db9eefa38bb0f32856eaf70e74479c571c67eea"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-create-backend-client-lib.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-11T11:48:20Z",
+      "lastCommit": "2019-11-11T11:48:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de34b8f2c2b617f19009c048d6833dec9bcb3c77"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-11T11:48:20Z",
+      "lastCommit": "2019-11-11T11:48:20Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "de34b8f2c2b617f19009c048d6833dec9bcb3c77"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-11T11:48:20Z",
+  "lastAdrCommit": "2021-01-20T10:04:07Z",
+  "firstCommit": "2019-08-14T08:43:17Z",
+  "lastCommit": "2022-01-18T11:17:24Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b239101f51cffd7e37c9ea51654a75804cf502ed",
+        "de99f964531bb09f741d9b1435a69efacca81e91"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fdd5787861846b7aecaf90d86865d625aa859823",
+        "b052fd532b409b8127e91fbdb86a56666d6ddff1",
+        "b6e2404fee7afb99e8f7f83a61c9c6185ba32a55",
+        "de34b8f2c2b617f19009c048d6833dec9bcb3c77"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d78eb992c9d3e7154a496c11ec57108f4e3f23ed",
+        "9db9eefa38bb0f32856eaf70e74479c571c67eea",
+        "e63388ec179ed90acefca06d9783b8ed650348de"
+      ],
+      "numberOfCommits": 3
+    }
+  ]
+}

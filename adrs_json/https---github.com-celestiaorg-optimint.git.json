@@ -1,0 +1,222 @@
+{
+  "repositoryUrl": "https://github.com/celestiaorg/optimint.git",
+  "crawlDateTime": "2022-01-18T18:21:49.997777",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/lazy-adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/lazy-adr",
+      "path": "adr-001-node-interface.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-02-25T23:00:49Z",
+      "lastCommit": "2021-03-23T19:42:52Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "08190ff00f08f75aa0f294ade3c7c3a23338895f",
+            "dbc7826fe7167e368b66fe1c34bcc608235bf7e3",
+            "c8128ead3e62ac8aa4ef118933de88d6d09b2b95"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/lazy-adr",
+      "path": "adr-007-header-commit-to-shares.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2021-10-05T13:56:26Z",
+      "lastCommit": "2021-10-06T21:39:45Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7080ab9d5e8317e61c0db5634efba51a654b11c0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a083eaa8f27d96c05b3dc811b7bc530418a26018",
+            "116457a0cc4aa4f25a8ab61ef9c4e07463b6ee13",
+            "a5a069ba3f3e8e1cb9d7d673e463766544265e82"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/lazy-adr",
+      "path": "adr-003-peer-discovery.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-31T18:09:48Z",
+      "lastCommit": "2021-03-31T18:09:48Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e7de7471d05367bd5bde562dd6e6981904953d0a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/lazy-adr",
+      "path": "adr-004-core-types.md",
+      "template": "Nygard",
+      "status": "Proposed and partly implemented. For finishing the implementation these items need to be tackled at least: - [ ] methods on core types (e.g. for hashing and basic validation etc) - [ ] equivalent types for serialization purposes (probably protobuf) - [ ] conversion from and to protobuf",
+      "firstCommit": "2021-04-18T12:01:25Z",
+      "lastCommit": "2021-09-15T21:30:37Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d0dcc50eb69b3d206f0be8d56154a0a36eee4ee3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2b4efe6958c3824e37e739dddece1b291e871000",
+            "3213bd3716c43eb814a8fbfae64c5552e3faee24",
+            "08a4a59ede5cf0856237dce0376e538304069acc",
+            "2de4aa658037d5cfbbee2cb3a1ccacc3cdc42f71",
+            "ca14ffa1c65f2e299d14f8ff3227e67a4fdfc8f6",
+            "d0731fc86353528a5822a9bfcf937bbc18919b5a"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/lazy-adr",
+      "path": "adr-005-serialization.md",
+      "template": "Nygard",
+      "status": "{Accepted}",
+      "firstCommit": "2021-06-02T10:01:31Z",
+      "lastCommit": "2021-06-02T10:01:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93bb673b7c94f0a744fce677aa690c171a58f242"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/lazy-adr",
+      "path": "adr-002-mempool.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2021-03-30T07:46:28Z",
+      "lastCommit": "2021-03-30T07:46:28Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e5533421f1a13f825dc6ab0ebfa579eb886cc757"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/lazy-adr",
+      "path": "adr-006-da-interface.md",
+      "template": "Nygard",
+      "status": "Implemented",
+      "firstCommit": "2021-07-20T18:04:13Z",
+      "lastCommit": "2021-07-20T18:04:13Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9d4a9d32957952828510ea0638de1b3bd6e0290d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-02-25T23:00:49Z",
+  "lastAdrCommit": "2021-10-06T21:39:45Z",
+  "firstCommit": "2021-02-03T09:28:26Z",
+  "lastCommit": "2022-01-18T13:43:33Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7080ab9d5e8317e61c0db5634efba51a654b11c0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "08190ff00f08f75aa0f294ade3c7c3a23338895f",
+        "9d4a9d32957952828510ea0638de1b3bd6e0290d",
+        "e7de7471d05367bd5bde562dd6e6981904953d0a",
+        "93bb673b7c94f0a744fce677aa690c171a58f242",
+        "e5533421f1a13f825dc6ab0ebfa579eb886cc757",
+        "dbc7826fe7167e368b66fe1c34bcc608235bf7e3",
+        "d0dcc50eb69b3d206f0be8d56154a0a36eee4ee3",
+        "c8128ead3e62ac8aa4ef118933de88d6d09b2b95"
+      ],
+      "numberOfCommits": 8
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a083eaa8f27d96c05b3dc811b7bc530418a26018",
+        "116457a0cc4aa4f25a8ab61ef9c4e07463b6ee13",
+        "a5a069ba3f3e8e1cb9d7d673e463766544265e82"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2b4efe6958c3824e37e739dddece1b291e871000",
+        "3213bd3716c43eb814a8fbfae64c5552e3faee24",
+        "08a4a59ede5cf0856237dce0376e538304069acc",
+        "2de4aa658037d5cfbbee2cb3a1ccacc3cdc42f71",
+        "ca14ffa1c65f2e299d14f8ff3227e67a4fdfc8f6",
+        "d0731fc86353528a5822a9bfcf937bbc18919b5a"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

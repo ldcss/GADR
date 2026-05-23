@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/JabRef/hacktoberfest-contributor-overview-generator.git",
+  "crawlDateTime": "2022-01-18T20:06:35.934842",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-jcabi.github-api.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-11-04T22:05:24Z",
+      "lastCommit": "2019-11-04T22:05:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b626c7296f3dc7e9da05e474592ebadec093a8d8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-11-04T22:05:24Z",
+      "lastCommit": "2019-11-04T22:05:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b626c7296f3dc7e9da05e474592ebadec093a8d8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-04T22:05:24Z",
+  "lastAdrCommit": "2019-11-04T22:05:24Z",
+  "firstCommit": "2019-11-04T22:05:24Z",
+  "lastCommit": "2019-11-07T05:02:02Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b626c7296f3dc7e9da05e474592ebadec093a8d8"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

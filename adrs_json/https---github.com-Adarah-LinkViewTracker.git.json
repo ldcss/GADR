@@ -1,0 +1,159 @@
+{
+  "repositoryUrl": "https://github.com/Adarah/LinkViewTracker.git",
+  "crawlDateTime": "2022-01-18T23:12:57.663833",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-separate-url-shortener-from-dashboard-website.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-13T14:31:19Z",
+      "lastCommit": "2020-10-13T14:31:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56b6a1e2138c2c11f822de716c4e55f89434eddc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-use-jooq-as-our-database-access-technology.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-13T14:31:19Z",
+      "lastCommit": "2020-10-13T14:31:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56b6a1e2138c2c11f822de716c4e55f89434eddc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-use-spring-boot.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-13T14:31:19Z",
+      "lastCommit": "2020-10-13T14:31:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56b6a1e2138c2c11f822de716c4e55f89434eddc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-set-url-uuid-to-be-7-characters-long.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-13T14:31:19Z",
+      "lastCommit": "2020-10-13T14:31:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56b6a1e2138c2c11f822de716c4e55f89434eddc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-use-shared-secret-key-between-services.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-13T14:31:19Z",
+      "lastCommit": "2020-10-13T14:31:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56b6a1e2138c2c11f822de716c4e55f89434eddc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-use-postgresql-as-our-database.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-13T14:31:19Z",
+      "lastCommit": "2020-10-13T14:31:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56b6a1e2138c2c11f822de716c4e55f89434eddc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-10-13T14:31:19Z",
+      "lastCommit": "2020-10-13T14:31:19Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "56b6a1e2138c2c11f822de716c4e55f89434eddc"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-13T14:31:19Z",
+  "lastAdrCommit": "2020-10-13T14:31:19Z",
+  "firstCommit": "2020-10-13T14:31:19Z",
+  "lastCommit": "2020-10-22T09:25:34Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "56b6a1e2138c2c11f822de716c4e55f89434eddc"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

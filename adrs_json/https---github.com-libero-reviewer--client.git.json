@@ -1,0 +1,84 @@
+{
+  "repositoryUrl": "https://github.com/libero/reviewer-client.git",
+  "crawlDateTime": "2022-01-18T22:55:28.049586",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "form-framework.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-01-30T14:27:32Z",
+      "lastCommit": "2020-01-30T14:27:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c823e808580eaa23907b2814bb1a7d934d8568b0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "browser-testing.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-10-25T15:15:48Z",
+      "lastCommit": "2020-01-30T14:27:32Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d0bdfda7b48bebaac6a6edc42b1cff707c29307f",
+            "c3195cef3a51310985756ddefc9b364272af68c1"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9b7a42df36f057d32a9024bb5d8622b2ff3e35b4",
+            "c823e808580eaa23907b2814bb1a7d934d8568b0"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-25T15:15:48Z",
+  "lastAdrCommit": "2020-01-30T14:27:32Z",
+  "firstCommit": "2019-07-16T13:56:28Z",
+  "lastCommit": "2021-12-21T15:06:27Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d0bdfda7b48bebaac6a6edc42b1cff707c29307f",
+        "c3195cef3a51310985756ddefc9b364272af68c1"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9b7a42df36f057d32a9024bb5d8622b2ff3e35b4",
+        "c823e808580eaa23907b2814bb1a7d934d8568b0"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

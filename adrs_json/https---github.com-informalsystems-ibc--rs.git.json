@@ -1,0 +1,356 @@
+{
+  "repositoryUrl": "https://github.com/informalsystems/ibc-rs.git",
+  "crawlDateTime": "2022-01-18T17:30:41.973678",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-003-handler-implementation.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-08-19T18:12:03Z",
+      "lastCommit": "2021-02-24T15:54:14Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3757b65076b1f28ab27e7b11b9743c558632e9ab"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "788c36be9e14725c542bd586b4fe4593edb3ca80"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-004-relayer-domain-decomposition.md",
+      "template": "Nygard",
+      "status": "- Accepted (first implementation in [#335](https://github.com/informalsystems/ibc-rs/pull/335)).",
+      "firstCommit": "2020-11-02T13:52:21Z",
+      "lastCommit": "2021-09-29T09:52:21Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7b76a1fbee32140425e6983e593b81b37241ece2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c6770566455a96f2c3cdc0a99a94992388efddb3"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "db2be6f72fef647933f48d80b29a0f9f12c804d4"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-006-hermes-v0.2-usecases.md",
+      "template": "Nygard",
+      "status": "Partially implemented.",
+      "firstCommit": "2021-02-25T13:54:37Z",
+      "lastCommit": "2021-11-15T08:18:25Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d3d49be4c99bc4a58c31372ded8a5a14156adcb4"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26ef2c6fcc2527998be1a206292ad870191b42c0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2cc50388c62beafd41b00a762e8b4b7af00fb1eb",
+            "1c72c281939e37187919161ab8791cebd3d572e7"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9e928c0a4e80356fac8e9fbceebdeaab3555b708",
+            "ce432b922ac3d18d296b05884560bb48afb99413"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f4aa4b44a03c506dbbfe78051e95eb9cad64a09a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-007-error.md",
+      "template": "Nygard",
+      "status": "Accepted - The PR has been merged in [#988](https://github.com/informalsystems/ibc-rs/pull/988)",
+      "firstCommit": "2021-07-27T11:06:40Z",
+      "lastCommit": "2021-07-27T11:06:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b53d77eb5b50f0319af7829408c53976bb90ecd"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-005-relayer-v0-implementation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-02-24T15:54:14Z",
+      "lastCommit": "2021-09-29T09:52:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3757b65076b1f28ab27e7b11b9743c558632e9ab"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7b76a1fbee32140425e6983e593b81b37241ece2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-002-ibc-relayer.md",
+      "template": "Nygard",
+      "status": "> A decision may be \"proposed\" if it hasn't been agreed upon yet, or \"accepted\" once it is agreed upon. If a later ADR changes or reverses a decision, it may be marked as \"deprecated\" or \"superseded\" with a reference to its replacement. {Deprecated|Proposed|Accepted}",
+      "firstCommit": "2020-05-19T19:02:27Z",
+      "lastCommit": "2021-11-15T08:18:25Z",
+      "numberOfCommits": 7,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3757b65076b1f28ab27e7b11b9743c558632e9ab"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "26ef2c6fcc2527998be1a206292ad870191b42c0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7b76a1fbee32140425e6983e593b81b37241ece2",
+            "1c72c281939e37187919161ab8791cebd3d572e7"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ce432b922ac3d18d296b05884560bb48afb99413"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8e73a85e7fa7a33b7041ef5a1f40085cdf612c32",
+            "e001d6d31da69ce25ad01a2f9bb1ef4e6e3279f9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "adr-001-repo.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2020-02-28T09:05:37Z",
+      "lastCommit": "2021-09-29T09:52:21Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9357d666a818cfcbf741313dac7621fd7193e4ab"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "65ee3099b3e1a2f1098f5d764e3a4bdc1097e0fe"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7b76a1fbee32140425e6983e593b81b37241ece2"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f86a64996d329ae3b62bd2d63b4ac5e51ec61fe2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-02-28T09:05:37Z",
+  "lastAdrCommit": "2021-11-15T08:18:25Z",
+  "firstCommit": "2020-02-24T13:58:20Z",
+  "lastCommit": "2022-01-18T15:05:07Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9357d666a818cfcbf741313dac7621fd7193e4ab"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "4b53d77eb5b50f0319af7829408c53976bb90ecd"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "26ef2c6fcc2527998be1a206292ad870191b42c0"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3757b65076b1f28ab27e7b11b9743c558632e9ab",
+        "d3d49be4c99bc4a58c31372ded8a5a14156adcb4",
+        "65ee3099b3e1a2f1098f5d764e3a4bdc1097e0fe"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "788c36be9e14725c542bd586b4fe4593edb3ca80",
+        "7b76a1fbee32140425e6983e593b81b37241ece2",
+        "2cc50388c62beafd41b00a762e8b4b7af00fb1eb",
+        "1c72c281939e37187919161ab8791cebd3d572e7"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9e928c0a4e80356fac8e9fbceebdeaab3555b708",
+        "ce432b922ac3d18d296b05884560bb48afb99413"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c6770566455a96f2c3cdc0a99a94992388efddb3"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8e73a85e7fa7a33b7041ef5a1f40085cdf612c32",
+        "e001d6d31da69ce25ad01a2f9bb1ef4e6e3279f9",
+        "f86a64996d329ae3b62bd2d63b4ac5e51ec61fe2",
+        "db2be6f72fef647933f48d80b29a0f9f12c804d4"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f4aa4b44a03c506dbbfe78051e95eb9cad64a09a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

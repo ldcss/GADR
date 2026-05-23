@@ -1,0 +1,65 @@
+{
+  "repositoryUrl": "https://github.com/Ensembl/ensembl-2020-genome-search.git",
+  "crawlDateTime": "2022-01-18T21:02:17.771858",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-object-identifiers.md",
+      "template": "Nygard",
+      "status": "Agreed",
+      "firstCommit": "2021-01-25T14:30:49Z",
+      "lastCommit": "2021-01-25T14:30:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "aca450517e43a00e5e286cd93c769532bbe42710"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-genome-identifiers.md",
+      "template": "Nygard",
+      "status": "Agreed but will be superseeded",
+      "firstCommit": "2021-01-25T14:30:40Z",
+      "lastCommit": "2021-01-25T14:30:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f6ddaff6264e5d6fc44c71a711f46d9b90020010"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2021-01-25T14:30:40Z",
+  "lastAdrCommit": "2021-01-25T14:30:49Z",
+  "firstCommit": "2019-04-03T22:47:25Z",
+  "lastCommit": "2021-10-06T15:07:16Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "aca450517e43a00e5e286cd93c769532bbe42710",
+        "f6ddaff6264e5d6fc44c71a711f46d9b90020010"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

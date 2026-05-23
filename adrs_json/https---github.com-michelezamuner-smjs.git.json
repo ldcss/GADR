@@ -1,0 +1,366 @@
+{
+  "repositoryUrl": "https://github.com/michelezamuner/smjs.git",
+  "crawlDateTime": "2022-01-18T23:12:54.409527",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/system/decisions"
+  ],
+  "numAdrFiles": 16,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "superseded/2018121502-data-unit-is-parameterized-type.md",
+      "template": "Nygard",
+      "status": "Superseded by [2019011901](../2019011901-concrete-and-generic-domain-data-units.md)",
+      "firstCommit": "2019-01-13T17:23:34Z",
+      "lastCommit": "2019-01-24T08:16:01Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e41233651a3440a40c3f5fd69cfbc85413606876",
+            "9f35731114649b0c69ef40abbe38ea0a5bdf550a"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2019011301-architectures-as-mods.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-01-25T11:25:27Z",
+      "lastCommit": "2019-01-31T11:10:03Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cbeec6068a93c34cb97d8a80c0a8f8cdd52ddac4",
+            "5f0fc1caf47f77770a8141fc4e29ea7de4fb1135"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2018120801-documentation-structure.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-12-08T20:44:03Z",
+      "lastCommit": "2018-12-08T20:44:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dfec401ffcb92cec08647965a2828a97f2f74b70"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2019030101-managing-logs.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-03-01T23:07:07Z",
+      "lastCommit": "2019-03-03T17:11:40Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a2fbe1a66c40c79c9abe64fad051b9c098faf5a1",
+            "2b3a9cc3dfc015808332c2e87d48a1299e4c7183"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2019012601-interface-of-system-read-call.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-31T11:10:03Z",
+      "lastCommit": "2019-01-31T11:10:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f0fc1caf47f77770a8141fc4e29ea7de4fb1135"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2018121601-multiple-usages-of-the-processor.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-12-24T15:45:34Z",
+      "lastCommit": "2018-12-24T15:45:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0078b6ad6300aa741ec47d11ccca28361fcb1a54"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2019012501-invalid-address-over-missing-exit-instruction.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-01-31T11:10:03Z",
+      "lastCommit": "2019-01-31T11:10:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5f0fc1caf47f77770a8141fc4e29ea7de4fb1135"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2019011901-concrete-and-generic-domain-data-units.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-01-24T08:16:01Z",
+      "lastCommit": "2019-01-24T08:16:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e41233651a3440a40c3f5fd69cfbc85413606876"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2019051501-interactor-handling-concurrent-requests.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-05-16T13:00:25Z",
+      "lastCommit": "2019-05-16T13:00:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "be931ddeffac8da82cc01665fa24a6aecf020d2d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2018120802-implement-clean-architecture.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-12-08T20:44:03Z",
+      "lastCommit": "2019-01-31T11:10:03Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1d9899fdd6bcad288539ea6a215493ec01042178",
+            "e41233651a3440a40c3f5fd69cfbc85413606876",
+            "06fa4fa0956917d7972d5cfa7b2654e8223160ea",
+            "0078b6ad6300aa741ec47d11ccca28361fcb1a54",
+            "5f0fc1caf47f77770a8141fc4e29ea7de4fb1135",
+            "dfec401ffcb92cec08647965a2828a97f2f74b70"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2018112801-encapsulate-sma-stack-usage.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-08T20:44:03Z",
+      "lastCommit": "2018-12-08T20:44:03Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dfec401ffcb92cec08647965a2828a97f2f74b70"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2019032101-supporting-concurrent-secondary-adapters.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-03-21T10:54:31Z",
+      "lastCommit": "2019-03-21T10:54:31Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7ca6affca1775d289feb3e6e99228f3b51859f5a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2018121201-stop-using-registers-in-processor.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-12-24T15:45:34Z",
+      "lastCommit": "2018-12-24T15:45:34Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0078b6ad6300aa741ec47d11ccca28361fcb1a54"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2019020401-handling-generic-input-output.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-02-08T19:51:06Z",
+      "lastCommit": "2019-04-06T16:43:34Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f7ffcf81df4920c512e3740a04316dc7f8ef210a",
+            "f37e46f27ad77eda9f4dc78410564070f266004b",
+            "cbb7bc18803506d1f6d867cc5089329eb8db03fc",
+            "91222fdaa0080077c9cb3e4c9720b374f4696cd0",
+            "b144b5ce9e052c03336827c79d3e379babfe1ff2",
+            "7733668fe25c5398b67a47e66bca6242e49c79e7"
+          ],
+          "numberOfCommits": 6
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2019040601-handling-generic-components-communication.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2019-04-06T16:43:34Z",
+      "lastCommit": "2019-04-10T20:55:59Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a97cf9389c021fdfe2a977889a0f9d01bf501680",
+            "91222fdaa0080077c9cb3e4c9720b374f4696cd0"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/system/decisions",
+      "path": "2018121501-monorepo-and-directory-layout.md",
+      "template": "Nygard",
+      "status": "Proposed",
+      "firstCommit": "2018-12-24T16:00:29Z",
+      "lastCommit": "2019-01-31T11:10:03Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "71e5fb24739366e622741bbd18feb0da46f38c40",
+            "1e672716c8091eced5a56933e633637287b409da",
+            "5f0fc1caf47f77770a8141fc4e29ea7de4fb1135"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-12-08T20:44:03Z",
+  "lastAdrCommit": "2019-05-16T13:00:25Z",
+  "firstCommit": "2018-09-23T16:43:51Z",
+  "lastCommit": "2021-09-21T18:41:55Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "e41233651a3440a40c3f5fd69cfbc85413606876",
+        "f7ffcf81df4920c512e3740a04316dc7f8ef210a",
+        "f37e46f27ad77eda9f4dc78410564070f266004b",
+        "cbb7bc18803506d1f6d867cc5089329eb8db03fc",
+        "1e672716c8091eced5a56933e633637287b409da",
+        "9f35731114649b0c69ef40abbe38ea0a5bdf550a",
+        "7733668fe25c5398b67a47e66bca6242e49c79e7",
+        "1d9899fdd6bcad288539ea6a215493ec01042178",
+        "06fa4fa0956917d7972d5cfa7b2654e8223160ea",
+        "be931ddeffac8da82cc01665fa24a6aecf020d2d",
+        "7ca6affca1775d289feb3e6e99228f3b51859f5a",
+        "a97cf9389c021fdfe2a977889a0f9d01bf501680",
+        "71e5fb24739366e622741bbd18feb0da46f38c40",
+        "91222fdaa0080077c9cb3e4c9720b374f4696cd0",
+        "a2fbe1a66c40c79c9abe64fad051b9c098faf5a1",
+        "cbeec6068a93c34cb97d8a80c0a8f8cdd52ddac4",
+        "0078b6ad6300aa741ec47d11ccca28361fcb1a54",
+        "b144b5ce9e052c03336827c79d3e379babfe1ff2",
+        "5f0fc1caf47f77770a8141fc4e29ea7de4fb1135",
+        "dfec401ffcb92cec08647965a2828a97f2f74b70",
+        "2b3a9cc3dfc015808332c2e87d48a1299e4c7183"
+      ],
+      "numberOfCommits": 21
+    }
+  ]
+}

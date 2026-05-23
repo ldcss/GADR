@@ -1,0 +1,128 @@
+{
+  "repositoryUrl": "https://github.com/Internet-of-People/mercury-rust.git",
+  "crawlDateTime": "2022-01-18T18:37:19.330452",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-choosing-capnproto.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-31T06:15:09Z",
+      "lastCommit": "2018-05-31T06:15:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f4a904b31837deee84f019eb0972f4e850afa52"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-logging.md",
+      "template": "Nygard",
+      "status": "RFC",
+      "firstCommit": "2018-07-23T08:14:10Z",
+      "lastCommit": "2018-08-08T14:09:11Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1a0af9f91e4a9b425946fea76f80e8afdbba6f06"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a0643aa9db7230631048edb9dc4b7016808f6a28",
+            "e25d10d72a702fdd51fec56da34846c657f5bc38"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-choosing-rust.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-05-31T06:15:09Z",
+      "lastCommit": "2018-05-31T06:15:09Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f4a904b31837deee84f019eb0972f4e850afa52"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-error-handling.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2018-08-08T14:09:11Z",
+      "lastCommit": "2018-08-08T14:09:11Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e25d10d72a702fdd51fec56da34846c657f5bc38"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-31T06:15:09Z",
+  "lastAdrCommit": "2018-08-08T14:09:11Z",
+  "firstCommit": "2017-10-17T06:05:43Z",
+  "lastCommit": "2020-03-20T15:46:43Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1a0af9f91e4a9b425946fea76f80e8afdbba6f06"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a0643aa9db7230631048edb9dc4b7016808f6a28",
+        "e25d10d72a702fdd51fec56da34846c657f5bc38"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2f4a904b31837deee84f019eb0972f4e850afa52"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

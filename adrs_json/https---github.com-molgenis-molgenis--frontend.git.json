@@ -1,0 +1,169 @@
+{
+  "repositoryUrl": "https://github.com/molgenis/molgenis-frontend.git",
+  "crawlDateTime": "2022-01-18T17:46:01.951949",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-index-file-delivery.md",
+      "template": "Nygard",
+      "status": "Proposal",
+      "firstCommit": "2020-11-10T08:24:59Z",
+      "lastCommit": "2020-12-17T11:12:13Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a522cb8fc2d5200e2cef88ea54135a9332d07349",
+            "089cb2524bfb6d040d43858968791a15dc375589"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "358be9d4929e63f2bb216846e536d8565c4949e2",
+            "c3faac015120fb4ce0e2c5d86586c4071d5e41da"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2ea0d3ed6cc3592445f4e96490492226aea7e782",
+            "edcafc1a2c9a864c7c5f330c6c3436262f1c1bf6"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-typescript.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-10T14:22:32Z",
+      "lastCommit": "2020-09-10T14:22:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e586de76988145884365800f8a61714c131fa51f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-use-adr-to-describe-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-10T14:22:32Z",
+      "lastCommit": "2020-09-10T14:22:32Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "e586de76988145884365800f8a61714c131fa51f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-have-app-create-settings.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-09-28T08:33:40Z",
+      "lastCommit": "2020-09-28T08:33:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9dd08e858d9862abeaec788f9b5208c1a54076c6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-molgenis-core-apps.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-11-19T12:23:55Z",
+      "lastCommit": "2020-11-19T12:23:55Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "01c1c27b1931bac3c47bd9d4ee9f3f37d7c84fef"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-09-10T14:22:32Z",
+  "lastAdrCommit": "2020-12-17T11:12:13Z",
+  "firstCommit": "2019-01-25T21:17:23Z",
+  "lastCommit": "2022-01-18T15:10:56Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "a522cb8fc2d5200e2cef88ea54135a9332d07349",
+        "01c1c27b1931bac3c47bd9d4ee9f3f37d7c84fef",
+        "089cb2524bfb6d040d43858968791a15dc375589"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "9dd08e858d9862abeaec788f9b5208c1a54076c6",
+        "e586de76988145884365800f8a61714c131fa51f"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "358be9d4929e63f2bb216846e536d8565c4949e2",
+        "c3faac015120fb4ce0e2c5d86586c4071d5e41da"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2ea0d3ed6cc3592445f4e96490492226aea7e782",
+        "edcafc1a2c9a864c7c5f330c6c3436262f1c1bf6"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

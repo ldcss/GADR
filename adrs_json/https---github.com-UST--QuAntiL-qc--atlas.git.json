@@ -1,0 +1,268 @@
+{
+  "repositoryUrl": "https://github.com/UST-QuAntiL/qc-atlas.git",
+  "crawlDateTime": "2022-01-18T17:31:26.433171",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 11,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-postgres-for-service-tests.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-04T08:47:16Z",
+      "lastCommit": "2020-11-04T08:47:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b357ebbfb5dab98da982a480d93412e2ab03a8f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-model-assemblers.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-04T08:47:16Z",
+      "lastCommit": "2020-11-04T08:47:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b357ebbfb5dab98da982a480d93412e2ab03a8f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-architectural-decision-records.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2020-03-18T17:36:54Z",
+      "lastCommit": "2020-03-18T17:36:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1e4e8adbdf7064b8a5596ce422b03e5bb8e36835"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-use-OpenAPI.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-04T08:47:16Z",
+      "lastCommit": "2020-11-04T08:47:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b357ebbfb5dab98da982a480d93412e2ab03a8f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-joined-table-for-knowledge-artifact.md",
+      "template": "Madr",
+      "status": "[accepted] <!-- optional -->",
+      "firstCommit": "2021-05-07T15:08:18Z",
+      "lastCommit": "2021-05-07T15:08:18Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fff8960b50da883e35714bc84e12fd7d5855582d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-URI-for-entities.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-03-19T10:21:52Z",
+      "lastCommit": "2020-03-19T10:21:52Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "52299fed324cd5f7c4964e9fd57dbd800228dcca"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0009-remove-hal-links.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2021-05-25T13:32:56Z",
+      "lastCommit": "2021-05-25T13:32:56Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5fe2dfb084d0ec1f3087a15cd289c75934b9a9e3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-model-mapper.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-04T08:47:16Z",
+      "lastCommit": "2020-11-04T08:47:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b357ebbfb5dab98da982a480d93412e2ab03a8f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-monorepo.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-03-20T08:38:39Z",
+      "lastCommit": "2020-03-20T08:38:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "13fd70626ae4180e75d748079b65a943b04dad61"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-junit-for-testing.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-04T08:47:16Z",
+      "lastCommit": "2020-11-04T08:47:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b357ebbfb5dab98da982a480d93412e2ab03a8f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0008-testcontainers.md",
+      "template": "Madr",
+      "status": "accepted",
+      "firstCommit": "2020-11-04T08:47:16Z",
+      "lastCommit": "2020-11-04T08:47:16Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5b357ebbfb5dab98da982a480d93412e2ab03a8f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-18T17:36:54Z",
+  "lastAdrCommit": "2021-05-25T13:32:56Z",
+  "firstCommit": "2020-02-21T09:58:57Z",
+  "lastCommit": "2022-01-17T10:54:58Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5b357ebbfb5dab98da982a480d93412e2ab03a8f"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5fe2dfb084d0ec1f3087a15cd289c75934b9a9e3"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "1e4e8adbdf7064b8a5596ce422b03e5bb8e36835"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "13fd70626ae4180e75d748079b65a943b04dad61",
+        "52299fed324cd5f7c4964e9fd57dbd800228dcca"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fff8960b50da883e35714bc84e12fd7d5855582d"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

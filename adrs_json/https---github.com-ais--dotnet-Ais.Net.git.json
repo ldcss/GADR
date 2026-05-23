@@ -1,0 +1,72 @@
+{
+  "repositoryUrl": "https://github.com/ais-dotnet/Ais.Net.git",
+  "crawlDateTime": "2022-01-18T17:58:52.689434",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-missing-fragment-handling.md",
+      "template": "Nygard",
+      "status": "Accepted.",
+      "firstCommit": "2020-03-13T07:39:53Z",
+      "lastCommit": "2020-03-13T07:39:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0b3e9fa301f490c171264d0398cb1d93aabdd0a2"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-error-handling-strategy.md",
+      "template": "Nygard",
+      "status": "Established. (The practices were in place by the time we started adding ADRs.)",
+      "firstCommit": "2020-03-12T10:47:01Z",
+      "lastCommit": "2020-03-12T10:47:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0f7856a6ee3b96eafa4cbeb0274f524d4f554d9f"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-03-12T10:47:01Z",
+  "lastAdrCommit": "2020-03-13T07:39:53Z",
+  "firstCommit": "2019-07-21T08:40:23Z",
+  "lastCommit": "2021-12-10T09:19:19Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0b3e9fa301f490c171264d0398cb1d93aabdd0a2"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0f7856a6ee3b96eafa4cbeb0274f524d4f554d9f"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

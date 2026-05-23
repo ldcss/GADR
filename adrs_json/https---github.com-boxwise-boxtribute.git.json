@@ -1,0 +1,299 @@
+{
+  "repositoryUrl": "https://github.com/boxwise/boxtribute.git",
+  "crawlDateTime": "2022-01-18T18:40:20.916054",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 6,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "Python-ORM.md",
+      "template": "Nygard",
+      "status": "Accepted, implementation complete.",
+      "firstCommit": "2020-06-28T05:30:52Z",
+      "lastCommit": "2021-02-14T16:06:21Z",
+      "numberOfCommits": 15,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb83a645212fd8f84f9992afd428c3842d4d5e51",
+            "478d039d06e48ce38784e6a825ac789d11d0ff76"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c107253d4b0385bcfd8bca61de5cf768f04f778e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8424a94b5d76ec4d64c090dd1a04c0d509526d7b",
+            "56636985c645d71aa0a111b6ae785aa01992c3f3",
+            "0051ffa67a3863674228328bbf039a4c09f8feb7",
+            "b1643a914b88a9e3dcdd1f347567e5220d12a6e4",
+            "924734d0a82a77ed77f38a2dd7dc6e0dc46ed75d",
+            "73e34eb2d01e09e7e9d30a8ad4b7671877bfe45f",
+            "0599fd37e70ac9b7b852a20baed1158783b82fd4",
+            "83030127a7a85481db912168afd61754ff565a6c",
+            "441e8202a017b52b72db22d1899913ad39a61f97",
+            "39e0ccd5b5ce4b5fef84fb75c0508be48be39ff4",
+            "5021bbeaaf68949645b76f6c94b393f65985003d",
+            "4732b3e01b15d7f9a3a350df86295370ef12452d"
+          ],
+          "numberOfCommits": 12
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "React-UI-library.md",
+      "template": "Nygard",
+      "status": "Implementing",
+      "firstCommit": "2020-10-06T12:33:56Z",
+      "lastCommit": "2021-02-14T16:06:21Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "cebaa4de9ef4cd3b038b0fff9dace1a28731ddad",
+            "c107253d4b0385bcfd8bca61de5cf768f04f778e",
+            "685a996cf28567813ed1a60730cb2fc8122b5e2c"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "34e0c6a22ae624f40f9d53104c1d0602a73f9a03",
+            "5461c4f6411b0ba135aec7310f049093200a7875",
+            "f84ab896b2627273e51e3759ed76a42bfc7b3758"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr_auth0.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-23T16:08:07Z",
+      "lastCommit": "2021-02-14T16:06:21Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4a5fa4e8d1c905e3a9df038f43e9478f4bb84fda",
+            "c107253d4b0385bcfd8bca61de5cf768f04f778e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "graphql-ariadne-apollo.md",
+      "template": "Nygard",
+      "status": "Accepted, installation of Ariadne and Apollo complete. Creation of GraphQL schema in progress. (October 28, 2020)",
+      "firstCommit": "2020-06-26T10:27:05Z",
+      "lastCommit": "2021-02-14T16:06:21Z",
+      "numberOfCommits": 11,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c107253d4b0385bcfd8bca61de5cf768f04f778e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "4b1f4306613cb627239bc83e3ae4fbb643aa04f3",
+            "13aa612aadf3e8ebe251900fe25e8c334d9b5340",
+            "90c2594fcee2bcc63928eaa7c8c039185fd7449d",
+            "df480bc40d52a2e526a486fdae2cb1d84e636b33",
+            "34ad0dd723b798d7bfe96fc4a2727bdf161a5c82",
+            "41e8f22dfa20de6438e6397228de5826de19e6df",
+            "b796458770e0db10acc47fa483d9ae2c7d3e1805",
+            "db3b11236b20042127a99e0e61ea131199a76cbe",
+            "1c410a30ed7420c0740fc65a2122519c855494fe",
+            "d7b8304c77db7730dc9a5ef510e82ef7129fea10"
+          ],
+          "numberOfCommits": 10
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr_monorepo.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-07-03T16:28:29Z",
+      "lastCommit": "2021-02-14T16:06:21Z",
+      "numberOfCommits": 6,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "20ab248d73accbbe4b4edd6bc98c1c934ceb2998"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0d80a50a13c4930ffba7ef65f7eb0c5a8c8d3f5b",
+            "7ce3018b273bf730ff64b0085924e5ec417c175d",
+            "c107253d4b0385bcfd8bca61de5cf768f04f778e"
+          ],
+          "numberOfCommits": 3
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2c89d2f2bdde07ba0a751b831b0bba1a07a7aeb8",
+            "8046105aa7009e8413750a48bdc94da410f946bf"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "adr_python-dev-env.md",
+      "template": "Nygard",
+      "status": "Implementation Complete.",
+      "firstCommit": "2020-06-19T11:55:41Z",
+      "lastCommit": "2020-10-28T09:57:00Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "fb83a645212fd8f84f9992afd428c3842d4d5e51",
+            "478d039d06e48ce38784e6a825ac789d11d0ff76"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f5bcd1b07062b885fe1f4cceca455f3bf5e637ac"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "352843c691d2df35b800bcce8f6ace4bc2b25084"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-19T11:55:41Z",
+  "lastAdrCommit": "2021-02-14T16:06:21Z",
+  "firstCommit": "2020-02-09T12:00:01Z",
+  "lastCommit": "2022-01-18T16:46:15Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "20ab248d73accbbe4b4edd6bc98c1c934ceb2998"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "fb83a645212fd8f84f9992afd428c3842d4d5e51",
+        "478d039d06e48ce38784e6a825ac789d11d0ff76"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "f5bcd1b07062b885fe1f4cceca455f3bf5e637ac"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "cebaa4de9ef4cd3b038b0fff9dace1a28731ddad",
+        "4a5fa4e8d1c905e3a9df038f43e9478f4bb84fda",
+        "0d80a50a13c4930ffba7ef65f7eb0c5a8c8d3f5b",
+        "7ce3018b273bf730ff64b0085924e5ec417c175d",
+        "c107253d4b0385bcfd8bca61de5cf768f04f778e",
+        "685a996cf28567813ed1a60730cb2fc8122b5e2c"
+      ],
+      "numberOfCommits": 6
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b1643a914b88a9e3dcdd1f347567e5220d12a6e4",
+        "34e0c6a22ae624f40f9d53104c1d0602a73f9a03",
+        "90c2594fcee2bcc63928eaa7c8c039185fd7449d",
+        "34ad0dd723b798d7bfe96fc4a2727bdf161a5c82",
+        "0599fd37e70ac9b7b852a20baed1158783b82fd4",
+        "41e8f22dfa20de6438e6397228de5826de19e6df",
+        "441e8202a017b52b72db22d1899913ad39a61f97",
+        "352843c691d2df35b800bcce8f6ace4bc2b25084",
+        "d7b8304c77db7730dc9a5ef510e82ef7129fea10",
+        "4732b3e01b15d7f9a3a350df86295370ef12452d",
+        "8424a94b5d76ec4d64c090dd1a04c0d509526d7b",
+        "0051ffa67a3863674228328bbf039a4c09f8feb7",
+        "df480bc40d52a2e526a486fdae2cb1d84e636b33",
+        "924734d0a82a77ed77f38a2dd7dc6e0dc46ed75d",
+        "73e34eb2d01e09e7e9d30a8ad4b7671877bfe45f",
+        "5461c4f6411b0ba135aec7310f049093200a7875",
+        "db3b11236b20042127a99e0e61ea131199a76cbe",
+        "5021bbeaaf68949645b76f6c94b393f65985003d",
+        "8046105aa7009e8413750a48bdc94da410f946bf",
+        "13aa612aadf3e8ebe251900fe25e8c334d9b5340",
+        "2c89d2f2bdde07ba0a751b831b0bba1a07a7aeb8",
+        "39e0ccd5b5ce4b5fef84fb75c0508be48be39ff4",
+        "b796458770e0db10acc47fa483d9ae2c7d3e1805",
+        "f84ab896b2627273e51e3759ed76a42bfc7b3758",
+        "4b1f4306613cb627239bc83e3ae4fbb643aa04f3",
+        "56636985c645d71aa0a111b6ae785aa01992c3f3",
+        "83030127a7a85481db912168afd61754ff565a6c",
+        "1c410a30ed7420c0740fc65a2122519c855494fe"
+      ],
+      "numberOfCommits": 28
+    }
+  ]
+}

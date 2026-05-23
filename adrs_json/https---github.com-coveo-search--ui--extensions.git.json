@@ -1,0 +1,61 @@
+{
+  "repositoryUrl": "https://github.com/coveo/search-ui-extensions.git",
+  "crawlDateTime": "2022-01-18T23:14:26.441592",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "adr",
+      "path": "components/UserActions/UserActions/ShowViewedByCustomer.md",
+      "template": "Madr",
+      "status": null,
+      "firstCommit": "2019-10-22T18:51:02Z",
+      "lastCommit": "2021-06-22T17:36:52Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3611f9bd10823f431990355c36fb75f1757b56a7"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "38e58014927a2d215d1a216ea24c4a589d864620"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-10-22T18:51:02Z",
+  "lastAdrCommit": "2021-06-22T17:36:52Z",
+  "firstCommit": "2019-03-01T16:07:53Z",
+  "lastCommit": "2022-01-18T19:28:54Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3611f9bd10823f431990355c36fb75f1757b56a7"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "38e58014927a2d215d1a216ea24c4a589d864620"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "repositoryUrl": "https://github.com/kconner/godspeed-you-blocked-developer.git",
+  "crawlDateTime": "2022-01-18T23:15:44.423706",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "003. Serverless.md",
+      "template": "Nygard",
+      "status": "Discarded",
+      "firstCommit": "2018-02-08T04:25:04Z",
+      "lastCommit": "2018-03-12T01:46:24Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "863bc365c8b5a329d77a9419ae5cbaa8b2d23c87",
+            "b4081dd781d53efd0ef8b2b878df31a8fe8ba93e"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "001. TypeScript, React, Redux, and Webpack.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-08T02:37:57Z",
+      "lastCommit": "2018-03-29T01:55:36Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0ca3388640f618051e76bfbcf73d858cc313f545",
+            "973db5a80a5fa06b53a2eb8e55d298848ae9963d"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "002. AWS.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-08T04:25:04Z",
+      "lastCommit": "2018-02-08T04:25:04Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2f82edc879c90be8af4664b44322d8390cc8ced6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "005. Serverless-offline.md",
+      "template": "Nygard",
+      "status": "Discarded",
+      "firstCommit": "2018-03-04T06:32:35Z",
+      "lastCommit": "2018-03-12T01:46:24Z",
+      "numberOfCommits": 3,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "31719f612d4b736d2fd8913df1dc8267af974437",
+            "a897c19ba250a03d29d18a0332e525be734a82b2",
+            "863bc365c8b5a329d77a9419ae5cbaa8b2d23c87"
+          ],
+          "numberOfCommits": 3
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "008. Artifact-based deployment.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-12T01:46:24Z",
+      "lastCommit": "2018-03-15T04:52:46Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "a1b3f100db52dd6bc034dbc67d9b3a3409658628",
+            "863bc365c8b5a329d77a9419ae5cbaa8b2d23c87"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "004. Docker.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-02-08T08:19:25Z",
+      "lastCommit": "2018-02-08T08:38:27Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "47f09c3361ba3497ae5422d62a05ef5c44720496",
+            "9de5f63e4294cd98ba38903ca824c6d0438d70f9"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "006. Cognito.md",
+      "template": "Nygard",
+      "status": "Discarded",
+      "firstCommit": "2018-03-04T22:45:45Z",
+      "lastCommit": "2018-03-05T04:35:33Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "9ea2713ffae582e13d225ab91dc13935a81108bf",
+            "5bec8b21f106332f481b4834540eee8c130519a4"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture",
+      "path": "007. Terraform.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-03-12T01:46:24Z",
+      "lastCommit": "2018-04-05T06:00:08Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "70023d319a4df4a00ba7de2f1aa3b2ee1b707d68",
+            "863bc365c8b5a329d77a9419ae5cbaa8b2d23c87"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-02-08T02:37:57Z",
+  "lastAdrCommit": "2018-04-05T06:00:08Z",
+  "firstCommit": "2017-12-13T04:56:55Z",
+  "lastCommit": "2018-05-16T19:59:36Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "47f09c3361ba3497ae5422d62a05ef5c44720496",
+        "31719f612d4b736d2fd8913df1dc8267af974437",
+        "a1b3f100db52dd6bc034dbc67d9b3a3409658628",
+        "a897c19ba250a03d29d18a0332e525be734a82b2",
+        "70023d319a4df4a00ba7de2f1aa3b2ee1b707d68",
+        "863bc365c8b5a329d77a9419ae5cbaa8b2d23c87",
+        "b4081dd781d53efd0ef8b2b878df31a8fe8ba93e",
+        "9ea2713ffae582e13d225ab91dc13935a81108bf",
+        "0ca3388640f618051e76bfbcf73d858cc313f545",
+        "9de5f63e4294cd98ba38903ca824c6d0438d70f9",
+        "5bec8b21f106332f481b4834540eee8c130519a4",
+        "973db5a80a5fa06b53a2eb8e55d298848ae9963d",
+        "2f82edc879c90be8af4664b44322d8390cc8ced6"
+      ],
+      "numberOfCommits": 13
+    }
+  ]
+}

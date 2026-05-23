@@ -1,0 +1,131 @@
+{
+  "repositoryUrl": "https://github.com/pulibrary/pul_solr.git",
+  "crawlDateTime": "2022-01-18T20:24:00.127034",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "architecture-decisions"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0004-revert-memory-tuning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-16T21:48:57Z",
+      "lastCommit": "2020-01-16T21:48:57Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "dfdcc92dedca8efb8c64e09edc9d5880098d6f15"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0003-remove-memory-tuning.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-14T19:14:54Z",
+      "lastCommit": "2018-11-14T19:14:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5d86f28bbf55b121f9d435ebf3eb6c7c11eb5143"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0002-increase-zookeeper-timeout.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-14T19:14:54Z",
+      "lastCommit": "2018-11-14T19:14:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5d86f28bbf55b121f9d435ebf3eb6c7c11eb5143"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0001-document-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-11-14T14:48:27Z",
+      "lastCommit": "2018-11-14T14:48:27Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "5ad251c2bbe548f44bbe2a0b5b127fdb5f1a1444"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "architecture-decisions",
+      "path": "0005-catalog-configset-rotation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2021-04-07T18:13:51Z",
+      "lastCommit": "2021-04-07T18:13:51Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bdde28f2f43b743355f611d589c92932ee8c1591"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-11-14T14:48:27Z",
+  "lastAdrCommit": "2021-04-07T18:13:51Z",
+  "firstCommit": "2016-04-19T14:19:36Z",
+  "lastCommit": "2022-01-18T19:15:23Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "5d86f28bbf55b121f9d435ebf3eb6c7c11eb5143",
+        "5ad251c2bbe548f44bbe2a0b5b127fdb5f1a1444"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bdde28f2f43b743355f611d589c92932ee8c1591",
+        "dfdcc92dedca8efb8c64e09edc9d5880098d6f15"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/zephinzer/dev.git",
+  "crawlDateTime": "2022-01-18T18:55:28.345662",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adrs"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adrs",
+      "path": "00001-dot-prefix-for-configuration.md",
+      "template": "Nygard",
+      "status": "Currently to facilitate extensibility, two locations are searched for: 1. `~/dev.yaml` 2. `./dev.yaml` Additionally, there exists an `includes` property which allows for each file to include other files.",
+      "firstCommit": "2020-06-06T03:47:02Z",
+      "lastCommit": "2020-06-06T03:47:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "bf9438a56565db2a7dd6e70347f821526f85a8ee"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-06-06T03:47:02Z",
+  "lastAdrCommit": "2020-06-06T03:47:02Z",
+  "firstCommit": "2020-03-31T19:10:56Z",
+  "lastCommit": "2020-08-16T17:26:37Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "bf9438a56565db2a7dd6e70347f821526f85a8ee"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

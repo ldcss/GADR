@@ -1,0 +1,83 @@
+{
+  "repositoryUrl": "https://github.com/joelea/paths.git",
+  "crawlDateTime": "2022-01-18T21:12:26.004268",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-separate-reads-and-writes.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-21T12:58:36Z",
+      "lastCommit": "2016-02-21T12:58:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f9eb66d0463c48af30ecc58eda8173c67a108fa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-a-single-machine.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-21T12:58:36Z",
+      "lastCommit": "2016-02-21T12:58:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f9eb66d0463c48af30ecc58eda8173c67a108fa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2016-02-21T12:58:36Z",
+      "lastCommit": "2016-02-21T12:58:36Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3f9eb66d0463c48af30ecc58eda8173c67a108fa"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2016-02-21T12:58:36Z",
+  "lastAdrCommit": "2016-02-21T12:58:36Z",
+  "firstCommit": "2016-02-21T12:51:24Z",
+  "lastCommit": "2016-02-26T23:07:42Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3f9eb66d0463c48af30ecc58eda8173c67a108fa"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

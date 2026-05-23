@@ -1,0 +1,220 @@
+{
+  "repositoryUrl": "https://github.com/xebia-france/xebikart-infra.git",
+  "crawlDateTime": "2022-01-18T17:45:15.452049",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 8,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "008-manage-github-repos-with-terraform.md",
+      "template": "Madr",
+      "status": "Proposed",
+      "firstCommit": "2019-09-02T13:29:37Z",
+      "lastCommit": "2019-09-02T13:29:37Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7b0df5a27465d64b54014ad1d16afc48c7df7d44"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "007-use-external-dns-to-manage-dns-records.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2019-04-29T17:48:07Z",
+      "lastCommit": "2019-04-29T17:48:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6e27c75a1c08276a4cfcef7703b92335597307b9"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "001-use-markdown-architectural-decision-records.md",
+      "template": "Madr",
+      "status": "Pending",
+      "firstCommit": "2019-03-11T08:55:45Z",
+      "lastCommit": "2019-03-11T08:55:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "740b48c5feb769762ce4b1c5fddd9e2cbcda4fe8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "003-use-terraform-for-infrastructure-deployment.md",
+      "template": "Madr",
+      "status": "[Proposed | Rejected | Accepted | Deprecated | \u2026 | superseded by [ADR-0005](0005-example.md)]",
+      "firstCommit": "2019-03-11T08:55:45Z",
+      "lastCommit": "2019-03-11T08:55:45Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "740b48c5feb769762ce4b1c5fddd9e2cbcda4fe8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "006-use-password-authentication-for-rabbitmq.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2019-04-29T17:48:07Z",
+      "lastCommit": "2019-04-29T17:48:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "1f82eea598bd7ffd3706b317b7309ac6031eb13c"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "005-use-kubectl-and-helm-for-k8s-deployment.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2019-03-11T08:55:45Z",
+      "lastCommit": "2019-04-29T17:48:07Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0f8dd476aaeb2f97eeef00204ceab5992331bcc0"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "740b48c5feb769762ce4b1c5fddd9e2cbcda4fe8"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "002-use-rabbitmq-with-mqtt-plugin-to-make-devices-communicate-with-each-other.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2019-03-19T10:02:07Z",
+      "lastCommit": "2019-03-19T10:02:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "85428212c46b887a45d0a07afa20756629284bcb"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "004-use-golang-as-main-langage-for-backend.md",
+      "template": "Madr",
+      "status": "Accepted",
+      "firstCommit": "2019-03-11T08:55:45Z",
+      "lastCommit": "2019-03-19T09:45:28Z",
+      "numberOfCommits": 5,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "2c6ce4f7790417d9f7f76e8922aaf8b590d24a76",
+            "83571e85d5996a3da24f6b6d2aecd910e9db03e5",
+            "740b48c5feb769762ce4b1c5fddd9e2cbcda4fe8",
+            "7587f9f5d1e59af3732a81ef438c702e599e26cb"
+          ],
+          "numberOfCommits": 4
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "8f53c21d10b055c2f3f5c2c9a44625009540999d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-03-11T08:55:45Z",
+  "lastAdrCommit": "2019-09-02T13:29:37Z",
+  "firstCommit": "2019-02-28T12:45:36Z",
+  "lastCommit": "2021-03-19T17:07:42Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0f8dd476aaeb2f97eeef00204ceab5992331bcc0",
+        "85428212c46b887a45d0a07afa20756629284bcb",
+        "6e27c75a1c08276a4cfcef7703b92335597307b9",
+        "7b0df5a27465d64b54014ad1d16afc48c7df7d44"
+      ],
+      "numberOfCommits": 4
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "8f53c21d10b055c2f3f5c2c9a44625009540999d"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "2c6ce4f7790417d9f7f76e8922aaf8b590d24a76",
+        "83571e85d5996a3da24f6b6d2aecd910e9db03e5",
+        "740b48c5feb769762ce4b1c5fddd9e2cbcda4fe8",
+        "7587f9f5d1e59af3732a81ef438c702e599e26cb",
+        "1f82eea598bd7ffd3706b317b7309ac6031eb13c"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

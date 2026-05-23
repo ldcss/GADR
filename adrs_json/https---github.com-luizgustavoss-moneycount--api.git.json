@@ -1,0 +1,160 @@
+{
+  "repositoryUrl": "https://github.com/luizgustavoss/moneycount-api.git",
+  "crawlDateTime": "2022-01-18T17:45:56.556389",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "004-Use_Heroku_As_Deployment.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2018-05-18T02:36:24Z",
+      "lastCommit": "2021-03-22T12:54:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "facabb2855ea292b831f5b0ab3767114addb524e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d55163a38acd27f7966f4d7a30762a54460431a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "003-Document_API_With_Swagger.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2018-05-18T02:36:24Z",
+      "lastCommit": "2021-03-22T12:54:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "facabb2855ea292b831f5b0ab3767114addb524e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d55163a38acd27f7966f4d7a30762a54460431a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "001-Choose_Spring_Boot.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2018-05-18T02:36:24Z",
+      "lastCommit": "2021-03-22T12:54:06Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "facabb2855ea292b831f5b0ab3767114addb524e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d55163a38acd27f7966f4d7a30762a54460431a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "002-Choose_Persist_Currency_In_Json.md",
+      "template": "Nygard",
+      "status": "accepted",
+      "firstCommit": "2018-05-18T02:36:24Z",
+      "lastCommit": "2021-03-22T12:54:06Z",
+      "numberOfCommits": 4,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3d9e11c1de35fed389181f9e2239a9a58631ed82",
+            "e4a054c1c58e4f12975ecd02e3b5bee2f6b8bdd1"
+          ],
+          "numberOfCommits": 2
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "facabb2855ea292b831f5b0ab3767114addb524e"
+          ],
+          "numberOfCommits": 1
+        },
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d55163a38acd27f7966f4d7a30762a54460431a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-05-18T02:36:24Z",
+  "lastAdrCommit": "2021-03-22T12:54:06Z",
+  "firstCommit": "2018-02-15T23:41:12Z",
+  "lastCommit": "2021-04-26T17:22:01Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3d9e11c1de35fed389181f9e2239a9a58631ed82",
+        "e4a054c1c58e4f12975ecd02e3b5bee2f6b8bdd1"
+      ],
+      "numberOfCommits": 2
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "facabb2855ea292b831f5b0ab3767114addb524e"
+      ],
+      "numberOfCommits": 1
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "d55163a38acd27f7966f4d7a30762a54460431a6"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

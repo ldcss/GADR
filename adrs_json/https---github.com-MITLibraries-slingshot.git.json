@@ -1,0 +1,84 @@
+{
+  "repositoryUrl": "https://github.com/MITLibraries/slingshot.git",
+  "crawlDateTime": "2022-01-18T23:12:15.208634",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 3,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-use-one-geoserver-instance-with-multiple-workspaces.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-07-01T19:29:01Z",
+      "lastCommit": "2019-07-01T19:29:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0b3993ae8e364cb9f69a4580b27ba3467aa66a81"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-upload-and-storage-s3-buckets.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-07T15:35:54Z",
+      "lastCommit": "2019-06-07T15:35:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24c3134602e908c46a1f288945307266211098e6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-06-07T15:35:54Z",
+      "lastCommit": "2019-06-07T15:35:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "24c3134602e908c46a1f288945307266211098e6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-06-07T15:35:54Z",
+  "lastAdrCommit": "2019-07-01T19:29:01Z",
+  "firstCommit": "2016-01-21T20:07:56Z",
+  "lastCommit": "2021-07-16T17:12:26Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "0b3993ae8e364cb9f69a4580b27ba3467aa66a81",
+        "24c3134602e908c46a1f288945307266211098e6"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

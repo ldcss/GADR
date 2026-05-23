@@ -1,0 +1,213 @@
+{
+  "repositoryUrl": "https://github.com/psu-libraries/scholarsphere.git",
+  "crawlDateTime": "2022-01-18T20:24:39.763878",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/architecture/decisions"
+  ],
+  "numAdrFiles": 9,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0004-blacklight-for-search-only.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-01-15T15:22:10Z",
+      "lastCommit": "2020-01-15T15:22:10Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c05c81135322d6a296e696b68ca4364aa8f9dd0d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0006-public-discovery-access.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-11T15:07:24Z",
+      "lastCommit": "2020-05-11T15:07:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d31733167783f5eb91d15c876b5f0fe92985fa54"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0002-define-use-of-decorators-and-presenters.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-04T20:11:06Z",
+      "lastCommit": "2019-11-04T20:11:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3b7f0ed956f284ebe86b1bd1e93651127b38fb09"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0009-acl-actor-permissions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-19T14:03:01Z",
+      "lastCommit": "2020-05-19T14:03:01Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6165f2fc3de2630c443612b414f931cfea24601d"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0003-no-derivatives.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-12-11T20:12:39Z",
+      "lastCommit": "2019-12-11T20:12:39Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ab34c7e5d35da8ac454e11fd0b9f804212259368"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0005-order-files-alphanumerically.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-02-14T15:12:00Z",
+      "lastCommit": "2020-02-14T15:12:00Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "31a8fdeab832aded776046265eef885794548f16"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0008-asset-pipeline.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-18T20:17:02Z",
+      "lastCommit": "2020-05-18T20:17:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "f24067bd09d66971e3b2c671354252b6e34b014e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-11-04T20:11:06Z",
+      "lastCommit": "2019-11-04T20:11:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3b7f0ed956f284ebe86b1bd1e93651127b38fb09"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/architecture/decisions",
+      "path": "0007-published-date-field.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-11T15:07:24Z",
+      "lastCommit": "2020-05-11T15:07:24Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "d31733167783f5eb91d15c876b5f0fe92985fa54"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-11-04T20:11:06Z",
+  "lastAdrCommit": "2020-05-19T14:03:01Z",
+  "firstCommit": "2019-10-11T15:36:04Z",
+  "lastCommit": "2022-01-18T19:32:30Z",
+  "adrDirFile": {
+    "fileContent": "doc/architecture/decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ab34c7e5d35da8ac454e11fd0b9f804212259368",
+        "3b7f0ed956f284ebe86b1bd1e93651127b38fb09",
+        "c05c81135322d6a296e696b68ca4364aa8f9dd0d"
+      ],
+      "numberOfCommits": 3
+    },
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "31a8fdeab832aded776046265eef885794548f16",
+        "d31733167783f5eb91d15c876b5f0fe92985fa54",
+        "6165f2fc3de2630c443612b414f931cfea24601d",
+        "f24067bd09d66971e3b2c671354252b6e34b014e"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

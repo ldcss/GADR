@@ -1,0 +1,106 @@
+{
+  "repositoryUrl": "https://github.com/Darguelles/upd-articles-api.git",
+  "crawlDateTime": "2022-01-18T22:19:37.846397",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/arch"
+  ],
+  "numAdrFiles": 4,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/arch",
+      "path": "ADR-003-16012019-configure-checkstyle-findbugs-support.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-16T09:09:38Z",
+      "lastCommit": "2019-01-16T09:09:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7eb0a187becb1c69ce8197d2220a84fac48aa183"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "ADR-004-16012019-configuring-integration-test.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-16T17:57:06Z",
+      "lastCommit": "2019-01-16T17:57:06Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "37bef08542000b897a1f9d5c72883b7312cd8351"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "ADR-001-16012019-configuring-lombok.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-16T05:36:28Z",
+      "lastCommit": "2019-01-16T05:37:47Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "02e649e76c67958bdd979fc0ca92e0e4a21581fc",
+            "19ee4edce806c62ff2f81931c22f6bc03075ca7b"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/arch",
+      "path": "ADR-002-16012019-add-docker-support.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2019-01-16T09:09:38Z",
+      "lastCommit": "2019-01-16T09:09:38Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "7eb0a187becb1c69ce8197d2220a84fac48aa183"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2019-01-16T05:36:28Z",
+  "lastAdrCommit": "2019-01-16T17:57:06Z",
+  "firstCommit": "2019-01-15T00:52:30Z",
+  "lastCommit": "2019-01-16T18:40:58Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "7eb0a187becb1c69ce8197d2220a84fac48aa183",
+        "02e649e76c67958bdd979fc0ca92e0e4a21581fc",
+        "37bef08542000b897a1f9d5c72883b7312cd8351",
+        "19ee4edce806c62ff2f81931c22f6bc03075ca7b"
+      ],
+      "numberOfCommits": 4
+    }
+  ]
+}

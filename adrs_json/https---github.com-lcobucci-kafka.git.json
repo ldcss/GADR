@@ -1,0 +1,168 @@
+{
+  "repositoryUrl": "https://github.com/lcobucci/kafka.git",
+  "crawlDateTime": "2022-01-18T19:55:44.593707",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/architecture-decisions"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0003-port-protocol-s-types-from-java-implementation.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-02T18:45:21Z",
+      "lastCommit": "2018-09-02T18:45:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "c16dd5d7b2fa4fbaca8592441b220ea8c61eba64"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0002-require-php-7-2-64-bit.md",
+      "template": "Nygard",
+      "status": "Superceded by [7. Require latest stable PHP version](0007-require-latest-stable-php-version.md)",
+      "firstCommit": "2018-08-29T09:43:35Z",
+      "lastCommit": "2019-05-04T21:02:53Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3fb195ea0bc719ca41dd5c2874ea25996d79b8d0",
+            "32390442c9bcf30350c752517f8e3bb3f7c69163"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0006-require-php-7-3.md",
+      "template": "Nygard",
+      "status": "Accepted Amends [2. Require PHP 7.2 (64-bit)](0002-require-php-7-2-64-bit.md)",
+      "firstCommit": "2019-05-04T21:02:53Z",
+      "lastCommit": "2019-05-04T21:02:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3fb195ea0bc719ca41dd5c2874ea25996d79b8d0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0004-use-arrays-for-mapping-schema.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-09-30T13:53:07Z",
+      "lastCommit": "2018-09-30T13:53:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b6831e2398672dabe189b0fee0d37823a4d737a6"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0007-require-latest-stable-php-version.md",
+      "template": "Nygard",
+      "status": "Accepted Supercedes [2. Require PHP 7.2 (64-bit)](0002-require-php-7-2-64-bit.md)",
+      "firstCommit": "2019-05-04T21:02:53Z",
+      "lastCommit": "2019-05-04T21:02:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3fb195ea0bc719ca41dd5c2874ea25996d79b8d0"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0005-require-kafka-v0-11.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2019-04-11T20:55:07Z",
+      "lastCommit": "2019-04-11T20:55:07Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "93e57c51657ac00b270634ff95b5f850cfa611d5"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/architecture-decisions",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2018-08-28T14:38:26Z",
+      "lastCommit": "2018-08-28T14:38:26Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "630a22abe79dfc7d52ae2e71d8189e03eb23b84a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2018-08-28T14:38:26Z",
+  "lastAdrCommit": "2019-05-04T21:02:53Z",
+  "firstCommit": "2018-08-28T14:38:26Z",
+  "lastCommit": "2022-01-01T20:08:26Z",
+  "adrDirFile": {
+    "fileContent": "docs/architecture-decisions\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "c16dd5d7b2fa4fbaca8592441b220ea8c61eba64",
+        "3fb195ea0bc719ca41dd5c2874ea25996d79b8d0",
+        "32390442c9bcf30350c752517f8e3bb3f7c69163",
+        "630a22abe79dfc7d52ae2e71d8189e03eb23b84a",
+        "93e57c51657ac00b270634ff95b5f850cfa611d5",
+        "b6831e2398672dabe189b0fee0d37823a4d737a6"
+      ],
+      "numberOfCommits": 6
+    }
+  ]
+}

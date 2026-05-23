@@ -1,0 +1,167 @@
+{
+  "repositoryUrl": "https://github.com/uktrade/trade-access-program.git",
+  "crawlDateTime": "2022-01-18T19:57:20.262165",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 7,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-deployments.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-12-07T12:01:54Z",
+      "lastCommit": "2020-12-07T12:01:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "67d25a9659aaf5043d9ec99ce5a8402f675eddb3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0003-events-from-fixture-file.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-07T12:13:27Z",
+      "lastCommit": "2020-12-07T15:25:42Z",
+      "numberOfCommits": 2,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3b1f409207323ef6308d9d716f1c7ba70b47c491",
+            "a56d294c80bd3e9e7699a968ed7845bf7b6b2a50"
+          ],
+          "numberOfCommits": 2
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0005-viewflow-for-grant-management-portal.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-07T15:25:42Z",
+      "lastCommit": "2020-12-07T15:25:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3b1f409207323ef6308d9d716f1c7ba70b47c491"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0007-passwordless-magic-link-authentication-for-frontend.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-08T12:03:30Z",
+      "lastCommit": "2020-12-08T12:03:30Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3eda91c05164e589bea1bb4d5215b6719ba4f43e"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0006-split-service-into-two.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-08T11:28:25Z",
+      "lastCommit": "2020-12-08T11:28:25Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "734b556e881ebbaee1d69d43ef67fdfd1d248e15"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0004-templates-over-js-framework-md.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-07T15:25:42Z",
+      "lastCommit": "2020-12-07T15:25:42Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "3b1f409207323ef6308d9d716f1c7ba70b47c491"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-12-07T12:01:54Z",
+      "lastCommit": "2020-12-07T12:01:54Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "67d25a9659aaf5043d9ec99ce5a8402f675eddb3"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-12-07T12:01:54Z",
+  "lastAdrCommit": "2020-12-08T12:03:30Z",
+  "firstCommit": "2020-06-15T14:10:22Z",
+  "lastCommit": "2021-06-10T20:39:37Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "3eda91c05164e589bea1bb4d5215b6719ba4f43e",
+        "3b1f409207323ef6308d9d716f1c7ba70b47c491",
+        "67d25a9659aaf5043d9ec99ce5a8402f675eddb3",
+        "a56d294c80bd3e9e7699a968ed7845bf7b6b2a50",
+        "734b556e881ebbaee1d69d43ef67fdfd1d248e15"
+      ],
+      "numberOfCommits": 5
+    }
+  ]
+}

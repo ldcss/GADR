@@ -1,0 +1,121 @@
+{
+  "repositoryUrl": "https://github.com/michaeldbianchi/mercury-platform.git",
+  "crawlDateTime": "2022-01-18T20:42:27.75874",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "doc/adr"
+  ],
+  "numAdrFiles": 5,
+  "adrFiles": [
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0004-mercury-platform-is-deliberately-a-polyglot-system-with-language-suggestions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-17T15:32:49Z",
+      "lastCommit": "2020-05-17T15:32:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72f7a786989cbf83202010a84484cf1ca225708b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0003-data-will-be-stored-and-treated-independent-from-triggers.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-17T15:32:49Z",
+      "lastCommit": "2020-05-17T15:32:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72f7a786989cbf83202010a84484cf1ca225708b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0005-use-cloud-native-services-when-appropriate-and-prioritize-minimal-permanent-infrastructure.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-17T15:32:49Z",
+      "lastCommit": "2020-05-17T15:32:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72f7a786989cbf83202010a84484cf1ca225708b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0002-use-controller-to-manage-all-input-from-users.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-17T15:32:49Z",
+      "lastCommit": "2020-05-17T15:32:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72f7a786989cbf83202010a84484cf1ca225708b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "doc/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-17T15:32:49Z",
+      "lastCommit": "2020-05-17T15:32:49Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "72f7a786989cbf83202010a84484cf1ca225708b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-05-17T15:32:49Z",
+  "lastAdrCommit": "2020-05-17T15:32:49Z",
+  "firstCommit": "2020-02-16T00:58:59Z",
+  "lastCommit": "2021-08-12T11:08:59Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "72f7a786989cbf83202010a84484cf1ca225708b"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

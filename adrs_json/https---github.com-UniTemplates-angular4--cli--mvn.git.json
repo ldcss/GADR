@@ -1,0 +1,64 @@
+{
+  "repositoryUrl": "https://github.com/UniTemplates/angular4-cli-mvn.git",
+  "crawlDateTime": "2022-01-18T19:48:09.927164",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0000-use-markdown-architectural-decision-records.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-11-29T13:50:53Z",
+      "lastCommit": "2017-11-29T13:50:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b3e266afebe03d69a967f427982309e2ba43b494"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-use-intellij-for-debugging-angular-applications.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2017-11-29T13:50:53Z",
+      "lastCommit": "2017-11-29T13:50:53Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "b3e266afebe03d69a967f427982309e2ba43b494"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2017-11-29T13:50:53Z",
+  "lastAdrCommit": "2017-11-29T13:50:53Z",
+  "firstCommit": "2017-11-29T13:50:53Z",
+  "lastCommit": "2017-11-29T13:50:53Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "b3e266afebe03d69a967f427982309e2ba43b494"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

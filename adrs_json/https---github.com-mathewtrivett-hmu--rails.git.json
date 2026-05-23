@@ -1,0 +1,45 @@
+{
+  "repositoryUrl": "https://github.com/mathewtrivett/hmu-rails.git",
+  "crawlDateTime": "2022-01-18T18:27:07.860023",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 1,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-configure-rspec-with-files.md",
+      "template": "unknown",
+      "status": null,
+      "firstCommit": "2020-10-10T15:47:02Z",
+      "lastCommit": "2020-10-10T15:47:02Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "ae8a8b78b5e338d522f5253aaa68b63d6e4ae35a"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-10-10T15:47:02Z",
+  "lastAdrCommit": "2020-10-10T15:47:02Z",
+  "firstCommit": "2020-10-09T12:40:35Z",
+  "lastCommit": "2020-10-11T19:32:46Z",
+  "adrDirFile": null,
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "ae8a8b78b5e338d522f5253aaa68b63d6e4ae35a"
+      ],
+      "numberOfCommits": 1
+    }
+  ]
+}

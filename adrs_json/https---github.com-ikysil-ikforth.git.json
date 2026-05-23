@@ -1,0 +1,68 @@
+{
+  "repositoryUrl": "https://github.com/ikysil/ikforth.git",
+  "crawlDateTime": "2022-01-18T17:36:38.453884",
+  "numAdrDirectories": 1,
+  "adrDirectories": [
+    "docs/adr"
+  ],
+  "numAdrFiles": 2,
+  "adrFiles": [
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0002-32-bits-code.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-05-01T21:55:40Z",
+      "lastCommit": "2020-05-01T21:55:40Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "6445d71cf8388b926744dee40b3895dc9c81c458"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    },
+    {
+      "adrDirectory": "docs/adr",
+      "path": "0001-record-architecture-decisions.md",
+      "template": "Nygard",
+      "status": "Accepted",
+      "firstCommit": "2020-04-30T06:43:21Z",
+      "lastCommit": "2020-04-30T06:43:21Z",
+      "numberOfCommits": 1,
+      "authors": [
+        {
+          "name": "<disclosed>",
+          "email": "<disclosed>",
+          "commitSet": [
+            "0afa21b0aad98cc37203f9c4e3451b816512b17b"
+          ],
+          "numberOfCommits": 1
+        }
+      ]
+    }
+  ],
+  "firstAdrCommit": "2020-04-30T06:43:21Z",
+  "lastAdrCommit": "2020-05-01T21:55:40Z",
+  "firstCommit": "2016-01-04T23:34:09Z",
+  "lastCommit": "2022-01-16T00:35:18Z",
+  "adrDirFile": {
+    "fileContent": "docs/adr\n",
+    "matchesActualAdrDirectory": true
+  },
+  "authors": [
+    {
+      "name": "<disclosed>",
+      "email": "<disclosed>",
+      "commitSet": [
+        "6445d71cf8388b926744dee40b3895dc9c81c458",
+        "0afa21b0aad98cc37203f9c4e3451b816512b17b"
+      ],
+      "numberOfCommits": 2
+    }
+  ]
+}

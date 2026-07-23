@@ -4,7 +4,7 @@ This repository contains the scripts and data used to generate Architecture Deci
 
 This artifact is self-contained and organized so that another researcher can understand the inputs, reproduce the runs, and inspect the generated outputs.
 
-Access the accepted article here: [GADR_IIER_2026.pdf](https://github.com/user-attachments/files/30288552/GADR_IIER_2026.pdf)
+Access the accepted article here: [GADR_IIER_2026.pdf](https://github.com/user-attachments/files/30288552/GADR_IIER_2026.pdf) and the persistent repository DOI: https://doi.org/10.5281/zenodo.21501560
 
 
 

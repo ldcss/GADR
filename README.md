@@ -16,7 +16,7 @@ RAG pipeline, then evaluates output quality against a curated ADR dataset.
 
 ## Technologies Used
 
-- Google Gemini (Gemini 3.1 Pro) for ADR generation.
+- Google Gemini (Gemini 3.1 Pro using Vertex AI API from Google) for ADR generation.
 - Tavily for web search augmentation.
 - LangGraph for agentic/RAG orchestration.
 - ChromaDB for vector storage and retrieval.
